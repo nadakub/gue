@@ -19,10 +19,10 @@
     <section class="searchBox">
       <label for="searchInput">Cauta intrebare</label>
       <div class="searchRow">
-        <input id="searchInput" type="search" list="suggestions" autocomplete="off" placeholder="Ex: Keynes, PIB, management, 42..." />
+        <input id="searchInput" type="search" autocomplete="off" placeholder="Ex: Keynes, PIB, management, 42..." />
         <button id="clearBtn" type="button">Sterge</button>
       </div>
-      <datalist id="suggestions"></datalist>
+      <div id="suggestions" class="suggestions" role="listbox" aria-label="Sugestii cautare"></div>
       <p id="statusText" class="status">Tasteaza minim 2 caractere pentru cautare.</p>
     </section>
 
@@ -30,7 +30,7 @@
   </main>
 
   <footer class="wrap footer">
-    
+    Aplicatie statica pentru GitHub Pages.
   </footer>
 
   <script src="data.js"></script>
