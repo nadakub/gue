@@ -1,24 +1,21 @@
 # Cautare intrebari licenta
 
-Aplicatie statica HTML/CSS/JavaScript pentru cautarea intrebarilor de licenta.
+Aplicatie statica pentru GitHub Pages.
 
-## Publicare pe GitHub Pages
+## Fisiere necesare
 
-1. Incarca toate fisierele in radacina repository-ului:
-   - `index.html`
-   - `style.css`
-   - `app.js`
-   - `data.js`
-   - `README.md`
-2. Mergi la `Settings -> Pages`.
-3. Alege `Deploy from a branch`.
-4. Branch: `main`, folder: `/(root)`.
-5. Salveaza si asteapta 1-2 minute.
+- `index.html`
+- `style.css`
+- `app.js`
+- `data.js`
+- `README.md`
 
-## Functionalitati
+## Publicare
 
-- cautare fara diacritice;
-- cautare dupa text, numar, categorie, raspuns;
-- autocompletare cu sugestii;
-- afisarea tuturor rezultatelor gasite;
-- raspunsul corect este marcat cu verde.
+Incarca toate fisierele in root-ul repository-ului si activeaza GitHub Pages:
+
+Settings -> Pages -> Deploy from branch -> main -> /(root)
+
+## Cautare
+
+Cautarea ignora diacriticele si cauta in intrebare, categorie, numar, variante de raspuns si raspunsul corect.

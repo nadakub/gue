@@ -1,107 +1,133 @@
-const QUESTIONS = Array.isArray(window.QUESTIONS) ? window.QUESTIONS : [];
+(function(){
+  "use strict";
 
-const $ = (id) => document.getElementById(id);
-const input = $("searchInput");
-const results = $("results");
-const suggestions = $("suggestions");
-const totalCount = $("totalCount");
-const resultCount = $("resultCount");
-const clearBtn = $("clearBtn");
+  const $ = (id) => document.getElementById(id);
+  const input = $("searchInput");
+  const clearBtn = $("clearBtn");
+  const resultsEl = $("results");
+  const statusEl = $("statusText");
+  const totalEl = $("totalCount");
+  const suggestionsEl = $("suggestions");
 
-function normalizeText(value) {
-  return String(value || "")
-    .toLowerCase()
-    .normalize("NFD")
-    .replace(/[̀-ͯ]/g, "")
-    .replace(/[șş]/g, "s")
-    .replace(/[țţ]/g, "t")
-    .replace(/[^a-z0-9]+/g, " ")
-    .trim();
-}
-
-function searchableText(q) {
-  return normalizeText([
-    q.id,
-    q.nr,
-    q.category,
-    q.question,
-    q.correct,
-    q.correctText,
-    ...(q.answers || []).map(a => `${a.key} ${a.text}`)
-  ].join(" "));
-}
-
-const DATA = QUESTIONS.map(q => ({ ...q, _search: searchableText(q) }));
-
-totalCount.textContent = `${DATA.length} intrebari`;
-
-function escapeHtml(value) {
-  return String(value ?? "").replace(/[&<>'"]/g, ch => ({
-    "&":"&amp;", "<":"&lt;", ">":"&gt;", "'":"&#039;", '"':"&quot;"
-  }[ch]));
-}
-
-function updateSuggestions(matches) {
-  suggestions.innerHTML = "";
-  matches.slice(0, 20).forEach(q => {
-    const option = document.createElement("option");
-    option.value = q.question.length > 95 ? q.question.slice(0, 95) + "..." : q.question;
-    suggestions.appendChild(option);
-  });
-}
-
-function render(matches, query) {
-  resultCount.textContent = `${matches.length} rezultate`;
-  updateSuggestions(matches);
-
-  if (!query) {
-    results.innerHTML = `<div class="empty">Scrie in caseta de cautare pentru a vedea intrebarile.</div>`;
-    return;
+  function normalize(value){
+    return String(value || "")
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "")
+      .replace(/ă/g,"a").replace(/â/g,"a").replace(/î/g,"i").replace(/ș/g,"s").replace(/ş/g,"s").replace(/ț/g,"t").replace(/ţ/g,"t")
+      .replace(/Ă/g,"A").replace(/Â/g,"A").replace(/Î/g,"I").replace(/Ș/g,"S").replace(/Ş/g,"S").replace(/Ț/g,"T").replace(/Ţ/g,"T")
+      .toLowerCase()
+      .trim();
   }
 
-  if (!matches.length) {
-    results.innerHTML = `<div class="empty">Nu am gasit rezultate pentru: <b>${escapeHtml(query)}</b></div>`;
-    return;
+  function escapeHtml(value){
+    return String(value || "").replace(/[&<>"']/g, (m) => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#039;"}[m]));
   }
 
-  results.innerHTML = matches.map(q => {
-    const answers = (q.answers || []).map(a => {
+  function buildSearchText(q){
+    const answerText = Array.isArray(q.answers) ? q.answers.map(a => `${a.key} ${a.text}`).join(" ") : "";
+    return normalize(`${q.id || ""} ${q.nr || ""} ${q.category || ""} ${q.question || ""} ${q.correct || ""} ${q.correctText || ""} ${answerText}`);
+  }
+
+  function prepareData(){
+    if(!Array.isArray(window.QUESTIONS)){
+      totalEl.textContent = "0 intrebari";
+      resultsEl.innerHTML = `<div class="error"><b>Eroare:</b> fisierul data.js nu a incarcat corect lista window.QUESTIONS. Verifica daca data.js incepe cu <code>window.QUESTIONS = [</code>.</div>`;
+      return [];
+    }
+    return window.QUESTIONS.map((q, idx) => ({...q, _idx: idx, _search: buildSearchText(q)}));
+  }
+
+  const QUESTIONS = prepareData();
+  totalEl.textContent = `${QUESTIONS.length} intrebari`;
+
+  function buildSuggestions(){
+    if(!QUESTIONS.length) return;
+    const seen = new Set();
+    const opts = [];
+    for(const q of QUESTIONS){
+      const base = `${q.nr}. ${q.question}`.slice(0, 140);
+      const key = normalize(base);
+      if(!seen.has(key)){
+        seen.add(key);
+        opts.push(`<option value="${escapeHtml(base)}"></option>`);
+      }
+      if(opts.length >= 120) break;
+    }
+    suggestionsEl.innerHTML = opts.join("");
+  }
+
+  function highlight(text, rawTerm){
+    const term = normalize(rawTerm);
+    const safe = escapeHtml(text);
+    if(!term || term.length < 2) return safe;
+    // Highlight simplu doar cand textul original contine termenul fara normalizare completa.
+    const plainTerm = escapeHtml(rawTerm.trim());
+    if(!plainTerm) return safe;
+    try{
+      const re = new RegExp(`(${plainTerm.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")})`, "ig");
+      return safe.replace(re, `<span class="highlight">$1</span>`);
+    }catch(e){ return safe; }
+  }
+
+  function renderCard(q, term){
+    const answers = (Array.isArray(q.answers) ? q.answers : []).map(a => {
       const isCorrect = a.key === q.correct;
-      return `<div class="answer ${isCorrect ? "correct" : ""}"><b>${escapeHtml(a.key)}.</b> ${escapeHtml(a.text)}${isCorrect ? " ✅" : ""}</div>`;
+      return `<div class="answer ${isCorrect ? "correct" : ""}"><b>${escapeHtml(a.key)}.</b>${highlight(a.text, term)}${isCorrect ? " ✅" : ""}</div>`;
     }).join("");
 
-    return `<article class="question-card">
-      <div class="q-top">
-        <span class="badge blue">${escapeHtml(q.category)}</span>
-        <span class="badge">Nr. ${escapeHtml(q.nr)}</span>
-        <span class="badge">ID: ${escapeHtml(q.id)}</span>
+    return `<article class="card">
+      <div class="cardHead">
+        <div>
+          <div class="meta">
+            <span class="pill">${escapeHtml(q.category)}</span>
+            <span class="pill">Nr. ${escapeHtml(q.nr)}</span>
+            <span class="pill good">Corect: ${escapeHtml(q.correct)}</span>
+          </div>
+          <div class="question">${highlight(q.question, term)}</div>
+        </div>
       </div>
-      <p class="question">${escapeHtml(q.question)}</p>
-      <div class="answers">${answers}</div>
-      <div class="correct-line">Raspuns corect: ${escapeHtml(q.correct)} — ${escapeHtml(q.correctText)}</div>
+      <div class="answers">
+        ${answers}
+        <div class="correctText">Raspuns corect: ${escapeHtml(q.correct)} — ${highlight(q.correctText, term)}</div>
+      </div>
     </article>`;
-  }).join("");
-}
-
-function search() {
-  const raw = input.value.trim();
-  const q = normalizeText(raw);
-
-  if (!q) {
-    render([], "");
-    return;
   }
 
-  const tokens = q.split(/\s+/).filter(Boolean);
-  const matches = DATA.filter(item => tokens.every(t => item._search.includes(t)));
-  render(matches, raw);
-}
+  function search(){
+    const raw = input.value || "";
+    const term = normalize(raw);
 
-input.addEventListener("input", search);
-clearBtn.addEventListener("click", () => {
-  input.value = "";
-  input.focus();
+    if(!QUESTIONS.length){ return; }
+
+    if(term.length < 2){
+      statusEl.textContent = "Tasteaza minim 2 caractere pentru cautare.";
+      resultsEl.innerHTML = `<div class="empty">Incepe sa scrii pentru a cauta in toate intrebarile.</div>`;
+      return;
+    }
+
+    const words = term.split(/\s+/).filter(Boolean);
+    const found = QUESTIONS.filter(q => words.every(w => q._search.includes(w)));
+
+    statusEl.textContent = `${found.length} rezultate pentru: "${raw}"`;
+
+    if(!found.length){
+      resultsEl.innerHTML = `<div class="empty">Nu am gasit rezultate. Incearca un cuvant mai scurt sau fara semne de punctuatie.</div>`;
+      return;
+    }
+
+    resultsEl.innerHTML = found.map(q => renderCard(q, raw)).join("");
+  }
+
+  function refreshDynamicSuggestions(){
+    const term = normalize(input.value);
+    if(term.length < 2){ buildSuggestions(); return; }
+    const matches = QUESTIONS.filter(q => q._search.includes(term)).slice(0, 40);
+    suggestionsEl.innerHTML = matches.map(q => `<option value="${escapeHtml(`${q.nr}. ${q.question}`.slice(0,160))}"></option>`).join("");
+  }
+
+  input.addEventListener("input", () => { refreshDynamicSuggestions(); search(); });
+  clearBtn.addEventListener("click", () => { input.value = ""; input.focus(); refreshDynamicSuggestions(); search(); });
+
+  buildSuggestions();
   search();
-});
-
-render([], "");
+})();
