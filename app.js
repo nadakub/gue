@@ -9,9 +9,6 @@
   const totalEl = $("totalCount");
   const suggestionsEl = $("suggestions");
 
-  let activeSuggestion = -1;
-  let currentSuggestions = [];
-
   function normalize(value){
     return String(value || "")
       .normalize("NFD")
@@ -43,10 +40,27 @@
   const QUESTIONS = prepareData();
   totalEl.textContent = `${QUESTIONS.length} intrebari`;
 
+  function buildSuggestions(){
+    if(!QUESTIONS.length) return;
+    const seen = new Set();
+    const opts = [];
+    for(const q of QUESTIONS){
+      const base = `${q.nr}. ${q.question}`.slice(0, 140);
+      const key = normalize(base);
+      if(!seen.has(key)){
+        seen.add(key);
+        opts.push(`<option value="${escapeHtml(base)}"></option>`);
+      }
+      if(opts.length >= 120) break;
+    }
+    suggestionsEl.innerHTML = opts.join("");
+  }
+
   function highlight(text, rawTerm){
     const term = normalize(rawTerm);
     const safe = escapeHtml(text);
     if(!term || term.length < 2) return safe;
+    // Highlight simplu doar cand textul original contine termenul fara normalizare completa.
     const plainTerm = escapeHtml(rawTerm.trim());
     if(!plainTerm) return safe;
     try{
@@ -79,18 +93,11 @@
     </article>`;
   }
 
-  function findMatches(raw){
-    const term = normalize(raw);
-    if(term.length < 2) return [];
-    const words = term.split(/\s+/).filter(Boolean);
-    return QUESTIONS.filter(q => words.every(w => q._search.includes(w)));
-  }
-
   function search(){
     const raw = input.value || "";
     const term = normalize(raw);
 
-    if(!QUESTIONS.length) return;
+    if(!QUESTIONS.length){ return; }
 
     if(term.length < 2){
       statusEl.textContent = "Tasteaza minim 2 caractere pentru cautare.";
@@ -98,7 +105,9 @@
       return;
     }
 
-    const found = findMatches(raw);
+    const words = term.split(/\s+/).filter(Boolean);
+    const found = QUESTIONS.filter(q => words.every(w => q._search.includes(w)));
+
     statusEl.textContent = `${found.length} rezultate pentru: "${raw}"`;
 
     if(!found.length){
@@ -109,95 +118,16 @@
     resultsEl.innerHTML = found.map(q => renderCard(q, raw)).join("");
   }
 
-  function hideSuggestions(){
-    suggestionsEl.classList.remove("open");
-    suggestionsEl.innerHTML = "";
-    activeSuggestion = -1;
-    currentSuggestions = [];
+  function refreshDynamicSuggestions(){
+    const term = normalize(input.value);
+    if(term.length < 2){ buildSuggestions(); return; }
+    const matches = QUESTIONS.filter(q => q._search.includes(term)).slice(0, 40);
+    suggestionsEl.innerHTML = matches.map(q => `<option value="${escapeHtml(`${q.nr}. ${q.question}`.slice(0,160))}"></option>`).join("");
   }
 
-  function renderSuggestions(){
-    const raw = input.value || "";
-    const term = normalize(raw);
-    if(term.length < 2 || !QUESTIONS.length){
-      hideSuggestions();
-      return;
-    }
+  input.addEventListener("input", () => { refreshDynamicSuggestions(); search(); });
+  clearBtn.addEventListener("click", () => { input.value = ""; input.focus(); refreshDynamicSuggestions(); search(); });
 
-    const seen = new Set();
-    currentSuggestions = [];
-    for(const q of findMatches(raw)){
-      const text = q.question || "";
-      const key = normalize(text);
-      if(!seen.has(key)){
-        seen.add(key);
-        currentSuggestions.push(text);
-      }
-      if(currentSuggestions.length >= 12) break;
-    }
-
-    if(!currentSuggestions.length){
-      hideSuggestions();
-      return;
-    }
-
-    suggestionsEl.innerHTML = currentSuggestions.map((text, i) =>
-      `<button type="button" class="suggestion ${i === activeSuggestion ? "active" : ""}" data-index="${i}">${highlight(text, raw)}</button>`
-    ).join("");
-    suggestionsEl.classList.add("open");
-  }
-
-  function chooseSuggestion(index){
-    const text = currentSuggestions[index];
-    if(!text) return;
-    input.value = text;
-    hideSuggestions();
-    search();
-  }
-
-  input.addEventListener("input", () => {
-    activeSuggestion = -1;
-    renderSuggestions();
-    search();
-  });
-
-  input.addEventListener("focus", renderSuggestions);
-
-  input.addEventListener("keydown", (e) => {
-    if(!suggestionsEl.classList.contains("open")) return;
-    if(e.key === "ArrowDown"){
-      e.preventDefault();
-      activeSuggestion = Math.min(activeSuggestion + 1, currentSuggestions.length - 1);
-      renderSuggestions();
-    }else if(e.key === "ArrowUp"){
-      e.preventDefault();
-      activeSuggestion = Math.max(activeSuggestion - 1, 0);
-      renderSuggestions();
-    }else if(e.key === "Enter" && activeSuggestion >= 0){
-      e.preventDefault();
-      chooseSuggestion(activeSuggestion);
-    }else if(e.key === "Escape"){
-      hideSuggestions();
-    }
-  });
-
-  suggestionsEl.addEventListener("mousedown", (e) => {
-    const btn = e.target.closest(".suggestion");
-    if(!btn) return;
-    e.preventDefault();
-    chooseSuggestion(Number(btn.dataset.index));
-  });
-
-  clearBtn.addEventListener("click", () => {
-    input.value = "";
-    input.focus();
-    hideSuggestions();
-    search();
-  });
-
-  document.addEventListener("click", (e) => {
-    if(!e.target.closest(".searchBox")) hideSuggestions();
-  });
-
+  buildSuggestions();
   search();
 })();
