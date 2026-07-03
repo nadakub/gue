@@ -1,99 +1,107 @@
-const QUESTIONS = window.QUESTIONS || [];
+const QUESTIONS = Array.isArray(window.QUESTIONS) ? window.QUESTIONS : [];
 
 const $ = (id) => document.getElementById(id);
-const normalize = (value) => String(value || '')
-  .normalize('NFD')
-  .replace(/[\u0300-\u036f]/g, '')
-  .replace(/[ăâîșşțţ]/gi, (c) => ({
-    'ă':'a','â':'a','î':'i','ș':'s','ş':'s','ț':'t','ţ':'t',
-    'Ă':'A','Â':'A','Î':'I','Ș':'S','Ş':'S','Ț':'T','Ţ':'T'
-  }[c] || c))
-  .toLowerCase();
+const input = $("searchInput");
+const results = $("results");
+const suggestions = $("suggestions");
+const totalCount = $("totalCount");
+const resultCount = $("resultCount");
+const clearBtn = $("clearBtn");
 
-let selectedId = null;
-
-function init() {
-  $('totalBadge').textContent = `${QUESTIONS.length} intrebari`;
-  const categories = [...new Set(QUESTIONS.map(q => q.category))].sort();
-  $('categoryFilter').innerHTML += categories.map(cat => `<option value="${escapeHtml(cat)}">${escapeHtml(cat)}</option>`).join('');
-
-  $('searchInput').addEventListener('input', renderResults);
-  $('categoryFilter').addEventListener('change', renderResults);
-  $('correctFilter').addEventListener('change', renderResults);
-  $('clearBtn').addEventListener('click', () => {
-    $('searchInput').value = '';
-    $('categoryFilter').value = '';
-    $('correctFilter').value = '';
-    renderResults();
-    $('searchInput').focus();
-  });
-
-  renderResults();
+function normalizeText(value) {
+  return String(value || "")
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[̀-ͯ]/g, "")
+    .replace(/[șş]/g, "s")
+    .replace(/[țţ]/g, "t")
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
 }
 
-function getFilteredQuestions() {
-  const query = normalize($('searchInput').value.trim());
-  const category = $('categoryFilter').value;
-  const correct = $('correctFilter').value;
-
-  return QUESTIONS.filter(q => {
-    const matchQuery = !query || q.searchText.includes(query);
-    const matchCategory = !category || q.category === category;
-    const matchCorrect = !correct || q.correct === correct;
-    return matchQuery && matchCategory && matchCorrect;
-  });
+function searchableText(q) {
+  return normalizeText([
+    q.id,
+    q.nr,
+    q.category,
+    q.question,
+    q.correct,
+    q.correctText,
+    ...(q.answers || []).map(a => `${a.key} ${a.text}`)
+  ].join(" "));
 }
 
-function renderResults() {
-  const filtered = getFilteredQuestions();
-  $('resultCount').textContent = `${filtered.length} rezultate`;
+const DATA = QUESTIONS.map(q => ({ ...q, _search: searchableText(q) }));
 
-  const limited = filtered.slice(0, 200);
-  $('results').innerHTML = limited.map(q => `
-    <button class="resultItem ${q.id === selectedId ? 'active' : ''}" onclick="selectQuestion('${escapeForJs(q.id)}')">
-      <div class="resultTitle">${escapeHtml(q.question)}</div>
-      <div class="resultMeta">
-        <span>${escapeHtml(q.category)}</span>
-        <span>Nr. ${q.nr}</span>
-        <span>Corect: ${q.correct}</span>
-      </div>
-    </button>
-  `).join('');
-
-  if (filtered.length > 200) {
-    $('results').innerHTML += `<div class="resultItem">Sunt afisate primele 200 rezultate. Restrange cautarea pentru mai multa precizie.</div>`;
-  }
-
-  if (!selectedId && filtered[0]) selectQuestion(filtered[0].id, false);
-}
-
-function selectQuestion(id, rerender = true) {
-  selectedId = id;
-  const q = QUESTIONS.find(item => item.id === id);
-  if (!q) return;
-
-  $('emptyState').classList.add('hidden');
-  $('details').classList.remove('hidden');
-  $('detailCategory').textContent = q.category;
-  $('detailNr').textContent = `Nr. ${q.nr} / ${q.id}`;
-  $('detailQuestion').textContent = q.question;
-
-  $('answerList').innerHTML = q.answers.map(a => `
-    <div class="answer ${a.key === q.correct ? 'correct' : ''}">
-      <strong>${a.key}.</strong> ${escapeHtml(a.text)}${a.key === q.correct ? ' ✅' : ''}
-    </div>
-  `).join('');
-
-  $('correctAnswer').textContent = `${q.correct} - ${q.correctText}`;
-  if (rerender) renderResults();
-}
+totalCount.textContent = `${DATA.length} intrebari`;
 
 function escapeHtml(value) {
-  return String(value ?? '').replace(/[&<>"']/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[m]));
+  return String(value ?? "").replace(/[&<>'"]/g, ch => ({
+    "&":"&amp;", "<":"&lt;", ">":"&gt;", "'":"&#039;", '"':"&quot;"
+  }[ch]));
 }
 
-function escapeForJs(value) {
-  return String(value ?? '').replace(/\/g, '\\').replace(/'/g, "\'");
+function updateSuggestions(matches) {
+  suggestions.innerHTML = "";
+  matches.slice(0, 20).forEach(q => {
+    const option = document.createElement("option");
+    option.value = q.question.length > 95 ? q.question.slice(0, 95) + "..." : q.question;
+    suggestions.appendChild(option);
+  });
 }
 
-init();
+function render(matches, query) {
+  resultCount.textContent = `${matches.length} rezultate`;
+  updateSuggestions(matches);
+
+  if (!query) {
+    results.innerHTML = `<div class="empty">Scrie in caseta de cautare pentru a vedea intrebarile.</div>`;
+    return;
+  }
+
+  if (!matches.length) {
+    results.innerHTML = `<div class="empty">Nu am gasit rezultate pentru: <b>${escapeHtml(query)}</b></div>`;
+    return;
+  }
+
+  results.innerHTML = matches.map(q => {
+    const answers = (q.answers || []).map(a => {
+      const isCorrect = a.key === q.correct;
+      return `<div class="answer ${isCorrect ? "correct" : ""}"><b>${escapeHtml(a.key)}.</b> ${escapeHtml(a.text)}${isCorrect ? " ✅" : ""}</div>`;
+    }).join("");
+
+    return `<article class="question-card">
+      <div class="q-top">
+        <span class="badge blue">${escapeHtml(q.category)}</span>
+        <span class="badge">Nr. ${escapeHtml(q.nr)}</span>
+        <span class="badge">ID: ${escapeHtml(q.id)}</span>
+      </div>
+      <p class="question">${escapeHtml(q.question)}</p>
+      <div class="answers">${answers}</div>
+      <div class="correct-line">Raspuns corect: ${escapeHtml(q.correct)} — ${escapeHtml(q.correctText)}</div>
+    </article>`;
+  }).join("");
+}
+
+function search() {
+  const raw = input.value.trim();
+  const q = normalizeText(raw);
+
+  if (!q) {
+    render([], "");
+    return;
+  }
+
+  const tokens = q.split(/\s+/).filter(Boolean);
+  const matches = DATA.filter(item => tokens.every(t => item._search.includes(t)));
+  render(matches, raw);
+}
+
+input.addEventListener("input", search);
+clearBtn.addEventListener("click", () => {
+  input.value = "";
+  input.focus();
+  search();
+});
+
+render([], "");

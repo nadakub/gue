@@ -7,61 +7,29 @@
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <header class="topbar">
-    <div>
+  <header class="hero">
+    <div class="wrap">
       <h1>Cautare intrebari licenta</h1>
-      <p>Cauta rapid dupa text, categorie, numar sau raspuns. Textul este fara diacritice pentru cautare mai usoara.</p>
+      <p>Cauta rapid dupa text, numar, categorie sau raspuns. Cautarea ignora diacriticele.</p>
+      <div class="stats"><span id="totalCount">0 intrebari</span></div>
     </div>
-    <span id="totalBadge" class="badge">0 intrebari</span>
   </header>
 
-  <main class="layout">
-    <section class="searchPanel">
+  <main class="wrap layout">
+    <section class="card search-card">
       <label for="searchInput">Cauta intrebare</label>
-      <input id="searchInput" type="search" placeholder="ex: pib nominal, management, amortizare, A..." autofocus />
-
-      <div class="filters">
-        <select id="categoryFilter" aria-label="Filtru categorie">
-          <option value="">Toate categoriile</option>
-        </select>
-        <select id="correctFilter" aria-label="Filtru raspuns corect">
-          <option value="">Orice raspuns</option>
-          <option value="A">Corect A</option>
-          <option value="B">Corect B</option>
-          <option value="C">Corect C</option>
-          <option value="D">Corect D</option>
-          <option value="E">Corect E</option>
-        </select>
+      <div class="search-row">
+        <input id="searchInput" type="search" list="suggestions" autocomplete="off" placeholder="Scrie un cuvant sau numarul intrebarii..." />
+        <button id="clearBtn" type="button">Sterge</button>
       </div>
-
-      <div class="metaLine">
-        <span id="resultCount">0 rezultate</span>
-        <button id="clearBtn" type="button">Sterge cautarea</button>
-      </div>
-
-      <div id="results" class="results" role="listbox" aria-label="Rezultate cautare"></div>
+      <datalist id="suggestions"></datalist>
+      <p class="hint"><span id="resultCount">0 rezultate</span>. Daca exista mai multe potriviri, apar toate mai jos.</p>
     </section>
 
-    <section class="detailsPanel">
-      <div id="emptyState" class="emptyState">
-        <h2>Selecteaza o intrebare</h2>
-        <p>Rezultatele apar in stanga. Dupa selectare vezi categoria, numarul, variantele si raspunsul corect.</p>
-      </div>
-
-      <article id="details" class="details hidden">
-        <div class="questionHead">
-          <span id="detailCategory" class="pill"></span>
-          <span id="detailNr" class="pill muted"></span>
-        </div>
-        <h2 id="detailQuestion"></h2>
-        <div id="answerList" class="answerList"></div>
-        <div class="correctBox">
-          <strong>Raspuns corect:</strong>
-          <span id="correctAnswer"></span>
-        </div>
-      </article>
-    </section>
+    <section id="results" class="results"></section>
   </main>
+
+  <footer class="wrap footer">Aplicatie statica pentru GitHub Pages.</footer>
 
   <script src="data.js"></script>
   <script src="app.js"></script>
