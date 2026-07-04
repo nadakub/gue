@@ -3,71 +3,71 @@ window.QUESTIONS = [
     "id": "Economie-1",
     "nr": 1,
     "category": "Economie",
-    "question": "În calculul indicatorilor macroeconomici, atributul „național” se referă la:",
+    "question": "In calculul indicatorilor macroeconomici, atributul „national” se refera la:",
     "answers": [
       {
         "key": "A",
-        "text": "producția sau venitul creat și consumat de către agenții economici care își desfășoară activitatea în interiorul țării respective"
+        "text": "productia sau venitul creat si consumat de catre agentii economici care isi desfasoara activitatea in interiorul tarii respective"
       },
       {
         "key": "B",
-        "text": "apartenența statală a agenților economici, indiferent dacă ei își desfășoară activitatea în propria țară sau în alte țări"
+        "text": "apartenenta statala a agentilor economici, indiferent daca ei isi desfasoara activitatea in propria tara sau in alte tari"
       },
       {
         "key": "C",
-        "text": "includerea consumului de capital fix în calculul producției finale"
+        "text": "includerea consumului de capital fix in calculul productiei finale"
       },
       {
         "key": "D",
-        "text": "eliminarea consumului de capital fix din calculul producției finale"
+        "text": "eliminarea consumului de capital fix din calculul productiei finale"
       },
       {
         "key": "E",
-        "text": "producția sau venitul creat și consumat de către agenții economici care își desfășoară activitatea în exteriorul țării respective"
+        "text": "productia sau venitul creat si consumat de catre agentii economici care isi desfasoara activitatea in exteriorul tarii respective"
       }
     ],
     "correct": "B",
-    "correctText": "apartenența statală a agenților economici, indiferent dacă ei își desfășoară activitatea în propria țară sau în alte țări"
+    "correctText": "apartenenta statala a agentilor economici, indiferent daca ei isi desfasoara activitatea in propria tara sau in alte tari"
   },
   {
     "id": "Economie-2",
     "nr": 2,
     "category": "Economie",
-    "question": "Deflatorul PIB este un instrument de măsură a:",
+    "question": "Deflatorul PIB este un instrument de masura a:",
     "answers": [
       {
         "key": "A",
-        "text": "creșterii economice"
+        "text": "cresterii economice"
       },
       {
         "key": "B",
-        "text": "dezvoltării economice"
+        "text": "dezvoltarii economice"
       },
       {
         "key": "C",
-        "text": "inflației"
+        "text": "inflatiei"
       },
       {
         "key": "D",
-        "text": "șomajului"
+        "text": "somajului"
       },
       {
         "key": "E",
-        "text": "deficitului balanței de plăți"
+        "text": "deficitului balantei de plati"
       }
     ],
     "correct": "C",
-    "correctText": "inflației"
+    "correctText": "inflatiei"
   },
   {
     "id": "Economie-3",
     "nr": 3,
     "category": "Economie",
-    "question": "Produsul dintre deflatorul PIB și PIB real reprezintă:",
+    "question": "Produsul dintre deflatorul PIB si PIB real reprezinta:",
     "answers": [
       {
         "key": "A",
-        "text": "rata inflației"
+        "text": "rata inflatiei"
       },
       {
         "key": "B",
@@ -75,15 +75,15 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "indicele prețurilor"
+        "text": "indicele preturilor"
       },
       {
         "key": "D",
-        "text": "produsul național brut"
+        "text": "produsul national brut"
       },
       {
         "key": "E",
-        "text": "rata șomajului"
+        "text": "rata somajului"
       }
     ],
     "correct": "B",
@@ -93,187 +93,187 @@ window.QUESTIONS = [
     "id": "Economie-4",
     "nr": 4,
     "category": "Economie",
-    "question": "Tipul intensiv de creștere economică este caracteristic acelor economii naționale care:",
+    "question": "Tipul intensiv de crestere economica este caracteristic acelor economii nationale care:",
     "answers": [
       {
         "key": "A",
-        "text": "sunt înzestrate cu resurse naturale abundente"
+        "text": "sunt inzestrate cu resurse naturale abundente"
       },
       {
         "key": "B",
-        "text": "înregistrează o rată redusă a șomajului"
+        "text": "inregistreaza o rata redusa a somajului"
       },
       {
         "key": "C",
-        "text": "sunt capabile să genereze și să absoarbă pe scară largă progresul tehnic"
+        "text": "sunt capabile sa genereze si sa absoarba pe scara larga progresul tehnic"
       },
       {
         "key": "D",
-        "text": "înregistrează o rată redusă a inflației"
+        "text": "inregistreaza o rata redusa a inflatiei"
       },
       {
         "key": "E",
-        "text": "beneficiază de ajutoare economice externe masive"
+        "text": "beneficiaza de ajutoare economice externe masive"
       }
     ],
     "correct": "C",
-    "correctText": "sunt capabile să genereze și să absoarbă pe scară largă progresul tehnic"
+    "correctText": "sunt capabile sa genereze si sa absoarba pe scara larga progresul tehnic"
   },
   {
     "id": "Economie-5",
     "nr": 5,
     "category": "Economie",
-    "question": "Principiul multiplicatorului investițiilor exprimă interacțiunea care se formează între:",
+    "question": "Principiul multiplicatorului investitiilor exprima interactiunea care se formeaza intre:",
     "answers": [
       {
         "key": "A",
-        "text": "creșterea venitului și creșterea consumului"
+        "text": "cresterea venitului si cresterea consumului"
       },
       {
         "key": "B",
-        "text": "creșterea consumului și creșterea economiilor"
+        "text": "cresterea consumului si cresterea economiilor"
       },
       {
         "key": "C",
-        "text": "creșterea venitului și creșterea investițiilor"
+        "text": "cresterea venitului si cresterea investitiilor"
       },
       {
         "key": "D",
-        "text": "creșterea economiilor și creșterea investițiilor"
+        "text": "cresterea economiilor si cresterea investitiilor"
       },
       {
         "key": "E",
-        "text": "creșterea consumului și creșterea investițiilor"
+        "text": "cresterea consumului si cresterea investitiilor"
       }
     ],
     "correct": "C",
-    "correctText": "creșterea venitului și creșterea investițiilor"
+    "correctText": "cresterea venitului si cresterea investitiilor"
   },
   {
     "id": "Economie-6",
     "nr": 6,
     "category": "Economie",
-    "question": "Potrivit legii psihologice fundamentale a lui J. M. Keynes, atunci când venitul disponibil crește, consumul, de regulă:",
+    "question": "Potrivit legii psihologice fundamentale a lui J. M. Keynes, atunci cand venitul disponibil creste, consumul, de regula:",
     "answers": [
       {
         "key": "A",
-        "text": "scade, dar într-o proporție mai mare decât creșterea venitului"
+        "text": "scade, dar intr-o proportie mai mare decat cresterea venitului"
       },
       {
         "key": "B",
-        "text": "crește, dar într-o proporție mai mare decât a venitului"
+        "text": "creste, dar intr-o proportie mai mare decat a venitului"
       },
       {
         "key": "C",
-        "text": "crește, dar într-o proporție mai mică decât a venitului"
+        "text": "creste, dar intr-o proportie mai mica decat a venitului"
       },
       {
         "key": "D",
-        "text": "rămâne constant"
+        "text": "ramane constant"
       },
       {
         "key": "E",
-        "text": "scade, dar într-o proporție mai mică decât creșterea venitului"
+        "text": "scade, dar intr-o proportie mai mica decat cresterea venitului"
       }
     ],
     "correct": "C",
-    "correctText": "crește, dar într-o proporție mai mică decât a venitului"
+    "correctText": "creste, dar intr-o proportie mai mica decat a venitului"
   },
   {
     "id": "Economie-7",
     "nr": 7,
     "category": "Economie",
-    "question": "Investițiile realizate din fondul de amortizare se numesc:",
+    "question": "Investitiile realizate din fondul de amortizare se numesc:",
     "answers": [
       {
         "key": "A",
-        "text": "investiții brute"
+        "text": "investitii brute"
       },
       {
         "key": "B",
-        "text": "investiții nete"
+        "text": "investitii nete"
       },
       {
         "key": "C",
-        "text": "investiții de înlocuire"
+        "text": "investitii de inlocuire"
       },
       {
         "key": "D",
-        "text": "investiții de portofoliu"
+        "text": "investitii de portofoliu"
       },
       {
         "key": "E",
-        "text": "investiții nominale"
+        "text": "investitii nominale"
       }
     ],
     "correct": "C",
-    "correctText": "investiții de înlocuire"
+    "correctText": "investitii de inlocuire"
   },
   {
     "id": "Economie-8",
     "nr": 8,
     "category": "Economie",
-    "question": "Intervenția statului în economie trebuie să urmărească:",
+    "question": "Interventia statului in economie trebuie sa urmareasca:",
     "answers": [
       {
         "key": "A",
-        "text": "creșterea salariilor"
+        "text": "cresterea salariilor"
       },
       {
         "key": "B",
-        "text": "planificarea imperativă"
+        "text": "planificarea imperativa"
       },
       {
         "key": "C",
-        "text": "asigurarea unor venituri cât mai mari la bugetul de stat"
+        "text": "asigurarea unor venituri cat mai mari la bugetul de stat"
       },
       {
         "key": "D",
-        "text": "funcționarea eficientă a ansamblului economic"
+        "text": "functionarea eficienta a ansamblului economic"
       },
       {
         "key": "E",
-        "text": "stabilirea unor prețuri fixe la bunurile necesare populației"
+        "text": "stabilirea unor preturi fixe la bunurile necesare populatiei"
       }
     ],
     "correct": "D",
-    "correctText": "funcționarea eficientă a ansamblului economic"
+    "correctText": "functionarea eficienta a ansamblului economic"
   },
   {
     "id": "Economie-9",
     "nr": 9,
     "category": "Economie",
-    "question": "Rata optimă de presiune fiscală este:",
+    "question": "Rata optima de presiune fiscala este:",
     "answers": [
       {
         "key": "A",
-        "text": "acel prag de impunere care asigură maximul încasărilor fiscale"
+        "text": "acel prag de impunere care asigura maximul incasarilor fiscale"
       },
       {
         "key": "B",
-        "text": "o construcție teoretică, imposibil de atins în realitate"
+        "text": "o constructie teoretica, imposibil de atins in realitate"
       },
       {
         "key": "C",
-        "text": "stabilită de către guverni"
+        "text": "stabilita de catre guverni"
       },
       {
         "key": "D",
-        "text": "acel prag de impunere fiscală ce mulțumește pe toți agenții economici"
+        "text": "acel prag de impunere fiscala ce multumeste pe toti agentii economici"
       },
       {
         "key": "E",
-        "text": "acel prag de impunere care asigură minimul încasărilor fiscale"
+        "text": "acel prag de impunere care asigura minimul incasarilor fiscale"
       }
     ],
     "correct": "A",
-    "correctText": "acel prag de impunere care asigură maximul încasărilor fiscale"
+    "correctText": "acel prag de impunere care asigura maximul incasarilor fiscale"
   },
   {
     "id": "Economie-10",
     "nr": 10,
     "category": "Economie",
-    "question": "Scăderea nivelului de impunere fiscală are efecte pozitive atunci când:",
+    "question": "Scaderea nivelului de impunere fiscala are efecte pozitive atunci cand:",
     "answers": [
       {
         "key": "A",
@@ -281,153 +281,153 @@ window.QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "asigură creșterea accentuată a veniturilor impozabile"
+        "text": "asigura cresterea accentuata a veniturilor impozabile"
       },
       {
         "key": "C",
-        "text": "stimulează disponibilizările"
+        "text": "stimuleaza disponibilizarile"
       },
       {
         "key": "D",
-        "text": "duce la o scădere a cheltuielilor publice pentru obiective sociale"
+        "text": "duce la o scadere a cheltuielilor publice pentru obiective sociale"
       },
       {
         "key": "E",
-        "text": "conduce la scăderea accentuată a veniturilor impozabile"
+        "text": "conduce la scaderea accentuata a veniturilor impozabile"
       }
     ],
     "correct": "B",
-    "correctText": "asigură creșterea accentuată a veniturilor impozabile"
+    "correctText": "asigura cresterea accentuata a veniturilor impozabile"
   },
   {
     "id": "Economie-11",
     "nr": 11,
     "category": "Economie",
-    "question": "Diviziunea mondială a muncii reprezintă:",
+    "question": "Diviziunea mondiala a muncii reprezinta:",
     "answers": [
       {
         "key": "A",
-        "text": "specializarea economiilor naționale în producția și comercializarea diferitelor bunuri și servicii"
+        "text": "specializarea economiilor nationale in productia si comercializarea diferitelor bunuri si servicii"
       },
       {
         "key": "B",
-        "text": "raporturile de putere economică între diferitele regiuni și țări ale lumii"
+        "text": "raporturile de putere economica intre diferitele regiuni si tari ale lumii"
       },
       {
         "key": "C",
-        "text": "împărțirea țărilor lumii în țări bogate și țări sărace"
+        "text": "impartirea tarilor lumii in tari bogate si tari sarace"
       },
       {
         "key": "D",
-        "text": "împărțirea economiilor naționale în debitoare și creditoare"
+        "text": "impartirea economiilor nationale in debitoare si creditoare"
       },
       {
         "key": "E",
-        "text": "împărțirea țărilor lumii în țări exploatatoare și țări exploatate"
+        "text": "impartirea tarilor lumii in tari exploatatoare si tari exploatate"
       }
     ],
     "correct": "A",
-    "correctText": "specializarea economiilor naționale în producția și comercializarea diferitelor bunuri și servicii"
+    "correctText": "specializarea economiilor nationale in productia si comercializarea diferitelor bunuri si servicii"
   },
   {
     "id": "Economie-12",
     "nr": 12,
     "category": "Economie",
-    "question": "Decalajul tehnologic exprimă:",
+    "question": "Decalajul tehnologic exprima:",
     "answers": [
       {
         "key": "A",
-        "text": "starea calitativă diferită a aparatului și metodelor de producție, a înzestrării tehnologice a muncii în diferite țări și grupe de țări"
+        "text": "starea calitativa diferita a aparatului si metodelor de productie, a inzestrarii tehnologice a muncii in diferite tari si grupe de tari"
       },
       {
         "key": "B",
-        "text": "diferențele calitative între produsul pe locuitor al țărilor în curs de dezvoltare și cel al țărilor dezvoltate"
+        "text": "diferentele calitative intre produsul pe locuitor al tarilor in curs de dezvoltare si cel al tarilor dezvoltate"
       },
       {
         "key": "C",
-        "text": "diferențele dintre nivelurile de calificare profesională a forței de muncă în țările în curs de dezvoltare și cele dezvoltate"
+        "text": "diferentele dintre nivelurile de calificare profesionala a fortei de munca in tarile in curs de dezvoltare si cele dezvoltate"
       },
       {
         "key": "D",
-        "text": "diferențele dintre țări în ceea ce privește dotarea lor cu factori de producție"
+        "text": "diferentele dintre tari in ceea ce priveste dotarea lor cu factori de productie"
       },
       {
         "key": "E",
-        "text": "diferențele cantitative între produsul pe locuitor al țărilor în curs de dezvoltare și cel al țărilor dezvoltate"
+        "text": "diferentele cantitative intre produsul pe locuitor al tarilor in curs de dezvoltare si cel al tarilor dezvoltate"
       }
     ],
     "correct": "A",
-    "correctText": "starea calitativă diferită a aparatului și metodelor de producție, a înzestrării tehnologice a muncii în diferite țări și grupe de țări"
+    "correctText": "starea calitativa diferita a aparatului si metodelor de productie, a inzestrarii tehnologice a muncii in diferite tari si grupe de tari"
   },
   {
     "id": "Economie-13",
     "nr": 13,
     "category": "Economie",
-    "question": "Ordinea economică mondială înseamnă:",
+    "question": "Ordinea economica mondiala inseamna:",
     "answers": [
       {
         "key": "A",
-        "text": "normele juridice, legislative și instituțiile care reglementează relațiile economice internaționale"
+        "text": "normele juridice, legislative si institutiile care reglementeaza relatiile economice internationale"
       },
       {
         "key": "B",
-        "text": "raporturile de putere existente între economiile naționale ale statelor lumii"
+        "text": "raporturile de putere existente intre economiile nationale ale statelor lumii"
       },
       {
         "key": "C",
-        "text": "raporturile dintre normele juridice, legislative suprastatale și cele naționale"
+        "text": "raporturile dintre normele juridice, legislative suprastatale si cele nationale"
       },
       {
         "key": "D",
-        "text": "modurile în care se structurează raporturile între țările bogate și cele sărace"
+        "text": "modurile in care se structureaza raporturile intre tarile bogate si cele sarace"
       },
       {
         "key": "E",
-        "text": "Adunarea Generală ONU"
+        "text": "Adunarea Generala ONU"
       }
     ],
     "correct": "A",
-    "correctText": "normele juridice, legislative și instituțiile care reglementează relațiile economice internaționale"
+    "correctText": "normele juridice, legislative si institutiile care reglementeaza relatiile economice internationale"
   },
   {
     "id": "Economie-14",
     "nr": 14,
     "category": "Economie",
-    "question": "Scenariul dezvoltării economice mondiale înseamnă:",
+    "question": "Scenariul dezvoltarii economice mondiale inseamna:",
     "answers": [
       {
         "key": "A",
-        "text": "un model determinist bazat pe factori obiectivi ai dezvoltării economice mondiale"
+        "text": "un model determinist bazat pe factori obiectivi ai dezvoltarii economice mondiale"
       },
       {
         "key": "B",
-        "text": "o ipoteză abstractă privind direcțiile evoluției economiei mondiale"
+        "text": "o ipoteza abstracta privind directiile evolutiei economiei mondiale"
       },
       {
         "key": "C",
-        "text": "un model explicativ-/explorativ al evoluției economiei mondiale sub impactul factorilor subiectivi, al deciziei, asupra dinamicii vieții economice mondiale"
+        "text": "un model explicativ-/explorativ al evolutiei economiei mondiale sub impactul factorilor subiectivi, al deciziei, asupra dinamicii vietii economice mondiale"
       },
       {
         "key": "D",
-        "text": "o construcție logico-matematică privind evoluția economiei mondiale"
+        "text": "o constructie logico-matematica privind evolutia economiei mondiale"
       },
       {
         "key": "E",
-        "text": "plan adoptat de Adunarea Generală ONU"
+        "text": "plan adoptat de Adunarea Generala ONU"
       }
     ],
     "correct": "C",
-    "correctText": "un model explicativ-/explorativ al evoluției economiei mondiale sub impactul factorilor subiectivi, al deciziei, asupra dinamicii vieții economice mondiale"
+    "correctText": "un model explicativ-/explorativ al evolutiei economiei mondiale sub impactul factorilor subiectivi, al deciziei, asupra dinamicii vietii economice mondiale"
   },
   {
     "id": "Economie-15",
     "nr": 15,
     "category": "Economie",
-    "question": "Rata consumului are o tendință de reducere atunci când:",
+    "question": "Rata consumului are o tendinta de reducere atunci cand:",
     "answers": [
       {
         "key": "A",
-        "text": "venitul crește"
+        "text": "venitul creste"
       },
       {
         "key": "B",
@@ -435,7 +435,7 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "venitul rămâne constant"
+        "text": "venitul ramane constant"
       },
       {
         "key": "D",
@@ -447,7 +447,7 @@ window.QUESTIONS = [
       }
     ],
     "correct": "A",
-    "correctText": "venitul crește"
+    "correctText": "venitul creste"
   },
   {
     "id": "Economie-16",
@@ -483,7 +483,7 @@ window.QUESTIONS = [
     "id": "Economie-17",
     "nr": 17,
     "category": "Economie",
-    "question": "De regulă, prețul bunurilor economice, în condiții de libertate economică, se formează:",
+    "question": "De regula, pretul bunurilor economice, in conditii de libertate economica, se formeaza:",
     "answers": [
       {
         "key": "A",
@@ -499,11 +499,11 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "prin licitație"
+        "text": "prin licitatie"
       },
       {
         "key": "E",
-        "text": "prin impunerea de către organisme internaționale"
+        "text": "prin impunerea de catre organisme internationale"
       }
     ],
     "correct": "A",
@@ -513,37 +513,37 @@ window.QUESTIONS = [
     "id": "Economie-18",
     "nr": 18,
     "category": "Economie",
-    "question": "Activitatea economică în economiile moderne este reglată prin:",
+    "question": "Activitatea economica in economiile moderne este reglata prin:",
     "answers": [
       {
         "key": "A",
-        "text": "consensul cumpărătorilor cu vânzătorii"
+        "text": "consensul cumparatorilor cu vanzatorii"
       },
       {
         "key": "B",
-        "text": "intervenția statului pentru creșterea ofertei"
+        "text": "interventia statului pentru cresterea ofertei"
       },
       {
         "key": "C",
-        "text": "existența unui sistem concurențial"
+        "text": "existenta unui sistem concurential"
       },
       {
         "key": "D",
-        "text": "programare economică"
+        "text": "programare economica"
       },
       {
         "key": "E",
-        "text": "planificarea economică imperativă"
+        "text": "planificarea economica imperativa"
       }
     ],
     "correct": "C",
-    "correctText": "existența unui sistem concurențial"
+    "correctText": "existenta unui sistem concurential"
   },
   {
     "id": "Economie-19",
     "nr": 19,
     "category": "Economie",
-    "question": "Este marfă:",
+    "question": "Este marfa:",
     "answers": [
       {
         "key": "A",
@@ -555,7 +555,7 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "un serviciu destinat pieței"
+        "text": "un serviciu destinat pietei"
       },
       {
         "key": "D",
@@ -567,17 +567,17 @@ window.QUESTIONS = [
       }
     ],
     "correct": "C",
-    "correctText": "un serviciu destinat pieței"
+    "correctText": "un serviciu destinat pietei"
   },
   {
     "id": "Economie-20",
     "nr": 20,
     "category": "Economie",
-    "question": "Capitalul - factor de producție se referă la:",
+    "question": "Capitalul - factor de productie se refera la:",
     "answers": [
       {
         "key": "A",
-        "text": "creditele contractate la bănci"
+        "text": "creditele contractate la banci"
       },
       {
         "key": "B",
@@ -585,15 +585,15 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "investițiile unei firme"
+        "text": "investitiile unei firme"
       },
       {
         "key": "D",
-        "text": "bunuri economice destinate tranzacțiilor pe piață"
+        "text": "bunuri economice destinate tranzactiilor pe piata"
       },
       {
         "key": "E",
-        "text": "banii depuși în conturi bancare"
+        "text": "banii depusi in conturi bancare"
       }
     ],
     "correct": "B",
@@ -603,7 +603,7 @@ window.QUESTIONS = [
     "id": "Economie-21",
     "nr": 21,
     "category": "Economie",
-    "question": "Expresia bănească a uzurii capitalului fix este:",
+    "question": "Expresia baneasca a uzurii capitalului fix este:",
     "answers": [
       {
         "key": "A",
@@ -623,7 +623,7 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "prețul"
+        "text": "pretul"
       }
     ],
     "correct": "C",
@@ -633,15 +633,15 @@ window.QUESTIONS = [
     "id": "Economie-22",
     "nr": 22,
     "category": "Economie",
-    "question": "În economia de piață, obiectivul principal al producătorului este:",
+    "question": "In economia de piata, obiectivul principal al producatorului este:",
     "answers": [
       {
         "key": "A",
-        "text": "obținerea de câștiguri legale"
+        "text": "obtinerea de castiguri legale"
       },
       {
         "key": "B",
-        "text": "înregistrarea de profit mediu"
+        "text": "inregistrarea de profit mediu"
       },
       {
         "key": "C",
@@ -663,19 +663,19 @@ window.QUESTIONS = [
     "id": "Economie-23",
     "nr": 23,
     "category": "Economie",
-    "question": "Combinarea factorilor de producție se reprezintă grafic prin:",
+    "question": "Combinarea factorilor de productie se reprezinta grafic prin:",
     "answers": [
       {
         "key": "A",
-        "text": "curba posibilităților de producție"
+        "text": "curba posibilitatilor de productie"
       },
       {
         "key": "B",
-        "text": "curba izocuantei (isoproducției)"
+        "text": "curba izocuantei (isoproductiei)"
       },
       {
         "key": "C",
-        "text": "curba de indiferență"
+        "text": "curba de indiferenta"
       },
       {
         "key": "D",
@@ -687,77 +687,77 @@ window.QUESTIONS = [
       }
     ],
     "correct": "B",
-    "correctText": "curba izocuantei (isoproducției)"
+    "correctText": "curba izocuantei (isoproductiei)"
   },
   {
     "id": "Economie-24",
     "nr": 24,
     "category": "Economie",
-    "question": "Funcția de producție exprimă legătura obiectivă existentă între:",
+    "question": "Functia de productie exprima legatura obiectiva existenta intre:",
     "answers": [
       {
         "key": "A",
-        "text": "cost și profit"
+        "text": "cost si profit"
       },
       {
         "key": "B",
-        "text": "factorii de producție folosiți și rezultatele obținute"
+        "text": "factorii de productie folositi si rezultatele obtinute"
       },
       {
         "key": "C",
-        "text": "cantitatea și calitatea factorilor de producție folosiți"
+        "text": "cantitatea si calitatea factorilor de productie folositi"
       },
       {
         "key": "D",
-        "text": "profitul brut și profitul net"
+        "text": "profitul brut si profitul net"
       },
       {
         "key": "E",
-        "text": "șomaj și inflație"
+        "text": "somaj si inflatie"
       }
     ],
     "correct": "B",
-    "correctText": "factorii de producție folosiți și rezultatele obținute"
+    "correctText": "factorii de productie folositi si rezultatele obtinute"
   },
   {
     "id": "Economie-25",
     "nr": 25,
     "category": "Economie",
-    "question": "Când productivitatea medie a muncii este egală cu cea marginală, atunci productivitatea medie este:",
+    "question": "Cand productivitatea medie a muncii este egala cu cea marginala, atunci productivitatea medie este:",
     "answers": [
       {
         "key": "A",
-        "text": "minimă"
+        "text": "minima"
       },
       {
         "key": "B",
-        "text": "maximă"
+        "text": "maxima"
       },
       {
         "key": "C",
-        "text": "descrescătoare"
+        "text": "descrescatoare"
       },
       {
         "key": "D",
-        "text": "crescătoare"
+        "text": "crescatoare"
       },
       {
         "key": "E",
-        "text": "egală cu zero"
+        "text": "egala cu zero"
       }
     ],
     "correct": "B",
-    "correctText": "maximă"
+    "correctText": "maxima"
   },
   {
     "id": "Economie-26",
     "nr": 26,
     "category": "Economie",
-    "question": "Atunci când costul variabil total rămâne constant, iar cantitatea produsă crește, costul variabil mediu:",
+    "question": "Atunci cand costul variabil total ramane constant, iar cantitatea produsa creste, costul variabil mediu:",
     "answers": [
       {
         "key": "A",
-        "text": "crește"
+        "text": "creste"
       },
       {
         "key": "B",
@@ -769,11 +769,11 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "crește, apoi scade până la zero"
+        "text": "creste, apoi scade pana la zero"
       },
       {
         "key": "E",
-        "text": "rămâne constant"
+        "text": "ramane constant"
       }
     ],
     "correct": "B",
@@ -783,157 +783,157 @@ window.QUESTIONS = [
     "id": "Economie-27",
     "nr": 27,
     "category": "Economie",
-    "question": "Dacă producția crește, iar costul marginal este crescător și superior costului variabil mediu:",
+    "question": "Daca productia creste, iar costul marginal este crescator si superior costului variabil mediu:",
     "answers": [
       {
         "key": "A",
-        "text": "costul fix este descrescător"
+        "text": "costul fix este descrescator"
       },
       {
         "key": "B",
-        "text": "costul variabil mediu descrește"
+        "text": "costul variabil mediu descreste"
       },
       {
         "key": "C",
-        "text": "costul total mediu descrește"
+        "text": "costul total mediu descreste"
       },
       {
         "key": "D",
-        "text": "costul variabil mediu crește"
+        "text": "costul variabil mediu creste"
       },
       {
         "key": "E",
-        "text": "costul fix mediu crește"
+        "text": "costul fix mediu creste"
       }
     ],
     "correct": "D",
-    "correctText": "costul variabil mediu crește"
+    "correctText": "costul variabil mediu creste"
   },
   {
     "id": "Economie-28",
     "nr": 28,
     "category": "Economie",
-    "question": "Se află în raport invers proporțional:",
+    "question": "Se afla in raport invers proportional:",
     "answers": [
       {
         "key": "A",
-        "text": "masa monetară și nivelul prețurilor"
+        "text": "masa monetara si nivelul preturilor"
       },
       {
         "key": "B",
-        "text": "salariul nominal și salariul real"
+        "text": "salariul nominal si salariul real"
       },
       {
         "key": "C",
-        "text": "rata dobânzii și oferta de monedă"
+        "text": "rata dobanzii si oferta de moneda"
       },
       {
         "key": "D",
-        "text": "rata dobânzii și cererea de credite"
+        "text": "rata dobanzii si cererea de credite"
       },
       {
         "key": "E",
-        "text": "numărul falimentelor și rata șomajului"
+        "text": "numarul falimentelor si rata somajului"
       }
     ],
     "correct": "C",
-    "correctText": "rata dobânzii și oferta de monedă"
+    "correctText": "rata dobanzii si oferta de moneda"
   },
   {
     "id": "Economie-29",
     "nr": 29,
     "category": "Economie",
-    "question": "Acționarii sunt:",
+    "question": "Actionarii sunt:",
     "answers": [
       {
         "key": "A",
-        "text": "proprietari ai unei părți din capitalul societății care a emis acțiunile"
+        "text": "proprietari ai unei parti din capitalul societatii care a emis actiunile"
       },
       {
         "key": "B",
-        "text": "creditori ai societății care a emis acțiunile"
+        "text": "creditori ai societatii care a emis actiunile"
       },
       {
         "key": "C",
-        "text": "agenți de schimb care acționează în numele clienților"
+        "text": "agenti de schimb care actioneaza in numele clientilor"
       },
       {
         "key": "D",
-        "text": "brokeri specialiști"
+        "text": "brokeri specialisti"
       },
       {
         "key": "E",
-        "text": "emitenții de acțiuni"
+        "text": "emitentii de actiuni"
       }
     ],
     "correct": "A",
-    "correctText": "proprietari ai unei părți din capitalul societății care a emis acțiunile"
+    "correctText": "proprietari ai unei parti din capitalul societatii care a emis actiunile"
   },
   {
     "id": "Economie-30",
     "nr": 30,
     "category": "Economie",
-    "question": "În cazul unei operațiuni bursiere la termen, în urma creșterii cursului acțiunilor, câștigă:",
+    "question": "In cazul unei operatiuni bursiere la termen, in urma cresterii cursului actiunilor, castiga:",
     "answers": [
       {
         "key": "A",
-        "text": "vânzătorul acțiunilor"
+        "text": "vanzatorul actiunilor"
       },
       {
         "key": "B",
-        "text": "cumpărătorul acțiunilor"
+        "text": "cumparatorul actiunilor"
       },
       {
         "key": "C",
-        "text": "firma care a emis acțiunile"
+        "text": "firma care a emis actiunile"
       },
       {
         "key": "D",
-        "text": "atât vânzătorul cât și cumpărătorul acțiunilor"
+        "text": "atat vanzatorul cat si cumparatorul actiunilor"
       },
       {
         "key": "E",
-        "text": "creditorii societății care a emis acțiunil"
+        "text": "creditorii societatii care a emis actiunil"
       }
     ],
     "correct": "B",
-    "correctText": "cumpărătorul acțiunilor"
+    "correctText": "cumparatorul actiunilor"
   },
   {
     "id": "Economie-31",
     "nr": 31,
     "category": "Economie",
-    "question": "Negocierea prețului acțiunilor:",
+    "question": "Negocierea pretului actiunilor:",
     "answers": [
       {
         "key": "A",
-        "text": "nu este posibilă pe piața secundară"
+        "text": "nu este posibila pe piata secundara"
       },
       {
         "key": "B",
-        "text": "se realizează pe piața primară"
+        "text": "se realizeaza pe piata primara"
       },
       {
         "key": "C",
-        "text": "este posibilă doar dacă unul din cei implicați în operațiune deține pachetul acțiunilor de control"
+        "text": "este posibila doar daca unul din cei implicati in operatiune detine pachetul actiunilor de control"
       },
       {
         "key": "D",
-        "text": "se practică în cadrul bursei de valori"
+        "text": "se practica in cadrul bursei de valori"
       },
       {
         "key": "E",
-        "text": "nu este posibilă, prețul fiind stabilit prin lege"
+        "text": "nu este posibila, pretul fiind stabilit prin lege"
       }
     ],
     "correct": "D",
-    "correctText": "se practică în cadrul bursei de valori"
+    "correctText": "se practica in cadrul bursei de valori"
   },
   {
     "id": "Economie-32",
     "nr": 32,
     "category": "Economie",
-    "question": "Modelul economiei sociale de piață, caracterizat prin atenția deosebită acordată protecției mediului, dezvoltării adecvate a educației, ocrotirii sănătății, asigurării locurilor de muncă și înfăptuirii unor programe guvernamentale de protecție socială, este caracteristic pentru:",
+    "question": "Modelul economiei sociale de piata, caracterizat prin atentia deosebita acordata protectiei mediului, dezvoltarii adecvate a educatiei, ocrotirii sanatatii, asigurarii locurilor de munca si infaptuirii unor programe guvernamentale de protectie sociala, este caracteristic pentru:",
     "answers": [
       {
         "key": "A",
@@ -945,7 +945,7 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "Germania și țările nordice"
+        "text": "Germania si tarile nordice"
       },
       {
         "key": "D",
@@ -953,51 +953,51 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "România"
+        "text": "Romania"
       }
     ],
     "correct": "C",
-    "correctText": "Germania și țările nordice"
+    "correctText": "Germania si tarile nordice"
   },
   {
     "id": "Economie-33",
     "nr": 33,
     "category": "Economie",
-    "question": "Modelul economiei de piață „direcționate de consum” se caracterizează prin:",
+    "question": "Modelul economiei de piata „directionate de consum” se caracterizeaza prin:",
     "answers": [
       {
         "key": "A",
-        "text": "acordarea unui rol major piețelor și a unui rol minim statului"
+        "text": "acordarea unui rol major pietelor si a unui rol minim statului"
       },
       {
         "key": "B",
-        "text": "existența unui sistem public de asigurări sociale bine dezvoltat"
+        "text": "existenta unui sistem public de asigurari sociale bine dezvoltat"
       },
       {
         "key": "C",
-        "text": "preponderența învățământului public"
+        "text": "preponderenta invatamantului public"
       },
       {
         "key": "D",
-        "text": "nivel al veniturilor stabilit în funcție de pregătire și vechime"
+        "text": "nivel al veniturilor stabilit in functie de pregatire si vechime"
       },
       {
         "key": "E",
-        "text": "grija deosebită acordată categoriilor de persoane defavorizate"
+        "text": "grija deosebita acordata categoriilor de persoane defavorizate"
       }
     ],
     "correct": "A",
-    "correctText": "acordarea unui rol major piețelor și a unui rol minim statului"
+    "correctText": "acordarea unui rol major pietelor si a unui rol minim statului"
   },
   {
     "id": "Economie-34",
     "nr": 34,
     "category": "Economie",
-    "question": "O activitate economică eficientă înseamnă:",
+    "question": "O activitate economica eficienta inseamna:",
     "answers": [
       {
         "key": "A",
-        "text": "a satisface mai puține nevoi cu resurse mai ieftine"
+        "text": "a satisface mai putine nevoi cu resurse mai ieftine"
       },
       {
         "key": "B",
@@ -1005,25 +1005,25 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "a satisface nevoi mai multe cu aceleași resurse sau cu resurse mai puține"
+        "text": "a satisface nevoi mai multe cu aceleasi resurse sau cu resurse mai putine"
       },
       {
         "key": "D",
-        "text": "a spori permanent cantitatea resurselor atrase și utilizate"
+        "text": "a spori permanent cantitatea resurselor atrase si utilizate"
       },
       {
         "key": "E",
-        "text": "a satisface mai puține nevoi cu mai multe resurse"
+        "text": "a satisface mai putine nevoi cu mai multe resurse"
       }
     ],
     "correct": "C",
-    "correctText": "a satisface nevoi mai multe cu aceleași resurse sau cu resurse mai puține"
+    "correctText": "a satisface nevoi mai multe cu aceleasi resurse sau cu resurse mai putine"
   },
   {
     "id": "Economie-35",
     "nr": 35,
     "category": "Economie",
-    "question": "Casele de schimb valutar efectuează numai operațiuni:",
+    "question": "Casele de schimb valutar efectueaza numai operatiuni:",
     "answers": [
       {
         "key": "A",
@@ -1057,37 +1057,37 @@ window.QUESTIONS = [
     "answers": [
       {
         "key": "A",
-        "text": "proprietari ai unei părți din capitalul societății care a emis obligațiunile"
+        "text": "proprietari ai unei parti din capitalul societatii care a emis obligatiunile"
       },
       {
         "key": "B",
-        "text": "creditori ai societății care a emis obligațiunile"
+        "text": "creditori ai societatii care a emis obligatiunile"
       },
       {
         "key": "C",
-        "text": "agenți de schimb care acționează în numele clienților"
+        "text": "agenti de schimb care actioneaza in numele clientilor"
       },
       {
         "key": "D",
-        "text": "brokeri specialiști"
+        "text": "brokeri specialisti"
       },
       {
         "key": "E",
-        "text": "emitenții de obligațiuni"
+        "text": "emitentii de obligatiuni"
       }
     ],
     "correct": "B",
-    "correctText": "creditori ai societății care a emis obligațiunile"
+    "correctText": "creditori ai societatii care a emis obligatiunile"
   },
   {
     "id": "Economie-37",
     "nr": 37,
     "category": "Economie",
-    "question": "Nu reprezintă o funcție a banilor:",
+    "question": "Nu reprezinta o functie a banilor:",
     "answers": [
       {
         "key": "A",
-        "text": "mijloc de plată"
+        "text": "mijloc de plata"
       },
       {
         "key": "B",
@@ -1095,11 +1095,11 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "mijloc de rezervă de valoare"
+        "text": "mijloc de rezerva de valoare"
       },
       {
         "key": "D",
-        "text": "mijloc de măsurare a activității economice"
+        "text": "mijloc de masurare a activitatii economice"
       },
       {
         "key": "E",
@@ -1113,45 +1113,45 @@ window.QUESTIONS = [
     "id": "Economie-38",
     "nr": 38,
     "category": "Economie",
-    "question": "Populația activă disponibilă reprezintă:",
+    "question": "Populatia activa disponibila reprezinta:",
     "answers": [
       {
         "key": "A",
-        "text": "persoanele care au capacitatea fizică și intelectuală de a desfășura o activitate economică, precum și vârsta legală"
+        "text": "persoanele care au capacitatea fizica si intelectuala de a desfasura o activitate economica, precum si varsta legala"
       },
       {
         "key": "B",
-        "text": "persoanele care desfășoară activitate profesională"
+        "text": "persoanele care desfasoara activitate profesionala"
       },
       {
         "key": "C",
-        "text": "populația ocupată în diferite activități profesionale, precum și persoanele care caută locuri de muncă"
+        "text": "populatia ocupata in diferite activitati profesionale, precum si persoanele care cauta locuri de munca"
       },
       {
         "key": "D",
-        "text": "populația totală a unei țări"
+        "text": "populatia totala a unei tari"
       },
       {
         "key": "E",
-        "text": "șomerii"
+        "text": "somerii"
       }
     ],
     "correct": "C",
-    "correctText": "populația ocupată în diferite activități profesionale, precum și persoanele care caută locuri de muncă"
+    "correctText": "populatia ocupata in diferite activitati profesionale, precum si persoanele care cauta locuri de munca"
   },
   {
     "id": "Economie-39",
     "nr": 39,
     "category": "Economie",
-    "question": "Nu este exemplu de tranzacție unilaterală:",
+    "question": "Nu este exemplu de tranzactie unilaterala:",
     "answers": [
       {
         "key": "A",
-        "text": "donația"
+        "text": "donatia"
       },
       {
         "key": "B",
-        "text": "moștenirea"
+        "text": "mostenirea"
       },
       {
         "key": "C",
@@ -1159,145 +1159,145 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "împrumutul de la bancă"
+        "text": "imprumutul de la banca"
       },
       {
         "key": "E",
-        "text": "subvenția"
+        "text": "subventia"
       }
     ],
     "correct": "D",
-    "correctText": "împrumutul de la bancă"
+    "correctText": "imprumutul de la banca"
   },
   {
     "id": "Economie-40",
     "nr": 40,
     "category": "Economie",
-    "question": "PIB nominal exprimă valoarea adăugată brută a bunurilor și serviciilor finale:",
+    "question": "PIB nominal exprima valoarea adaugata bruta a bunurilor si serviciilor finale:",
     "answers": [
       {
         "key": "A",
-        "text": "în prețuri constante"
+        "text": "in preturi constante"
       },
       {
         "key": "B",
-        "text": "în prețuri curente"
+        "text": "in preturi curente"
       },
       {
         "key": "C",
-        "text": "în prețuri comparabile"
+        "text": "in preturi comparabile"
       },
       {
         "key": "D",
-        "text": "în prețuri universale"
+        "text": "in preturi universale"
       },
       {
         "key": "E",
-        "text": "la PPC (Paritatea Puterii de Cumpărare)"
+        "text": "la PPC (Paritatea Puterii de Cumparare)"
       }
     ],
     "correct": "B",
-    "correctText": "în prețuri curente"
+    "correctText": "in preturi curente"
   },
   {
     "id": "Economie-41",
     "nr": 41,
     "category": "Economie",
-    "question": "Statul poate să contracareze recesiunea economică prin politica bugetară, recurgând la:",
+    "question": "Statul poate sa contracareze recesiunea economica prin politica bugetara, recurgand la:",
     "answers": [
       {
         "key": "A",
-        "text": "mărirea cheltuielilor publice"
+        "text": "marirea cheltuielilor publice"
       },
       {
         "key": "B",
-        "text": "scăderea cheltuielilor publice"
+        "text": "scaderea cheltuielilor publice"
       },
       {
         "key": "C",
-        "text": "creșterea impozitelor"
+        "text": "cresterea impozitelor"
       },
       {
         "key": "D",
-        "text": "scăderea impozitelor"
+        "text": "scaderea impozitelor"
       },
       {
         "key": "E",
-        "text": "scăderea ratei dobânzii"
+        "text": "scaderea ratei dobanzii"
       }
     ],
     "correct": "A",
-    "correctText": "mărirea cheltuielilor publice"
+    "correctText": "marirea cheltuielilor publice"
   },
   {
     "id": "Economie-42",
     "nr": 42,
     "category": "Economie",
-    "question": "Statul poate să contracareze recesiunea economică prin politica fiscală, recurgând la:",
+    "question": "Statul poate sa contracareze recesiunea economica prin politica fiscala, recurgand la:",
     "answers": [
       {
         "key": "A",
-        "text": "mărirea cheltuielilor publice"
+        "text": "marirea cheltuielilor publice"
       },
       {
         "key": "B",
-        "text": "scăderea cheltuielilor publice"
+        "text": "scaderea cheltuielilor publice"
       },
       {
         "key": "C",
-        "text": "creșterea impozitelor"
+        "text": "cresterea impozitelor"
       },
       {
         "key": "D",
-        "text": "scăderea impozitelor"
+        "text": "scaderea impozitelor"
       },
       {
         "key": "E",
-        "text": "scăderea ratei dobânzii"
+        "text": "scaderea ratei dobanzii"
       }
     ],
     "correct": "D",
-    "correctText": "scăderea impozitelor"
+    "correctText": "scaderea impozitelor"
   },
   {
     "id": "Economie-43",
     "nr": 43,
     "category": "Economie",
-    "question": "Statul poate să contracareze recesiunea economică prin politica monetară, recurgând la:",
+    "question": "Statul poate sa contracareze recesiunea economica prin politica monetara, recurgand la:",
     "answers": [
       {
         "key": "A",
-        "text": "mărirea cheltuielilor publice"
+        "text": "marirea cheltuielilor publice"
       },
       {
         "key": "B",
-        "text": "scăderea cheltuielilor publice"
+        "text": "scaderea cheltuielilor publice"
       },
       {
         "key": "C",
-        "text": "creșterea impozitelor"
+        "text": "cresterea impozitelor"
       },
       {
         "key": "D",
-        "text": "scăderea impozitelor"
+        "text": "scaderea impozitelor"
       },
       {
         "key": "E",
-        "text": "reducerea ratei dobânzii"
+        "text": "reducerea ratei dobanzii"
       }
     ],
     "correct": "E",
-    "correctText": "reducerea ratei dobânzii"
+    "correctText": "reducerea ratei dobanzii"
   },
   {
     "id": "Economie-44",
     "nr": 44,
     "category": "Economie",
-    "question": "Gradul de îndatorare a unei țări se poate determina prin raportarea datoriei publice la:",
+    "question": "Gradul de indatorare a unei tari se poate determina prin raportarea datoriei publice la:",
     "answers": [
       {
         "key": "A",
-        "text": "masa monetară"
+        "text": "masa monetara"
       },
       {
         "key": "B",
@@ -1309,11 +1309,11 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "economiile populației"
+        "text": "economiile populatiei"
       },
       {
         "key": "E",
-        "text": "rezerva Băncii Naționale"
+        "text": "rezerva Bancii Nationale"
       }
     ],
     "correct": "C",
@@ -1323,7 +1323,7 @@ window.QUESTIONS = [
     "id": "Economie-45",
     "nr": 45,
     "category": "Economie",
-    "question": "Într-o economie, PIB este de 100.000 mld. u.m. Dacă ponderea consumului final privat în PIB este de 65%, a investițiilor brute de 15%, iar a consumului final public de 10%, atunci exporturile nete vor avea o pondere în PIB de:",
+    "question": "Intr-o economie, PIB este de 100.000 mld. u.m. Daca ponderea consumului final privat in PIB este de 65%, a investitiilor brute de 15%, iar a consumului final public de 10%, atunci exporturile nete vor avea o pondere in PIB de:",
     "answers": [
       {
         "key": "A",
@@ -1353,7 +1353,7 @@ window.QUESTIONS = [
     "id": "Economie-46",
     "nr": 46,
     "category": "Economie",
-    "question": "În cazul în care înclinația marginală spre economii este 0,2, multiplicatorul investițiilor este:",
+    "question": "In cazul in care inclinatia marginala spre economii este 0,2, multiplicatorul investitiilor este:",
     "answers": [
       {
         "key": "A",
@@ -1383,7 +1383,7 @@ window.QUESTIONS = [
     "id": "Economie-47",
     "nr": 47,
     "category": "Economie",
-    "question": "Se presupun următoarele: PNB = 3000. Consumul personal = 2400. Consumul public = 100. Consumul de capital fix = 150. Mărimea PNN este:",
+    "question": "Se presupun urmatoarele: PNB = 3000. Consumul personal = 2400. Consumul public = 100. Consumul de capital fix = 150. Marimea PNN este:",
     "answers": [
       {
         "key": "A",
@@ -1413,7 +1413,7 @@ window.QUESTIONS = [
     "id": "Economie-48",
     "nr": 48,
     "category": "Economie",
-    "question": "La o înclinație marginală spre consum egală cu 0,8, creșterea investițiilor pentru a asigura o sporire a veniturilor cu 500 u.m va fi:",
+    "question": "La o inclinatie marginala spre consum egala cu 0,8, cresterea investitiilor pentru a asigura o sporire a veniturilor cu 500 u.m va fi:",
     "answers": [
       {
         "key": "A",
@@ -1443,7 +1443,7 @@ window.QUESTIONS = [
     "id": "Economie-49",
     "nr": 49,
     "category": "Economie",
-    "question": "Producția a 3000 de bunuri necesită 60 de salariați. Angajarea a încă 20 de salariați determină un spor de producție de 1000 de bunuri. Cât este productivitatea marginală a muncii?",
+    "question": "Productia a 3000 de bunuri necesita 60 de salariati. Angajarea a inca 20 de salariati determina un spor de productie de 1000 de bunuri. Cat este productivitatea marginala a muncii?",
     "answers": [
       {
         "key": "A",
@@ -1473,7 +1473,7 @@ window.QUESTIONS = [
     "id": "Economie-50",
     "nr": 50,
     "category": "Economie",
-    "question": "Să se determine costul variabil mediu știind că producția obținută (Q) este de 150 de bucăți, iar costul variabil global (CV) este de 6000 u.m.:",
+    "question": "Sa se determine costul variabil mediu stiind ca productia obtinuta (Q) este de 150 de bucati, iar costul variabil global (CV) este de 6000 u.m.:",
     "answers": [
       {
         "key": "A",
@@ -1503,7 +1503,7 @@ window.QUESTIONS = [
     "id": "Economie-51",
     "nr": 51,
     "category": "Economie",
-    "question": "La o rată nominală a dobânzii de 15% și o rată anticipată a inflației de 10%, rata reală a dobânzii este",
+    "question": "La o rata nominala a dobanzii de 15% si o rata anticipata a inflatiei de 10%, rata reala a dobanzii este",
     "answers": [
       {
         "key": "A",
@@ -1533,37 +1533,37 @@ window.QUESTIONS = [
     "id": "Economie-52",
     "nr": 52,
     "category": "Economie",
-    "question": "Între agenții economici A și B se încheie un contract de vânzare-cumpărare a 100 de titluri, la un curs de 1000 u.m./titlu. Dacă la scadență cursul crește cu 10%, care dintre cei doi câștigă și ce sumă?",
+    "question": "Intre agentii economici A si B se incheie un contract de vanzare-cumparare a 100 de titluri, la un curs de 1000 u.m./titlu. Daca la scadenta cursul creste cu 10%, care dintre cei doi castiga si ce suma?",
     "answers": [
       {
         "key": "A",
-        "text": "cumpărătorul, 10.000 u.m."
+        "text": "cumparatorul, 10.000 u.m."
       },
       {
         "key": "B",
-        "text": "vânzătorul, 10.000 u.m."
+        "text": "vanzatorul, 10.000 u.m."
       },
       {
         "key": "C",
-        "text": "cumpărătorul, 100.000 u.m."
+        "text": "cumparatorul, 100.000 u.m."
       },
       {
         "key": "D",
-        "text": "vânzătorul, 100.000 u.m."
+        "text": "vanzatorul, 100.000 u.m."
       },
       {
         "key": "E",
-        "text": "cumpărătorul, 1000 u.m."
+        "text": "cumparatorul, 1000 u.m."
       }
     ],
     "correct": "A",
-    "correctText": "cumpărătorul, 10.000 u.m."
+    "correctText": "cumparatorul, 10.000 u.m."
   },
   {
     "id": "Economie-53",
     "nr": 53,
     "category": "Economie",
-    "question": "O bancă acordă un credit de 5000 RON pe termen de 4 luni, cu o rată a dobânzii de 12%. Ce valoare are dobânda încasată de bancă?",
+    "question": "O banca acorda un credit de 5000 RON pe termen de 4 luni, cu o rata a dobanzii de 12%. Ce valoare are dobanda incasata de banca?",
     "answers": [
       {
         "key": "A",
@@ -1623,7 +1623,7 @@ window.QUESTIONS = [
     "id": "Economie-55",
     "nr": 55,
     "category": "Economie",
-    "question": "Cuponul unei obligațiuni este de 1500 RON, iar rata anuală a dobânzii este 10%. Determinați cât reprezintă cursul obligațiunii.",
+    "question": "Cuponul unei obligatiuni este de 1500 RON, iar rata anuala a dobanzii este 10%. Determinati cat reprezinta cursul obligatiunii.",
     "answers": [
       {
         "key": "A",
@@ -1653,127 +1653,127 @@ window.QUESTIONS = [
     "id": "Management General-1",
     "nr": 1,
     "category": "Management General",
-    "question": "Principala lucrare publicată în 1911 de către Frederick Taylor este:",
+    "question": "Principala lucrare publicata in 1911 de catre Frederick Taylor este:",
     "answers": [
       {
         "key": "A",
-        "text": "Principiile de bază ale managementului prin proiecte"
+        "text": "Principiile de baza ale managementului prin proiecte"
       },
       {
         "key": "B",
-        "text": "Principiile decizionale la nivel de firmă"
+        "text": "Principiile decizionale la nivel de firma"
       },
       {
         "key": "C",
-        "text": "Principiile managementului inovației"
+        "text": "Principiile managementului inovatiei"
       },
       {
         "key": "D",
-        "text": "Principiile cercetării și proiectării"
+        "text": "Principiile cercetarii si proiectarii"
       },
       {
         "key": "E",
-        "text": "Principiile managementului științific"
+        "text": "Principiile managementului stiintific"
       }
     ],
     "correct": "E",
-    "correctText": "Principiile managementului științific"
+    "correctText": "Principiile managementului stiintific"
   },
   {
     "id": "Management General-2",
     "nr": 2,
     "category": "Management General",
-    "question": "Managementul este definit corect și complet astfel:",
+    "question": "Managementul este definit corect si complet astfel:",
     "answers": [
       {
         "key": "A",
-        "text": "ansamblul activităților care au ca scop analizarea întregului colectiv de salariați din întreprindere"
+        "text": "ansamblul activitatilor care au ca scop analizarea intregului colectiv de salariati din intreprindere"
       },
       {
         "key": "B",
-        "text": "o disciplină fundamentală care are ca scop dezvoltarea de ansamblu a economiei"
+        "text": "o disciplina fundamentala care are ca scop dezvoltarea de ansamblu a economiei"
       },
       {
         "key": "C",
-        "text": "o disciplină fundamentală care are ca scop asigurarea unui viitor trainic și eficace pe plan social"
+        "text": "o disciplina fundamentala care are ca scop asigurarea unui viitor trainic si eficace pe plan social"
       },
       {
         "key": "D",
-        "text": "o activitate care are ca scop îndeplinirea sarcinilor în vederea obținerii de profit"
+        "text": "o activitate care are ca scop indeplinirea sarcinilor in vederea obtinerii de profit"
       },
       {
         "key": "E",
-        "text": "o sumă de activități incluzând planificarea, luarea deciziilor, organizarea, conducerea (dirijarea) și controlul, toate orientate spre folosirea resurselor umane, financiare, materiale și informaționale ale organizației, în scopul atingerii unui obiectiv"
+        "text": "o suma de activitati incluzand planificarea, luarea deciziilor, organizarea, conducerea (dirijarea) si controlul, toate orientate spre folosirea resurselor umane, financiare, materiale si informationale ale organizatiei, in scopul atingerii unui obiectiv"
       }
     ],
     "correct": "E",
-    "correctText": "o sumă de activități incluzând planificarea, luarea deciziilor, organizarea, conducerea (dirijarea) și controlul, toate orientate spre folosirea resurselor umane, financiare, materiale și informaționale ale organizației, în scopul atingerii unui obiectiv"
+    "correctText": "o suma de activitati incluzand planificarea, luarea deciziilor, organizarea, conducerea (dirijarea) si controlul, toate orientate spre folosirea resurselor umane, financiare, materiale si informationale ale organizatiei, in scopul atingerii unui obiectiv"
   },
   {
     "id": "Management General-3",
     "nr": 3,
     "category": "Management General",
-    "question": "Managementul, ca știință:",
+    "question": "Managementul, ca stiinta:",
     "answers": [
       {
         "key": "A",
-        "text": "aparține științelor exacte"
+        "text": "apartine stiintelor exacte"
       },
       {
         "key": "B",
-        "text": "este o îmbinare între teorie și practică"
+        "text": "este o imbinare intre teorie si practica"
       },
       {
         "key": "C",
-        "text": "aparține exclusiv domeniului financiar"
+        "text": "apartine exclusiv domeniului financiar"
       },
       {
         "key": "D",
-        "text": "vizează economia, în ansamblul său"
+        "text": "vizeaza economia, in ansamblul sau"
       },
       {
         "key": "E",
-        "text": "aparține exclusiv domeniului bancar"
+        "text": "apartine exclusiv domeniului bancar"
       }
     ],
     "correct": "B",
-    "correctText": "este o îmbinare între teorie și practică"
+    "correctText": "este o imbinare intre teorie si practica"
   },
   {
     "id": "Management General-4",
     "nr": 4,
     "category": "Management General",
-    "question": "Henry Fayol a prezentat managementul ca un proces universal, constând în:",
+    "question": "Henry Fayol a prezentat managementul ca un proces universal, constand in:",
     "answers": [
       {
         "key": "A",
-        "text": "folosirea unor metode raționale în organizarea și conducerea proceselor industriale"
+        "text": "folosirea unor metode rationale in organizarea si conducerea proceselor industriale"
       },
       {
         "key": "B",
-        "text": "raporturile dintre bancă și terțe persoane"
+        "text": "raporturile dintre banca si terte persoane"
       },
       {
         "key": "C",
-        "text": "cercetarea sistematică atât a succeselor cât și a eșecurilor"
+        "text": "cercetarea sistematica atat a succeselor cat si a esecurilor"
       },
       {
         "key": "D",
-        "text": "desfășurarea procesului managerial"
+        "text": "desfasurarea procesului managerial"
       },
       {
         "key": "E",
-        "text": "desfășurarea procesului de producție"
+        "text": "desfasurarea procesului de productie"
       }
     ],
     "correct": "A",
-    "correctText": "folosirea unor metode raționale în organizarea și conducerea proceselor industriale"
+    "correctText": "folosirea unor metode rationale in organizarea si conducerea proceselor industriale"
   },
   {
     "id": "Management General-5",
     "nr": 5,
     "category": "Management General",
-    "question": "Mediul ambiant se definește corect ca fiind mediul care include:",
+    "question": "Mediul ambiant se defineste corect ca fiind mediul care include:",
     "answers": [
       {
         "key": "A",
@@ -1781,23 +1781,23 @@ window.QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "elementele specifice economiei de piață"
+        "text": "elementele specifice economiei de piata"
       },
       {
         "key": "C",
-        "text": "elementele exogene firmei, de natură economică, tehnică, politică"
+        "text": "elementele exogene firmei, de natura economica, tehnica, politica"
       },
       {
         "key": "D",
-        "text": "resursele necesare, adaptarea și aplicarea deciziilor de realizare a lor"
+        "text": "resursele necesare, adaptarea si aplicarea deciziilor de realizare a lor"
       },
       {
         "key": "E",
-        "text": "ansamblul condițiilor interne sau externe ale firmei, de natura economică, tehnică, politică, demografică, culturală, științifică, organizatorică, juridică, psiho-sociologică, educațională și ecologică"
+        "text": "ansamblul conditiilor interne sau externe ale firmei, de natura economica, tehnica, politica, demografica, culturala, stiintifica, organizatorica, juridica, psiho-sociologica, educationala si ecologica"
       }
     ],
     "correct": "E",
-    "correctText": "ansamblul condițiilor interne sau externe ale firmei, de natura economică, tehnică, politică, demografică, culturală, științifică, organizatorică, juridică, psiho-sociologică, educațională și ecologică"
+    "correctText": "ansamblul conditiilor interne sau externe ale firmei, de natura economica, tehnica, politica, demografica, culturala, stiintifica, organizatorica, juridica, psiho-sociologica, educationala si ecologica"
   },
   {
     "id": "Management General-6",
@@ -1807,7 +1807,7 @@ window.QUESTIONS = [
     "answers": [
       {
         "key": "A",
-        "text": "cel imediat (vecinătate)"
+        "text": "cel imediat (vecinatate)"
       },
       {
         "key": "B",
@@ -1815,7 +1815,7 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "imparțial"
+        "text": "impartial"
       },
       {
         "key": "D",
@@ -1823,17 +1823,17 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "internațional"
+        "text": "international"
       }
     ],
     "correct": "C",
-    "correctText": "imparțial"
+    "correctText": "impartial"
   },
   {
     "id": "Management General-7",
     "nr": 7,
     "category": "Management General",
-    "question": "Analiza procesului de producție nu se poate realiza din punct de vedere:",
+    "question": "Analiza procesului de productie nu se poate realiza din punct de vedere:",
     "answers": [
       {
         "key": "A",
@@ -1863,37 +1863,37 @@ window.QUESTIONS = [
     "id": "Management General-8",
     "nr": 8,
     "category": "Management General",
-    "question": "Funcțiile managementului sunt:",
+    "question": "Functiile managementului sunt:",
     "answers": [
       {
         "key": "A",
-        "text": "organizarea și planificarea"
+        "text": "organizarea si planificarea"
       },
       {
         "key": "B",
-        "text": "previziunea, organizarea și controlul"
+        "text": "previziunea, organizarea si controlul"
       },
       {
         "key": "C",
-        "text": "planificarea, organizarea, antrenarea și evaluarea"
+        "text": "planificarea, organizarea, antrenarea si evaluarea"
       },
       {
         "key": "D",
-        "text": "coordonarea, organizarea, producția, inovarea, planificarea"
+        "text": "coordonarea, organizarea, productia, inovarea, planificarea"
       },
       {
         "key": "E",
-        "text": "previziunea, organizarea, coordonarea, antrenarea, evaluarea și controlul."
+        "text": "previziunea, organizarea, coordonarea, antrenarea, evaluarea si controlul."
       }
     ],
     "correct": "E",
-    "correctText": "previziunea, organizarea, coordonarea, antrenarea, evaluarea și controlul."
+    "correctText": "previziunea, organizarea, coordonarea, antrenarea, evaluarea si controlul."
   },
   {
     "id": "Management General-9",
     "nr": 9,
     "category": "Management General",
-    "question": "Deciziile de investiții sunt decizii:",
+    "question": "Deciziile de investitii sunt decizii:",
     "answers": [
       {
         "key": "A",
@@ -1923,7 +1923,7 @@ window.QUESTIONS = [
     "id": "Management General-10",
     "nr": 10,
     "category": "Management General",
-    "question": "Deoarece întreprinderea se adaptează atât la schimbările macrosistemelor din care face parte, cât și la cerințele generale de dinamica elementelor încorporate, aceasta este considerată:",
+    "question": "Deoarece intreprinderea se adapteaza atat la schimbarile macrosistemelor din care face parte, cat si la cerintele generale de dinamica elementelor incorporate, aceasta este considerata:",
     "answers": [
       {
         "key": "A",
@@ -1953,7 +1953,7 @@ window.QUESTIONS = [
     "id": "Management General-11",
     "nr": 11,
     "category": "Management General",
-    "question": "Totalitatea posturilor care prezintă aceleași caracteristici principale formează:",
+    "question": "Totalitatea posturilor care prezinta aceleasi caracteristici principale formeaza:",
     "answers": [
       {
         "key": "A",
@@ -1965,25 +1965,25 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "ponderea ierarhică"
+        "text": "ponderea ierarhica"
       },
       {
         "key": "D",
-        "text": "organizarea procesuală a firmei"
+        "text": "organizarea procesuala a firmei"
       },
       {
         "key": "E",
-        "text": "o funcție."
+        "text": "o functie."
       }
     ],
     "correct": "E",
-    "correctText": "o funcție."
+    "correctText": "o functie."
   },
   {
     "id": "Management General-12",
     "nr": 12,
     "category": "Management General",
-    "question": "Realizarea unei structuri organizatorice într-o firmă nu vizează principiul:",
+    "question": "Realizarea unei structuri organizatorice intr-o firma nu vizeaza principiul:",
     "answers": [
       {
         "key": "A",
@@ -1991,93 +1991,93 @@ window.QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "supremației scopurilor/obiectivelor"
+        "text": "suprematiei scopurilor/obiectivelor"
       },
       {
         "key": "C",
-        "text": "unității de decizie și acțiune"
+        "text": "unitatii de decizie si actiune"
       },
       {
         "key": "D",
-        "text": "apropierii conducerii de execuție"
+        "text": "apropierii conducerii de executie"
       },
       {
         "key": "E",
-        "text": "neconcordanței între cerințele postului și calitățile titularului"
+        "text": "neconcordantei intre cerintele postului si calitatile titularului"
       }
     ],
     "correct": "E",
-    "correctText": "neconcordanței între cerințele postului și calitățile titularului"
+    "correctText": "neconcordantei intre cerintele postului si calitatile titularului"
   },
   {
     "id": "Management General-13",
     "nr": 13,
     "category": "Management General",
-    "question": "Distribuția activităților pe niveluri poate fi:",
+    "question": "Distributia activitatilor pe niveluri poate fi:",
     "answers": [
       {
         "key": "A",
-        "text": "strategică (vizează ideea de bază și obiectivele firmei, investițiile, coordonarea între funcțiuni)"
+        "text": "strategica (vizeaza ideea de baza si obiectivele firmei, investitiile, coordonarea intre functiuni)"
       },
       {
         "key": "B",
-        "text": "tactică (vizează cadrul decizional deja trasat, acțiuni pe termene imediate și scurte)"
+        "text": "tactica (vizeaza cadrul decizional deja trasat, actiuni pe termene imediate si scurte)"
       },
       {
         "key": "C",
-        "text": "operațională (vizează bugetul și planificarea, conducerea unei funcțiuni pe termen lung)"
+        "text": "operationala (vizeaza bugetul si planificarea, conducerea unei functiuni pe termen lung)"
       },
       {
         "key": "D",
-        "text": "executivă (vizează bugetul și conducerea unei funcțiuni pe orizontală)"
+        "text": "executiva (vizeaza bugetul si conducerea unei functiuni pe orizontala)"
       },
       {
         "key": "E",
-        "text": "tactică (vizează sarcini individuale)"
+        "text": "tactica (vizeaza sarcini individuale)"
       }
     ],
     "correct": "A",
-    "correctText": "strategică (vizează ideea de bază și obiectivele firmei, investițiile, coordonarea între funcțiuni)"
+    "correctText": "strategica (vizeaza ideea de baza si obiectivele firmei, investitiile, coordonarea intre functiuni)"
   },
   {
     "id": "Management General-14",
     "nr": 14,
     "category": "Management General",
-    "question": "Proiectarea structurii manageriale se bazează pe funcțiunile unității economice, printre care nu se regăsește:",
+    "question": "Proiectarea structurii manageriale se bazeaza pe functiunile unitatii economice, printre care nu se regaseste:",
     "answers": [
       {
         "key": "A",
-        "text": "funcțiunea comercială"
+        "text": "functiunea comerciala"
       },
       {
         "key": "B",
-        "text": "funcțiunea industrială"
+        "text": "functiunea industriala"
       },
       {
         "key": "C",
-        "text": "funcțiunea de producție"
+        "text": "functiunea de productie"
       },
       {
         "key": "D",
-        "text": "funcțiune financiar-contabilă"
+        "text": "functiune financiar-contabila"
       },
       {
         "key": "E",
-        "text": "funcțiunea de cercetare-dezvoltare"
+        "text": "functiunea de cercetare-dezvoltare"
       }
     ],
     "correct": "B",
-    "correctText": "funcțiunea industrială"
+    "correctText": "functiunea industriala"
   },
   {
     "id": "Management General-15",
     "nr": 15,
     "category": "Management General",
-    "question": "Conținutul procesului managerial depinde în principal de:",
+    "question": "Continutul procesului managerial depinde in principal de:",
     "answers": [
       {
         "key": "A",
-        "text": "caracteristicile societății comerciale"
+        "text": "caracteristicile societatii comerciale"
       },
       {
         "key": "B",
@@ -2085,97 +2085,97 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "ierarhia inferioară a sistemului managerial"
+        "text": "ierarhia inferioara a sistemului managerial"
       },
       {
         "key": "D",
-        "text": "ierarhia superioară a sistemului managerial"
+        "text": "ierarhia superioara a sistemului managerial"
       },
       {
         "key": "E",
-        "text": "tehnologia utilizată"
+        "text": "tehnologia utilizata"
       }
     ],
     "correct": "A",
-    "correctText": "caracteristicile societății comerciale"
+    "correctText": "caracteristicile societatii comerciale"
   },
   {
     "id": "Management General-16",
     "nr": 16,
     "category": "Management General",
-    "question": "Părțile componente ale structurii organizatorice sunt: postul, funcția, compartimentul, relațiile ocazionale, nivelul ierarhic, ponderea ierarhică. Identificați definiția eronată:",
+    "question": "Partile componente ale structurii organizatorice sunt: postul, functia, compartimentul, relatiile ocazionale, nivelul ierarhic, ponderea ierarhica. Identificati definitia eronata:",
     "answers": [
       {
         "key": "A",
-        "text": "funcția este desemnată de totalitatea posturilor care sunt caracterizate de aceleași trăsături principale"
+        "text": "functia este desemnata de totalitatea posturilor care sunt caracterizate de aceleasi trasaturi principale"
       },
       {
         "key": "B",
-        "text": "ponderea ierarhică este reprezentarea grafică a structurii organizatorice"
+        "text": "ponderea ierarhica este reprezentarea grafica a structurii organizatorice"
       },
       {
         "key": "C",
-        "text": "postul reprezintă un grup de obiective, sarcini, competențe și responsabilități ce revin spre execuție unui singur angajat"
+        "text": "postul reprezinta un grup de obiective, sarcini, competente si responsabilitati ce revin spre executie unui singur angajat"
       },
       {
         "key": "D",
-        "text": "compartimentul reprezintă ansamblul persoanelor care prestează munci omogene sau complementare, de regulă pe același amplasament"
+        "text": "compartimentul reprezinta ansamblul persoanelor care presteaza munci omogene sau complementare, de regula pe acelasi amplasament"
       },
       {
         "key": "E",
-        "text": "nivelul ierarhic este compus din totalitatea subdiviziunilor organizatorice (posturi, compartimente) stabilite prin reglementări oficiale"
+        "text": "nivelul ierarhic este compus din totalitatea subdiviziunilor organizatorice (posturi, compartimente) stabilite prin reglementari oficiale"
       }
     ],
     "correct": "B",
-    "correctText": "ponderea ierarhică este reprezentarea grafică a structurii organizatorice"
+    "correctText": "ponderea ierarhica este reprezentarea grafica a structurii organizatorice"
   },
   {
     "id": "Management General-17",
     "nr": 17,
     "category": "Management General",
-    "question": "Nu reprezintă o etapă a sistemului informațional al procesului managerial:",
+    "question": "Nu reprezinta o etapa a sistemului informational al procesului managerial:",
     "answers": [
       {
         "key": "A",
-        "text": "cercetarea informației"
+        "text": "cercetarea informatiei"
       },
       {
         "key": "B",
-        "text": "completarea informației"
+        "text": "completarea informatiei"
       },
       {
         "key": "C",
-        "text": "reformularea informației"
+        "text": "reformularea informatiei"
       },
       {
         "key": "D",
-        "text": "prelucrarea informației"
+        "text": "prelucrarea informatiei"
       },
       {
         "key": "E",
-        "text": "transmiterea informației"
+        "text": "transmiterea informatiei"
       }
     ],
     "correct": "C",
-    "correctText": "reformularea informației"
+    "correctText": "reformularea informatiei"
   },
   {
     "id": "Management General-18",
     "nr": 18,
     "category": "Management General",
-    "question": "Strategia managerială presupune în principal:",
+    "question": "Strategia manageriala presupune in principal:",
     "answers": [
       {
         "key": "A",
-        "text": "protecția mediului"
+        "text": "protectia mediului"
       },
       {
         "key": "B",
-        "text": "inovația, ca variabilă care stă la baza orientării și pregătirii sistematice a viitorului firmei"
+        "text": "inovatia, ca variabila care sta la baza orientarii si pregatirii sistematice a viitorului firmei"
       },
       {
         "key": "C",
-        "text": "gândirea intuitivă"
+        "text": "gandirea intuitiva"
       },
       {
         "key": "D",
@@ -2183,25 +2183,25 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "strategia organizatorică"
+        "text": "strategia organizatorica"
       }
     ],
     "correct": "B",
-    "correctText": "inovația, ca variabilă care stă la baza orientării și pregătirii sistematice a viitorului firmei"
+    "correctText": "inovatia, ca variabila care sta la baza orientarii si pregatirii sistematice a viitorului firmei"
   },
   {
     "id": "Management General-19",
     "nr": 19,
     "category": "Management General",
-    "question": "Elaborarea și aplicarea strategiilor nu reprezintă un scop în sine ci constituie:",
+    "question": "Elaborarea si aplicarea strategiilor nu reprezinta un scop in sine ci constituie:",
     "answers": [
       {
         "key": "A",
-        "text": "sfera de cuprindere a organizației"
+        "text": "sfera de cuprindere a organizatiei"
       },
       {
         "key": "B",
-        "text": "esența activității de management"
+        "text": "esenta activitatii de management"
       },
       {
         "key": "C",
@@ -2209,123 +2209,123 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "o modalitate managerială majoră de creștere a competitivității firmei"
+        "text": "o modalitate manageriala majora de crestere a competitivitatii firmei"
       },
       {
         "key": "E",
-        "text": "totalitatea operațiunilor de verificare a desfășurării procesului de producție"
+        "text": "totalitatea operatiunilor de verificare a desfasurarii procesului de productie"
       }
     ],
     "correct": "D",
-    "correctText": "o modalitate managerială majoră de creștere a competitivității firmei"
+    "correctText": "o modalitate manageriala majora de crestere a competitivitatii firmei"
   },
   {
     "id": "Management General-20",
     "nr": 20,
     "category": "Management General",
-    "question": "În conceperea și fundamentarea activităților firmelor, un rol esențial îl au strategiile și politicile elaborate:",
+    "question": "In conceperea si fundamentarea activitatilor firmelor, un rol esential il au strategiile si politicile elaborate:",
     "answers": [
       {
         "key": "A",
-        "text": "în cadrul mecanismelor manageriale"
+        "text": "in cadrul mecanismelor manageriale"
       },
       {
         "key": "B",
-        "text": "în cadrul structurilor guvernamentale"
+        "text": "in cadrul structurilor guvernamentale"
       },
       {
         "key": "C",
-        "text": "în cadrul structurilor funcționale"
+        "text": "in cadrul structurilor functionale"
       },
       {
         "key": "D",
-        "text": "de către subalterni"
+        "text": "de catre subalterni"
       },
       {
         "key": "E",
-        "text": "de către acționari"
+        "text": "de catre actionari"
       }
     ],
     "correct": "A",
-    "correctText": "în cadrul mecanismelor manageriale"
+    "correctText": "in cadrul mecanismelor manageriale"
   },
   {
     "id": "Management General-21",
     "nr": 21,
     "category": "Management General",
-    "question": "Identificați varianta de răspuns corectă:",
+    "question": "Identificati varianta de raspuns corecta:",
     "answers": [
       {
         "key": "A",
-        "text": "planurile acoperă un interval de cel puțin un deceniu, au caracter aproximativ și nu sunt obligatorii"
+        "text": "planurile acopera un interval de cel putin un deceniu, au caracter aproximativ si nu sunt obligatorii"
       },
       {
         "key": "B",
-        "text": "prognozele acoperă un interval de cel puțin un deceniu, au caracter aproximativ și nu sunt obligatorii"
+        "text": "prognozele acopera un interval de cel putin un deceniu, au caracter aproximativ si nu sunt obligatorii"
       },
       {
         "key": "C",
-        "text": "programele sunt explorative sau normative, iar ansamblul de date are valoare indicativă"
+        "text": "programele sunt explorative sau normative, iar ansamblul de date are valoare indicativa"
       },
       {
         "key": "D",
-        "text": "prognozele focalizează intervalele între o lună și 5 ani, iar gradul de detaliere este mai mare pentru perioadele mai scurte"
+        "text": "prognozele focalizeaza intervalele intre o luna si 5 ani, iar gradul de detaliere este mai mare pentru perioadele mai scurte"
       },
       {
         "key": "E",
-        "text": "planurile se referă la un orizont redus de timp (săptămână, zi, schimb, oră)"
+        "text": "planurile se refera la un orizont redus de timp (saptamana, zi, schimb, ora)"
       }
     ],
     "correct": "B",
-    "correctText": "prognozele acoperă un interval de cel puțin un deceniu, au caracter aproximativ și nu sunt obligatorii"
+    "correctText": "prognozele acopera un interval de cel putin un deceniu, au caracter aproximativ si nu sunt obligatorii"
   },
   {
     "id": "Management General-22",
     "nr": 22,
     "category": "Management General",
-    "question": "Organigrama este definită ca:",
+    "question": "Organigrama este definita ca:",
     "answers": [
       {
         "key": "A",
-        "text": "reprezentarea grafică a structurii organizatorice pe baza unor reguli specifice"
+        "text": "reprezentarea grafica a structurii organizatorice pe baza unor reguli specifice"
       },
       {
         "key": "B",
-        "text": "planificarea activităților firmei în funcție de relațiile de coordonare"
+        "text": "planificarea activitatilor firmei in functie de relatiile de coordonare"
       },
       {
         "key": "C",
-        "text": "instrument de lucru utilizat de manageri în procesul de motivare a angajaților"
+        "text": "instrument de lucru utilizat de manageri in procesul de motivare a angajatilor"
       },
       {
         "key": "D",
-        "text": "o modalitate managerială de creștere a competitivității firmei."
+        "text": "o modalitate manageriala de crestere a competitivitatii firmei."
       },
       {
         "key": "E",
-        "text": "sistemul informațional"
+        "text": "sistemul informational"
       }
     ],
     "correct": "A",
-    "correctText": "reprezentarea grafică a structurii organizatorice pe baza unor reguli specifice"
+    "correctText": "reprezentarea grafica a structurii organizatorice pe baza unor reguli specifice"
   },
   {
     "id": "Management General-23",
     "nr": 23,
     "category": "Management General",
-    "question": "Cultura organizațională cuprinde:",
+    "question": "Cultura organizationala cuprinde:",
     "answers": [
       {
         "key": "A",
-        "text": "modul în care o organizație înțelege să se comporte cu angajații"
+        "text": "modul in care o organizatie intelege sa se comporte cu angajatii"
       },
       {
         "key": "B",
-        "text": "valorile, simbolurile, credințele, miturile, ritualurile, ceremoniile și aspirațiile care definesc spațiul spiritual al unei organizații"
+        "text": "valorile, simbolurile, credintele, miturile, ritualurile, ceremoniile si aspiratiile care definesc spatiul spiritual al unei organizatii"
       },
       {
         "key": "C",
-        "text": "satisfacția clienților a unei companii"
+        "text": "satisfactia clientilor a unei companii"
       },
       {
         "key": "D",
@@ -2333,11 +2333,11 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "comunicarea cu angajații și modul de lucru"
+        "text": "comunicarea cu angajatii si modul de lucru"
       }
     ],
     "correct": "B",
-    "correctText": "valorile, simbolurile, credințele, miturile, ritualurile, ceremoniile și aspirațiile care definesc spațiul spiritual al unei organizații"
+    "correctText": "valorile, simbolurile, credintele, miturile, ritualurile, ceremoniile si aspiratiile care definesc spatiul spiritual al unei organizatii"
   },
   {
     "id": "Management General-24",
@@ -2347,93 +2347,93 @@ window.QUESTIONS = [
     "answers": [
       {
         "key": "A",
-        "text": "un set de acțiuni care vizează exclusiv realizarea de planuri proiectate pentru atingerea obiectivelor firmei"
+        "text": "un set de actiuni care vizeaza exclusiv realizarea de planuri proiectate pentru atingerea obiectivelor firmei"
       },
       {
         "key": "B",
-        "text": "un proces de adaptare în timp a firmei la mediul ambiant (înconjurător) în care funcționează"
+        "text": "un proces de adaptare in timp a firmei la mediul ambiant (inconjurator) in care functioneaza"
       },
       {
         "key": "C",
-        "text": "o colecție de obiective critice într-un sistem de planificare al firmei, care, odată soluționate de către manageri, pot asigura succesul entității respective"
+        "text": "o colectie de obiective critice intr-un sistem de planificare al firmei, care, odata solutionate de catre manageri, pot asigura succesul entitatii respective"
       },
       {
         "key": "D",
-        "text": "un grup de teorii (linii virtuale) de evoluție, care oferă managerilor suportul pentru soluționarea obiectivelor planificate, facilitând procesul decizional"
+        "text": "un grup de teorii (linii virtuale) de evolutie, care ofera managerilor suportul pentru solutionarea obiectivelor planificate, facilitand procesul decizional"
       },
       {
         "key": "E",
-        "text": "o activitate a managerilor, care incumbă responsabilități pentru mersul (evoluția) imprimat firmei asigurându-se un anumit nivel de succes"
+        "text": "o activitate a managerilor, care incumba responsabilitati pentru mersul (evolutia) imprimat firmei asigurandu-se un anumit nivel de succes"
       }
     ],
     "correct": "A",
-    "correctText": "un set de acțiuni care vizează exclusiv realizarea de planuri proiectate pentru atingerea obiectivelor firmei"
+    "correctText": "un set de actiuni care vizeaza exclusiv realizarea de planuri proiectate pentru atingerea obiectivelor firmei"
   },
   {
     "id": "Management General-25",
     "nr": 25,
     "category": "Management General",
-    "question": "Identificați varianta corectă:",
+    "question": "Identificati varianta corecta:",
     "answers": [
       {
         "key": "A",
-        "text": "după sfera de cuprindere, strategiile pot fi independente și integrate"
+        "text": "dupa sfera de cuprindere, strategiile pot fi independente si integrate"
       },
       {
         "key": "B",
-        "text": "după dinamica obiectivelor, strategiile pot fi de redresare, de consolidare și de dezvoltare"
+        "text": "dupa dinamica obiectivelor, strategiile pot fi de redresare, de consolidare si de dezvoltare"
       },
       {
         "key": "C",
-        "text": "după tipul obiectivelor, strategiile pot fi independente și integrate"
+        "text": "dupa tipul obiectivelor, strategiile pot fi independente si integrate"
       },
       {
         "key": "D",
-        "text": "după gradul de participare a managementului firmei la elaborarea strategiilor, acestea pot fi inovaționale sau ofensive"
+        "text": "dupa gradul de participare a managementului firmei la elaborarea strategiilor, acestea pot fi inovationale sau ofensive"
       },
       {
         "key": "E",
-        "text": "după sfera de cuprindere strategiile pot fi de specializare și de diversificare"
+        "text": "dupa sfera de cuprindere strategiile pot fi de specializare si de diversificare"
       }
     ],
     "correct": "B",
-    "correctText": "după dinamica obiectivelor, strategiile pot fi de redresare, de consolidare și de dezvoltare"
+    "correctText": "dupa dinamica obiectivelor, strategiile pot fi de redresare, de consolidare si de dezvoltare"
   },
   {
     "id": "Management General-26",
     "nr": 26,
     "category": "Management General",
-    "question": "Elaborarea unei strategii, indiferent de tipul ei, este un proces complex, în cadrul căruia etapa de analiză:",
+    "question": "Elaborarea unei strategii, indiferent de tipul ei, este un proces complex, in cadrul caruia etapa de analiza:",
     "answers": [
       {
         "key": "A",
-        "text": "urmărește stabilirea cât mai exact posibil a locului întreprinderii în mediul în care își desfășoară activitatea"
+        "text": "urmareste stabilirea cat mai exact posibil a locului intreprinderii in mediul in care isi desfasoara activitatea"
       },
       {
         "key": "B",
-        "text": "presupune restrângerea sau diversificarea domeniilor de activitate"
+        "text": "presupune restrangerea sau diversificarea domeniilor de activitate"
       },
       {
         "key": "C",
-        "text": "este condiționată de identificarea elementelor de dezvoltare, consolidare sau abandon, al domeniului de activitate"
+        "text": "este conditionata de identificarea elementelor de dezvoltare, consolidare sau abandon, al domeniului de activitate"
       },
       {
         "key": "D",
-        "text": "presupune stabilirea clară a direcțiilor de dezvoltare ulterioară"
+        "text": "presupune stabilirea clara a directiilor de dezvoltare ulterioara"
       },
       {
         "key": "E",
-        "text": "presupune dimensionarea exactă a efectelor potențiale"
+        "text": "presupune dimensionarea exacta a efectelor potentiale"
       }
     ],
     "correct": "A",
-    "correctText": "urmărește stabilirea cât mai exact posibil a locului întreprinderii în mediul în care își desfășoară activitatea"
+    "correctText": "urmareste stabilirea cat mai exact posibil a locului intreprinderii in mediul in care isi desfasoara activitatea"
   },
   {
     "id": "Management General-27",
     "nr": 27,
     "category": "Management General",
-    "question": "Organizarea procesuală, ca metodă de organizare:",
+    "question": "Organizarea procesuala, ca metoda de organizare:",
     "answers": [
       {
         "key": "A",
@@ -2463,7 +2463,7 @@ window.QUESTIONS = [
     "id": "Management General-28",
     "nr": 28,
     "category": "Management General",
-    "question": "Organizarea structurală reprezintă:",
+    "question": "Organizarea structurala reprezinta:",
     "answers": [
       {
         "key": "A",
@@ -2471,11 +2471,11 @@ window.QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "investigarea sectoarelor susceptibile de perfecționare"
+        "text": "investigarea sectoarelor susceptibile de perfectionare"
       },
       {
         "key": "C",
-        "text": "coordonarea și sintetizarea sistemului informațional managerial"
+        "text": "coordonarea si sintetizarea sistemului informational managerial"
       },
       {
         "key": "D",
@@ -2483,77 +2483,77 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "gruparea funcțiunilor, activităților, atribuțiilor și sarcinilor și repartizarea acestora în scopul realizării lor, pe grupuri de lucru și salariați"
+        "text": "gruparea functiunilor, activitatilor, atributiilor si sarcinilor si repartizarea acestora in scopul realizarii lor, pe grupuri de lucru si salariati"
       }
     ],
     "correct": "E",
-    "correctText": "gruparea funcțiunilor, activităților, atribuțiilor și sarcinilor și repartizarea acestora în scopul realizării lor, pe grupuri de lucru și salariați"
+    "correctText": "gruparea functiunilor, activitatilor, atributiilor si sarcinilor si repartizarea acestora in scopul realizarii lor, pe grupuri de lucru si salariati"
   },
   {
     "id": "Management General-29",
     "nr": 29,
     "category": "Management General",
-    "question": "Definiția generalizată a structurii organizatorice derivă din formulări diferite. Identificați răspunsul eronat:",
+    "question": "Definitia generalizata a structurii organizatorice deriva din formulari diferite. Identificati raspunsul eronat:",
     "answers": [
       {
         "key": "A",
-        "text": "structura organizatorică este o schemă de repartizare a sarcinilor și responsabilităților în exteriorul firmei"
+        "text": "structura organizatorica este o schema de repartizare a sarcinilor si responsabilitatilor in exteriorul firmei"
       },
       {
         "key": "B",
-        "text": "structura organizatorică reprezintă coordonarea planificată a activităților unui număr de persoane pentru atingerea unui obiectiv comun, munca și funcțiunile fiind împărțite, iar autoritatea și responsabilitatea ierarhizate"
+        "text": "structura organizatorica reprezinta coordonarea planificata a activitatilor unui numar de persoane pentru atingerea unui obiectiv comun, munca si functiunile fiind impartite, iar autoritatea si responsabilitatea ierarhizate"
       },
       {
         "key": "C",
-        "text": "structura organizatorică este o schemă de comunicație între diverse niveluri și administratori, în cadrul acestei scheme circulând informațiile necesare"
+        "text": "structura organizatorica este o schema de comunicatie intre diverse niveluri si administratori, in cadrul acestei scheme circuland informatiile necesare"
       },
       {
         "key": "D",
-        "text": "structura organizatorică este un mijloc de diviziune a muncii, între sarcini și coordonarea lor"
+        "text": "structura organizatorica este un mijloc de diviziune a muncii, intre sarcini si coordonarea lor"
       },
       {
         "key": "E",
-        "text": "structura organizatorică descrie raporturile dintre servicii și legăturile ierarhice între administratori de pe diferite niveluri"
+        "text": "structura organizatorica descrie raporturile dintre servicii si legaturile ierarhice intre administratori de pe diferite niveluri"
       }
     ],
     "correct": "A",
-    "correctText": "structura organizatorică este o schemă de repartizare a sarcinilor și responsabilităților în exteriorul firmei"
+    "correctText": "structura organizatorica este o schema de repartizare a sarcinilor si responsabilitatilor in exteriorul firmei"
   },
   {
     "id": "Management General-30",
     "nr": 30,
     "category": "Management General",
-    "question": "Organizarea, ca funcție managerială reprezintă:",
+    "question": "Organizarea, ca functie manageriala reprezinta:",
     "answers": [
       {
         "key": "A",
-        "text": "ansamblul acțiunilor întreprinse în vederea utilizării cu maximum de eficiență exclusiv a resurselor materiale"
+        "text": "ansamblul actiunilor intreprinse in vederea utilizarii cu maximum de eficienta exclusiv a resurselor materiale"
       },
       {
         "key": "B",
-        "text": "ansamblul acțiunilor întreprinse în vederea utilizării cu maximum de eficiență a resurselor materiale, umane și financiare pe care le are la dispoziție societatea comercială"
+        "text": "ansamblul actiunilor intreprinse in vederea utilizarii cu maximum de eficienta a resurselor materiale, umane si financiare pe care le are la dispozitie societatea comerciala"
       },
       {
         "key": "C",
-        "text": "ansamblul acțiunilor întreprinse în vederea utilizării cu maximum de eficiență doar a resurselor materiale și umane"
+        "text": "ansamblul actiunilor intreprinse in vederea utilizarii cu maximum de eficienta doar a resurselor materiale si umane"
       },
       {
         "key": "D",
-        "text": "ansamblul acțiunilor întreprinse în vederea utilizării cu minimum de eficiență a resurselor financiare pe care le are la dispoziție societatea comercială"
+        "text": "ansamblul actiunilor intreprinse in vederea utilizarii cu minimum de eficienta a resurselor financiare pe care le are la dispozitie societatea comerciala"
       },
       {
         "key": "E",
-        "text": "ansamblul acțiunilor întreprinse în vederea utilizării cu minimum de eficiență a resurselor materiale"
+        "text": "ansamblul actiunilor intreprinse in vederea utilizarii cu minimum de eficienta a resurselor materiale"
       }
     ],
     "correct": "B",
-    "correctText": "ansamblul acțiunilor întreprinse în vederea utilizării cu maximum de eficiență a resurselor materiale, umane și financiare pe care le are la dispoziție societatea comercială"
+    "correctText": "ansamblul actiunilor intreprinse in vederea utilizarii cu maximum de eficienta a resurselor materiale, umane si financiare pe care le are la dispozitie societatea comerciala"
   },
   {
     "id": "Management General-31",
     "nr": 31,
     "category": "Management General",
-    "question": "Ce tip de strategie este recomandată pentru o finnă profitabilă, cu un sistem de conducere descentralizat şi care acţionează pe o piaţă în plină dezvoltare?",
+    "question": "Ce tip de strategie este recomandata pentru o finna profitabila, cu un sistem de conducere descentralizat si care actioneaza pe o piata in plina dezvoltare?",
     "answers": [
       {
         "key": "A",
@@ -2561,15 +2561,15 @@ window.QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "strategie de menţinere"
+        "text": "strategie de mentinere"
       },
       {
         "key": "C",
-        "text": "strategie ofensivă"
+        "text": "strategie ofensiva"
       },
       {
         "key": "D",
-        "text": "strategie defensivă"
+        "text": "strategie defensiva"
       },
       {
         "key": "E",
@@ -2577,17 +2577,17 @@ window.QUESTIONS = [
       }
     ],
     "correct": "C",
-    "correctText": "strategie ofensivă"
+    "correctText": "strategie ofensiva"
   },
   {
     "id": "Management General-32",
     "nr": 32,
     "category": "Management General",
-    "question": "Deoarece o întreprindere reuneşte resurse umane, materiale, financiare între care se stabilesc multiple şi profunde legături, aceasta este considerată:",
+    "question": "Deoarece o intreprindere reuneste resurse umane, materiale, financiare intre care se stabilesc multiple si profunde legaturi, aceasta este considerata:",
     "answers": [
       {
         "key": "A",
-        "text": "un sistem închis"
+        "text": "un sistem inchis"
       },
       {
         "key": "B",
@@ -2613,67 +2613,67 @@ window.QUESTIONS = [
     "id": "Management General-33",
     "nr": 33,
     "category": "Management General",
-    "question": "H. Fayol a fost printre primii analiști ai proceselor de management care a identificat:",
+    "question": "H. Fayol a fost printre primii analisti ai proceselor de management care a identificat:",
     "answers": [
       {
         "key": "A",
-        "text": "cele 5 funcții principale în administrarea industrială: producția, execuția, financiară, previziunea, organizarea, comanda, coordonarea și controlul"
+        "text": "cele 5 functii principale in administrarea industriala: productia, executia, financiara, previziunea, organizarea, comanda, coordonarea si controlul"
       },
       {
         "key": "B",
-        "text": "ansamblul acțiunilor întreprinse în vederea utilizării cu maximum de eficiență a resurselor financiare pe care le are la dispoziție societatea comercială"
+        "text": "ansamblul actiunilor intreprinse in vederea utilizarii cu maximum de eficienta a resurselor financiare pe care le are la dispozitie societatea comerciala"
       },
       {
         "key": "C",
-        "text": "ansamblul acțiunilor întreprinse în vederea utilizării cu maximum de eficiență a resurselor umane pe care le are la dispoziție societatea comercială"
+        "text": "ansamblul actiunilor intreprinse in vederea utilizarii cu maximum de eficienta a resurselor umane pe care le are la dispozitie societatea comerciala"
       },
       {
         "key": "D",
-        "text": "activitățile, atribuțiile și sarcinile în funcție de anumite criterii și repartizarea acestora în scopul realizării lor, pe grupuri de lucru și salariați"
+        "text": "activitatile, atributiile si sarcinile in functie de anumite criterii si repartizarea acestora in scopul realizarii lor, pe grupuri de lucru si salariati"
       },
       {
         "key": "E",
-        "text": "funcțiunile activităților, atribuțiile și sarcinile într-o firmă"
+        "text": "functiunile activitatilor, atributiile si sarcinile intr-o firma"
       }
     ],
     "correct": "A",
-    "correctText": "cele 5 funcții principale în administrarea industrială: producția, execuția, financiară, previziunea, organizarea, comanda, coordonarea și controlul"
+    "correctText": "cele 5 functii principale in administrarea industriala: productia, executia, financiara, previziunea, organizarea, comanda, coordonarea si controlul"
   },
   {
     "id": "Management General-34",
     "nr": 34,
     "category": "Management General",
-    "question": "În cadrul funcției de organizare, managerul:",
+    "question": "In cadrul functiei de organizare, managerul:",
     "answers": [
       {
         "key": "A",
-        "text": "delimitează acțiunile, respectiv munca fizică de cea intelectuală"
+        "text": "delimiteaza actiunile, respectiv munca fizica de cea intelectuala"
       },
       {
         "key": "B",
-        "text": "armonizează deciziile și acțiunile angajaților firmei"
+        "text": "armonizeaza deciziile si actiunile angajatilor firmei"
       },
       {
         "key": "C",
-        "text": "abordează exclusiv înzestrarea tehnică și procesele tehnologice"
+        "text": "abordeaza exclusiv inzestrarea tehnica si procesele tehnologice"
       },
       {
         "key": "D",
-        "text": "vizează orizontul, gradul de detaliere și obligativitățile de îndeplinire a sarcinilor"
+        "text": "vizeaza orizontul, gradul de detaliere si obligativitatile de indeplinire a sarcinilor"
       },
       {
         "key": "E",
-        "text": "determină angajații să contribuie la îndeplinirea obiectivelor firmei"
+        "text": "determina angajatii sa contribuie la indeplinirea obiectivelor firmei"
       }
     ],
     "correct": "A",
-    "correctText": "delimitează acțiunile, respectiv munca fizică de cea intelectuală"
+    "correctText": "delimiteaza actiunile, respectiv munca fizica de cea intelectuala"
   },
   {
     "id": "Management General-35",
     "nr": 35,
     "category": "Management General",
-    "question": "„Obținerea unei cote de piață superioare celei deținute de concurență” nu este un obiectiv SMART pentru că:",
+    "question": "„Obtinerea unei cote de piata superioare celei detinute de concurenta” nu este un obiectiv SMART pentru ca:",
     "answers": [
       {
         "key": "A",
@@ -2681,11 +2681,11 @@ window.QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "nu este măsurabil"
+        "text": "nu este masurabil"
       },
       {
         "key": "C",
-        "text": "nu încurajează angajații să participe la realizarea lui"
+        "text": "nu incurajeaza angajatii sa participe la realizarea lui"
       },
       {
         "key": "D",
@@ -2697,17 +2697,17 @@ window.QUESTIONS = [
       }
     ],
     "correct": "B",
-    "correctText": "nu este măsurabil"
+    "correctText": "nu este masurabil"
   },
   {
     "id": "Management General-36",
     "nr": 36,
     "category": "Management General",
-    "question": "Întregul proces managerial din cadrul firmei este un proces de însușire și transmitere a:",
+    "question": "Intregul proces managerial din cadrul firmei este un proces de insusire si transmitere a:",
     "answers": [
       {
         "key": "A",
-        "text": "informațiilor"
+        "text": "informatiilor"
       },
       {
         "key": "B",
@@ -2727,13 +2727,13 @@ window.QUESTIONS = [
       }
     ],
     "correct": "A",
-    "correctText": "informațiilor"
+    "correctText": "informatiilor"
   },
   {
     "id": "Management General-37",
     "nr": 37,
     "category": "Management General",
-    "question": "Identificați modalitățile majore de eficientizare a muncii manageriale:\n1. îmbunătățirea raporturilor de colaborare cu subordonații\n2. utilizarea eficientă a secretariatului\n3. folosirea colaboratorilor externi\n4. îmbunătățirea raporturilor de colaborare cu subsistemele din care face parte firma\n5. respectarea programului de lucru de 8 ore.",
+    "question": "Identificati modalitatile majore de eficientizare a muncii manageriale:\n1. imbunatatirea raporturilor de colaborare cu subordonatii\n2. utilizarea eficienta a secretariatului\n3. folosirea colaboratorilor externi\n4. imbunatatirea raporturilor de colaborare cu subsistemele din care face parte firma\n5. respectarea programului de lucru de 8 ore.",
     "answers": [
       {
         "key": "A",
@@ -2763,67 +2763,67 @@ window.QUESTIONS = [
     "id": "Management General-38",
     "nr": 38,
     "category": "Management General",
-    "question": "La nivel de firmă se identifică mai multe categorii de informații, printre care nu se regăsesc:",
+    "question": "La nivel de firma se identifica mai multe categorii de informatii, printre care nu se regasesc:",
     "answers": [
       {
         "key": "A",
-        "text": "informațiile primare"
+        "text": "informatiile primare"
       },
       {
         "key": "B",
-        "text": "informațiile scrise"
+        "text": "informatiile scrise"
       },
       {
         "key": "C",
-        "text": "informațiile oblice"
+        "text": "informatiile oblice"
       },
       {
         "key": "D",
-        "text": "informațiile orale"
+        "text": "informatiile orale"
       },
       {
         "key": "E",
-        "text": "informații audio-vizuale"
+        "text": "informatii audio-vizuale"
       }
     ],
     "correct": "C",
-    "correctText": "informațiile oblice"
+    "correctText": "informatiile oblice"
   },
   {
     "id": "Management General-39",
     "nr": 39,
     "category": "Management General",
-    "question": "Informațiile trebuie să îndeplinească diferite condiții pentru a fi eficiente și operative în procesul decizional. Identificați varianta de răspuns corectă:",
+    "question": "Informatiile trebuie sa indeplineasca diferite conditii pentru a fi eficiente si operative in procesul decizional. Identificati varianta de raspuns corecta:",
     "answers": [
       {
         "key": "A",
-        "text": "informațiile trebuie să fie veridice"
+        "text": "informatiile trebuie sa fie veridice"
       },
       {
         "key": "B",
-        "text": "informațiile trebuie transmise chiar dacă nu sunt necesare"
+        "text": "informatiile trebuie transmise chiar daca nu sunt necesare"
       },
       {
         "key": "C",
-        "text": "informațiile trebuie să fie incomplete"
+        "text": "informatiile trebuie sa fie incomplete"
       },
       {
         "key": "D",
-        "text": "informațiile trebuie să aibă eminamente caracter subiectiv"
+        "text": "informatiile trebuie sa aiba eminamente caracter subiectiv"
       },
       {
         "key": "E",
-        "text": "informațiile trebuie să aibă eminamente caracter obiectiv"
+        "text": "informatiile trebuie sa aiba eminamente caracter obiectiv"
       }
     ],
     "correct": "A",
-    "correctText": "informațiile trebuie să fie veridice"
+    "correctText": "informatiile trebuie sa fie veridice"
   },
   {
     "id": "Management General-40",
     "nr": 40,
     "category": "Management General",
-    "question": "Nu este un avantaj al afacerilor mici prin comparație cu cele mari:",
+    "question": "Nu este un avantaj al afacerilor mici prin comparatie cu cele mari:",
     "answers": [
       {
         "key": "A",
@@ -2831,41 +2831,41 @@ window.QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "posibilitatea unei mai bune verificări a calității"
+        "text": "posibilitatea unei mai bune verificari a calitatii"
       },
       {
         "key": "C",
-        "text": "posibilitatea de a se adapta mai repede la cerințele pieței"
+        "text": "posibilitatea de a se adapta mai repede la cerintele pietei"
       },
       {
         "key": "D",
-        "text": "posibilitatea adoptării unui model managerial complex"
+        "text": "posibilitatea adoptarii unui model managerial complex"
       },
       {
         "key": "E",
-        "text": "existența unor riscuri mai mari"
+        "text": "existenta unor riscuri mai mari"
       }
     ],
     "correct": "D",
-    "correctText": "posibilitatea adoptării unui model managerial complex"
+    "correctText": "posibilitatea adoptarii unui model managerial complex"
   },
   {
     "id": "Management General-41",
     "nr": 41,
     "category": "Management General",
-    "question": "Pentru angajarea într-un post managerial, una dintre următoarele informații va avea, de regulă, cea mai mare relevanță:",
+    "question": "Pentru angajarea intr-un post managerial, una dintre urmatoarele informatii va avea, de regula, cea mai mare relevanta:",
     "answers": [
       {
         "key": "A",
-        "text": "vechimea în muncă"
+        "text": "vechimea in munca"
       },
       {
         "key": "B",
-        "text": "numele și adresa"
+        "text": "numele si adresa"
       },
       {
         "key": "C",
-        "text": "vârsta"
+        "text": "varsta"
       },
       {
         "key": "D",
@@ -2873,77 +2873,77 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "performanțele în posturi similare"
+        "text": "performantele in posturi similare"
       }
     ],
     "correct": "E",
-    "correctText": "performanțele în posturi similare"
+    "correctText": "performantele in posturi similare"
   },
   {
     "id": "Management General-42",
     "nr": 42,
     "category": "Management General",
-    "question": "Identificați varianta corectă de răspuns cu privire la sistemul informațional dintr-o firmă:",
+    "question": "Identificati varianta corecta de raspuns cu privire la sistemul informational dintr-o firma:",
     "answers": [
       {
         "key": "A",
-        "text": "Modularea înseamnă transformarea unui mesaj într-un semnal, cu scopul de a facilita transmisiunea prin mediul dat"
+        "text": "Modularea inseamna transformarea unui mesaj intr-un semnal, cu scopul de a facilita transmisiunea prin mediul dat"
       },
       {
         "key": "B",
-        "text": "Decodarea este transformarea inversă modulării"
+        "text": "Decodarea este transformarea inversa modularii"
       },
       {
         "key": "C",
-        "text": "Demodularea înseamnă transformarea unui mesaj într-un semnal discret, efectuat cu scopul de a mări eficiența transmisiunii"
+        "text": "Demodularea inseamna transformarea unui mesaj intr-un semnal discret, efectuat cu scopul de a mari eficienta transmisiunii"
       },
       {
         "key": "D",
-        "text": "Sursa este reprezentată de totalitatea mijloacelor destinate transmisiunii semnalului"
+        "text": "Sursa este reprezentata de totalitatea mijloacelor destinate transmisiunii semnalului"
       },
       {
         "key": "E",
-        "text": "Canalul este constituit din destinația finală la care trebuie să ajungă mesajul"
+        "text": "Canalul este constituit din destinatia finala la care trebuie sa ajunga mesajul"
       }
     ],
     "correct": "A",
-    "correctText": "Modularea înseamnă transformarea unui mesaj într-un semnal, cu scopul de a facilita transmisiunea prin mediul dat"
+    "correctText": "Modularea inseamna transformarea unui mesaj intr-un semnal, cu scopul de a facilita transmisiunea prin mediul dat"
   },
   {
     "id": "Management General-43",
     "nr": 43,
     "category": "Management General",
-    "question": "Componența primordială a sistemului informațional managerial este:",
+    "question": "Componenta primordiala a sistemului informational managerial este:",
     "answers": [
       {
         "key": "A",
-        "text": "informația, care poate fi definită ca element de înștiințare, care provoacă managerului și celorlalte cadre de conducere reacții ce declanșează decizii și acțiuni"
+        "text": "informatia, care poate fi definita ca element de instiintare, care provoaca managerului si celorlalte cadre de conducere reactii ce declanseaza decizii si actiuni"
       },
       {
         "key": "B",
-        "text": "reprezentată de direcționarea conștientă a procesului de producție"
+        "text": "reprezentata de directionarea constienta a procesului de productie"
       },
       {
         "key": "C",
-        "text": "dată de totalitatea acțiunilor orientate spre scopuri manageriale precise"
+        "text": "data de totalitatea actiunilor orientate spre scopuri manageriale precise"
       },
       {
         "key": "D",
-        "text": "relativă"
+        "text": "relativa"
       },
       {
         "key": "E",
-        "text": "orientată spre scopuri manageriale probabile"
+        "text": "orientata spre scopuri manageriale probabile"
       }
     ],
     "correct": "A",
-    "correctText": "informația, care poate fi definită ca element de înștiințare, care provoacă managerului și celorlalte cadre de conducere reacții ce declanșează decizii și acțiuni"
+    "correctText": "informatia, care poate fi definita ca element de instiintare, care provoaca managerului si celorlalte cadre de conducere reactii ce declanseaza decizii si actiuni"
   },
   {
     "id": "Management General-44",
     "nr": 44,
     "category": "Management General",
-    "question": "În cadrul unei firme nu se vor lua în calcul informațiile:",
+    "question": "In cadrul unei firme nu se vor lua in calcul informatiile:",
     "answers": [
       {
         "key": "A",
@@ -2951,7 +2951,7 @@ window.QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "de evidență"
+        "text": "de evidenta"
       },
       {
         "key": "C",
@@ -2963,7 +2963,7 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "pentru susținerea activității financiar contabile"
+        "text": "pentru sustinerea activitatii financiar contabile"
       }
     ],
     "correct": "C",
@@ -2973,41 +2973,41 @@ window.QUESTIONS = [
     "id": "Management General-45",
     "nr": 45,
     "category": "Management General",
-    "question": "Identificați varianta eronată:",
+    "question": "Identificati varianta eronata:",
     "answers": [
       {
         "key": "A",
-        "text": "informațiile productiv-economice interne surprind factorii exogeni de natură economică, ai firmei"
+        "text": "informatiile productiv-economice interne surprind factorii exogeni de natura economica, ai firmei"
       },
       {
         "key": "B",
-        "text": "activitatea productiv-economică nu poate fi condusă exclusiv pe baza intuiției, experienței, dorințelor, intențiilor sau a unor inițiative spontane"
+        "text": "activitatea productiv-economica nu poate fi condusa exclusiv pe baza intuitiei, experientei, dorintelor, intentiilor sau a unor initiative spontane"
       },
       {
         "key": "C",
-        "text": "nu orice știre reprezintă o informație, ci numai aceea care înlătură nedeterminarea"
+        "text": "nu orice stire reprezinta o informatie, ci numai aceea care inlatura nedeterminarea"
       },
       {
         "key": "D",
-        "text": "informația reprezintă un element tactic în procesul decizional"
+        "text": "informatia reprezinta un element tactic in procesul decizional"
       },
       {
         "key": "E",
-        "text": "studiul informațiilor se poate realiza prin deducerea unor caracteristici ale acestora și a unor concluzii de natura internă și externă"
+        "text": "studiul informatiilor se poate realiza prin deducerea unor caracteristici ale acestora si a unor concluzii de natura interna si externa"
       }
     ],
     "correct": "A",
-    "correctText": "informațiile productiv-economice interne surprind factorii exogeni de natură economică, ai firmei"
+    "correctText": "informatiile productiv-economice interne surprind factorii exogeni de natura economica, ai firmei"
   },
   {
     "id": "Management General-46",
     "nr": 46,
     "category": "Management General",
-    "question": "În management, menirea actului decizional constă în:",
+    "question": "In management, menirea actului decizional consta in:",
     "answers": [
       {
         "key": "A",
-        "text": "elaborarea corectă a tuturor deciziilor"
+        "text": "elaborarea corecta a tuturor deciziilor"
       },
       {
         "key": "B",
@@ -3019,89 +3019,89 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "direcționarea conștientă a procesului de producție"
+        "text": "directionarea constienta a procesului de productie"
       },
       {
         "key": "E",
-        "text": "direcționarea conștientă a întregii activități economice și sociale a societății comerciale"
+        "text": "directionarea constienta a intregii activitati economice si sociale a societatii comerciale"
       }
     ],
     "correct": "E",
-    "correctText": "direcționarea conștientă a întregii activități economice și sociale a societății comerciale"
+    "correctText": "directionarea constienta a intregii activitati economice si sociale a societatii comerciale"
   },
   {
     "id": "Management General-47",
     "nr": 47,
     "category": "Management General",
-    "question": "Decizia managerială:",
+    "question": "Decizia manageriala:",
     "answers": [
       {
         "key": "A",
-        "text": "poate fi concisă sau contradictorie"
+        "text": "poate fi concisa sau contradictorie"
       },
       {
         "key": "B",
-        "text": "trebuie să fie fundamentată științific: să țină cont de realitățile din cadrul firmei, să înlăture improvizația, rutina"
+        "text": "trebuie sa fie fundamentata stiintific: sa tina cont de realitatile din cadrul firmei, sa inlature improvizatia, rutina"
       },
       {
         "key": "C",
-        "text": "trebuie să fie ineficientă"
+        "text": "trebuie sa fie ineficienta"
       },
       {
         "key": "D",
-        "text": "trebuie să aibă o perioadă mare de aplicare"
+        "text": "trebuie sa aiba o perioada mare de aplicare"
       },
       {
         "key": "E",
-        "text": "poate fi completă sau incompletă"
+        "text": "poate fi completa sau incompleta"
       }
     ],
     "correct": "B",
-    "correctText": "trebuie să fie fundamentată științific: să țină cont de realitățile din cadrul firmei, să înlăture improvizația, rutina"
+    "correctText": "trebuie sa fie fundamentata stiintific: sa tina cont de realitatile din cadrul firmei, sa inlature improvizatia, rutina"
   },
   {
     "id": "Management General-48",
     "nr": 48,
     "category": "Management General",
-    "question": "Identificați varianta de răspuns corectă:",
+    "question": "Identificati varianta de raspuns corecta:",
     "answers": [
       {
         "key": "A",
-        "text": "în funcție de timp, deciziile pot fi unice sau periodice"
+        "text": "in functie de timp, deciziile pot fi unice sau periodice"
       },
       {
         "key": "B",
-        "text": "după periodicitatea elaborării, deciziile pot fi tactice sau curente"
+        "text": "dupa periodicitatea elaborarii, deciziile pot fi tactice sau curente"
       },
       {
         "key": "C",
-        "text": "după numărul criteriilor decizionale folosite, deciziile pot fi curente sau de grup"
+        "text": "dupa numarul criteriilor decizionale folosite, deciziile pot fi curente sau de grup"
       },
       {
         "key": "D",
-        "text": "după periodicitatea elaborării lor, deciziile pot fi decizii unice sau repetitive"
+        "text": "dupa periodicitatea elaborarii lor, deciziile pot fi decizii unice sau repetitive"
       },
       {
         "key": "E",
-        "text": "în funcție de orizontul de timp, deciziile pot fi periodice sau aleatorii."
+        "text": "in functie de orizontul de timp, deciziile pot fi periodice sau aleatorii."
       }
     ],
     "correct": "D",
-    "correctText": "după periodicitatea elaborării lor, deciziile pot fi decizii unice sau repetitive"
+    "correctText": "dupa periodicitatea elaborarii lor, deciziile pot fi decizii unice sau repetitive"
   },
   {
     "id": "Management General-49",
     "nr": 49,
     "category": "Management General",
-    "question": "Este etapă a elaborării unei decizii:",
+    "question": "Este etapa a elaborarii unei decizii:",
     "answers": [
       {
         "key": "A",
-        "text": "identificarea și definirea problemei"
+        "text": "identificarea si definirea problemei"
       },
       {
         "key": "B",
-        "text": "identificarea opțiunilor salariaților"
+        "text": "identificarea optiunilor salariatilor"
       },
       {
         "key": "C",
@@ -3109,37 +3109,37 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "stabilirea exactă a ratei profitului"
+        "text": "stabilirea exacta a ratei profitului"
       },
       {
         "key": "E",
-        "text": "stabilirea exactă a cotei de piață"
+        "text": "stabilirea exacta a cotei de piata"
       }
     ],
     "correct": "A",
-    "correctText": "identificarea și definirea problemei"
+    "correctText": "identificarea si definirea problemei"
   },
   {
     "id": "Management General-50",
     "nr": 50,
     "category": "Management General",
-    "question": "Deciziile strategice stabilesc orientările de perspectivă, în sensul că se referă la:",
+    "question": "Deciziile strategice stabilesc orientarile de perspectiva, in sensul ca se refera la:",
     "answers": [
       {
         "key": "A",
-        "text": "o perioadă mai mică de un an"
+        "text": "o perioada mai mica de un an"
       },
       {
         "key": "B",
-        "text": "o perioadă de maximum 6 luni"
+        "text": "o perioada de maximum 6 luni"
       },
       {
         "key": "C",
-        "text": "o perioadă mai mare de un an"
+        "text": "o perioada mai mare de un an"
       },
       {
         "key": "D",
-        "text": "o perioadă de maximum 1 an"
+        "text": "o perioada de maximum 1 an"
       },
       {
         "key": "E",
@@ -3147,25 +3147,25 @@ window.QUESTIONS = [
       }
     ],
     "correct": "C",
-    "correctText": "o perioadă mai mare de un an"
+    "correctText": "o perioada mai mare de un an"
   },
   {
     "id": "Management General-51",
     "nr": 51,
     "category": "Management General",
-    "question": "În funcție de cunoașterea mediului ambiant de către decident și după natura variantelor decizionale, deciziile pot fi luate:",
+    "question": "In functie de cunoasterea mediului ambiant de catre decident si dupa natura variantelor decizionale, deciziile pot fi luate:",
     "answers": [
       {
         "key": "A",
-        "text": "în condiții de risc - se operează cu variante controlabile, realizarea obiectivului fiind considerată probabilă"
+        "text": "in conditii de risc - se opereaza cu variante controlabile, realizarea obiectivului fiind considerata probabila"
       },
       {
         "key": "B",
-        "text": "în condiții de certitudine - se cunosc variantele de realizare a obiectivelor, iar alternativele cu care se operează sunt controlabile, existând posibilitatea de previzionare a lor"
+        "text": "in conditii de certitudine - se cunosc variantele de realizare a obiectivelor, iar alternativele cu care se opereaza sunt controlabile, existand posibilitatea de previzionare a lor"
       },
       {
         "key": "C",
-        "text": "în condiții de incertitudine - variantele cu care se opereaza nu pot fi controlabile, realizarea obiectivului este un anumit grad de risc"
+        "text": "in conditii de incertitudine - variantele cu care se opereaza nu pot fi controlabile, realizarea obiectivului este un anumit grad de risc"
       },
       {
         "key": "D",
@@ -3177,7 +3177,7 @@ window.QUESTIONS = [
       }
     ],
     "correct": "B",
-    "correctText": "în condiții de certitudine - se cunosc variantele de realizare a obiectivelor, iar alternativele cu care se operează sunt controlabile, existând posibilitatea de previzionare a lor"
+    "correctText": "in conditii de certitudine - se cunosc variantele de realizare a obiectivelor, iar alternativele cu care se opereaza sunt controlabile, existand posibilitatea de previzionare a lor"
   },
   {
     "id": "Management General-52",
@@ -3213,15 +3213,15 @@ window.QUESTIONS = [
     "id": "Management General-53",
     "nr": 53,
     "category": "Management General",
-    "question": "Deciziile individuale la nivelul societății comerciale se adoptă de către:",
+    "question": "Deciziile individuale la nivelul societatii comerciale se adopta de catre:",
     "answers": [
       {
         "key": "A",
-        "text": "consiliul de administrație"
+        "text": "consiliul de administratie"
       },
       {
         "key": "B",
-        "text": "un singur cadru de conducere, potrivit unor norme care stabilesc limitele intervenției respective"
+        "text": "un singur cadru de conducere, potrivit unor norme care stabilesc limitele interventiei respective"
       },
       {
         "key": "C",
@@ -3233,41 +3233,41 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "salariați"
+        "text": "salariati"
       }
     ],
     "correct": "B",
-    "correctText": "un singur cadru de conducere, potrivit unor norme care stabilesc limitele intervenției respective"
+    "correctText": "un singur cadru de conducere, potrivit unor norme care stabilesc limitele interventiei respective"
   },
   {
     "id": "Management General-54",
     "nr": 54,
     "category": "Management General",
-    "question": "Metoda managerială reprezintă:",
+    "question": "Metoda manageriala reprezinta:",
     "answers": [
       {
         "key": "A",
-        "text": "ansamblul datelor, informațiilor și fluxurilor informaționale"
+        "text": "ansamblul datelor, informatiilor si fluxurilor informationale"
       },
       {
         "key": "B",
-        "text": "modalitatea prin care managerul acționează pe piața financiară"
+        "text": "modalitatea prin care managerul actioneaza pe piata financiara"
       },
       {
         "key": "C",
-        "text": "modalitatea în care managerul realizează procesul managerial, transformând informațiile în acțiune cu ajutorul deciziilor, prin armonizarea resurselor cu cerințele și urmărind rezultatele maxime"
+        "text": "modalitatea in care managerul realizeaza procesul managerial, transformand informatiile in actiune cu ajutorul deciziilor, prin armonizarea resurselor cu cerintele si urmarind rezultatele maxime"
       },
       {
         "key": "D",
-        "text": "nivelul veniturilor, cheltuielilor și profitului"
+        "text": "nivelul veniturilor, cheltuielilor si profitului"
       },
       {
         "key": "E",
-        "text": "modalitatea prin care managerul acționează pe piața valutară"
+        "text": "modalitatea prin care managerul actioneaza pe piata valutara"
       }
     ],
     "correct": "C",
-    "correctText": "modalitatea în care managerul realizează procesul managerial, transformând informațiile în acțiune cu ajutorul deciziilor, prin armonizarea resurselor cu cerințele și urmărind rezultatele maxime"
+    "correctText": "modalitatea in care managerul realizeaza procesul managerial, transformand informatiile in actiune cu ajutorul deciziilor, prin armonizarea resurselor cu cerintele si urmarind rezultatele maxime"
   },
   {
     "id": "Management General-55",
@@ -3277,45 +3277,45 @@ window.QUESTIONS = [
     "answers": [
       {
         "key": "A",
-        "text": "un mod de a asigura desfășurarea activității managerului"
+        "text": "un mod de a asigura desfasurarea activitatii managerului"
       },
       {
         "key": "B",
-        "text": "totalitatea instrucțiunilor cu privire la concepția managerului pentru realizarea obiectivelor"
+        "text": "totalitatea instructiunilor cu privire la conceptia managerului pentru realizarea obiectivelor"
       },
       {
         "key": "C",
-        "text": "ansamblul de principii, metode și mijloace destinate elaborării de metode matematice"
+        "text": "ansamblul de principii, metode si mijloace destinate elaborarii de metode matematice"
       },
       {
         "key": "D",
-        "text": "totalitatea obiectivelor generale ale societății comerciale"
+        "text": "totalitatea obiectivelor generale ale societatii comerciale"
       },
       {
         "key": "E",
-        "text": "un mod de a asigura desfășurarea și evaluarea activității managerului, potrivit realizării obiectivelor proprii pe termen lung sau scurt și concordanței acestora cu obiectivele generale ale societății comerciale"
+        "text": "un mod de a asigura desfasurarea si evaluarea activitatii managerului, potrivit realizarii obiectivelor proprii pe termen lung sau scurt si concordantei acestora cu obiectivele generale ale societatii comerciale"
       }
     ],
     "correct": "E",
-    "correctText": "un mod de a asigura desfășurarea și evaluarea activității managerului, potrivit realizării obiectivelor proprii pe termen lung sau scurt și concordanței acestora cu obiectivele generale ale societății comerciale"
+    "correctText": "un mod de a asigura desfasurarea si evaluarea activitatii managerului, potrivit realizarii obiectivelor proprii pe termen lung sau scurt si concordantei acestora cu obiectivele generale ale societatii comerciale"
   },
   {
     "id": "Management General-56",
     "nr": 56,
     "category": "Management General",
-    "question": "Managementul prin alternative constă în faptul că:",
+    "question": "Managementul prin alternative consta in faptul ca:",
     "answers": [
       {
         "key": "A",
-        "text": "luarea deciziilor se realizează independent de voința managerului"
+        "text": "luarea deciziilor se realizeaza independent de vointa managerului"
       },
       {
         "key": "B",
-        "text": "modelează procesele economice"
+        "text": "modeleaza procesele economice"
       },
       {
         "key": "C",
-        "text": "transformă informațiile în acțiune"
+        "text": "transforma informatiile in actiune"
       },
       {
         "key": "D",
@@ -3323,63 +3323,63 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "anterior adoptării deciziei, se studiază mai multe variante, respectiv alternative"
+        "text": "anterior adoptarii deciziei, se studiaza mai multe variante, respectiv alternative"
       }
     ],
     "correct": "E",
-    "correctText": "anterior adoptării deciziei, se studiază mai multe variante, respectiv alternative"
+    "correctText": "anterior adoptarii deciziei, se studiaza mai multe variante, respectiv alternative"
   },
   {
     "id": "Management General-57",
     "nr": 57,
     "category": "Management General",
-    "question": "Metoda managerială reprezintă:",
+    "question": "Metoda manageriala reprezinta:",
     "answers": [
       {
         "key": "A",
-        "text": "o modalitate de cercetare, cunoaștere și transformare a realității obiective în vederea atingerii unui scop"
+        "text": "o modalitate de cercetare, cunoastere si transformare a realitatii obiective in vederea atingerii unui scop"
       },
       {
         "key": "B",
-        "text": "totalitatea obiectivelor generale ale societății comerciale"
+        "text": "totalitatea obiectivelor generale ale societatii comerciale"
       },
       {
         "key": "C",
-        "text": "modalitatea prin care managerul acționează pe piața financiară"
+        "text": "modalitatea prin care managerul actioneaza pe piata financiara"
       },
       {
         "key": "D",
-        "text": "calea prin care managerul transformă toate informațiile cu ajutorul deciziilor"
+        "text": "calea prin care managerul transforma toate informatiile cu ajutorul deciziilor"
       },
       {
         "key": "E",
-        "text": "nivelul veniturilor și cheltuielilor societății comerciale"
+        "text": "nivelul veniturilor si cheltuielilor societatii comerciale"
       }
     ],
     "correct": "A",
-    "correctText": "o modalitate de cercetare, cunoaștere și transformare a realității obiective în vederea atingerii unui scop"
+    "correctText": "o modalitate de cercetare, cunoastere si transformare a realitatii obiective in vederea atingerii unui scop"
   },
   {
     "id": "Management General-58",
     "nr": 58,
     "category": "Management General",
-    "question": "Necesitatea existenței metodelor manageriale într-o societate comercială este dictată de:",
+    "question": "Necesitatea existentei metodelor manageriale intr-o societate comerciala este dictata de:",
     "answers": [
       {
         "key": "A",
-        "text": "totalitatea obiectivelor generale ale societății comerciale"
+        "text": "totalitatea obiectivelor generale ale societatii comerciale"
       },
       {
         "key": "B",
-        "text": "dinamica problematicii manageriale a societății comerciale, metodele fiind legate nemijlocit de scopul urmărit de către manager"
+        "text": "dinamica problematicii manageriale a societatii comerciale, metodele fiind legate nemijlocit de scopul urmarit de catre manager"
       },
       {
         "key": "C",
-        "text": "ansamblul coerent de proceduri automatizate, a căror utilizare se fundamentează pe utilizarea metodelor manageriale, care permit pregătirea și adoptarea de decizii"
+        "text": "ansamblul coerent de proceduri automatizate, a caror utilizare se fundamenteaza pe utilizarea metodelor manageriale, care permit pregatirea si adoptarea de decizii"
       },
       {
         "key": "D",
-        "text": "pregătirea și adoptarea de decizii"
+        "text": "pregatirea si adoptarea de decizii"
       },
       {
         "key": "E",
@@ -3387,21 +3387,21 @@ window.QUESTIONS = [
       }
     ],
     "correct": "B",
-    "correctText": "dinamica problematicii manageriale a societății comerciale, metodele fiind legate nemijlocit de scopul urmărit de către manager"
+    "correctText": "dinamica problematicii manageriale a societatii comerciale, metodele fiind legate nemijlocit de scopul urmarit de catre manager"
   },
   {
     "id": "Management General-59",
     "nr": 59,
     "category": "Management General",
-    "question": "Eliminarea perturbațiilor în ceea ce privește controlul managerial se referă la:",
+    "question": "Eliminarea perturbatiilor in ceea ce priveste controlul managerial se refera la:",
     "answers": [
       {
         "key": "A",
-        "text": "realizarea funcțiunilor manageriale"
+        "text": "realizarea functiunilor manageriale"
       },
       {
         "key": "B",
-        "text": "creșterea profitului"
+        "text": "cresterea profitului"
       },
       {
         "key": "C",
@@ -3413,107 +3413,107 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "identificarea cauzelor abaterilor, analizarea și elaborarea de măsuri concrete pentru înlăturarea lor"
+        "text": "identificarea cauzelor abaterilor, analizarea si elaborarea de masuri concrete pentru inlaturarea lor"
       }
     ],
     "correct": "E",
-    "correctText": "identificarea cauzelor abaterilor, analizarea și elaborarea de măsuri concrete pentru înlăturarea lor"
+    "correctText": "identificarea cauzelor abaterilor, analizarea si elaborarea de masuri concrete pentru inlaturarea lor"
   },
   {
     "id": "Management General-60",
     "nr": 60,
     "category": "Management General",
-    "question": "Controlul, ca funcție managerială se definește ca:",
+    "question": "Controlul, ca functie manageriala se defineste ca:",
     "answers": [
       {
         "key": "A",
-        "text": "ansamblul activităților care vizează estimarea profitului și a pierderilor unei firme"
+        "text": "ansamblul activitatilor care vizeaza estimarea profitului si a pierderilor unei firme"
       },
       {
         "key": "B",
-        "text": "ansamblul proceselor de urmărire a modului în care se desfășoară întreg procesul de management, cât și de reglare a activității prin găsirea unor soluții eficiente de identificare și eliminare a efectelor perturbațiilor apărute"
+        "text": "ansamblul proceselor de urmarire a modului in care se desfasoara intreg procesul de management, cat si de reglare a activitatii prin gasirea unor solutii eficiente de identificare si eliminare a efectelor perturbatiilor aparute"
       },
       {
         "key": "C",
-        "text": "totalitatea soluțiilor eficiente, de identificare și eliminare a efectelor perturbațiilor apărute în funcționarea sistemului de management"
+        "text": "totalitatea solutiilor eficiente, de identificare si eliminare a efectelor perturbatiilor aparute in functionarea sistemului de management"
       },
       {
         "key": "D",
-        "text": "obiectivele stabilite pentru componentele esențiale ale activității firmei"
+        "text": "obiectivele stabilite pentru componentele esentiale ale activitatii firmei"
       },
       {
         "key": "E",
-        "text": "procesul de adaptare la cerințele noilor condiții ale economiei de piață"
+        "text": "procesul de adaptare la cerintele noilor conditii ale economiei de piata"
       }
     ],
     "correct": "B",
-    "correctText": "ansamblul proceselor de urmărire a modului în care se desfășoară întreg procesul de management, cât și de reglare a activității prin găsirea unor soluții eficiente de identificare și eliminare a efectelor perturbațiilor apărute"
+    "correctText": "ansamblul proceselor de urmarire a modului in care se desfasoara intreg procesul de management, cat si de reglare a activitatii prin gasirea unor solutii eficiente de identificare si eliminare a efectelor perturbatiilor aparute"
   },
   {
     "id": "Management General-61",
     "nr": 61,
     "category": "Management General",
-    "question": "Rolul principal al controlului în managementul societății comerciale constă în:",
+    "question": "Rolul principal al controlului in managementul societatii comerciale consta in:",
     "answers": [
       {
         "key": "A",
-        "text": "contribuția sa practică atât la constatarea, cât și la soluționarea problemelor cu care se confruntă conducerea societății"
+        "text": "contributia sa practica atat la constatarea, cat si la solutionarea problemelor cu care se confrunta conducerea societatii"
       },
       {
         "key": "B",
-        "text": "urmărirea modului în care se desfășoară diferite acțiuni sau întreg procesul de management"
+        "text": "urmarirea modului in care se desfasoara diferite actiuni sau intreg procesul de management"
       },
       {
         "key": "C",
-        "text": "cuprinderea în obiectivele de control a tuturor componentelor esențiale ale activității societății comerciale"
+        "text": "cuprinderea in obiectivele de control a tuturor componentelor esentiale ale activitatii societatii comerciale"
       },
       {
         "key": "D",
-        "text": "găsirea unor soluții eficiente de identificare și eliminare a riscurilor"
+        "text": "gasirea unor solutii eficiente de identificare si eliminare a riscurilor"
       },
       {
         "key": "E",
-        "text": "analiza atentă a mediului ambiant"
+        "text": "analiza atenta a mediului ambiant"
       }
     ],
     "correct": "A",
-    "correctText": "contribuția sa practică atât la constatarea, cât și la soluționarea problemelor cu care se confruntă conducerea societății"
+    "correctText": "contributia sa practica atat la constatarea, cat si la solutionarea problemelor cu care se confrunta conducerea societatii"
   },
   {
     "id": "Management General-62",
     "nr": 62,
     "category": "Management General",
-    "question": "Succesul activității de cercetare-dezvoltare dintr-o societate comercială se concretizează:",
+    "question": "Succesul activitatii de cercetare-dezvoltare dintr-o societate comerciala se concretizeaza:",
     "answers": [
       {
         "key": "A",
-        "text": "prin înnoiri tehnologice costisitoare"
+        "text": "prin innoiri tehnologice costisitoare"
       },
       {
         "key": "B",
-        "text": "prin creșterea productivității"
+        "text": "prin cresterea productivitatii"
       },
       {
         "key": "C",
-        "text": "prin menținerea nivelului de competitivitate pe piață printr-un grad ridicat al profitului"
+        "text": "prin mentinerea nivelului de competitivitate pe piata printr-un grad ridicat al profitului"
       },
       {
         "key": "D",
-        "text": "îndeosebi printr-o riguroasă și eficientă desfășurare a întregului proces productiv"
+        "text": "indeosebi printr-o riguroasa si eficienta desfasurare a intregului proces productiv"
       },
       {
         "key": "E",
-        "text": "prin reducerea prețului de cost, precum și micșorarea consumurilor la materii prime și materiale"
+        "text": "prin reducerea pretului de cost, precum si micsorarea consumurilor la materii prime si materiale"
       }
     ],
     "correct": "E",
-    "correctText": "prin reducerea prețului de cost, precum și micșorarea consumurilor la materii prime și materiale"
+    "correctText": "prin reducerea pretului de cost, precum si micsorarea consumurilor la materii prime si materiale"
   },
   {
     "id": "Management General-63",
     "nr": 63,
     "category": "Management General",
-    "question": "Nu reprezintă elemente al unei strategii manageriale:",
+    "question": "Nu reprezinta elemente al unei strategii manageriale:",
     "answers": [
       {
         "key": "A",
@@ -3521,11 +3521,11 @@ window.QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "modalitățile de realizare a obiectivelor"
+        "text": "modalitatile de realizare a obiectivelor"
       },
       {
         "key": "C",
-        "text": "schimbările climatice"
+        "text": "schimbarile climatice"
       },
       {
         "key": "D",
@@ -3537,81 +3537,81 @@ window.QUESTIONS = [
       }
     ],
     "correct": "C",
-    "correctText": "schimbările climatice"
+    "correctText": "schimbarile climatice"
   },
   {
     "id": "Management General-64",
     "nr": 64,
     "category": "Management General",
-    "question": "Preocupat de stimularea creativității și inovării, managerul are obligația:",
+    "question": "Preocupat de stimularea creativitatii si inovarii, managerul are obligatia:",
     "answers": [
       {
         "key": "A",
-        "text": "să urmărească cu multă atenție, curbele de viață ale produselor sale, pentru a fi gata să lanseze la timp, pe piață, noi produse"
+        "text": "sa urmareasca cu multa atentie, curbele de viata ale produselor sale, pentru a fi gata sa lanseze la timp, pe piata, noi produse"
       },
       {
         "key": "B",
-        "text": "să mențină structura sortimentală a produselor"
+        "text": "sa mentina structura sortimentala a produselor"
       },
       {
         "key": "C",
-        "text": "să verifice procesul tehnologic"
+        "text": "sa verifice procesul tehnologic"
       },
       {
         "key": "D",
-        "text": "să combine factorii de producție"
+        "text": "sa combine factorii de productie"
       },
       {
         "key": "E",
-        "text": "să se implice în luarea deciziilor curente"
+        "text": "sa se implice in luarea deciziilor curente"
       }
     ],
     "correct": "A",
-    "correctText": "să urmărească cu multă atenție, curbele de viață ale produselor sale, pentru a fi gata să lanseze la timp, pe piață, noi produse"
+    "correctText": "sa urmareasca cu multa atentie, curbele de viata ale produselor sale, pentru a fi gata sa lanseze la timp, pe piata, noi produse"
   },
   {
     "id": "Management General-65",
     "nr": 65,
     "category": "Management General",
-    "question": "Ponderea ierarhică reprezintă:",
+    "question": "Ponderea ierarhica reprezinta:",
     "answers": [
       {
         "key": "A",
-        "text": "totalitatea funcțiilor de conducere existente într-o organizație"
+        "text": "totalitatea functiilor de conducere existente intr-o organizatie"
       },
       {
         "key": "B",
-        "text": "totalitatea posturilor dintr-o organizație"
+        "text": "totalitatea posturilor dintr-o organizatie"
       },
       {
         "key": "C",
-        "text": "numărul de salariați conduși de un manager"
+        "text": "numarul de salariati condusi de un manager"
       },
       {
         "key": "D",
-        "text": "numărul funcțiilor existente într-o organizație"
+        "text": "numarul functiilor existente intr-o organizatie"
       },
       {
         "key": "E",
-        "text": "numărul departamentelor existente într-o organizate"
+        "text": "numarul departamentelor existente intr-o organizate"
       }
     ],
     "correct": "C",
-    "correctText": "numărul de salariați conduși de un manager"
+    "correctText": "numarul de salariati condusi de un manager"
   },
   {
     "id": "Management General-66",
     "nr": 66,
     "category": "Management General",
-    "question": "Relațiile organizaționale dintr-o companie sunt:",
+    "question": "Relatiile organizationale dintr-o companie sunt:",
     "answers": [
       {
         "key": "A",
-        "text": "de control și evaluare"
+        "text": "de control si evaluare"
       },
       {
         "key": "B",
-        "text": "între departamente aflate pe același nivel ierarhic"
+        "text": "intre departamente aflate pe acelasi nivel ierarhic"
       },
       {
         "key": "C",
@@ -3619,11 +3619,11 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "de autoritate și informale"
+        "text": "de autoritate si informale"
       },
       {
         "key": "E",
-        "text": "de autoritate și formale"
+        "text": "de autoritate si formale"
       }
     ],
     "correct": "C",
@@ -3633,15 +3633,15 @@ window.QUESTIONS = [
     "id": "Management General-67",
     "nr": 67,
     "category": "Management General",
-    "question": "Prin traiectul parcurs de informații de la emițător la receptor desemnăm următoarea componentă a sistemului informațional:",
+    "question": "Prin traiectul parcurs de informatii de la emitator la receptor desemnam urmatoarea componenta a sistemului informational:",
     "answers": [
       {
         "key": "A",
-        "text": "circuitul informațional"
+        "text": "circuitul informational"
       },
       {
         "key": "B",
-        "text": "fluxul informațional"
+        "text": "fluxul informational"
       },
       {
         "key": "C",
@@ -3649,7 +3649,7 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "canalul de comunicații"
+        "text": "canalul de comunicatii"
       },
       {
         "key": "E",
@@ -3657,25 +3657,25 @@ window.QUESTIONS = [
       }
     ],
     "correct": "A",
-    "correctText": "circuitul informațional"
+    "correctText": "circuitul informational"
   },
   {
     "id": "Management General-68",
     "nr": 68,
     "category": "Management General",
-    "question": "Componenta majoră a strategiei de dezvoltare a societății comerciale, strategia de piață reprezintă:",
+    "question": "Componenta majora a strategiei de dezvoltare a societatii comerciale, strategia de piata reprezinta:",
     "answers": [
       {
         "key": "A",
-        "text": "mijlocul prin intermediul căruia managerul își conturează pentru o perioadă lunga sau medie atitudinea sa față de piață"
+        "text": "mijlocul prin intermediul caruia managerul isi contureaza pentru o perioada lunga sau medie atitudinea sa fata de piata"
       },
       {
         "key": "B",
-        "text": "sursa prin care managerul își conturează atitudinea sa față de piață"
+        "text": "sursa prin care managerul isi contureaza atitudinea sa fata de piata"
       },
       {
         "key": "C",
-        "text": "adaptarea societății comerciale la dinamica mediului"
+        "text": "adaptarea societatii comerciale la dinamica mediului"
       },
       {
         "key": "D",
@@ -3683,41 +3683,41 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "creșterea eficienței economice și a profitabilității societății comerciale"
+        "text": "cresterea eficientei economice si a profitabilitatii societatii comerciale"
       }
     ],
     "correct": "A",
-    "correctText": "mijlocul prin intermediul căruia managerul își conturează pentru o perioadă lunga sau medie atitudinea sa față de piață"
+    "correctText": "mijlocul prin intermediul caruia managerul isi contureaza pentru o perioada lunga sau medie atitudinea sa fata de piata"
   },
   {
     "id": "Management General-69",
     "nr": 69,
     "category": "Management General",
-    "question": "Distribuția activităților pe niveluri ierarhice poate fi:",
+    "question": "Distributia activitatilor pe niveluri ierarhice poate fi:",
     "answers": [
       {
         "key": "A",
-        "text": "strategică (vizează bugetul și planificarea, conducerea unei funcțiuni pe orizontală)"
+        "text": "strategica (vizeaza bugetul si planificarea, conducerea unei functiuni pe orizontala)"
       },
       {
         "key": "B",
-        "text": "executivă (vizează cadrul decizional deja trasat, acțiunile pe termene imediate și scurte)"
+        "text": "executiva (vizeaza cadrul decizional deja trasat, actiunile pe termene imediate si scurte)"
       },
       {
         "key": "C",
-        "text": "tactică (vizează coordonarea între funcțiuni)"
+        "text": "tactica (vizeaza coordonarea intre functiuni)"
       },
       {
         "key": "D",
-        "text": "tactică (vizează sarcinile individuale)"
+        "text": "tactica (vizeaza sarcinile individuale)"
       },
       {
         "key": "E",
-        "text": "strategică (vizează obiectivele firmei, investițiile, informatizarea, coordonarea între funcțiuni)"
+        "text": "strategica (vizeaza obiectivele firmei, investitiile, informatizarea, coordonarea intre functiuni)"
       }
     ],
     "correct": "E",
-    "correctText": "strategică (vizează obiectivele firmei, investițiile, informatizarea, coordonarea între funcțiuni)"
+    "correctText": "strategica (vizeaza obiectivele firmei, investitiile, informatizarea, coordonarea intre functiuni)"
   },
   {
     "id": "Management General-70",
@@ -3727,37 +3727,37 @@ window.QUESTIONS = [
     "answers": [
       {
         "key": "A",
-        "text": "doar activitățile ce vizează colectarea datelor financiare"
+        "text": "doar activitatile ce vizeaza colectarea datelor financiare"
       },
       {
         "key": "B",
-        "text": "controlul necesar dezvoltării societății comerciale"
+        "text": "controlul necesar dezvoltarii societatii comerciale"
       },
       {
         "key": "C",
-        "text": "planificarea financiară, prețurile și tarifele"
+        "text": "planificarea financiara, preturile si tarifele"
       },
       {
         "key": "D",
-        "text": "toate activitățile ce vizează colectarea, prelucrarea și interpretarea datelor financiare, inclusiv mecanismele aferente, procurarea și folosirea mijloacelor financiare, precum și controlul necesar în acest domeniu"
+        "text": "toate activitatile ce vizeaza colectarea, prelucrarea si interpretarea datelor financiare, inclusiv mecanismele aferente, procurarea si folosirea mijloacelor financiare, precum si controlul necesar in acest domeniu"
       },
       {
         "key": "E",
-        "text": "procurarea și folosirea mijloacelor financiare"
+        "text": "procurarea si folosirea mijloacelor financiare"
       }
     ],
     "correct": "D",
-    "correctText": "toate activitățile ce vizează colectarea, prelucrarea și interpretarea datelor financiare, inclusiv mecanismele aferente, procurarea și folosirea mijloacelor financiare, precum și controlul necesar în acest domeniu"
+    "correctText": "toate activitatile ce vizeaza colectarea, prelucrarea si interpretarea datelor financiare, inclusiv mecanismele aferente, procurarea si folosirea mijloacelor financiare, precum si controlul necesar in acest domeniu"
   },
   {
     "id": "Management General-71",
     "nr": 71,
     "category": "Management General",
-    "question": "Exercitarea managementului financiar într-o societate comercială presupune:",
+    "question": "Exercitarea managementului financiar intr-o societate comerciala presupune:",
     "answers": [
       {
         "key": "A",
-        "text": "formarea și utilizarea unui mecanism financiar"
+        "text": "formarea si utilizarea unui mecanism financiar"
       },
       {
         "key": "B",
@@ -3765,11 +3765,11 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "rezistența la schimbare"
+        "text": "rezistenta la schimbare"
       },
       {
         "key": "D",
-        "text": "analiza atentă a resurselor disponibile"
+        "text": "analiza atenta a resurselor disponibile"
       },
       {
         "key": "E",
@@ -3777,47 +3777,47 @@ window.QUESTIONS = [
       }
     ],
     "correct": "A",
-    "correctText": "formarea și utilizarea unui mecanism financiar"
+    "correctText": "formarea si utilizarea unui mecanism financiar"
   },
   {
     "id": "Management General-72",
     "nr": 72,
     "category": "Management General",
-    "question": "Nu reprezintă obiectiv de natura managerial-financiară:",
+    "question": "Nu reprezinta obiectiv de natura managerial-financiara:",
     "answers": [
       {
         "key": "A",
-        "text": "analiza circuitelor informaționale"
+        "text": "analiza circuitelor informationale"
       },
       {
         "key": "B",
-        "text": "întărirea gestiunii economico-financiare"
+        "text": "intarirea gestiunii economico-financiare"
       },
       {
         "key": "C",
-        "text": "fundamentarea temeinică și elaborarea unui buget de venituri și cheltuieli rațional"
+        "text": "fundamentarea temeinica si elaborarea unui buget de venituri si cheltuieli rational"
       },
       {
         "key": "D",
-        "text": "îndeplinirea indicatorilor economico-financiari"
+        "text": "indeplinirea indicatorilor economico-financiari"
       },
       {
         "key": "E",
-        "text": "îmbunătățirea generală a activității financiare a societății comerciale"
+        "text": "imbunatatirea generala a activitatii financiare a societatii comerciale"
       }
     ],
     "correct": "A",
-    "correctText": "analiza circuitelor informaționale"
+    "correctText": "analiza circuitelor informationale"
   },
   {
     "id": "Management General-73",
     "nr": 73,
     "category": "Management General",
-    "question": "Bugetele de venituri și cheltuieli ale societăților comerciale trebuie să vizeze:",
+    "question": "Bugetele de venituri si cheltuieli ale societatilor comerciale trebuie sa vizeze:",
     "answers": [
       {
         "key": "A",
-        "text": "activitatea comercială"
+        "text": "activitatea comerciala"
       },
       {
         "key": "B",
@@ -3825,19 +3825,19 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "toate compartimentele, adică nu numai producția, ci și cercetarea-dezvoltarea, activitatea comercială, cea de personal și financiar-contabilă"
+        "text": "toate compartimentele, adica nu numai productia, ci si cercetarea-dezvoltarea, activitatea comerciala, cea de personal si financiar-contabila"
       },
       {
         "key": "D",
-        "text": "activitatea de producție"
+        "text": "activitatea de productie"
       },
       {
         "key": "E",
-        "text": "informații cu privire la societate și la produsele acesteia"
+        "text": "informatii cu privire la societate si la produsele acesteia"
       }
     ],
     "correct": "C",
-    "correctText": "toate compartimentele, adică nu numai producția, ci și cercetarea-dezvoltarea, activitatea comercială, cea de personal și financiar-contabilă"
+    "correctText": "toate compartimentele, adica nu numai productia, ci si cercetarea-dezvoltarea, activitatea comerciala, cea de personal si financiar-contabila"
   },
   {
     "id": "Management General-74",
@@ -3847,41 +3847,41 @@ window.QUESTIONS = [
     "answers": [
       {
         "key": "A",
-        "text": "să aibă originalitate, pentru a genera soluții deosebite"
+        "text": "sa aiba originalitate, pentru a genera solutii deosebite"
       },
       {
         "key": "B",
-        "text": "să aibă capacitatea de a respecta tiparele"
+        "text": "sa aiba capacitatea de a respecta tiparele"
       },
       {
         "key": "C",
-        "text": "să aibă abilitatea de a evita schimbările organizaționale"
+        "text": "sa aiba abilitatea de a evita schimbarile organizationale"
       },
       {
         "key": "D",
-        "text": "să aibă capacitatea de a prelua idei"
+        "text": "sa aiba capacitatea de a prelua idei"
       },
       {
         "key": "E",
-        "text": "să aibă capacitatea de a menține soluțiile adoptate"
+        "text": "sa aiba capacitatea de a mentine solutiile adoptate"
       }
     ],
     "correct": "A",
-    "correctText": "să aibă originalitate, pentru a genera soluții deosebite"
+    "correctText": "sa aiba originalitate, pentru a genera solutii deosebite"
   },
   {
     "id": "Management General-75",
     "nr": 75,
     "category": "Management General",
-    "question": "Prin orientare profesională se înțelege:",
+    "question": "Prin orientare profesionala se intelege:",
     "answers": [
       {
         "key": "A",
-        "text": "acțiunea de îndrumare a persoanei către o profesiune sau către un grup de profesiuni, în concordanță cu aptitudinile și înclinațiile sale"
+        "text": "actiunea de indrumare a persoanei catre o profesiune sau catre un grup de profesiuni, in concordanta cu aptitudinile si inclinatiile sale"
       },
       {
         "key": "B",
-        "text": "organizarea într-un compartiment distinct a recrutării"
+        "text": "organizarea intr-un compartiment distinct a recrutarii"
       },
       {
         "key": "C",
@@ -3889,21 +3889,21 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "conturarea cerințelor viitoare pentru ocuparea unor posturi vacante și elaborarea previziunilor privind necesarul de resurse umane"
+        "text": "conturarea cerintelor viitoare pentru ocuparea unor posturi vacante si elaborarea previziunilor privind necesarul de resurse umane"
       },
       {
         "key": "E",
-        "text": "constituirea și dezvoltarea unor surse de muncă și adaptarea metodelor de valorificare a acestor surse"
+        "text": "constituirea si dezvoltarea unor surse de munca si adaptarea metodelor de valorificare a acestor surse"
       }
     ],
     "correct": "A",
-    "correctText": "acțiunea de îndrumare a persoanei către o profesiune sau către un grup de profesiuni, în concordanță cu aptitudinile și înclinațiile sale"
+    "correctText": "actiunea de indrumare a persoanei catre o profesiune sau catre un grup de profesiuni, in concordanta cu aptitudinile si inclinatiile sale"
   },
   {
     "id": "Management General-76",
     "nr": 76,
     "category": "Management General",
-    "question": "Sunt funcții ale managementului: \n a. funcția de previziune \n b. funcția contabilă \n c. funcția de organizare \n d. funcția de coordonare \n e. funcția de calcul \n f. funcția de antrenare \n g. funcția de evaluare-control",
+    "question": "Sunt functii ale managementului: \n a. functia de previziune \n b. functia contabila \n c. functia de organizare \n d. functia de coordonare \n e. functia de calcul \n f. functia de antrenare \n g. functia de evaluare-control",
     "answers": [
       {
         "key": "A",
@@ -3927,11 +3927,11 @@ window.QUESTIONS = [
       },
       {
         "key": "F",
-        "text": "funcția de antrenare"
+        "text": "functia de antrenare"
       },
       {
         "key": "G",
-        "text": "funcția de evaluare-control Alegeți combinația corectă:"
+        "text": "functia de evaluare-control Alegeti combinatia corecta:"
       }
     ],
     "correct": "C",
@@ -3941,7 +3941,7 @@ window.QUESTIONS = [
     "id": "Management General-77",
     "nr": 77,
     "category": "Management General",
-    "question": "În funcție de conținut și efecte, procesele de muncă se împart în două grupe de bază:\n a. procese de execuție \n b. procese manageriale \n c. procese de marketing \n d. procese funcționale \n e. procese strategice",
+    "question": "In functie de continut si efecte, procesele de munca se impart in doua grupe de baza:\n a. procese de executie \n b. procese manageriale \n c. procese de marketing \n d. procese functionale \n e. procese strategice",
     "answers": [
       {
         "key": "A",
@@ -3971,7 +3971,7 @@ window.QUESTIONS = [
     "id": "Management General-78",
     "nr": 78,
     "category": "Management General",
-    "question": "În funcție de dinamica principalelor obiective încorporate, strategiile pot fi:\n a. strategii de redresare \n b. strategii economice \n c. strategii de consolidare \n d. strategii de dezvoltare \n e. strategii organizatorice",
+    "question": "In functie de dinamica principalelor obiective incorporate, strategiile pot fi:\n a. strategii de redresare \n b. strategii economice \n c. strategii de consolidare \n d. strategii de dezvoltare \n e. strategii organizatorice",
     "answers": [
       {
         "key": "A",
@@ -4001,7 +4001,7 @@ window.QUESTIONS = [
     "id": "Management General-79",
     "nr": 79,
     "category": "Management General",
-    "question": "În funcție de sfera de cuprindere, strategiile pot fi:\n a. strategii globale \n b. strategii organizatorice \n c. strategii parțiale \n d. strategii economice \n e. strategii administrativ–economice",
+    "question": "In functie de sfera de cuprindere, strategiile pot fi:\n a. strategii globale \n b. strategii organizatorice \n c. strategii partiale \n d. strategii economice \n e. strategii administrativ–economice",
     "answers": [
       {
         "key": "A",
@@ -4031,7 +4031,7 @@ window.QUESTIONS = [
     "id": "Management General-80",
     "nr": 80,
     "category": "Management General",
-    "question": "Elementele caracteristice postului sunt:\n a. obiective individuale \n b. sarcini \n c. competențe \n d. responsabilități \n e. pondere ierarhică \n f. competentă profesională \n g. responsabilitatea",
+    "question": "Elementele caracteristice postului sunt:\n a. obiective individuale \n b. sarcini \n c. competente \n d. responsabilitati \n e. pondere ierarhica \n f. competenta profesionala \n g. responsabilitatea",
     "answers": [
       {
         "key": "A",
@@ -4061,7 +4061,7 @@ window.QUESTIONS = [
     "id": "Management General-81",
     "nr": 81,
     "category": "Management General",
-    "question": "Circuitele informaționale se clasifică în:\n a. exterioare și interioare \n b. verticale, orizontale și oblice \n c. periodice și ocazionale \n d. publice \n e. semiautomate",
+    "question": "Circuitele informationale se clasifica in:\n a. exterioare si interioare \n b. verticale, orizontale si oblice \n c. periodice si ocazionale \n d. publice \n e. semiautomate",
     "answers": [
       {
         "key": "A",
@@ -4091,7 +4091,7 @@ window.QUESTIONS = [
     "id": "Management General-82",
     "nr": 82,
     "category": "Management General",
-    "question": "În raport cu nivelul de elaborare, deciziile se clasifică în: \n a. strategice \n b. tactice \n c. multicriteriale \n d. operaționale \n e. repetitive",
+    "question": "In raport cu nivelul de elaborare, deciziile se clasifica in: \n a. strategice \n b. tactice \n c. multicriteriale \n d. operationale \n e. repetitive",
     "answers": [
       {
         "key": "A",
@@ -4121,7 +4121,7 @@ window.QUESTIONS = [
     "id": "Management General-83",
     "nr": 83,
     "category": "Management General",
-    "question": "În funcție de certitudinea atingerii obiectivelor distingem decizii:\n a. certe \n b. repetitive \n c. multicriteriale \n d. incerte \n e. riscante",
+    "question": "In functie de certitudinea atingerii obiectivelor distingem decizii:\n a. certe \n b. repetitive \n c. multicriteriale \n d. incerte \n e. riscante",
     "answers": [
       {
         "key": "A",
@@ -4151,7 +4151,7 @@ window.QUESTIONS = [
     "id": "Management General-84",
     "nr": 84,
     "category": "Management General",
-    "question": "În funcție de decident putem clasifica deciziile în: \n a. individuale \n b. repetitive \n c. colegiale \n d. incerte \n e. colective",
+    "question": "In functie de decident putem clasifica deciziile in: \n a. individuale \n b. repetitive \n c. colegiale \n d. incerte \n e. colective",
     "answers": [
       {
         "key": "A",
@@ -4181,7 +4181,7 @@ window.QUESTIONS = [
     "id": "Management General-85",
     "nr": 85,
     "category": "Management General",
-    "question": "În activitatea managerială, controlul urmărește:\n a. stabilirea rezultatelor \n b. bugetul previzionat \n c. echilibrul financiar al firmei \n d. eficiența economică a activității \n e. maximizarea rezultatelor",
+    "question": "In activitatea manageriala, controlul urmareste:\n a. stabilirea rezultatelor \n b. bugetul previzionat \n c. echilibrul financiar al firmei \n d. eficienta economica a activitatii \n e. maximizarea rezultatelor",
     "answers": [
       {
         "key": "A",
@@ -4211,7 +4211,7 @@ window.QUESTIONS = [
     "id": "Management General-86",
     "nr": 86,
     "category": "Management General",
-    "question": "Dintre trăsăturile specifice controlului amintim: \n a. caracterul obiectiv \n b. caracterul coordonator \n c. promovarea personalului \n d. verificarea competenței fiecărui angajat \n e. bazarea pe informații și date \n f. generarea autocontrolului \n g. verificarea procesului de producție continuu și permanent",
+    "question": "Dintre trasaturile specifice controlului amintim: \n a. caracterul obiectiv \n b. caracterul coordonator \n c. promovarea personalului \n d. verificarea competentei fiecarui angajat \n e. bazarea pe informatii si date \n f. generarea autocontrolului \n g. verificarea procesului de productie continuu si permanent",
     "answers": [
       {
         "key": "A",
@@ -4239,7 +4239,7 @@ window.QUESTIONS = [
       },
       {
         "key": "G",
-        "text": "verificarea procesului de producție continuu și permanent Care dintre combinațiile de mai jos reprezintă trăsături specifice controlului:"
+        "text": "verificarea procesului de productie continuu si permanent Care dintre combinatiile de mai jos reprezinta trasaturi specifice controlului:"
       }
     ],
     "correct": "B",
@@ -4249,23 +4249,23 @@ window.QUESTIONS = [
     "id": "Management General-87",
     "nr": 87,
     "category": "Management General",
-    "question": "Organizația bazată pe cunoștințe:\n a. presupune extinderea resurselor tradiționale \n b. este o organizație care are exclusiv funcțiuni noi \n c. este organizația care este condusă de manageri autocrați \n d. este organizația care a parcurs etapele creșterii și utilizării cunoștințelor, ca avantaj competitiv \n e. presupune minimizarea resurselor intangibile",
+    "question": "Organizatia bazata pe cunostinte:\n a. presupune extinderea resurselor traditionale \n b. este o organizatie care are exclusiv functiuni noi \n c. este organizatia care este condusa de manageri autocrati \n d. este organizatia care a parcurs etapele cresterii si utilizarii cunostintelor, ca avantaj competitiv \n e. presupune minimizarea resurselor intangibile",
     "answers": [
       {
         "key": "A",
-        "text": "presupune extinderea resurselor tradiționale"
+        "text": "presupune extinderea resurselor traditionale"
       },
       {
         "key": "B",
-        "text": "este o organizație care are exclusiv funcțiuni noi"
+        "text": "este o organizatie care are exclusiv functiuni noi"
       },
       {
         "key": "C",
-        "text": "este organizația care este condusă de manageri autocrați"
+        "text": "este organizatia care este condusa de manageri autocrati"
       },
       {
         "key": "D",
-        "text": "este organizația care a parcurs etapele creșterii și utilizării cunoștințelor, ca avantaj competitiv"
+        "text": "este organizatia care a parcurs etapele cresterii si utilizarii cunostintelor, ca avantaj competitiv"
       },
       {
         "key": "E",
@@ -4273,13 +4273,13 @@ window.QUESTIONS = [
       }
     ],
     "correct": "D",
-    "correctText": "este organizația care a parcurs etapele creșterii și utilizării cunoștințelor, ca avantaj competitiv"
+    "correctText": "este organizatia care a parcurs etapele cresterii si utilizarii cunostintelor, ca avantaj competitiv"
   },
   {
     "id": "Management General-88",
     "nr": 88,
     "category": "Management General",
-    "question": "Factorii economici ai mediului ambiant, potrivit divizării mediului societății comerciale în mediu intern și mediu extern sunt următorii:\n a. piața internă \n b. piața externă \n c. pârghiile economico-financiare \n d. mecanismele motivaționale \n e. mecanismele de control",
+    "question": "Factorii economici ai mediului ambiant, potrivit divizarii mediului societatii comerciale in mediu intern si mediu extern sunt urmatorii:\n a. piata interna \n b. piata externa \n c. parghiile economico-financiare \n d. mecanismele motivationale \n e. mecanismele de control",
     "answers": [
       {
         "key": "A",
@@ -4313,45 +4313,45 @@ window.QUESTIONS = [
     "answers": [
       {
         "key": "A",
-        "text": "un mod de a asigura desfășurarea activității managerului"
+        "text": "un mod de a asigura desfasurarea activitatii managerului"
       },
       {
         "key": "B",
-        "text": "totalitatea instrucțiunilor cu privire la concepția managerului pentru realizarea obiectivelor"
+        "text": "totalitatea instructiunilor cu privire la conceptia managerului pentru realizarea obiectivelor"
       },
       {
         "key": "C",
-        "text": "ansamblul de principii, metode și mijloace destinate elaborării de metode matematice"
+        "text": "ansamblul de principii, metode si mijloace destinate elaborarii de metode matematice"
       },
       {
         "key": "D",
-        "text": "totalitatea obiectivelor generale ale societății comerciale"
+        "text": "totalitatea obiectivelor generale ale societatii comerciale"
       },
       {
         "key": "E",
-        "text": "un mod de a asigura desfășurarea și evaluarea activității managerului, potrivit realizării obiectivelor proprii, pe termen lung sau scurt și concordanței acestora cu obiectivele generale ale societății comerciale"
+        "text": "un mod de a asigura desfasurarea si evaluarea activitatii managerului, potrivit realizarii obiectivelor proprii, pe termen lung sau scurt si concordantei acestora cu obiectivele generale ale societatii comerciale"
       }
     ],
     "correct": "E",
-    "correctText": "un mod de a asigura desfășurarea și evaluarea activității managerului, potrivit realizării obiectivelor proprii, pe termen lung sau scurt și concordanței acestora cu obiectivele generale ale societății comerciale"
+    "correctText": "un mod de a asigura desfasurarea si evaluarea activitatii managerului, potrivit realizarii obiectivelor proprii, pe termen lung sau scurt si concordantei acestora cu obiectivele generale ale societatii comerciale"
   },
   {
     "id": "Management General-90",
     "nr": 90,
     "category": "Management General",
-    "question": "Managementul prin alternative constă în faptul că:",
+    "question": "Managementul prin alternative consta in faptul ca:",
     "answers": [
       {
         "key": "A",
-        "text": "luarea deciziilor se realizează independent de voința managerului"
+        "text": "luarea deciziilor se realizeaza independent de vointa managerului"
       },
       {
         "key": "B",
-        "text": "modelează procesele economice"
+        "text": "modeleaza procesele economice"
       },
       {
         "key": "C",
-        "text": "transformă informațiile în acțiune"
+        "text": "transforma informatiile in actiune"
       },
       {
         "key": "D",
@@ -4359,21 +4359,21 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "anterior adoptării deciziei, se studiază mai multe alternative"
+        "text": "anterior adoptarii deciziei, se studiaza mai multe alternative"
       }
     ],
     "correct": "E",
-    "correctText": "anterior adoptării deciziei, se studiază mai multe alternative"
+    "correctText": "anterior adoptarii deciziei, se studiaza mai multe alternative"
   },
   {
     "id": "Management General-91",
     "nr": 91,
     "category": "Management General",
-    "question": "În managementul general se consideră că mediul ambiant cuprinde:",
+    "question": "In managementul general se considera ca mediul ambiant cuprinde:",
     "answers": [
       {
         "key": "A",
-        "text": "toate elementele exterioare/exogene firmei, de natură economică, tehnică, politică, demografică, culturală, științifică, organizatorică, juridică, psiho-sociologică, educațională și ecologică"
+        "text": "toate elementele exterioare/exogene firmei, de natura economica, tehnica, politica, demografica, culturala, stiintifica, organizatorica, juridica, psiho-sociologica, educationala si ecologica"
       },
       {
         "key": "B",
@@ -4381,7 +4381,7 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "elementele specifice economiei de piață"
+        "text": "elementele specifice economiei de piata"
       },
       {
         "key": "D",
@@ -4389,17 +4389,17 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "resursele necesare, adaptarea și aplicarea deciziilor de realizare a lor"
+        "text": "resursele necesare, adaptarea si aplicarea deciziilor de realizare a lor"
       }
     ],
     "correct": "A",
-    "correctText": "toate elementele exterioare/exogene firmei, de natură economică, tehnică, politică, demografică, culturală, științifică, organizatorică, juridică, psiho-sociologică, educațională și ecologică"
+    "correctText": "toate elementele exterioare/exogene firmei, de natura economica, tehnica, politica, demografica, culturala, stiintifica, organizatorica, juridica, psiho-sociologica, educationala si ecologica"
   },
   {
     "id": "Management General-92",
     "nr": 92,
     "category": "Management General",
-    "question": "Pentru minimizarea riscului și maximizarea profitului, într-o firmă trebuie să domine regulile:",
+    "question": "Pentru minimizarea riscului si maximizarea profitului, intr-o firma trebuie sa domine regulile:",
     "answers": [
       {
         "key": "A",
@@ -4407,11 +4407,11 @@ window.QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "de producție"
+        "text": "de productie"
       },
       {
         "key": "C",
-        "text": "manageriale și tehnice"
+        "text": "manageriale si tehnice"
       },
       {
         "key": "D",
@@ -4423,21 +4423,21 @@ window.QUESTIONS = [
       }
     ],
     "correct": "C",
-    "correctText": "manageriale și tehnice"
+    "correctText": "manageriale si tehnice"
   },
   {
     "id": "Management General-93",
     "nr": 93,
     "category": "Management General",
-    "question": "Activitatea firmelor în mediul concurențial al economiei de piață impune:",
+    "question": "Activitatea firmelor in mediul concurential al economiei de piata impune:",
     "answers": [
       {
         "key": "A",
-        "text": "reconsiderarea relațiilor dintre agenții economici și mediul ambiant"
+        "text": "reconsiderarea relatiilor dintre agentii economici si mediul ambiant"
       },
       {
         "key": "B",
-        "text": "un comportament cu decizii și sancțiuni obligatorii"
+        "text": "un comportament cu decizii si sanctiuni obligatorii"
       },
       {
         "key": "C",
@@ -4445,25 +4445,25 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "risc minim internațional"
+        "text": "risc minim international"
       },
       {
         "key": "E",
-        "text": "risc maxim pe plan național"
+        "text": "risc maxim pe plan national"
       }
     ],
     "correct": "A",
-    "correctText": "reconsiderarea relațiilor dintre agenții economici și mediul ambiant"
+    "correctText": "reconsiderarea relatiilor dintre agentii economici si mediul ambiant"
   },
   {
     "id": "Management General-94",
     "nr": 94,
     "category": "Management General",
-    "question": "Nu este o etapă a conducerii prin bugete:",
+    "question": "Nu este o etapa a conducerii prin bugete:",
     "answers": [
       {
         "key": "A",
-        "text": "pregătirea bugetelor"
+        "text": "pregatirea bugetelor"
       },
       {
         "key": "B",
@@ -4471,7 +4471,7 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "derularea bugetară"
+        "text": "derularea bugetara"
       },
       {
         "key": "D",
@@ -4489,41 +4489,41 @@ window.QUESTIONS = [
     "id": "Management General-95",
     "nr": 95,
     "category": "Management General",
-    "question": "Identificați varianta de răspuns corectă:",
+    "question": "Identificati varianta de raspuns corecta:",
     "answers": [
       {
         "key": "A",
-        "text": "managementul prin excepție se bazează pe principiul autonomiei operative"
+        "text": "managementul prin exceptie se bazeaza pe principiul autonomiei operative"
       },
       {
         "key": "B",
-        "text": "managementul pe bază de obiective reprezintă formula de anticipare a soluțiilor ce trebuie realizate în societatea comercială, într-o evoluție pe termen lung"
+        "text": "managementul pe baza de obiective reprezinta formula de anticipare a solutiilor ce trebuie realizate in societatea comerciala, intr-o evolutie pe termen lung"
       },
       {
         "key": "C",
-        "text": "managementul prin delegarea autorității se bazează pe principiul selecției abaterilor"
+        "text": "managementul prin delegarea autoritatii se bazeaza pe principiul selectiei abaterilor"
       },
       {
         "key": "D",
-        "text": "managementul pe bază de strategii se sprijină pe principiul repartizării obiectivelor și sarcinilor programate pe persoane din bordul director"
+        "text": "managementul pe baza de strategii se sprijina pe principiul repartizarii obiectivelor si sarcinilor programate pe persoane din bordul director"
       },
       {
         "key": "E",
-        "text": "managementul prin obiective se bazează pe stabilirea riguroasă a obiectivelor, până la nivelul executanților"
+        "text": "managementul prin obiective se bazeaza pe stabilirea riguroasa a obiectivelor, pana la nivelul executantilor"
       }
     ],
     "correct": "E",
-    "correctText": "managementul prin obiective se bazează pe stabilirea riguroasă a obiectivelor, până la nivelul executanților"
+    "correctText": "managementul prin obiective se bazeaza pe stabilirea riguroasa a obiectivelor, pana la nivelul executantilor"
   },
   {
     "id": "Management General-96",
     "nr": 96,
     "category": "Management General",
-    "question": "Nu este o cerință minimă a tabloului de bord:",
+    "question": "Nu este o cerinta minima a tabloului de bord:",
     "answers": [
       {
         "key": "A",
-        "text": "consistență (integralitate)"
+        "text": "consistenta (integralitate)"
       },
       {
         "key": "B",
@@ -4549,7 +4549,7 @@ window.QUESTIONS = [
     "id": "Management General-97",
     "nr": 97,
     "category": "Management General",
-    "question": "Este un avantaj în utilizarea tabloului de bord:",
+    "question": "Este un avantaj in utilizarea tabloului de bord:",
     "answers": [
       {
         "key": "A",
@@ -4557,29 +4557,29 @@ window.QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "raționalizarea utilizării timpului de lucru al managerilor"
+        "text": "rationalizarea utilizarii timpului de lucru al managerilor"
       },
       {
         "key": "C",
-        "text": "reducerea responsabilității managerilor"
+        "text": "reducerea responsabilitatii managerilor"
       },
       {
         "key": "D",
-        "text": "abordarea informațiilor de management, într-o viziune individualistă"
+        "text": "abordarea informatiilor de management, intr-o viziune individualista"
       },
       {
         "key": "E",
-        "text": "creșterea dificultății raportărilor"
+        "text": "cresterea dificultatii raportarilor"
       }
     ],
     "correct": "B",
-    "correctText": "raționalizarea utilizării timpului de lucru al managerilor"
+    "correctText": "rationalizarea utilizarii timpului de lucru al managerilor"
   },
   {
     "id": "Management General-98",
     "nr": 98,
     "category": "Management General",
-    "question": "Ședința, ca tehnică de management poate fi:",
+    "question": "Sedinta, ca tehnica de management poate fi:",
     "answers": [
       {
         "key": "A",
@@ -4609,11 +4609,11 @@ window.QUESTIONS = [
     "id": "Management General-99",
     "nr": 99,
     "category": "Management General",
-    "question": "Nu este o etapă a unei ședințe:",
+    "question": "Nu este o etapa a unei sedinte:",
     "answers": [
       {
         "key": "A",
-        "text": "pregătirea"
+        "text": "pregatirea"
       },
       {
         "key": "B",
@@ -4639,7 +4639,7 @@ window.QUESTIONS = [
     "id": "Management General-100",
     "nr": 100,
     "category": "Management General",
-    "question": "Tehnica de management care se bazează pe emiterea unui număr cât mai mare de idei privind modul de rezolvare al unei probleme este:",
+    "question": "Tehnica de management care se bazeaza pe emiterea unui numar cat mai mare de idei privind modul de rezolvare al unei probleme este:",
     "answers": [
       {
         "key": "A",
@@ -4659,7 +4659,7 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "ședința"
+        "text": "sedinta"
       }
     ],
     "correct": "A",
@@ -4669,7 +4669,7 @@ window.QUESTIONS = [
     "id": "Management General-101",
     "nr": 101,
     "category": "Management General",
-    "question": "Cum se numește procesul de repartizare a sarcinilor diferitelor persoane sau grupuri de persoane din cadrul organizației:",
+    "question": "Cum se numeste procesul de repartizare a sarcinilor diferitelor persoane sau grupuri de persoane din cadrul organizatiei:",
     "answers": [
       {
         "key": "A",
@@ -4699,37 +4699,37 @@ window.QUESTIONS = [
     "id": "Management General-102",
     "nr": 102,
     "category": "Management General",
-    "question": "Motivarea, ca suport al antrenării, trebuie să fie:",
+    "question": "Motivarea, ca suport al antrenarii, trebuie sa fie:",
     "answers": [
       {
         "key": "A",
-        "text": "complexă, diferențiată și graduală"
+        "text": "complexa, diferentiata si graduala"
       },
       {
         "key": "B",
-        "text": "graduală și demobilizatoare"
+        "text": "graduala si demobilizatoare"
       },
       {
         "key": "C",
-        "text": "realizată anual"
+        "text": "realizata anual"
       },
       {
         "key": "D",
-        "text": "echitabilă și ocazională"
+        "text": "echitabila si ocazionala"
       },
       {
         "key": "E",
-        "text": "operativă și stabilă."
+        "text": "operativa si stabila."
       }
     ],
     "correct": "A",
-    "correctText": "complexă, diferențiată și graduală"
+    "correctText": "complexa, diferentiata si graduala"
   },
   {
     "id": "Management General-103",
     "nr": 103,
     "category": "Management General",
-    "question": "Principalele elemente componente ale unei strategii sunt:\n a. obiectivele – se referă la orizonturi de 3-5 ani \n b. modalitățile de realizare a obiectivelor (diversificarea producției, asimilarea de noi produse, câștigarea de noi piețe, etc.) \n c. resursele – sunt prevăzute de regulă global (fonduri de investiții, credite, fonduri proprii, resurse umane și materiale, etc.) \n d. termenele – se referă la data declanșării aplicării strategiei, momente intermediare, termenul final \n e. deciziile curente (operative)",
+    "question": "Principalele elemente componente ale unei strategii sunt:\n a. obiectivele – se refera la orizonturi de 3-5 ani \n b. modalitatile de realizare a obiectivelor (diversificarea productiei, asimilarea de noi produse, castigarea de noi piete, etc.) \n c. resursele – sunt prevazute de regula global (fonduri de investitii, credite, fonduri proprii, resurse umane si materiale, etc.) \n d. termenele – se refera la data declansarii aplicarii strategiei, momente intermediare, termenul final \n e. deciziile curente (operative)",
     "answers": [
       {
         "key": "A",
@@ -4759,7 +4759,7 @@ window.QUESTIONS = [
     "id": "Management General-104",
     "nr": 104,
     "category": "Management General",
-    "question": "După dinamica scopurilor (obiectivelor), strategiile pot fi:",
+    "question": "Dupa dinamica scopurilor (obiectivelor), strategiile pot fi:",
     "answers": [
       {
         "key": "A",
@@ -4767,7 +4767,7 @@ window.QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "inovaționale"
+        "text": "inovationale"
       },
       {
         "key": "C",
@@ -4789,7 +4789,7 @@ window.QUESTIONS = [
     "id": "Management General-105",
     "nr": 105,
     "category": "Management General",
-    "question": "După tipul obiectivelor, strategiile pot fi:",
+    "question": "Dupa tipul obiectivelor, strategiile pot fi:",
     "answers": [
       {
         "key": "A",
@@ -4819,11 +4819,11 @@ window.QUESTIONS = [
     "id": "Management General-106",
     "nr": 106,
     "category": "Management General",
-    "question": "După sfera de cuprindere, strategiile pot fi:",
+    "question": "Dupa sfera de cuprindere, strategiile pot fi:",
     "answers": [
       {
         "key": "A",
-        "text": "strategii globale sau parțiale"
+        "text": "strategii globale sau partiale"
       },
       {
         "key": "B",
@@ -4843,17 +4843,17 @@ window.QUESTIONS = [
       }
     ],
     "correct": "A",
-    "correctText": "strategii globale sau parțiale"
+    "correctText": "strategii globale sau partiale"
   },
   {
     "id": "Management General-107",
     "nr": 107,
     "category": "Management General",
-    "question": "După tipul obiectivelor, strategiile pot fi:",
+    "question": "Dupa tipul obiectivelor, strategiile pot fi:",
     "answers": [
       {
         "key": "A",
-        "text": "inovaționale"
+        "text": "inovationale"
       },
       {
         "key": "B",
@@ -4873,13 +4873,13 @@ window.QUESTIONS = [
       }
     ],
     "correct": "A",
-    "correctText": "inovaționale"
+    "correctText": "inovationale"
   },
   {
     "id": "Management General-108",
     "nr": 108,
     "category": "Management General",
-    "question": "La nivel de societate comercială, nu este o acțiune principală în privința conducerii personalului:",
+    "question": "La nivel de societate comerciala, nu este o actiune principala in privinta conducerii personalului:",
     "answers": [
       {
         "key": "A",
@@ -4891,7 +4891,7 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "asigurarea numerică și calitativ-structurală a necesarului de personal"
+        "text": "asigurarea numerica si calitativ-structurala a necesarului de personal"
       },
       {
         "key": "D",
@@ -4899,7 +4899,7 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "calificarea și ridicarea pregătirii profesionale a personalului"
+        "text": "calificarea si ridicarea pregatirii profesionale a personalului"
       }
     ],
     "correct": "D",
@@ -4909,7 +4909,7 @@ window.QUESTIONS = [
     "id": "Management General-109",
     "nr": 109,
     "category": "Management General",
-    "question": "Sunt elemente care frânează schimbarea într-o organizație:",
+    "question": "Sunt elemente care franeaza schimbarea intr-o organizatie:",
     "answers": [
       {
         "key": "A",
@@ -4917,19 +4917,19 @@ window.QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "explozia cunoașterii"
+        "text": "explozia cunoasterii"
       },
       {
         "key": "C",
-        "text": "schimbarea tehnologică"
+        "text": "schimbarea tehnologica"
       },
       {
         "key": "D",
-        "text": "îmbunătățirea condițiilor de muncă"
+        "text": "imbunatatirea conditiilor de munca"
       },
       {
         "key": "E",
-        "text": "dezvoltarea permanentă a resurselor umane"
+        "text": "dezvoltarea permanenta a resurselor umane"
       }
     ],
     "correct": "A",
@@ -4939,31 +4939,31 @@ window.QUESTIONS = [
     "id": "Management General-110",
     "nr": 110,
     "category": "Management General",
-    "question": "Având în vedere stilurile de muncă ale managerilor, identificați varianta eronată de răspuns:",
+    "question": "Avand in vedere stilurile de munca ale managerilor, identificati varianta eronata de raspuns:",
     "answers": [
       {
         "key": "A",
-        "text": "tipul negativ - manifestă lipsa de interes atât în munca sa, cât și în relațiile cu alții"
+        "text": "tipul negativ - manifesta lipsa de interes atat in munca sa, cat si in relatiile cu altii"
       },
       {
         "key": "B",
-        "text": "tipul birocrat - nu este interesat în mod real de îndeplinirea sarcinilor și nici de contactele umane"
+        "text": "tipul birocrat - nu este interesat in mod real de indeplinirea sarcinilor si nici de contactele umane"
       },
       {
         "key": "C",
-        "text": "tipul altruist - se interesează doar de relații, de contactele umane, este caritabil"
+        "text": "tipul altruist - se intereseaza doar de relatii, de contactele umane, este caritabil"
       },
       {
         "key": "D",
-        "text": "tipul promotor - este preocupat în egală măsură de legăturile cu oamenii, dar și de randament"
+        "text": "tipul promotor - este preocupat in egala masura de legaturile cu oamenii, dar si de randament"
       },
       {
         "key": "E",
-        "text": "tipul autocrat - dezvoltă talentele altora și le creează atmosferă prietenoasă de muncă"
+        "text": "tipul autocrat - dezvolta talentele altora si le creeaza atmosfera prietenoasa de munca"
       }
     ],
     "correct": "E",
-    "correctText": "tipul autocrat - dezvoltă talentele altora și le creează atmosferă prietenoasă de muncă"
+    "correctText": "tipul autocrat - dezvolta talentele altora si le creeaza atmosfera prietenoasa de munca"
   },
   {
     "id": "Management General-111",
@@ -4973,27 +4973,27 @@ window.QUESTIONS = [
     "answers": [
       {
         "key": "A",
-        "text": "are tendința de a supune discuției colectivului un număr cât mai mare de probleme cu care se confruntă firma"
+        "text": "are tendinta de a supune discutiei colectivului un numar cat mai mare de probleme cu care se confrunta firma"
       },
       {
         "key": "B",
-        "text": "promovează creativitatea excesivă a puterii"
+        "text": "promoveaza creativitatea excesiva a puterii"
       },
       {
         "key": "C",
-        "text": "exagerează importanța metodelor administrative de organizare și conducere"
+        "text": "exagereaza importanta metodelor administrative de organizare si conducere"
       },
       {
         "key": "D",
-        "text": "limitează conștient contactele cu colaboratorii"
+        "text": "limiteaza constient contactele cu colaboratorii"
       },
       {
         "key": "E",
-        "text": "este caracterizat prin îngăduință și lipsă de responsabilitate"
+        "text": "este caracterizat prin ingaduinta si lipsa de responsabilitate"
       }
     ],
     "correct": "A",
-    "correctText": "are tendința de a supune discuției colectivului un număr cât mai mare de probleme cu care se confruntă firma"
+    "correctText": "are tendinta de a supune discutiei colectivului un numar cat mai mare de probleme cu care se confrunta firma"
   },
   {
     "id": "Management General-112",
@@ -5003,27 +5003,27 @@ window.QUESTIONS = [
     "answers": [
       {
         "key": "A",
-        "text": "are tendința de a supune discuției colectivului un număr cât mai mare de probleme cu care se confruntă firma"
+        "text": "are tendinta de a supune discutiei colectivului un numar cat mai mare de probleme cu care se confrunta firma"
       },
       {
         "key": "B",
-        "text": "promovează creativitatea excesivă a puterii"
+        "text": "promoveaza creativitatea excesiva a puterii"
       },
       {
         "key": "C",
-        "text": "informează sistematic subalternii asupra stadiului realizărilor firmei"
+        "text": "informeaza sistematic subalternii asupra stadiului realizarilor firmei"
       },
       {
         "key": "D",
-        "text": "reacționează pozitiv la critică, menține bune legături cu oamenii"
+        "text": "reactioneaza pozitiv la critica, mentine bune legaturi cu oamenii"
       },
       {
         "key": "E",
-        "text": "este caracterizat prin îngăduință și lipsă de responsabilitate"
+        "text": "este caracterizat prin ingaduinta si lipsa de responsabilitate"
       }
     ],
     "correct": "B",
-    "correctText": "promovează creativitatea excesivă a puterii"
+    "correctText": "promoveaza creativitatea excesiva a puterii"
   },
   {
     "id": "Management General-113",
@@ -5033,11 +5033,11 @@ window.QUESTIONS = [
     "answers": [
       {
         "key": "A",
-        "text": "este caracterizat prin îngăduință, lipsă de responsabilitate"
+        "text": "este caracterizat prin ingaduinta, lipsa de responsabilitate"
       },
       {
         "key": "B",
-        "text": "atunci când sancționează sau subapreciază, ia în considerare doar propria sa părere"
+        "text": "atunci cand sanctioneaza sau subapreciaza, ia in considerare doar propria sa parere"
       },
       {
         "key": "C",
@@ -5045,51 +5045,51 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "informează sistematic subalternii asupra stadiului realizărilor firmei"
+        "text": "informeaza sistematic subalternii asupra stadiului realizarilor firmei"
       },
       {
         "key": "E",
-        "text": "nu examinează în prealabil problemele apărute cu cei interesați"
+        "text": "nu examineaza in prealabil problemele aparute cu cei interesati"
       }
     ],
     "correct": "A",
-    "correctText": "este caracterizat prin îngăduință, lipsă de responsabilitate"
+    "correctText": "este caracterizat prin ingaduinta, lipsa de responsabilitate"
   },
   {
     "id": "Management General-114",
     "nr": 114,
     "category": "Management General",
-    "question": "Factorii obiectivi care conferă managerului autoritate, se referă la:",
+    "question": "Factorii obiectivi care confera managerului autoritate, se refera la:",
     "answers": [
       {
         "key": "A",
-        "text": "buna cunoaștere a procesului muncii, a metodelor și tehnicilor actualizate de management"
+        "text": "buna cunoastere a procesului muncii, a metodelor si tehnicilor actualizate de management"
       },
       {
         "key": "B",
-        "text": "sesizarea noului, independența în gândire"
+        "text": "sesizarea noului, independenta in gandire"
       },
       {
         "key": "C",
-        "text": "inițiativă, curaj, principialitate"
+        "text": "initiativa, curaj, principialitate"
       },
       {
         "key": "D",
-        "text": "exigență, stăpânire de sine"
+        "text": "exigenta, stapanire de sine"
       },
       {
         "key": "E",
-        "text": "autoritatea funcției și poziția ierarhică"
+        "text": "autoritatea functiei si pozitia ierarhica"
       }
     ],
     "correct": "E",
-    "correctText": "autoritatea funcției și poziția ierarhică"
+    "correctText": "autoritatea functiei si pozitia ierarhica"
   },
   {
     "id": "Management General-115",
     "nr": 115,
     "category": "Management General",
-    "question": "După nivelul la care se află factorul decizional, întâlnim:",
+    "question": "Dupa nivelul la care se afla factorul decizional, intalnim:",
     "answers": [
       {
         "key": "A",
@@ -5123,11 +5123,11 @@ window.QUESTIONS = [
     "answers": [
       {
         "key": "A",
-        "text": "capacitatea de a genera cu rapiditate un număr mare de idei"
+        "text": "capacitatea de a genera cu rapiditate un numar mare de idei"
       },
       {
         "key": "B",
-        "text": "incapacitatea de a se adapta cu ușurință la schimbări"
+        "text": "incapacitatea de a se adapta cu usurinta la schimbari"
       },
       {
         "key": "C",
@@ -5135,21 +5135,21 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "imposibilitatea de a depăși tiparele"
+        "text": "imposibilitatea de a depasi tiparele"
       },
       {
         "key": "E",
-        "text": "lipsa de autodisciplină și de capacitate retrospectivă"
+        "text": "lipsa de autodisciplina si de capacitate retrospectiva"
       }
     ],
     "correct": "A",
-    "correctText": "capacitatea de a genera cu rapiditate un număr mare de idei"
+    "correctText": "capacitatea de a genera cu rapiditate un numar mare de idei"
   },
   {
     "id": "Management General-117",
     "nr": 117,
     "category": "Management General",
-    "question": "Este un factor intern/subiectiv care determină motivația în obținerea performanței:",
+    "question": "Este un factor intern/subiectiv care determina motivatia in obtinerea performantei:",
     "answers": [
       {
         "key": "A",
@@ -5157,7 +5157,7 @@ window.QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "grupul de muncă"
+        "text": "grupul de munca"
       },
       {
         "key": "C",
@@ -5179,15 +5179,15 @@ window.QUESTIONS = [
     "id": "Management General-118",
     "nr": 118,
     "category": "Management General",
-    "question": "Este un factor extern/obiectiv care determină motivația în obținerea performanței:",
+    "question": "Este un factor extern/obiectiv care determina motivatia in obtinerea performantei:",
     "answers": [
       {
         "key": "A",
-        "text": "percepția sarcinilor"
+        "text": "perceptia sarcinilor"
       },
       {
         "key": "B",
-        "text": "atitudinea față de muncă"
+        "text": "atitudinea fata de munca"
       },
       {
         "key": "C",
@@ -5209,7 +5209,7 @@ window.QUESTIONS = [
     "id": "Management General-119",
     "nr": 119,
     "category": "Management General",
-    "question": "Procesul motivațional complex este determinat de o serie de elemente, printre care nu se numără:",
+    "question": "Procesul motivational complex este determinat de o serie de elemente, printre care nu se numara:",
     "answers": [
       {
         "key": "A",
@@ -5217,67 +5217,67 @@ window.QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "existența diferențelor considerabile între indivizi"
+        "text": "existenta diferentelor considerabile intre indivizi"
       },
       {
         "key": "C",
-        "text": "impactul atingerii obiectivului asupra motivelor ulterioare și al comportamentului"
+        "text": "impactul atingerii obiectivului asupra motivelor ulterioare si al comportamentului"
       },
       {
         "key": "D",
-        "text": "acțiunea, ca rezultat al motivației"
+        "text": "actiunea, ca rezultat al motivatiei"
       },
       {
         "key": "E",
-        "text": "comportamentul se confundă întotdeauna cu motivația"
+        "text": "comportamentul se confunda intotdeauna cu motivatia"
       }
     ],
     "correct": "E",
-    "correctText": "comportamentul se confundă întotdeauna cu motivația"
+    "correctText": "comportamentul se confunda intotdeauna cu motivatia"
   },
   {
     "id": "Management General-120",
     "nr": 120,
     "category": "Management General",
-    "question": "Identificați varianta de răspuns corectă:",
+    "question": "Identificati varianta de raspuns corecta:",
     "answers": [
       {
         "key": "A",
-        "text": "nevoile individuale acționează ca variabile de flux ale sistemului motivațional"
+        "text": "nevoile individuale actioneaza ca variabile de flux ale sistemului motivational"
       },
       {
         "key": "B",
-        "text": "componentele motivației organizaționale acționează ca și variabile de stare ale sistemului motivațional"
+        "text": "componentele motivatiei organizationale actioneaza ca si variabile de stare ale sistemului motivational"
       },
       {
         "key": "C",
-        "text": "performanța individuală (productivitatea, inovarea, loialitatea) reprezintă efect negativ al motivării"
+        "text": "performanta individuala (productivitatea, inovarea, loialitatea) reprezinta efect negativ al motivarii"
       },
       {
         "key": "D",
-        "text": "obținerea performanțelor angajaților nu este o etapă a procesului motivațional"
+        "text": "obtinerea performantelor angajatilor nu este o etapa a procesului motivational"
       },
       {
         "key": "E",
-        "text": "satisfacția, relațiile cu managerii și colegii sunt efecte pozitive ale motivării"
+        "text": "satisfactia, relatiile cu managerii si colegii sunt efecte pozitive ale motivarii"
       }
     ],
     "correct": "E",
-    "correctText": "satisfacția, relațiile cu managerii și colegii sunt efecte pozitive ale motivării"
+    "correctText": "satisfactia, relatiile cu managerii si colegii sunt efecte pozitive ale motivarii"
   },
   {
     "id": "Management General-121",
     "nr": 121,
     "category": "Management General",
-    "question": "Pe ce treaptă a piramidei ierarhice se află managerul de resurse umane în cadrul unei firme?",
+    "question": "Pe ce treapta a piramidei ierarhice se afla managerul de resurse umane in cadrul unei firme?",
     "answers": [
       {
         "key": "A",
-        "text": "manageri operaționali"
+        "text": "manageri operationali"
       },
       {
         "key": "B",
-        "text": "personal de execuție"
+        "text": "personal de executie"
       },
       {
         "key": "C",
@@ -5285,11 +5285,11 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "manager de execuție"
+        "text": "manager de executie"
       },
       {
         "key": "E",
-        "text": "personal operațional"
+        "text": "personal operational"
       }
     ],
     "correct": "C",
@@ -5299,7 +5299,7 @@ window.QUESTIONS = [
     "id": "Management General-122",
     "nr": 122,
     "category": "Management General",
-    "question": "Informația științifică, recunoscută curent ca resursă economică:\nIdentificați varianta de răspuns corectă.\n a. este un bun \n b. poate fi acumulată (transferată, vândută, consumată) \n c. poate fi comercială \n d. poate fi necomercială \n e. poate fi nevandabilă (protejată ca bun)",
+    "question": "Informatia stiintifica, recunoscuta curent ca resursa economica:\nIdentificati varianta de raspuns corecta.\n a. este un bun \n b. poate fi acumulata (transferata, vanduta, consumata) \n c. poate fi comerciala \n d. poate fi necomerciala \n e. poate fi nevandabila (protejata ca bun)",
     "answers": [
       {
         "key": "A",
@@ -5329,7 +5329,7 @@ window.QUESTIONS = [
     "id": "Management General-123",
     "nr": 123,
     "category": "Management General",
-    "question": "Pentru atingerea scopurilor, organizația trebuie să reacționeze în mod eficace:",
+    "question": "Pentru atingerea scopurilor, organizatia trebuie sa reactioneze in mod eficace:",
     "answers": [
       {
         "key": "A",
@@ -5341,7 +5341,7 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "la schimbările mediului extern și să se adapteze la acestea"
+        "text": "la schimbarile mediului extern si sa se adapteze la acestea"
       },
       {
         "key": "D",
@@ -5349,55 +5349,55 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "exclusiv la schimbările mediului intern"
+        "text": "exclusiv la schimbarile mediului intern"
       }
     ],
     "correct": "C",
-    "correctText": "la schimbările mediului extern și să se adapteze la acestea"
+    "correctText": "la schimbarile mediului extern si sa se adapteze la acestea"
   },
   {
     "id": "Management General-124",
     "nr": 124,
     "category": "Management General",
-    "question": "În procesul elaborării strategiei unei organizații care dorește obținerea unui credit. Cum va fi abordat un nivel redus de lichidități?",
+    "question": "In procesul elaborarii strategiei unei organizatii care doreste obtinerea unui credit. Cum va fi abordat un nivel redus de lichiditati?",
     "answers": [
       {
         "key": "A",
-        "text": "ca un punct forte al organizației"
+        "text": "ca un punct forte al organizatiei"
       },
       {
         "key": "B",
-        "text": "ca o amenințare pentru organizație"
+        "text": "ca o amenintare pentru organizatie"
       },
       {
         "key": "C",
-        "text": "ca un punct slab al organizației"
+        "text": "ca un punct slab al organizatiei"
       },
       {
         "key": "D",
-        "text": "ca o oportunitate a organizației"
+        "text": "ca o oportunitate a organizatiei"
       },
       {
         "key": "E",
-        "text": "ca fiind nerelevant în procesul elaborării strategiei."
+        "text": "ca fiind nerelevant in procesul elaborarii strategiei."
       }
     ],
     "correct": "C",
-    "correctText": "ca un punct slab al organizației"
+    "correctText": "ca un punct slab al organizatiei"
   },
   {
     "id": "Management General-125",
     "nr": 125,
     "category": "Management General",
-    "question": "Asimilarea de noi produse reprezintă o activitate componentă a funcțiunii de:",
+    "question": "Asimilarea de noi produse reprezinta o activitate componenta a functiunii de:",
     "answers": [
       {
         "key": "A",
-        "text": "producție"
+        "text": "productie"
       },
       {
         "key": "B",
-        "text": "comercială"
+        "text": "comerciala"
       },
       {
         "key": "C",
@@ -5409,7 +5409,7 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "comercială"
+        "text": "comerciala"
       }
     ],
     "correct": "C",
@@ -5419,7 +5419,7 @@ window.QUESTIONS = [
     "id": "Management General-126",
     "nr": 126,
     "category": "Management General",
-    "question": "Dinamizarea managementului societății comerciale depinde în principal de:\nIdentificați varianta de răspuns corectă.\n a. inițiativa managerilor \n b. politica adoptată de firmă \n c. gradul de implicare al factorilor de decizie \n d. inițiativa statului \n e. calitățile managerilor",
+    "question": "Dinamizarea managementului societatii comerciale depinde in principal de:\nIdentificati varianta de raspuns corecta.\n a. initiativa managerilor \n b. politica adoptata de firma \n c. gradul de implicare al factorilor de decizie \n d. initiativa statului \n e. calitatile managerilor",
     "answers": [
       {
         "key": "A",
@@ -5449,7 +5449,7 @@ window.QUESTIONS = [
     "id": "Management General-127",
     "nr": 127,
     "category": "Management General",
-    "question": "Procesul managerial al societății comerciale are unele trăsături caracteristice.\nAlegeți varianta de răspuns corectă, care nu are legătură cu trăsăturile caracteristice ale procesul managerial al societății comerciale.",
+    "question": "Procesul managerial al societatii comerciale are unele trasaturi caracteristice.\nAlegeti varianta de raspuns corecta, care nu are legatura cu trasaturile caracteristice ale procesul managerial al societatii comerciale.",
     "answers": [
       {
         "key": "A",
@@ -5469,7 +5469,7 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "raționalitate"
+        "text": "rationalitate"
       }
     ],
     "correct": "D",
@@ -5479,37 +5479,37 @@ window.QUESTIONS = [
     "id": "Management General-128",
     "nr": 128,
     "category": "Management General",
-    "question": "Identificați varianta corectă cu privire la procesul delegării în management:",
+    "question": "Identificati varianta corecta cu privire la procesul delegarii in management:",
     "answers": [
       {
         "key": "A",
-        "text": "orice amplificare a controlului exercitat de manager crește încrederea percepută de subordonat"
+        "text": "orice amplificare a controlului exercitat de manager creste increderea perceputa de subordonat"
       },
       {
         "key": "B",
-        "text": "încredere - x = control – x"
+        "text": "incredere - x = control – x"
       },
       {
         "key": "C",
-        "text": "orice diminuare a controlului exercitat de manager scade încrederea percepută de subordonat"
+        "text": "orice diminuare a controlului exercitat de manager scade increderea perceputa de subordonat"
       },
       {
         "key": "D",
-        "text": "control + x = încredere + x"
+        "text": "control + x = incredere + x"
       },
       {
         "key": "E",
-        "text": "control + x = încredere – x"
+        "text": "control + x = incredere – x"
       }
     ],
     "correct": "E",
-    "correctText": "control + x = încredere – x"
+    "correctText": "control + x = incredere – x"
   },
   {
     "id": "Management General-129",
     "nr": 129,
     "category": "Management General",
-    "question": "Funcțional, procesul managerial nu are ca etapă:",
+    "question": "Functional, procesul managerial nu are ca etapa:",
     "answers": [
       {
         "key": "A",
@@ -5529,17 +5529,17 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "influențarea"
+        "text": "influentarea"
       }
     ],
     "correct": "E",
-    "correctText": "influențarea"
+    "correctText": "influentarea"
   },
   {
     "id": "Management General-130",
     "nr": 130,
     "category": "Management General",
-    "question": "În funcție de dinamica principalelor obiective încorporate, strategiile pot fi:\nIdentificați varianta de răspuns corectă.\n a. strategii de redresare \n b. strategii economice \n c. strategii de consolidare \n d. strategii de dezvoltare \n e. strategii organizatorice",
+    "question": "In functie de dinamica principalelor obiective incorporate, strategiile pot fi:\nIdentificati varianta de raspuns corecta.\n a. strategii de redresare \n b. strategii economice \n c. strategii de consolidare \n d. strategii de dezvoltare \n e. strategii organizatorice",
     "answers": [
       {
         "key": "A",
@@ -5569,7 +5569,7 @@ window.QUESTIONS = [
     "id": "Management General-131",
     "nr": 131,
     "category": "Management General",
-    "question": "În funcție de sfera de cuprindere, strategiile pot fi:\nIdentificați varianta de răspuns corectă.\n a. strategii globale \n b. strategii organizatorice \n c. strategii parțiale \n d. strategii economice \n e. strategii administrativ-economice",
+    "question": "In functie de sfera de cuprindere, strategiile pot fi:\nIdentificati varianta de raspuns corecta.\n a. strategii globale \n b. strategii organizatorice \n c. strategii partiale \n d. strategii economice \n e. strategii administrativ-economice",
     "answers": [
       {
         "key": "A",
@@ -5599,37 +5599,37 @@ window.QUESTIONS = [
     "id": "Management General-132",
     "nr": 132,
     "category": "Management General",
-    "question": "Strategiile de redresare economică:",
+    "question": "Strategiile de redresare economica:",
     "answers": [
       {
         "key": "A",
-        "text": "urmează unei perioade de declin economic și managerial, pun accent pe aspectele cantitative și urmăresc obiective apropiate, ca nivel, de rezultatele obținute într-o perioadă anterioară"
+        "text": "urmeaza unei perioade de declin economic si managerial, pun accent pe aspectele cantitative si urmaresc obiective apropiate, ca nivel, de rezultatele obtinute intr-o perioada anterioara"
       },
       {
         "key": "B",
-        "text": "urmează unei perioade de declin economic și managerial, pun accent pe aspectele calitative și urmăresc obiective identice ca nivel cu rezultatele obținute într-o perioadă anterioară"
+        "text": "urmeaza unei perioade de declin economic si managerial, pun accent pe aspectele calitative si urmaresc obiective identice ca nivel cu rezultatele obtinute intr-o perioada anterioara"
       },
       {
         "key": "C",
-        "text": "urmează unei perioade de declin economic și managerial, îmbină aspectele cantitative cu cele calitative și urmăresc obiective superioare nivelului rezultatelor dintr-o perioadă anterioară"
+        "text": "urmeaza unei perioade de declin economic si managerial, imbina aspectele cantitative cu cele calitative si urmaresc obiective superioare nivelului rezultatelor dintr-o perioada anterioara"
       },
       {
         "key": "D",
-        "text": "urmează unei perioade de avânt economic și pun accent pe aspectele calitative"
+        "text": "urmeaza unei perioade de avant economic si pun accent pe aspectele calitative"
       },
       {
         "key": "E",
-        "text": "urmează unei perioade de avânt economic și pun accent pe aspectele cantitative"
+        "text": "urmeaza unei perioade de avant economic si pun accent pe aspectele cantitative"
       }
     ],
     "correct": "A",
-    "correctText": "urmează unei perioade de declin economic și managerial, pun accent pe aspectele cantitative și urmăresc obiective apropiate, ca nivel, de rezultatele obținute într-o perioadă anterioară"
+    "correctText": "urmeaza unei perioade de declin economic si managerial, pun accent pe aspectele cantitative si urmaresc obiective apropiate, ca nivel, de rezultatele obtinute intr-o perioada anterioara"
   },
   {
     "id": "Management General-133",
     "nr": 133,
     "category": "Management General",
-    "question": "Care dintre variantele prezentate mai jos sunt metode de programare și organizare a muncii managerului:\nIdentificați varianta de răspuns corectă.\n a. programul de activitate \n b. graficul activității \n c. agenda \n d. diagnosticarea \n e. tabloul de bord",
+    "question": "Care dintre variantele prezentate mai jos sunt metode de programare si organizare a muncii managerului:\nIdentificati varianta de raspuns corecta.\n a. programul de activitate \n b. graficul activitatii \n c. agenda \n d. diagnosticarea \n e. tabloul de bord",
     "answers": [
       {
         "key": "A",
@@ -5659,19 +5659,19 @@ window.QUESTIONS = [
     "id": "Management General-134",
     "nr": 134,
     "category": "Management General",
-    "question": "Poate fi un obiectiv SMART al unei firme producătoare de încălțăminte:",
+    "question": "Poate fi un obiectiv SMART al unei firme producatoare de incaltaminte:",
     "answers": [
       {
         "key": "A",
-        "text": "creșterea vânzărilor cu 10% până la 31 decembrie 2026"
+        "text": "cresterea vanzarilor cu 10% pana la 31 decembrie 2026"
       },
       {
         "key": "B",
-        "text": "creșterea zilnică a vânzărilor cu 100%"
+        "text": "cresterea zilnica a vanzarilor cu 100%"
       },
       {
         "key": "C",
-        "text": "creșterea vânzărilor anuală cu 10%"
+        "text": "cresterea vanzarilor anuala cu 10%"
       },
       {
         "key": "D",
@@ -5679,47 +5679,47 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "reducerea cheltuielilor de producție cu 40%."
+        "text": "reducerea cheltuielilor de productie cu 40%."
       }
     ],
     "correct": "A",
-    "correctText": "creșterea vânzărilor cu 10% până la 31 decembrie 2026"
+    "correctText": "cresterea vanzarilor cu 10% pana la 31 decembrie 2026"
   },
   {
     "id": "Management General-135",
     "nr": 135,
     "category": "Management General",
-    "question": "Dacă ați fi managerul general al unei organizații, cum ați proceda pentru a îmbunătăți raporturile cu subordonații?",
+    "question": "Daca ati fi managerul general al unei organizatii, cum ati proceda pentru a imbunatati raporturile cu subordonatii?",
     "answers": [
       {
         "key": "A",
-        "text": "prin exercitarea unui control permanent și sancționarea exemplară a celor cu abateri"
+        "text": "prin exercitarea unui control permanent si sanctionarea exemplara a celor cu abateri"
       },
       {
         "key": "B",
-        "text": "prin îmbunătățirea controlului și maximizarea motivării acestora"
+        "text": "prin imbunatatirea controlului si maximizarea motivarii acestora"
       },
       {
         "key": "C",
-        "text": "prin organizarea de ședințe și punerea în discuție a celor vinovați"
+        "text": "prin organizarea de sedinte si punerea in discutie a celor vinovati"
       },
       {
         "key": "D",
-        "text": "prin concedierea imediată a celor ineficienți"
+        "text": "prin concedierea imediata a celor ineficienti"
       },
       {
         "key": "E",
-        "text": "prin mustrarea scrisă și verbală a celor ineficienți"
+        "text": "prin mustrarea scrisa si verbala a celor ineficienti"
       }
     ],
     "correct": "B",
-    "correctText": "prin îmbunătățirea controlului și maximizarea motivării acestora"
+    "correctText": "prin imbunatatirea controlului si maximizarea motivarii acestora"
   },
   {
     "id": "Management General-136",
     "nr": 136,
     "category": "Management General",
-    "question": "Metodologia managementului strategic cuprinde mai multe etape:\nIdentificați varianta de răspuns corectă.\n a. fundamentarea strategiei \n b. asigurarea premiselor strategice \n c. elaborarea strategiei \n d. implementarea (aplicarea) strategiei \n e. asigurarea climatului de muncă favorabil",
+    "question": "Metodologia managementului strategic cuprinde mai multe etape:\nIdentificati varianta de raspuns corecta.\n a. fundamentarea strategiei \n b. asigurarea premiselor strategice \n c. elaborarea strategiei \n d. implementarea (aplicarea) strategiei \n e. asigurarea climatului de munca favorabil",
     "answers": [
       {
         "key": "A",
@@ -5749,15 +5749,15 @@ window.QUESTIONS = [
     "id": "Management General-137",
     "nr": 137,
     "category": "Management General",
-    "question": "Sunteți managerul general al unei organizații supuse procesului de restructurare. Pentru ce tip de diagnosticare veți opta?",
+    "question": "Sunteti managerul general al unei organizatii supuse procesului de restructurare. Pentru ce tip de diagnosticare veti opta?",
     "answers": [
       {
         "key": "A",
-        "text": "diagnosticare globală, diagnosticare mixtă"
+        "text": "diagnosticare globala, diagnosticare mixta"
       },
       {
         "key": "B",
-        "text": "diagnosticare propriu-zisă"
+        "text": "diagnosticare propriu-zisa"
       },
       {
         "key": "C",
@@ -5765,29 +5765,29 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "diagnosticare parțială"
+        "text": "diagnosticare partiala"
       },
       {
         "key": "E",
-        "text": "diagnosticare selectivă."
+        "text": "diagnosticare selectiva."
       }
     ],
     "correct": "A",
-    "correctText": "diagnosticare globală, diagnosticare mixtă"
+    "correctText": "diagnosticare globala, diagnosticare mixta"
   },
   {
     "id": "Management General-138",
     "nr": 138,
     "category": "Management General",
-    "question": "Analiza SWOT valorifică:",
+    "question": "Analiza SWOT valorifica:",
     "answers": [
       {
         "key": "A",
-        "text": "punctele forte și punctele slabe, oportunitățile și vulnerabilitățile"
+        "text": "punctele forte si punctele slabe, oportunitatile si vulnerabilitatile"
       },
       {
         "key": "B",
-        "text": "recomandările diagnosticării"
+        "text": "recomandarile diagnosticarii"
       },
       {
         "key": "C",
@@ -5799,29 +5799,29 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "principiile diagnosticării"
+        "text": "principiile diagnosticarii"
       }
     ],
     "correct": "A",
-    "correctText": "punctele forte și punctele slabe, oportunitățile și vulnerabilitățile"
+    "correctText": "punctele forte si punctele slabe, oportunitatile si vulnerabilitatile"
   },
   {
     "id": "Management General-139",
     "nr": 139,
     "category": "Management General",
-    "question": "Utilizarea timpului de lucru de către manageri înregistrează mai multe deficiențe. Care dintre următoarele variante exprimă aspecte ale structurii necorespunzătoare a utilizării timpului de lucru?",
+    "question": "Utilizarea timpului de lucru de catre manageri inregistreaza mai multe deficiente. Care dintre urmatoarele variante exprima aspecte ale structurii necorespunzatoare a utilizarii timpului de lucru?",
     "answers": [
       {
         "key": "A",
-        "text": "ponderea redusă a timpului afectat activității de sinteză, de perspectivă"
+        "text": "ponderea redusa a timpului afectat activitatii de sinteza, de perspectiva"
       },
       {
         "key": "B",
-        "text": "proporție mare a timpului destinat muncii de documentare"
+        "text": "proportie mare a timpului destinat muncii de documentare"
       },
       {
         "key": "C",
-        "text": "depășirea duratei zilei de muncă"
+        "text": "depasirea duratei zilei de munca"
       },
       {
         "key": "D",
@@ -5829,171 +5829,171 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "ponderea ridicată a timpului afectat muncii de sinteză"
+        "text": "ponderea ridicata a timpului afectat muncii de sinteza"
       }
     ],
     "correct": "A",
-    "correctText": "ponderea redusă a timpului afectat activității de sinteză, de perspectivă"
+    "correctText": "ponderea redusa a timpului afectat activitatii de sinteza, de perspectiva"
   },
   {
     "id": "Management General-140",
     "nr": 140,
     "category": "Management General",
-    "question": "Studiul de diagnosticare se concretizează, în principal, în:",
+    "question": "Studiul de diagnosticare se concretizeaza, in principal, in:",
     "answers": [
       {
         "key": "A",
-        "text": "depistarea cauzală a principalelor puncte forte și a celor slabe"
+        "text": "depistarea cauzala a principalelor puncte forte si a celor slabe"
       },
       {
         "key": "B",
-        "text": "determinarea cauzelor ce generează punctele forte"
+        "text": "determinarea cauzelor ce genereaza punctele forte"
       },
       {
         "key": "C",
-        "text": "determinarea cauzelor ce generează puncte slabe"
+        "text": "determinarea cauzelor ce genereaza puncte slabe"
       },
       {
         "key": "D",
-        "text": "determinarea cauzelor ce generează oportunitățile"
+        "text": "determinarea cauzelor ce genereaza oportunitatile"
       },
       {
         "key": "E",
-        "text": "identificarea cauzelor amenințărilor"
+        "text": "identificarea cauzelor amenintarilor"
       }
     ],
     "correct": "A",
-    "correctText": "depistarea cauzală a principalelor puncte forte și a celor slabe"
+    "correctText": "depistarea cauzala a principalelor puncte forte si a celor slabe"
   },
   {
     "id": "Management General-141",
     "nr": 141,
     "category": "Management General",
-    "question": "Managementul ca proces se caracterizează prin faptul că:",
+    "question": "Managementul ca proces se caracterizeaza prin faptul ca:",
     "answers": [
       {
         "key": "A",
-        "text": "indică o anumită mentalitate de dirijare a oamenilor în vederea realizării unor obiective"
+        "text": "indica o anumita mentalitate de dirijare a oamenilor in vederea realizarii unor obiective"
       },
       {
         "key": "B",
-        "text": "reprezintă ansamblul integral al acțiunii de planificare, organizare, motivare și control exercitate de sistemul de management"
+        "text": "reprezinta ansamblul integral al actiunii de planificare, organizare, motivare si control exercitate de sistemul de management"
       },
       {
         "key": "C",
-        "text": "reprezintă capacitatea managerilor de a transpune în viață principiile, tehnicile și metodele de lucru"
+        "text": "reprezinta capacitatea managerilor de a transpune in viata principiile, tehnicile si metodele de lucru"
       },
       {
         "key": "D",
-        "text": "se bazează pe stabilirea și utilizarea de reguli, tehnici și metode de lucru cu caracter general"
+        "text": "se bazeaza pe stabilirea si utilizarea de reguli, tehnici si metode de lucru cu caracter general"
       },
       {
         "key": "E",
-        "text": "se bazează pe stabilirea și utilizarea de reguli, tehnici și metode de lucru cu caracter particular"
+        "text": "se bazeaza pe stabilirea si utilizarea de reguli, tehnici si metode de lucru cu caracter particular"
       }
     ],
     "correct": "B",
-    "correctText": "reprezintă ansamblul integral al acțiunii de planificare, organizare, motivare și control exercitate de sistemul de management"
+    "correctText": "reprezinta ansamblul integral al actiunii de planificare, organizare, motivare si control exercitate de sistemul de management"
   },
   {
     "id": "Management General-142",
     "nr": 142,
     "category": "Management General",
-    "question": "Managementul ca artă:",
+    "question": "Managementul ca arta:",
     "answers": [
       {
         "key": "A",
-        "text": "reprezintă capacitatea managerilor de a transpune în viață principiile, tehnicile și metodele de lucru și de adaptare permanentă a acestora la condițiile concrete ale firmei"
+        "text": "reprezinta capacitatea managerilor de a transpune in viata principiile, tehnicile si metodele de lucru si de adaptare permanenta a acestora la conditiile concrete ale firmei"
       },
       {
         "key": "B",
-        "text": "reprezintă procesul îndeplinirii obiectivelor organizației, lucrând cu și prin intermediul oamenilor, precum și al altor resurse ale organizației"
+        "text": "reprezinta procesul indeplinirii obiectivelor organizatiei, lucrand cu si prin intermediul oamenilor, precum si al altor resurse ale organizatiei"
       },
       {
         "key": "C",
-        "text": "indică o anumită mentalitate de dirijare a oamenilor în vederea realizării unor obiective"
+        "text": "indica o anumita mentalitate de dirijare a oamenilor in vederea realizarii unor obiective"
       },
       {
         "key": "D",
-        "text": "presupune stabilirea și utilizarea de reguli, tehnici și metode de lucru cu caracter general pentru utilizarea optimă a potențialului uman, material și financiar"
+        "text": "presupune stabilirea si utilizarea de reguli, tehnici si metode de lucru cu caracter general pentru utilizarea optima a potentialului uman, material si financiar"
       },
       {
         "key": "E",
-        "text": "presupune stabilirea și utilizarea de reguli, tehnici și metode de lucru cu caracter particular pentru utilizarea optimă a potențialului uman"
+        "text": "presupune stabilirea si utilizarea de reguli, tehnici si metode de lucru cu caracter particular pentru utilizarea optima a potentialului uman"
       }
     ],
     "correct": "A",
-    "correctText": "reprezintă capacitatea managerilor de a transpune în viață principiile, tehnicile și metodele de lucru și de adaptare permanentă a acestora la condițiile concrete ale firmei"
+    "correctText": "reprezinta capacitatea managerilor de a transpune in viata principiile, tehnicile si metodele de lucru si de adaptare permanenta a acestora la conditiile concrete ale firmei"
   },
   {
     "id": "Management General-143",
     "nr": 143,
     "category": "Management General",
-    "question": "Managementul ca știință:",
+    "question": "Managementul ca stiinta:",
     "answers": [
       {
         "key": "A",
-        "text": "presupune stabilirea și utilizarea de reguli, tehnici și metode de lucru cu caracter general, pentru utilizarea optimă a potențialului uman, material și financiar"
+        "text": "presupune stabilirea si utilizarea de reguli, tehnici si metode de lucru cu caracter general, pentru utilizarea optima a potentialului uman, material si financiar"
       },
       {
         "key": "B",
-        "text": "reprezintă capacitatea conducătorilor de a transpune în viață principiile, tehnicile și metodele de lucru"
+        "text": "reprezinta capacitatea conducatorilor de a transpune in viata principiile, tehnicile si metodele de lucru"
       },
       {
         "key": "C",
-        "text": "indică o anumită mentalitate de dirijare a oamenilor în vederea realizării unor obiective"
+        "text": "indica o anumita mentalitate de dirijare a oamenilor in vederea realizarii unor obiective"
       },
       {
         "key": "D",
-        "text": "presupune ca în procesul îndeplinirii obiectivelor organizației să se lucreze cu și prin intermediul oamenilor"
+        "text": "presupune ca in procesul indeplinirii obiectivelor organizatiei sa se lucreze cu si prin intermediul oamenilor"
       },
       {
         "key": "E",
-        "text": "indică o anumită mentalitate de control al oamenilor în vederea realizării unor obiective"
+        "text": "indica o anumita mentalitate de control al oamenilor in vederea realizarii unor obiective"
       }
     ],
     "correct": "A",
-    "correctText": "presupune stabilirea și utilizarea de reguli, tehnici și metode de lucru cu caracter general, pentru utilizarea optimă a potențialului uman, material și financiar"
+    "correctText": "presupune stabilirea si utilizarea de reguli, tehnici si metode de lucru cu caracter general, pentru utilizarea optima a potentialului uman, material si financiar"
   },
   {
     "id": "Management General-144",
     "nr": 144,
     "category": "Management General",
-    "question": "Conceptul de management al producției presupune:",
+    "question": "Conceptul de management al productiei presupune:",
     "answers": [
       {
         "key": "A",
-        "text": "îmbinarea și folosirea în procesul de producție a resurselor materiale, bănești și umane, în scopul executării unei anumite cantități de produse, de o anumită calitate, la termenele stabilite și cu cheltuieli minime de producție"
+        "text": "imbinarea si folosirea in procesul de productie a resurselor materiale, banesti si umane, in scopul executarii unei anumite cantitati de produse, de o anumita calitate, la termenele stabilite si cu cheltuieli minime de productie"
       },
       {
         "key": "B",
-        "text": "îmbinarea și folosirea în procesul de producție a resurselor materiale"
+        "text": "imbinarea si folosirea in procesul de productie a resurselor materiale"
       },
       {
         "key": "C",
-        "text": "îmbinarea și folosirea în procesul de producție a resurselor umane"
+        "text": "imbinarea si folosirea in procesul de productie a resurselor umane"
       },
       {
         "key": "D",
-        "text": "executarea unei anumite cantități de produse, de o anumită calitate, la termenele stabilite"
+        "text": "executarea unei anumite cantitati de produse, de o anumita calitate, la termenele stabilite"
       },
       {
         "key": "E",
-        "text": "executarea unei anumite cantități de produse, de o anumită calitate cu cheltuieli minime de producție"
+        "text": "executarea unei anumite cantitati de produse, de o anumita calitate cu cheltuieli minime de productie"
       }
     ],
     "correct": "A",
-    "correctText": "îmbinarea și folosirea în procesul de producție a resurselor materiale, bănești și umane, în scopul executării unei anumite cantități de produse, de o anumită calitate, la termenele stabilite și cu cheltuieli minime de producție"
+    "correctText": "imbinarea si folosirea in procesul de productie a resurselor materiale, banesti si umane, in scopul executarii unei anumite cantitati de produse, de o anumita calitate, la termenele stabilite si cu cheltuieli minime de productie"
   },
   {
     "id": "Management General-145",
     "nr": 145,
     "category": "Management General",
-    "question": "A. Maslow și E. Mayo sunt reprezentanții:",
+    "question": "A. Maslow si E. Mayo sunt reprezentantii:",
     "answers": [
       {
         "key": "A",
-        "text": "școlii manageriale bazate pe comportamentul uman"
+        "text": "scolii manageriale bazate pe comportamentul uman"
       },
       {
         "key": "B",
@@ -6001,29 +6001,29 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "managementul contingențial"
+        "text": "managementul contingential"
       },
       {
         "key": "D",
-        "text": "școlii clasice a managementului"
+        "text": "scolii clasice a managementului"
       },
       {
         "key": "E",
-        "text": "excelenței în conducerea afacerilor"
+        "text": "excelentei in conducerea afacerilor"
       }
     ],
     "correct": "A",
-    "correctText": "școlii manageriale bazate pe comportamentul uman"
+    "correctText": "scolii manageriale bazate pe comportamentul uman"
   },
   {
     "id": "Management General-146",
     "nr": 146,
     "category": "Management General",
-    "question": "F.W. Taylor și H. Fayol sunt reprezentanții:",
+    "question": "F.W. Taylor si H. Fayol sunt reprezentantii:",
     "answers": [
       {
         "key": "A",
-        "text": "școlii manageriale bazate pe comportamentul uman"
+        "text": "scolii manageriale bazate pe comportamentul uman"
       },
       {
         "key": "B",
@@ -6031,25 +6031,25 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "managementul contingențial"
+        "text": "managementul contingential"
       },
       {
         "key": "D",
-        "text": "școlii clasice a managementului"
+        "text": "scolii clasice a managementului"
       },
       {
         "key": "E",
-        "text": "managementul în stil japonez"
+        "text": "managementul in stil japonez"
       }
     ],
     "correct": "D",
-    "correctText": "școlii clasice a managementului"
+    "correctText": "scolii clasice a managementului"
   },
   {
     "id": "Management General-147",
     "nr": 147,
     "category": "Management General",
-    "question": "Deoarece în cadrul unei societăți comerciale între mijloacele de muncă, materiile prime și materialele utilizate se creează anumite conexiuni, aceasta este considerată:",
+    "question": "Deoarece in cadrul unei societati comerciale intre mijloacele de munca, materiile prime si materialele utilizate se creeaza anumite conexiuni, aceasta este considerata:",
     "answers": [
       {
         "key": "A",
@@ -6079,7 +6079,7 @@ window.QUESTIONS = [
     "id": "Management General-148",
     "nr": 148,
     "category": "Management General",
-    "question": "Deoarece societatea comercială este în interacțiune permanentă cu celelalte elemente ale sistemului căruia îi aparține, aceasta este considerată:",
+    "question": "Deoarece societatea comerciala este in interactiune permanenta cu celelalte elemente ale sistemului caruia ii apartine, aceasta este considerata:",
     "answers": [
       {
         "key": "A",
@@ -6109,7 +6109,7 @@ window.QUESTIONS = [
     "id": "Management General-149",
     "nr": 149,
     "category": "Management General",
-    "question": "Deoarece societatea comercială are capacitatea să-și autoregleze activitatea prin conducere proprie, pe baza informațiilor culese, care prelucrate adecvat, se transformă în decizii viitoare, aceasta este considerată:",
+    "question": "Deoarece societatea comerciala are capacitatea sa-si autoregleze activitatea prin conducere proprie, pe baza informatiilor culese, care prelucrate adecvat, se transforma in decizii viitoare, aceasta este considerata:",
     "answers": [
       {
         "key": "A",
@@ -6139,7 +6139,7 @@ window.QUESTIONS = [
     "id": "Management General-150",
     "nr": 150,
     "category": "Management General",
-    "question": "Care dintre următoarele tipuri de decizii comportă cele mai mari riscuri?",
+    "question": "Care dintre urmatoarele tipuri de decizii comporta cele mai mari riscuri?",
     "answers": [
       {
         "key": "A",
@@ -6151,7 +6151,7 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "deciziile în condiții de certitudine"
+        "text": "deciziile in conditii de certitudine"
       },
       {
         "key": "D",
@@ -6169,67 +6169,67 @@ window.QUESTIONS = [
     "id": "Management General-151",
     "nr": 151,
     "category": "Management General",
-    "question": "Identificați caracteristicile deciziilor în condiții de certitudine:",
+    "question": "Identificati caracteristicile deciziilor in conditii de certitudine:",
     "answers": [
       {
         "key": "A",
-        "text": "se elaborează în cadrul organizației o singură dată sau de un număr redus de ori, la intervale mari de timp"
+        "text": "se elaboreaza in cadrul organizatiei o singura data sau de un numar redus de ori, la intervale mari de timp"
       },
       {
         "key": "B",
-        "text": "manifestarea stărilor condițiilor obiective se cunoaște cu o anumită probabilitate"
+        "text": "manifestarea starilor conditiilor obiective se cunoaste cu o anumita probabilitate"
       },
       {
         "key": "C",
-        "text": "variabilele cu care se operează sunt controlabile, iar gradul de certitudine privind obținerea rezultatelor potențiale este mare"
+        "text": "variabilele cu care se opereaza sunt controlabile, iar gradul de certitudine privind obtinerea rezultatelor potentiale este mare"
       },
       {
         "key": "D",
-        "text": "variabilele cu care se operează sunt necontrolabile, iar gradul de certitudine privind obținerea rezultatelor potențiale este practic nul"
+        "text": "variabilele cu care se opereaza sunt necontrolabile, iar gradul de certitudine privind obtinerea rezultatelor potentiale este practic nul"
       },
       {
         "key": "E",
-        "text": "variabilele cu care se operează sunt necontrolabile, iar gradul de certitudine privind obținerea rezultatelor potențiale este maxim"
+        "text": "variabilele cu care se opereaza sunt necontrolabile, iar gradul de certitudine privind obtinerea rezultatelor potentiale este maxim"
       }
     ],
     "correct": "C",
-    "correctText": "variabilele cu care se operează sunt controlabile, iar gradul de certitudine privind obținerea rezultatelor potențiale este mare"
+    "correctText": "variabilele cu care se opereaza sunt controlabile, iar gradul de certitudine privind obtinerea rezultatelor potentiale este mare"
   },
   {
     "id": "Management General-152",
     "nr": 152,
     "category": "Management General",
-    "question": "Identificați caracteristicile deciziilor în condiții de incertitudine:",
+    "question": "Identificati caracteristicile deciziilor in conditii de incertitudine:",
     "answers": [
       {
         "key": "A",
-        "text": "nivelul consecințelor ce caracterizează variantele decizionale este influențat de două sau mai multe stări ale condițiilor obiective"
+        "text": "nivelul consecintelor ce caracterizeaza variantele decizionale este influentat de doua sau mai multe stari ale conditiilor obiective"
       },
       {
         "key": "B",
-        "text": "se manifestă două sau mai multe stări ale condițiilor obiective, fără a cunoaște probabilitatea de apariție"
+        "text": "se manifesta doua sau mai multe stari ale conditiilor obiective, fara a cunoaste probabilitatea de aparitie"
       },
       {
         "key": "C",
-        "text": "manifestarea stărilor condițiilor obiective se cunoaște cu o anumită probabilitate"
+        "text": "manifestarea starilor conditiilor obiective se cunoaste cu o anumita probabilitate"
       },
       {
         "key": "D",
-        "text": "se manifestă o singură stare a condițiilor obiective a cărei probabilitate de apariție este egală cu unitatea"
+        "text": "se manifesta o singura stare a conditiilor obiective a carei probabilitate de aparitie este egala cu unitatea"
       },
       {
         "key": "E",
-        "text": "variabilele cu care se operează sunt controlabile, iar gradul de certitudine privind obținerea rezultatelor potențiale este mare"
+        "text": "variabilele cu care se opereaza sunt controlabile, iar gradul de certitudine privind obtinerea rezultatelor potentiale este mare"
       }
     ],
     "correct": "C",
-    "correctText": "manifestarea stărilor condițiilor obiective se cunoaște cu o anumită probabilitate"
+    "correctText": "manifestarea starilor conditiilor obiective se cunoaste cu o anumita probabilitate"
   },
   {
     "id": "Management General-153",
     "nr": 153,
     "category": "Management General",
-    "question": "Deciziile care se referă la domenii importante ale unei societăți comerciale și care sunt adoptate pentru o perioadă relativ scurtă de timp (aproximativ 1 an), sunt decizii:",
+    "question": "Deciziile care se refera la domenii importante ale unei societati comerciale si care sunt adoptate pentru o perioada relativ scurta de timp (aproximativ 1 an), sunt decizii:",
     "answers": [
       {
         "key": "A",
@@ -6237,7 +6237,7 @@ window.QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "operaționale"
+        "text": "operationale"
       },
       {
         "key": "C",
@@ -6259,75 +6259,75 @@ window.QUESTIONS = [
     "id": "Management General-154",
     "nr": 154,
     "category": "Management General",
-    "question": "Puterea exemplului personal pe care un manager o poate utiliza este determinată de:",
+    "question": "Puterea exemplului personal pe care un manager o poate utiliza este determinata de:",
     "answers": [
       {
         "key": "A",
-        "text": "abilitatea personală a acestuia de a influența comportamentul tuturor membrilor grupului prin pricepere, talent sau cunoștințe de specialitate"
+        "text": "abilitatea personala a acestuia de a influenta comportamentul tuturor membrilor grupului prin pricepere, talent sau cunostinte de specialitate"
       },
       {
         "key": "B",
-        "text": "abilitatea acestuia de a influența comportamentul subalternilor ca rezultat al aprecierii, încrederii sau admirației lor"
+        "text": "abilitatea acestuia de a influenta comportamentul subalternilor ca rezultat al aprecierii, increderii sau admiratiei lor"
       },
       {
         "key": "C",
-        "text": "capacitatea de a retrograda subalterni, de a nu le plăti sporurile salariale"
+        "text": "capacitatea de a retrograda subalterni, de a nu le plati sporurile salariale"
       },
       {
         "key": "D",
-        "text": "capacitatea acestuia de a satisface cerințele subalternilor, ca răsplată pentru prestații"
+        "text": "capacitatea acestuia de a satisface cerintele subalternilor, ca rasplata pentru prestatii"
       },
       {
         "key": "E",
-        "text": "poziția pe care acesta o deține în cadrul unei organizații"
+        "text": "pozitia pe care acesta o detine in cadrul unei organizatii"
       }
     ],
     "correct": "B",
-    "correctText": "abilitatea acestuia de a influența comportamentul subalternilor ca rezultat al aprecierii, încrederii sau admirației lor"
+    "correctText": "abilitatea acestuia de a influenta comportamentul subalternilor ca rezultat al aprecierii, increderii sau admiratiei lor"
   },
   {
     "id": "Management General-155",
     "nr": 155,
     "category": "Management General",
-    "question": "Puterea legitimă pe care un manager o poate utiliza este determinată de:",
+    "question": "Puterea legitima pe care un manager o poate utiliza este determinata de:",
     "answers": [
       {
         "key": "A",
-        "text": "capacitatea sa de a satisface cerințele subalternilor, ca recompense pentru prestații"
+        "text": "capacitatea sa de a satisface cerintele subalternilor, ca recompense pentru prestatii"
       },
       {
         "key": "B",
-        "text": "capacitatea de a influența comportamentul subalternilor prin puterea exemplului propriu, al conducătorului"
+        "text": "capacitatea de a influenta comportamentul subalternilor prin puterea exemplului propriu, al conducatorului"
       },
       {
         "key": "C",
-        "text": "poziția pe care acesta o deține în cadrul unei organizații"
+        "text": "pozitia pe care acesta o detine in cadrul unei organizatii"
       },
       {
         "key": "D",
-        "text": "dreptul de a solicita subalternilor să realizeze sarcinile care le revin"
+        "text": "dreptul de a solicita subalternilor sa realizeze sarcinile care le revin"
       },
       {
         "key": "E",
-        "text": "capacitatea de a retrograda subalterni, de a nu le plăti sporurile salariale"
+        "text": "capacitatea de a retrograda subalterni, de a nu le plati sporurile salariale"
       }
     ],
     "correct": "C",
-    "correctText": "poziția pe care acesta o deține în cadrul unei organizații"
+    "correctText": "pozitia pe care acesta o detine in cadrul unei organizatii"
   },
   {
     "id": "Management General-156",
     "nr": 156,
     "category": "Management General",
-    "question": "Care este nivelul managerial responsabil pentru orientarea strategică a organizației?",
+    "question": "Care este nivelul managerial responsabil pentru orientarea strategica a organizatiei?",
     "answers": [
       {
         "key": "A",
-        "text": "operațional"
+        "text": "operational"
       },
       {
         "key": "B",
-        "text": "de primă linie"
+        "text": "de prima linie"
       },
       {
         "key": "C",
@@ -6349,15 +6349,15 @@ window.QUESTIONS = [
     "id": "Management General-157",
     "nr": 157,
     "category": "Management General",
-    "question": "Care este nivelul managerial responsabil de implementarea strategiilor organizației?",
+    "question": "Care este nivelul managerial responsabil de implementarea strategiilor organizatiei?",
     "answers": [
       {
         "key": "A",
-        "text": "operațional"
+        "text": "operational"
       },
       {
         "key": "B",
-        "text": "de primă linie"
+        "text": "de prima linie"
       },
       {
         "key": "C",
@@ -6379,37 +6379,37 @@ window.QUESTIONS = [
     "id": "Management General-158",
     "nr": 158,
     "category": "Management General",
-    "question": "Care dintre următoarele abilități sunt cele mai importante pentru managerii de nivel mediu?",
+    "question": "Care dintre urmatoarele abilitati sunt cele mai importante pentru managerii de nivel mediu?",
     "answers": [
       {
         "key": "A",
-        "text": "cunoștințele manageriale"
+        "text": "cunostintele manageriale"
       },
       {
         "key": "B",
-        "text": "capacitatea de orientare strategică"
+        "text": "capacitatea de orientare strategica"
       },
       {
         "key": "C",
-        "text": "capacitatea de a dezvolta relații umane"
+        "text": "capacitatea de a dezvolta relatii umane"
       },
       {
         "key": "D",
-        "text": "capacitatea decizională"
+        "text": "capacitatea decizionala"
       },
       {
         "key": "E",
-        "text": "informațiile acumulate"
+        "text": "informatiile acumulate"
       }
     ],
     "correct": "C",
-    "correctText": "capacitatea de a dezvolta relații umane"
+    "correctText": "capacitatea de a dezvolta relatii umane"
   },
   {
     "id": "Management General-159",
     "nr": 159,
     "category": "Management General",
-    "question": "Identificați cei trei factori de care depinde succesul managerial.\nIdentificați varianta de răspuns corectă.\n a. motivația de a conduce \n b. cunoștințele profesionale \n c. vârsta \n d. abilitatea managerială \n e. oportunitatea afacerii",
+    "question": "Identificati cei trei factori de care depinde succesul managerial.\nIdentificati varianta de raspuns corecta.\n a. motivatia de a conduce \n b. cunostintele profesionale \n c. varsta \n d. abilitatea manageriala \n e. oportunitatea afacerii",
     "answers": [
       {
         "key": "A",
@@ -6439,67 +6439,67 @@ window.QUESTIONS = [
     "id": "Management General-160",
     "nr": 160,
     "category": "Management General",
-    "question": "Care dintre următoarele variante poate constitui o caracteristică a planurilor strategice?",
+    "question": "Care dintre urmatoarele variante poate constitui o caracteristica a planurilor strategice?",
     "answers": [
       {
         "key": "A",
-        "text": "cuprind activități majore ale firmelor, pe intervale relativ lungi de timp (între 2 și 10 ani)"
+        "text": "cuprind activitati majore ale firmelor, pe intervale relativ lungi de timp (intre 2 si 10 ani)"
       },
       {
         "key": "B",
-        "text": "sunt strâns legate de bugete, întrucât activitățile de creștere vizate de ele reclamă alocarea de resurse"
+        "text": "sunt strans legate de bugete, intrucat activitatile de crestere vizate de ele reclama alocarea de resurse"
       },
       {
         "key": "C",
-        "text": "se emit după domeniul de activitate la care se referă"
+        "text": "se emit dupa domeniul de activitate la care se refera"
       },
       {
         "key": "D",
-        "text": "cuprind activități majore ale firmelor, pe intervale scurte de timp"
+        "text": "cuprind activitati majore ale firmelor, pe intervale scurte de timp"
       },
       {
         "key": "E",
-        "text": "se elaborează doar pentru punerea în practică a planurilor operaționale"
+        "text": "se elaboreaza doar pentru punerea in practica a planurilor operationale"
       }
     ],
     "correct": "A",
-    "correctText": "cuprind activități majore ale firmelor, pe intervale relativ lungi de timp (între 2 și 10 ani)"
+    "correctText": "cuprind activitati majore ale firmelor, pe intervale relativ lungi de timp (intre 2 si 10 ani)"
   },
   {
     "id": "Management General-161",
     "nr": 161,
     "category": "Management General",
-    "question": "Care dintre următoarele variante nu este o caracteristică a planurilor tactice?",
+    "question": "Care dintre urmatoarele variante nu este o caracteristica a planurilor tactice?",
     "answers": [
       {
         "key": "A",
-        "text": "în cadrul piramidei ierarhice a conducerii revin nivelurilor de bază – ateliere, echipe, locuri de muncă individuale"
+        "text": "in cadrul piramidei ierarhice a conducerii revin nivelurilor de baza – ateliere, echipe, locuri de munca individuale"
       },
       {
         "key": "B",
-        "text": "se elaborează pentru punerea în practică a planurilor strategice"
+        "text": "se elaboreaza pentru punerea in practica a planurilor strategice"
       },
       {
         "key": "C",
-        "text": "se elaborează pentru a atinge anumite performanțe la nivelul compartimentelor organizației"
+        "text": "se elaboreaza pentru a atinge anumite performante la nivelul compartimentelor organizatiei"
       },
       {
         "key": "D",
-        "text": "la nivelul organizațiilor există tendința de a fi suprimate pentru a accelera timpul de răspuns al sistemului conducerii organizațiilor"
+        "text": "la nivelul organizatiilor exista tendinta de a fi suprimate pentru a accelera timpul de raspuns al sistemului conducerii organizatiilor"
       },
       {
         "key": "E",
-        "text": "se elaborează doar pentru punerea în practică a planurilor operaționale"
+        "text": "se elaboreaza doar pentru punerea in practica a planurilor operationale"
       }
     ],
     "correct": "A",
-    "correctText": "în cadrul piramidei ierarhice a conducerii revin nivelurilor de bază – ateliere, echipe, locuri de muncă individuale"
+    "correctText": "in cadrul piramidei ierarhice a conducerii revin nivelurilor de baza – ateliere, echipe, locuri de munca individuale"
   },
   {
     "id": "Management General-162",
     "nr": 162,
     "category": "Management General",
-    "question": "Ce tip de planuri folosesc, de regulă, întreprinderile mici și mijlocii?",
+    "question": "Ce tip de planuri folosesc, de regula, intreprinderile mici si mijlocii?",
     "answers": [
       {
         "key": "A",
@@ -6507,15 +6507,15 @@ window.QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "planuri strategice și operaționale"
+        "text": "planuri strategice si operationale"
       },
       {
         "key": "C",
-        "text": "planuri strategice și tactice"
+        "text": "planuri strategice si tactice"
       },
       {
         "key": "D",
-        "text": "numai planuri operaționale"
+        "text": "numai planuri operationale"
       },
       {
         "key": "E",
@@ -6523,13 +6523,13 @@ window.QUESTIONS = [
       }
     ],
     "correct": "B",
-    "correctText": "planuri strategice și operaționale"
+    "correctText": "planuri strategice si operationale"
   },
   {
     "id": "Management General-163",
     "nr": 163,
     "category": "Management General",
-    "question": "Relațiile organizatorice pot fi:\n1. de autoritate\n2. de control\n3. de reprezentare\n4. de ilustrare\n5. de cooperare",
+    "question": "Relatiile organizatorice pot fi:\n1. de autoritate\n2. de control\n3. de reprezentare\n4. de ilustrare\n5. de cooperare",
     "answers": [
       {
         "key": "A",
@@ -6563,41 +6563,41 @@ window.QUESTIONS = [
     "answers": [
       {
         "key": "A",
-        "text": "asigurarea unei comunicații operative"
+        "text": "asigurarea unei comunicatii operative"
       },
       {
         "key": "B",
-        "text": "apariția unor riscuri mari de distorsionare a informațiilor"
+        "text": "aparitia unor riscuri mari de distorsionare a informatiilor"
       },
       {
         "key": "C",
-        "text": "scăderea operativității în luarea deciziilor"
+        "text": "scaderea operativitatii in luarea deciziilor"
       },
       {
         "key": "D",
-        "text": "încărcarea mare a managerilor din eșalonul superior cu probleme curente"
+        "text": "incarcarea mare a managerilor din esalonul superior cu probleme curente"
       },
       {
         "key": "E",
-        "text": "creșterea cheltuielilor administrative"
+        "text": "cresterea cheltuielilor administrative"
       }
     ],
     "correct": "D",
-    "correctText": "încărcarea mare a managerilor din eșalonul superior cu probleme curente"
+    "correctText": "incarcarea mare a managerilor din esalonul superior cu probleme curente"
   },
   {
     "id": "Management General-165",
     "nr": 165,
     "category": "Management General",
-    "question": "Alocarea unui număr cât mai mare de sarcini asemănătoare unui post pentru a-l face cât mai atractiv reprezintă procesul de:",
+    "question": "Alocarea unui numar cat mai mare de sarcini asemanatoare unui post pentru a-l face cat mai atractiv reprezinta procesul de:",
     "answers": [
       {
         "key": "A",
-        "text": "îmbogățire a postului"
+        "text": "imbogatire a postului"
       },
       {
         "key": "B",
-        "text": "rotație a postului"
+        "text": "rotatie a postului"
       },
       {
         "key": "C",
@@ -6605,7 +6605,7 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "lărgire a postului"
+        "text": "largire a postului"
       },
       {
         "key": "E",
@@ -6613,25 +6613,25 @@ window.QUESTIONS = [
       }
     ],
     "correct": "D",
-    "correctText": "lărgire a postului"
+    "correctText": "largire a postului"
   },
   {
     "id": "Management General-166",
     "nr": 166,
     "category": "Management General",
-    "question": "Nu este un principiu al alcătuirii structurii organizatorice:",
+    "question": "Nu este un principiu al alcatuirii structurii organizatorice:",
     "answers": [
       {
         "key": "A",
-        "text": "principiul supremației obiectivelor"
+        "text": "principiul suprematiei obiectivelor"
       },
       {
         "key": "B",
-        "text": "principiul permanenței conducerii"
+        "text": "principiul permanentei conducerii"
       },
       {
         "key": "C",
-        "text": "principiul flexibilității structurii"
+        "text": "principiul flexibilitatii structurii"
       },
       {
         "key": "D",
@@ -6639,47 +6639,47 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "principiul independenței totale"
+        "text": "principiul independentei totale"
       }
     ],
     "correct": "E",
-    "correctText": "principiul independenței totale"
+    "correctText": "principiul independentei totale"
   },
   {
     "id": "Management General-167",
     "nr": 167,
     "category": "Management General",
-    "question": "Identificați varianta eronată cu privire la organizația formală:",
+    "question": "Identificati varianta eronata cu privire la organizatia formala:",
     "answers": [
       {
         "key": "A",
-        "text": "spre deosebire de organizația informală este mai stabilă"
+        "text": "spre deosebire de organizatia informala este mai stabila"
       },
       {
         "key": "B",
-        "text": "odată constituită, organizația formală poate crea în interiorul său grupuri informale"
+        "text": "odata constituita, organizatia formala poate crea in interiorul sau grupuri informale"
       },
       {
         "key": "C",
-        "text": "se transformă întotdeauna în organizație informală"
+        "text": "se transforma intotdeauna in organizatie informala"
       },
       {
         "key": "D",
-        "text": "structura organizației formale statuează ierarhia obiectivelor, relațiile de autoritate, putere și responsabilitate"
+        "text": "structura organizatiei formale statueaza ierarhia obiectivelor, relatiile de autoritate, putere si responsabilitate"
       },
       {
         "key": "E",
-        "text": "structura organizației formale stabilește relații de autoritate, putere și responsabilitate"
+        "text": "structura organizatiei formale stabileste relatii de autoritate, putere si responsabilitate"
       }
     ],
     "correct": "C",
-    "correctText": "se transformă întotdeauna în organizație informală"
+    "correctText": "se transforma intotdeauna in organizatie informala"
   },
   {
     "id": "Management General-168",
     "nr": 168,
     "category": "Management General",
-    "question": "Precizați combinația corectă adevărat/fals în cazul următoarelor afirmații:\n 1.Prognozele se elaborează pentru perioade de la 5 la 10 ani.  \n 2.Programele se elaborează pentru perioade de până la o lună.  \n 3.Planurile se elaborează pentru perioade de la 1 lună la 5 ani.  \n 4.Planurile sunt foarte detaliate și au caracter obligatoriu. ",
+    "question": "Precizati combinatia corecta adevarat/fals in cazul urmatoarelor afirmatii:\n 1.Prognozele se elaboreaza pentru perioade de la 5 la 10 ani.  \n 2.Programele se elaboreaza pentru perioade de pana la o luna.  \n 3.Planurile se elaboreaza pentru perioade de la 1 luna la 5 ani.  \n 4.Planurile sunt foarte detaliate si au caracter obligatoriu. ",
     "answers": [
       {
         "key": "A",
@@ -6717,15 +6717,15 @@ window.QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "reprezintă slăbiciunile externe ale firmei, vulnerabilitățile"
+        "text": "reprezinta slabiciunile externe ale firmei, vulnerabilitatile"
       },
       {
         "key": "C",
-        "text": "reprezintă slăbiciunile interne ale firmei, defectele acesteia"
+        "text": "reprezinta slabiciunile interne ale firmei, defectele acesteia"
       },
       {
         "key": "D",
-        "text": "reprezintă calitățile, avantajele, aspectele pozitive, tangibile și intangibile ale firmei"
+        "text": "reprezinta calitatile, avantajele, aspectele pozitive, tangibile si intangibile ale firmei"
       },
       {
         "key": "E",
@@ -6733,67 +6733,67 @@ window.QUESTIONS = [
       }
     ],
     "correct": "D",
-    "correctText": "reprezintă calitățile, avantajele, aspectele pozitive, tangibile și intangibile ale firmei"
+    "correctText": "reprezinta calitatile, avantajele, aspectele pozitive, tangibile si intangibile ale firmei"
   },
   {
     "id": "Management General-170",
     "nr": 170,
     "category": "Management General",
-    "question": "Prin ce trăsături caracteristice este definită calitatea procesului de management?",
+    "question": "Prin ce trasaturi caracteristice este definita calitatea procesului de management?",
     "answers": [
       {
         "key": "A",
-        "text": "discontinuitate și ciclicitate"
+        "text": "discontinuitate si ciclicitate"
       },
       {
         "key": "B",
-        "text": "ciclicitate și continuitate"
+        "text": "ciclicitate si continuitate"
       },
       {
         "key": "C",
-        "text": "nestabilitate și consecvență"
+        "text": "nestabilitate si consecventa"
       },
       {
         "key": "D",
-        "text": "consecvență și staticitate"
+        "text": "consecventa si staticitate"
       },
       {
         "key": "E",
-        "text": "dinamism și discontinuitate"
+        "text": "dinamism si discontinuitate"
       }
     ],
     "correct": "B",
-    "correctText": "ciclicitate și continuitate"
+    "correctText": "ciclicitate si continuitate"
   },
   {
     "id": "Management General-171",
     "nr": 171,
     "category": "Management General",
-    "question": "Este un avantaj al piramidei ierarhice înalte:",
+    "question": "Este un avantaj al piramidei ierarhice inalte:",
     "answers": [
       {
         "key": "A",
-        "text": "scăderea operativității în luarea deciziilor"
+        "text": "scaderea operativitatii in luarea deciziilor"
       },
       {
         "key": "B",
-        "text": "reducerea substanțială a cheltuielilor cu salariile"
+        "text": "reducerea substantiala a cheltuielilor cu salariile"
       },
       {
         "key": "C",
-        "text": "asigurarea unei comunicări operative"
+        "text": "asigurarea unei comunicari operative"
       },
       {
         "key": "D",
-        "text": "creșterea substanțială a cheltuielilor cu salariile"
+        "text": "cresterea substantiala a cheltuielilor cu salariile"
       },
       {
         "key": "E",
-        "text": "practicarea cu ușurință a delegării autorității"
+        "text": "practicarea cu usurinta a delegarii autoritatii"
       }
     ],
     "correct": "E",
-    "correctText": "practicarea cu ușurință a delegării autorității"
+    "correctText": "practicarea cu usurinta a delegarii autoritatii"
   },
   {
     "id": "Management General-172",
@@ -6803,15 +6803,15 @@ window.QUESTIONS = [
     "answers": [
       {
         "key": "A",
-        "text": "obiective pe termen lung ale organizației"
+        "text": "obiective pe termen lung ale organizatiei"
       },
       {
         "key": "B",
-        "text": "specifice, calitative și realiste"
+        "text": "specifice, calitative si realiste"
       },
       {
         "key": "C",
-        "text": "specifice, măsurabile, realiste, putând fi îndeplinite într-o perioadă definită de timp"
+        "text": "specifice, masurabile, realiste, putand fi indeplinite intr-o perioada definita de timp"
       },
       {
         "key": "D",
@@ -6823,133 +6823,133 @@ window.QUESTIONS = [
       }
     ],
     "correct": "C",
-    "correctText": "specifice, măsurabile, realiste, putând fi îndeplinite într-o perioadă definită de timp"
+    "correctText": "specifice, masurabile, realiste, putand fi indeplinite intr-o perioada definita de timp"
   },
   {
     "id": "Management General-173",
     "nr": 173,
     "category": "Management General",
-    "question": "Ponderea ierarhică reprezintă:",
+    "question": "Ponderea ierarhica reprezinta:",
     "answers": [
       {
         "key": "A",
-        "text": "totalitatea posturilor dintr-o organizație"
+        "text": "totalitatea posturilor dintr-o organizatie"
       },
       {
         "key": "B",
-        "text": "totalitatea funcțiilor de conducere existente într-o organizație"
+        "text": "totalitatea functiilor de conducere existente intr-o organizatie"
       },
       {
         "key": "C",
-        "text": "numărul de salariați conduși de un manager"
+        "text": "numarul de salariati condusi de un manager"
       },
       {
         "key": "D",
-        "text": "numărul departamentelor existente într-o organizație"
+        "text": "numarul departamentelor existente intr-o organizatie"
       },
       {
         "key": "E",
-        "text": "organigrama organizației"
+        "text": "organigrama organizatiei"
       }
     ],
     "correct": "C",
-    "correctText": "numărul de salariați conduși de un manager"
+    "correctText": "numarul de salariati condusi de un manager"
   },
   {
     "id": "Management General-174",
     "nr": 174,
     "category": "Management General",
-    "question": "Prin avantaj competitiv al unei firme înțelegem:",
+    "question": "Prin avantaj competitiv al unei firme intelegem:",
     "answers": [
       {
         "key": "A",
-        "text": "poziționarea companiei pe o anumită piață"
+        "text": "pozitionarea companiei pe o anumita piata"
       },
       {
         "key": "B",
-        "text": "cifra de afaceri a unei organizații"
+        "text": "cifra de afaceri a unei organizatii"
       },
       {
         "key": "C",
-        "text": "realizarea de produse sau servicii superioare comparativ cu oferta concurenței"
+        "text": "realizarea de produse sau servicii superioare comparativ cu oferta concurentei"
       },
       {
         "key": "D",
-        "text": "poziția ocupată de o firmă într-o anumită industrie"
+        "text": "pozitia ocupata de o firma intr-o anumita industrie"
       },
       {
         "key": "E",
-        "text": "cota de piață a unei organizații"
+        "text": "cota de piata a unei organizatii"
       }
     ],
     "correct": "C",
-    "correctText": "realizarea de produse sau servicii superioare comparativ cu oferta concurenței"
+    "correctText": "realizarea de produse sau servicii superioare comparativ cu oferta concurentei"
   },
   {
     "id": "Management General-175",
     "nr": 175,
     "category": "Management General",
-    "question": "Organigrama este definită ca:",
+    "question": "Organigrama este definita ca:",
     "answers": [
       {
         "key": "A",
-        "text": "forma de reprezentare a relațiilor informale dintr-o organizație"
+        "text": "forma de reprezentare a relatiilor informale dintr-o organizatie"
       },
       {
         "key": "B",
-        "text": "planificarea activităților firmei în funcție de relațiile de subordonare"
+        "text": "planificarea activitatilor firmei in functie de relatiile de subordonare"
       },
       {
         "key": "C",
-        "text": "planificarea activităților firmei în funcție de relațiile de coordonare"
+        "text": "planificarea activitatilor firmei in functie de relatiile de coordonare"
       },
       {
         "key": "D",
-        "text": "reprezentarea grafică a structurii organizatorice pe baza unor reguli specifice"
+        "text": "reprezentarea grafica a structurii organizatorice pe baza unor reguli specifice"
       },
       {
         "key": "E",
-        "text": "instrument de lucru utilizat de manageri în procesul de motivare a angajaților"
+        "text": "instrument de lucru utilizat de manageri in procesul de motivare a angajatilor"
       }
     ],
     "correct": "D",
-    "correctText": "reprezentarea grafică a structurii organizatorice pe baza unor reguli specifice"
+    "correctText": "reprezentarea grafica a structurii organizatorice pe baza unor reguli specifice"
   },
   {
     "id": "Management General-176",
     "nr": 176,
     "category": "Management General",
-    "question": "În managementul organizației, decizia reprezintă:",
+    "question": "In managementul organizatiei, decizia reprezinta:",
     "answers": [
       {
         "key": "A",
-        "text": "o funcție a managementului"
+        "text": "o functie a managementului"
       },
       {
         "key": "B",
-        "text": "o varietate de informații"
+        "text": "o varietate de informatii"
       },
       {
         "key": "C",
-        "text": "o verigă în circuitul mărfurilor"
+        "text": "o veriga in circuitul marfurilor"
       },
       {
         "key": "D",
-        "text": "o verigă în procesul de informare"
+        "text": "o veriga in procesul de informare"
       },
       {
         "key": "E",
-        "text": "un act deliberat de autoritate, având caracter obligatoriu pentru persoanele din subordine, cu scopul afirmat de a realiza obiective comune"
+        "text": "un act deliberat de autoritate, avand caracter obligatoriu pentru persoanele din subordine, cu scopul afirmat de a realiza obiective comune"
       }
     ],
     "correct": "E",
-    "correctText": "un act deliberat de autoritate, având caracter obligatoriu pentru persoanele din subordine, cu scopul afirmat de a realiza obiective comune"
+    "correctText": "un act deliberat de autoritate, avand caracter obligatoriu pentru persoanele din subordine, cu scopul afirmat de a realiza obiective comune"
   },
   {
     "id": "Management General-177",
     "nr": 177,
     "category": "Management General",
-    "question": "Procesele de muncă în cadrul unei societăți comerciale se împart în:\n1. procese de execuție\n2. procese de management\n3. procese decizionale\n4. procese funcționale\n5. procese strategice.",
+    "question": "Procesele de munca in cadrul unei societati comerciale se impart in:\n1. procese de executie\n2. procese de management\n3. procese decizionale\n4. procese functionale\n5. procese strategice.",
     "answers": [
       {
         "key": "A",
@@ -6979,37 +6979,37 @@ window.QUESTIONS = [
     "id": "Management General-178",
     "nr": 178,
     "category": "Management General",
-    "question": "Nu este un element cu caracter tehnic și tehnologic din mediul ambiant, cu impact asupra firmei:",
+    "question": "Nu este un element cu caracter tehnic si tehnologic din mediul ambiant, cu impact asupra firmei:",
     "answers": [
       {
         "key": "A",
-        "text": "calitatea tehnologiilor ce pot fi achiziționate"
+        "text": "calitatea tehnologiilor ce pot fi achizitionate"
       },
       {
         "key": "B",
-        "text": "calitatea cercetărilor tehnice la care întreprinderea are acces"
+        "text": "calitatea cercetarilor tehnice la care intreprinderea are acces"
       },
       {
         "key": "C",
-        "text": "capacitatea creativ-inovativă a sistemului de cercetare-proiectare"
+        "text": "capacitatea creativ-inovativa a sistemului de cercetare-proiectare"
       },
       {
         "key": "D",
-        "text": "numărul și nivelul licențelor și brevetelor înregistrate"
+        "text": "numarul si nivelul licentelor si brevetelor inregistrate"
       },
       {
         "key": "E",
-        "text": "calitatea studiilor, metodelor și tehnicilor manageriale furnizate de știință"
+        "text": "calitatea studiilor, metodelor si tehnicilor manageriale furnizate de stiinta"
       }
     ],
     "correct": "E",
-    "correctText": "calitatea studiilor, metodelor și tehnicilor manageriale furnizate de știință"
+    "correctText": "calitatea studiilor, metodelor si tehnicilor manageriale furnizate de stiinta"
   },
   {
     "id": "Management General-179",
     "nr": 179,
     "category": "Management General",
-    "question": "Sunt întrebări al căror răspuns ilustrează punctele forte/tari ale unei organizații:\n 1. Ce aptitudini specifice are forța de muncă de care dispunem?\n 2. De ce avantaje dispunem pentru a atrage personal de calitate?\n 3. Ce schimbări ale mediului extern putem exploata?\n 4. La ce tehnologie nouă am putea avea acces?\n5. Ce tehnologie folosim?\n 6. Ce ar putea face concurența în detrimentul nostru?",
+    "question": "Sunt intrebari al caror raspuns ilustreaza punctele forte/tari ale unei organizatii:\n 1. Ce aptitudini specifice are forta de munca de care dispunem?\n 2. De ce avantaje dispunem pentru a atrage personal de calitate?\n 3. Ce schimbari ale mediului extern putem exploata?\n 4. La ce tehnologie noua am putea avea acces?\n5. Ce tehnologie folosim?\n 6. Ce ar putea face concurenta in detrimentul nostru?",
     "answers": [
       {
         "key": "A",
@@ -7039,7 +7039,7 @@ window.QUESTIONS = [
     "id": "Management General-180",
     "nr": 180,
     "category": "Management General",
-    "question": "Sunt întrebări al căror răspuns ilustrează oportunitățile unei organizații:\n 1. Ce aptitudini specifice are forța de muncă de care dispunem? \n 2. De ce avantaje dispunem pentru a atrage personal de calitate? \n 3. Ce schimbări ale mediului extern putem exploata? \n 4. La ce tehnologie nouă am putea avea acces? \n 5. Unde se poate identifica sau cum se poate crea, un avantaj concurențial? \n 6. Ce ar putea face concurența în detrimentul nostru?",
+    "question": "Sunt intrebari al caror raspuns ilustreaza oportunitatile unei organizatii:\n 1. Ce aptitudini specifice are forta de munca de care dispunem? \n 2. De ce avantaje dispunem pentru a atrage personal de calitate? \n 3. Ce schimbari ale mediului extern putem exploata? \n 4. La ce tehnologie noua am putea avea acces? \n 5. Unde se poate identifica sau cum se poate crea, un avantaj concurential? \n 6. Ce ar putea face concurenta in detrimentul nostru?",
     "answers": [
       {
         "key": "A",
@@ -7069,37 +7069,37 @@ window.QUESTIONS = [
     "id": "Management General-181",
     "nr": 181,
     "category": "Management General",
-    "question": "Referitor la mediul unei organizații, identificați varianta eronată:",
+    "question": "Referitor la mediul unei organizatii, identificati varianta eronata:",
     "answers": [
       {
         "key": "A",
-        "text": "resursele organizației aparțin mediului intern"
+        "text": "resursele organizatiei apartin mediului intern"
       },
       {
         "key": "B",
-        "text": "macromediul aparține mediului extern al organizației"
+        "text": "macromediul apartine mediului extern al organizatiei"
       },
       {
         "key": "C",
-        "text": "structura organizatorică este componentă a mediului intern"
+        "text": "structura organizatorica este componenta a mediului intern"
       },
       {
         "key": "D",
-        "text": "micromediul aparține mediului intern al organizației"
+        "text": "micromediul apartine mediului intern al organizatiei"
       },
       {
         "key": "E",
-        "text": "micromediul aparține mediului extern al organizației"
+        "text": "micromediul apartine mediului extern al organizatiei"
       }
     ],
     "correct": "D",
-    "correctText": "micromediul aparține mediului intern al organizației"
+    "correctText": "micromediul apartine mediului intern al organizatiei"
   },
   {
     "id": "Management General-182",
     "nr": 182,
     "category": "Management General",
-    "question": "Sunt avantaje ale unei piramide ierarhice aplatizate:\n 1. asigurarea unor comunicații operative; \n 2. operativitate în adoptarea deciziilor; \n 3. reducerea substanțială a riscului de distorsionare a informațiilor; \n 4. reducerea substanțială a cheltuielilor cu salariile personalului; \n 5. practicarea cu mai multă ușurință a delegării autorității.",
+    "question": "Sunt avantaje ale unei piramide ierarhice aplatizate:\n 1. asigurarea unor comunicatii operative; \n 2. operativitate in adoptarea deciziilor; \n 3. reducerea substantiala a riscului de distorsionare a informatiilor; \n 4. reducerea substantiala a cheltuielilor cu salariile personalului; \n 5. practicarea cu mai multa usurinta a delegarii autoritatii.",
     "answers": [
       {
         "key": "A",
@@ -7129,7 +7129,7 @@ window.QUESTIONS = [
     "id": "Management General-183",
     "nr": 183,
     "category": "Management General",
-    "question": "Sunt avantaje ale unei piramide ierarhice înalte:\n 1. asigurarea unor comunicații operative; \n 2. practicarea cu mai multă ușurință a delegării autorității; \n 3. grad ridicat de prelucrare a informațiilor; \n 4. reducerea substanțială a riscului de distorsionare a informațiilor; \n 5. fundamentarea științifică a deciziilor adoptate de managerii din eșalonul superior.",
+    "question": "Sunt avantaje ale unei piramide ierarhice inalte:\n 1. asigurarea unor comunicatii operative; \n 2. practicarea cu mai multa usurinta a delegarii autoritatii; \n 3. grad ridicat de prelucrare a informatiilor; \n 4. reducerea substantiala a riscului de distorsionare a informatiilor; \n 5. fundamentarea stiintifica a deciziilor adoptate de managerii din esalonul superior.",
     "answers": [
       {
         "key": "A",
@@ -7159,37 +7159,37 @@ window.QUESTIONS = [
     "id": "Management General-184",
     "nr": 184,
     "category": "Management General",
-    "question": "Nu este un principiu al alcătuirii unei structuri organizatorice:\n a. principiul separării conducerii de execuție \n b. principiul interdependenței minime \n c. principiul economiei de comunicații \n d. principiul permanenței conducerii \n e. principiul apropierii conducerii de execuție",
+    "question": "Nu este un principiu al alcatuirii unei structuri organizatorice:\n a. principiul separarii conducerii de executie \n b. principiul interdependentei minime \n c. principiul economiei de comunicatii \n d. principiul permanentei conducerii \n e. principiul apropierii conducerii de executie",
     "answers": [
       {
         "key": "A",
-        "text": "principiul separării conducerii de execuție"
+        "text": "principiul separarii conducerii de executie"
       },
       {
         "key": "B",
-        "text": "principiul interdependenței minime"
+        "text": "principiul interdependentei minime"
       },
       {
         "key": "C",
-        "text": "principiul economiei de comunicații"
+        "text": "principiul economiei de comunicatii"
       },
       {
         "key": "D",
-        "text": "principiul permanenței conducerii"
+        "text": "principiul permanentei conducerii"
       },
       {
         "key": "E",
-        "text": "principiul apropierii conducerii de execuție"
+        "text": "principiul apropierii conducerii de executie"
       }
     ],
     "correct": "A",
-    "correctText": "principiul separării conducerii de execuție"
+    "correctText": "principiul separarii conducerii de executie"
   },
   {
     "id": "Management General-185",
     "nr": 185,
     "category": "Management General",
-    "question": "După gradul de prelucrare, informațiile pot fi:\n 1. informații ascendente \n 2. informații orizontale \n 3. informații primare sau de bază \n 4. informații intermediare \n 5. informații finale.",
+    "question": "Dupa gradul de prelucrare, informatiile pot fi:\n 1. informatii ascendente \n 2. informatii orizontale \n 3. informatii primare sau de baza \n 4. informatii intermediare \n 5. informatii finale.",
     "answers": [
       {
         "key": "A",
@@ -7219,7 +7219,7 @@ window.QUESTIONS = [
     "id": "Management General-186",
     "nr": 186,
     "category": "Management General",
-    "question": "După modul de organizare al înregistrării și prelucrării acestora, informațiile pot fi:\n 1. informații tehnico-operative \n 2. informații de evidență \n 3. informații statistice \n 4. informații exogene \n 5. informații endogene",
+    "question": "Dupa modul de organizare al inregistrarii si prelucrarii acestora, informatiile pot fi:\n 1. informatii tehnico-operative \n 2. informatii de evidenta \n 3. informatii statistice \n 4. informatii exogene \n 5. informatii endogene",
     "answers": [
       {
         "key": "A",
@@ -7249,7 +7249,7 @@ window.QUESTIONS = [
     "id": "Management General-187",
     "nr": 187,
     "category": "Management General",
-    "question": "După natura proceselor reflectate, informațiile pot fi:\n 1. informații de cercetare-dezvoltare \n 2. informații comerciale \n 3. informații de producție \n 4. informații financiar-contabile \n 5. informații de personal",
+    "question": "Dupa natura proceselor reflectate, informatiile pot fi:\n 1. informatii de cercetare-dezvoltare \n 2. informatii comerciale \n 3. informatii de productie \n 4. informatii financiar-contabile \n 5. informatii de personal",
     "answers": [
       {
         "key": "A",
@@ -7279,41 +7279,41 @@ window.QUESTIONS = [
     "id": "Management General-188",
     "nr": 188,
     "category": "Management General",
-    "question": "Nu poate fi un factor al blocajului în comunicarea managerială:",
+    "question": "Nu poate fi un factor al blocajului in comunicarea manageriala:",
     "answers": [
       {
         "key": "A",
-        "text": "diferența de statut"
+        "text": "diferenta de statut"
       },
       {
         "key": "B",
-        "text": "diferența de pregătire profesională"
+        "text": "diferenta de pregatire profesionala"
       },
       {
         "key": "C",
-        "text": "diferența de percepție"
+        "text": "diferenta de perceptie"
       },
       {
         "key": "D",
-        "text": "diferența de venit"
+        "text": "diferenta de venit"
       },
       {
         "key": "E",
-        "text": "diferența de personalitate"
+        "text": "diferenta de personalitate"
       }
     ],
     "correct": "D",
-    "correctText": "diferența de venit"
+    "correctText": "diferenta de venit"
   },
   {
     "id": "Management General-189",
     "nr": 189,
     "category": "Management General",
-    "question": "Blocajele în comunicarea managerială pot fi generate:",
+    "question": "Blocajele in comunicarea manageriala pot fi generate:",
     "answers": [
       {
         "key": "A",
-        "text": "exclusiv de subordonați"
+        "text": "exclusiv de subordonati"
       },
       {
         "key": "B",
@@ -7321,25 +7321,25 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "de o documentare amănunțită"
+        "text": "de o documentare amanuntita"
       },
       {
         "key": "D",
-        "text": "de manageri și/sau de subordonați"
+        "text": "de manageri si/sau de subordonati"
       },
       {
         "key": "E",
-        "text": "de lipsa dificultăților în transmiterea informațiilor"
+        "text": "de lipsa dificultatilor in transmiterea informatiilor"
       }
     ],
     "correct": "D",
-    "correctText": "de manageri și/sau de subordonați"
+    "correctText": "de manageri si/sau de subordonati"
   },
   {
     "id": "Management General-190",
     "nr": 190,
     "category": "Management General",
-    "question": "Sunt metode generale de management:\n 1. managementul pe bază de plan \n 2. managementul prin obiective \n 3. managementul prin excepție \n 4. managementul prin bugete \n 5. managementul prin proiecte",
+    "question": "Sunt metode generale de management:\n 1. managementul pe baza de plan \n 2. managementul prin obiective \n 3. managementul prin exceptie \n 4. managementul prin bugete \n 5. managementul prin proiecte",
     "answers": [
       {
         "key": "A",
@@ -7369,7 +7369,7 @@ window.QUESTIONS = [
     "id": "Management General-191",
     "nr": 191,
     "category": "Management General",
-    "question": "Este o metodă de management care vizează funcția de planificare:",
+    "question": "Este o metoda de management care vizeaza functia de planificare:",
     "answers": [
       {
         "key": "A",
@@ -7399,37 +7399,37 @@ window.QUESTIONS = [
     "id": "Management General-192",
     "nr": 192,
     "category": "Management General",
-    "question": "Identificați varianta eronată cu privire la managementul prin delegare:",
+    "question": "Identificati varianta eronata cu privire la managementul prin delegare:",
     "answers": [
       {
         "key": "A",
-        "text": "în procesul delegării se impune realizarea unei concordanțe între autoritatea și responsabilitatea delegate"
+        "text": "in procesul delegarii se impune realizarea unei concordante intre autoritatea si responsabilitatea delegate"
       },
       {
         "key": "B",
-        "text": "orice amplificare a controlului exercitat de manager diminuează încrederea percepută de subordonat"
+        "text": "orice amplificare a controlului exercitat de manager diminueaza increderea perceputa de subordonat"
       },
       {
         "key": "C",
-        "text": "managementul prin delegare constă în transmiterea temporară a unei sarcini de serviciu unui subordonat de către un manager"
+        "text": "managementul prin delegare consta in transmiterea temporara a unei sarcini de serviciu unui subordonat de catre un manager"
       },
       {
         "key": "D",
-        "text": "scopul delegării poate fi creșterea timpului de rezolvare a unor probleme curente"
+        "text": "scopul delegarii poate fi cresterea timpului de rezolvare a unor probleme curente"
       },
       {
         "key": "E",
-        "text": "sporirea încrederii pe care o are managerul în subordonatul său presupune o diminuare a controlului"
+        "text": "sporirea increderii pe care o are managerul in subordonatul sau presupune o diminuare a controlului"
       }
     ],
     "correct": "D",
-    "correctText": "scopul delegării poate fi creșterea timpului de rezolvare a unor probleme curente"
+    "correctText": "scopul delegarii poate fi cresterea timpului de rezolvare a unor probleme curente"
   },
   {
     "id": "Management General-193",
     "nr": 193,
     "category": "Management General",
-    "question": "Sunt aspecte care pot influența stilurile manageriale:\n 1. atitudinea față de responsabilitate \n 2. preocuparea pentru oameni \n 3. preocuparea pentru producție \n 4. autoritatea exercitată de subordonați; \n 5. preocuparea pentru eficiență.",
+    "question": "Sunt aspecte care pot influenta stilurile manageriale:\n 1. atitudinea fata de responsabilitate \n 2. preocuparea pentru oameni \n 3. preocuparea pentru productie \n 4. autoritatea exercitata de subordonati; \n 5. preocuparea pentru eficienta.",
     "answers": [
       {
         "key": "A",
@@ -7463,27 +7463,27 @@ window.QUESTIONS = [
     "answers": [
       {
         "key": "A",
-        "text": "este caracterizat de îngăduință față de subalterni"
+        "text": "este caracterizat de ingaduinta fata de subalterni"
       },
       {
         "key": "B",
-        "text": "informează sistematic subalternii asupra realizărilor firmei"
+        "text": "informeaza sistematic subalternii asupra realizarilor firmei"
       },
       {
         "key": "C",
-        "text": "reacționează pozitiv la critici"
+        "text": "reactioneaza pozitiv la critici"
       },
       {
         "key": "D",
-        "text": "menține bune legături de cooperare cu subordonații"
+        "text": "mentine bune legaturi de cooperare cu subordonatii"
       },
       {
         "key": "E",
-        "text": "ține cont doar de propria părere în situația aplicării unei sancțiuni"
+        "text": "tine cont doar de propria parere in situatia aplicarii unei sanctiuni"
       }
     ],
     "correct": "E",
-    "correctText": "ține cont doar de propria părere în situația aplicării unei sancțiuni"
+    "correctText": "tine cont doar de propria parere in situatia aplicarii unei sanctiuni"
   },
   {
     "id": "Management General-195",
@@ -7493,19 +7493,19 @@ window.QUESTIONS = [
     "answers": [
       {
         "key": "A",
-        "text": "limitează conștient contactele profesionale cu colaboratorii"
+        "text": "limiteaza constient contactele profesionale cu colaboratorii"
       },
       {
         "key": "B",
-        "text": "informează sistematic subalternii asupra stadiului realizărilor firmei"
+        "text": "informeaza sistematic subalternii asupra stadiului realizarilor firmei"
       },
       {
         "key": "C",
-        "text": "promovează creativitatea excesivă a puterii"
+        "text": "promoveaza creativitatea excesiva a puterii"
       },
       {
         "key": "D",
-        "text": "rezolvă arbitrar problemele"
+        "text": "rezolva arbitrar problemele"
       },
       {
         "key": "E",
@@ -7513,17 +7513,17 @@ window.QUESTIONS = [
       }
     ],
     "correct": "B",
-    "correctText": "informează sistematic subalternii asupra stadiului realizărilor firmei"
+    "correctText": "informeaza sistematic subalternii asupra stadiului realizarilor firmei"
   },
   {
     "id": "Management General-196",
     "nr": 196,
     "category": "Management General",
-    "question": "Nu este o cale de creștere a eficienței activității managerului:",
+    "question": "Nu este o cale de crestere a eficientei activitatii managerului:",
     "answers": [
       {
         "key": "A",
-        "text": "o bună cunoaștere a domeniului coordonat"
+        "text": "o buna cunoastere a domeniului coordonat"
       },
       {
         "key": "B",
@@ -7531,25 +7531,25 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "acordarea priorității creativității și inovației"
+        "text": "acordarea prioritatii creativitatii si inovatiei"
       },
       {
         "key": "D",
-        "text": "delegarea pentru rezolvarea problemelor de rutină"
+        "text": "delegarea pentru rezolvarea problemelor de rutina"
       },
       {
         "key": "E",
-        "text": "coordonarea tuturor compartimentelor organizației"
+        "text": "coordonarea tuturor compartimentelor organizatiei"
       }
     ],
     "correct": "E",
-    "correctText": "coordonarea tuturor compartimentelor organizației"
+    "correctText": "coordonarea tuturor compartimentelor organizatiei"
   },
   {
     "id": "Management General-197",
     "nr": 197,
     "category": "Management General",
-    "question": "Sunt elemente componente ale culturii organizaționale:\n 1. filosofia firmei \n 2. normele interne \n 3. normele externe \n 4. valorile dominante \n 5. climatul organizațional.",
+    "question": "Sunt elemente componente ale culturii organizationale:\n 1. filosofia firmei \n 2. normele interne \n 3. normele externe \n 4. valorile dominante \n 5. climatul organizational.",
     "answers": [
       {
         "key": "A",
@@ -7579,7 +7579,7 @@ window.QUESTIONS = [
     "id": "Management General-198",
     "nr": 198,
     "category": "Management General",
-    "question": "Sunt factori care pot genera elemente de cultură organizațională:\n 1. misiunea organizației \n 2. motivația membrilor organizației \n 3. atmosfera existentă în organizație \n 4. tradițiile și obiceiurile existente în organizație \n 5. valorile existente în organizație.",
+    "question": "Sunt factori care pot genera elemente de cultura organizationala:\n 1. misiunea organizatiei \n 2. motivatia membrilor organizatiei \n 3. atmosfera existenta in organizatie \n 4. traditiile si obiceiurile existente in organizatie \n 5. valorile existente in organizatie.",
     "answers": [
       {
         "key": "A",
@@ -7609,7 +7609,7 @@ window.QUESTIONS = [
     "id": "Management General-199",
     "nr": 199,
     "category": "Management General",
-    "question": "Sunt elemente care fac parte din palierul invizibil al culturii organizaționale: \n 1. folclorul organizației \n 2. cunoștințele angajaților \n 3. motivația angajaților \n 4. satisfacția angajaților \n 5. vestimentația.s",
+    "question": "Sunt elemente care fac parte din palierul invizibil al culturii organizationale: \n 1. folclorul organizatiei \n 2. cunostintele angajatilor \n 3. motivatia angajatilor \n 4. satisfactia angajatilor \n 5. vestimentatia.s",
     "answers": [
       {
         "key": "A",
@@ -7639,67 +7639,67 @@ window.QUESTIONS = [
     "id": "Management General-200",
     "nr": 200,
     "category": "Management General",
-    "question": "Cultura organizațională de tip templu:",
+    "question": "Cultura organizationala de tip templu:",
     "answers": [
       {
         "key": "A",
-        "text": "este dezvoltată doar de organizațiile de dimensiuni reduse"
+        "text": "este dezvoltata doar de organizatiile de dimensiuni reduse"
       },
       {
         "key": "B",
-        "text": "se poate adapta rapid schimbărilor mediului"
+        "text": "se poate adapta rapid schimbarilor mediului"
       },
       {
         "key": "C",
-        "text": "este dezvoltată de organizațiile mari, cu pronunțate mecanisme birocratice"
+        "text": "este dezvoltata de organizatiile mari, cu pronuntate mecanisme birocratice"
       },
       {
         "key": "D",
-        "text": "promovează creativitatea angajaților"
+        "text": "promoveaza creativitatea angajatilor"
       },
       {
         "key": "E",
-        "text": "promovează lucrul în echipă"
+        "text": "promoveaza lucrul in echipa"
       }
     ],
     "correct": "C",
-    "correctText": "este dezvoltată de organizațiile mari, cu pronunțate mecanisme birocratice"
+    "correctText": "este dezvoltata de organizatiile mari, cu pronuntate mecanisme birocratice"
   },
   {
     "id": "Management General-201",
     "nr": 201,
     "category": "Management General",
-    "question": "Nu este funcție a culturii organizaționale:",
+    "question": "Nu este functie a culturii organizationale:",
     "answers": [
       {
         "key": "A",
-        "text": "funcția motivațională"
+        "text": "functia motivationala"
       },
       {
         "key": "B",
-        "text": "funcția de inadaptare"
+        "text": "functia de inadaptare"
       },
       {
         "key": "C",
-        "text": "funcția de securitate"
+        "text": "functia de securitate"
       },
       {
         "key": "D",
-        "text": "funcția de reglare"
+        "text": "functia de reglare"
       },
       {
         "key": "E",
-        "text": "funcția de integrare"
+        "text": "functia de integrare"
       }
     ],
     "correct": "B",
-    "correctText": "funcția de inadaptare"
+    "correctText": "functia de inadaptare"
   },
   {
     "id": "Management General-202",
     "nr": 202,
     "category": "Management General",
-    "question": "Cultura organizațională: \n 1. crește incertitudinile în cadrul organizației \n 2. stabilește identitatea atât pentru firmă, cât și pentru angajați \n 3. reduce incertitudinile în cadrul organizației \n 4. creează ordine prin stabilirea unor norme și proceduri clare \n 5. influențează eficiența organizațională.",
+    "question": "Cultura organizationala: \n 1. creste incertitudinile in cadrul organizatiei \n 2. stabileste identitatea atat pentru firma, cat si pentru angajati \n 3. reduce incertitudinile in cadrul organizatiei \n 4. creeaza ordine prin stabilirea unor norme si proceduri clare \n 5. influenteaza eficienta organizationala.",
     "answers": [
       {
         "key": "A",
@@ -7729,11 +7729,11 @@ window.QUESTIONS = [
     "id": "Management General-203",
     "nr": 203,
     "category": "Management General",
-    "question": "Este o teorie motivațională de proces:",
+    "question": "Este o teorie motivationala de proces:",
     "answers": [
       {
         "key": "A",
-        "text": "teoria achiziției succeselor"
+        "text": "teoria achizitiei succeselor"
       },
       {
         "key": "B",
@@ -7741,11 +7741,11 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "teoria bifactorială"
+        "text": "teoria bifactoriala"
       },
       {
         "key": "D",
-        "text": "teoria performanțelor așteptate"
+        "text": "teoria performantelor asteptate"
       },
       {
         "key": "E",
@@ -7753,43 +7753,43 @@ window.QUESTIONS = [
       }
     ],
     "correct": "D",
-    "correctText": "teoria performanțelor așteptate"
+    "correctText": "teoria performantelor asteptate"
   },
   {
     "id": "Management General-204",
     "nr": 204,
     "category": "Management General",
-    "question": "Nu este o caracteristică a organizației bazate pe cunoștințe:",
+    "question": "Nu este o caracteristica a organizatiei bazate pe cunostinte:",
     "answers": [
       {
         "key": "A",
-        "text": "este organizația care învață"
+        "text": "este organizatia care invata"
       },
       {
         "key": "B",
-        "text": "presupune diminuarea barierelor dintre diferite categorii de resurse umane, dintre munca de la firmă și munca de acasă, dintre individ și organizație etc"
+        "text": "presupune diminuarea barierelor dintre diferite categorii de resurse umane, dintre munca de la firma si munca de acasa, dintre individ si organizatie etc"
       },
       {
         "key": "C",
-        "text": "se caracterizează prin internalizarea activităților înalt specializate"
+        "text": "se caracterizeaza prin internalizarea activitatilor inalt specializate"
       },
       {
         "key": "D",
-        "text": "presupune redimensionarea resurselor și activităților, în sensul maximizării celor tradiționale, bazate pe resurse fizice și restrângerii celor bazate pe resurse intelectuale, intangibile"
+        "text": "presupune redimensionarea resurselor si activitatilor, in sensul maximizarii celor traditionale, bazate pe resurse fizice si restrangerii celor bazate pe resurse intelectuale, intangibile"
       },
       {
         "key": "E",
-        "text": "este organizația care are o tipologie nouă de manageri, managerii de cunoștințe"
+        "text": "este organizatia care are o tipologie noua de manageri, managerii de cunostinte"
       }
     ],
     "correct": "D",
-    "correctText": "presupune redimensionarea resurselor și activităților, în sensul maximizării celor tradiționale, bazate pe resurse fizice și restrângerii celor bazate pe resurse intelectuale, intangibile"
+    "correctText": "presupune redimensionarea resurselor si activitatilor, in sensul maximizarii celor traditionale, bazate pe resurse fizice si restrangerii celor bazate pe resurse intelectuale, intangibile"
   },
   {
     "id": "Management General-205",
     "nr": 205,
     "category": "Management General",
-    "question": "Sunt componente ale unei strategii:\n 1. misiunea firmei \n 2. obiectivele strategiei \n 3. opțiunile strategice \n 4. resursele \n 5. termenele \n 6. avantajul competitiv",
+    "question": "Sunt componente ale unei strategii:\n 1. misiunea firmei \n 2. obiectivele strategiei \n 3. optiunile strategice \n 4. resursele \n 5. termenele \n 6. avantajul competitiv",
     "answers": [
       {
         "key": "A",
@@ -7819,7 +7819,7 @@ window.QUESTIONS = [
     "id": "Management General-206",
     "nr": 206,
     "category": "Management General",
-    "question": "Sunt avantaje ale managementului strategic:\n 1. direcționarea pe termen lung a activității organizației \n 2. adaptarea organizației la modificările mediului \n 3. corelarea consistentă a tuturor activităților organizației \n 4. gestionarea pe termen scurt a obiectivelor organizației \n 5. implicarea tuturor factorilor de decizie, la toate nivelurile.",
+    "question": "Sunt avantaje ale managementului strategic:\n 1. directionarea pe termen lung a activitatii organizatiei \n 2. adaptarea organizatiei la modificarile mediului \n 3. corelarea consistenta a tuturor activitatilor organizatiei \n 4. gestionarea pe termen scurt a obiectivelor organizatiei \n 5. implicarea tuturor factorilor de decizie, la toate nivelurile.",
     "answers": [
       {
         "key": "A",
@@ -7849,67 +7849,67 @@ window.QUESTIONS = [
     "id": "Management General-207",
     "nr": 207,
     "category": "Management General",
-    "question": "Ce principiu nu respectă o structură organizatorică în cadrul căreia o parte dintre salariați se subordonează în mod direct, mai multor manageri?",
+    "question": "Ce principiu nu respecta o structura organizatorica in cadrul careia o parte dintre salariati se subordoneaza in mod direct, mai multor manageri?",
     "answers": [
       {
         "key": "A",
-        "text": "principiul coordonării"
+        "text": "principiul coordonarii"
       },
       {
         "key": "B",
-        "text": "principiul numărului de subordonați"
+        "text": "principiul numarului de subordonati"
       },
       {
         "key": "C",
-        "text": "principiul unității de decizie și acțiune"
+        "text": "principiul unitatii de decizie si actiune"
       },
       {
         "key": "D",
-        "text": "principiul corespondenței"
+        "text": "principiul corespondentei"
       },
       {
         "key": "E",
-        "text": "principiul autorității"
+        "text": "principiul autoritatii"
       }
     ],
     "correct": "C",
-    "correctText": "principiul unității de decizie și acțiune"
+    "correctText": "principiul unitatii de decizie si actiune"
   },
   {
     "id": "Management General-208",
     "nr": 208,
     "category": "Management General",
-    "question": "Ce tip de comunicații reprezintă informațiile pe care și le transmit doi angajați din cadrul aceluiași compartiment?",
+    "question": "Ce tip de comunicatii reprezinta informatiile pe care si le transmit doi angajati din cadrul aceluiasi compartiment?",
     "answers": [
       {
         "key": "A",
-        "text": "comunicații verticale ascendente"
+        "text": "comunicatii verticale ascendente"
       },
       {
         "key": "B",
-        "text": "comunicații verticale descendente"
+        "text": "comunicatii verticale descendente"
       },
       {
         "key": "C",
-        "text": "comunicații oblice"
+        "text": "comunicatii oblice"
       },
       {
         "key": "D",
-        "text": "comunicații orizontale"
+        "text": "comunicatii orizontale"
       },
       {
         "key": "E",
-        "text": "comunicații directe"
+        "text": "comunicatii directe"
       }
     ],
     "correct": "D",
-    "correctText": "comunicații orizontale"
+    "correctText": "comunicatii orizontale"
   },
   {
     "id": "Management General-209",
     "nr": 209,
     "category": "Management General",
-    "question": "Agenții economici îndeplinesc, în principal, următoarele funcții: \n 1. funcția de producție \n 2. funcția de cercetare-dezvoltare \n 3. funcția financiar-contabilă \n 4. funcția comercială \n 5. funcția de personal \n 6. funcția de dezvoltare a infrastructurii \n 7. funcția de dezvoltare a personalității",
+    "question": "Agentii economici indeplinesc, in principal, urmatoarele functii: \n 1. functia de productie \n 2. functia de cercetare-dezvoltare \n 3. functia financiar-contabila \n 4. functia comerciala \n 5. functia de personal \n 6. functia de dezvoltare a infrastructurii \n 7. functia de dezvoltare a personalitatii",
     "answers": [
       {
         "key": "A",
@@ -7939,7 +7939,7 @@ window.QUESTIONS = [
     "id": "Management General-210",
     "nr": 210,
     "category": "Management General",
-    "question": "Principalele etape ale deciziei financiare sunt:\n 1. precizarea necesarului de aprovizionat \n 2. precizarea obiectivelor financiare \n 3. analiza informațională financiară \n 4. adoptarea deciziei financiare \n 5. execuția deciziei financiare",
+    "question": "Principalele etape ale deciziei financiare sunt:\n 1. precizarea necesarului de aprovizionat \n 2. precizarea obiectivelor financiare \n 3. analiza informationala financiara \n 4. adoptarea deciziei financiare \n 5. executia deciziei financiare",
     "answers": [
       {
         "key": "A",
@@ -7969,7 +7969,7 @@ window.QUESTIONS = [
     "id": "Management General-211",
     "nr": 211,
     "category": "Management General",
-    "question": "Postul are ca elemente caracteristice:\n 1. obiectivele postului \n 2. competența organizațională sau autoritatea formală \n 3. numărul de ore zilnice lucrate \n 4. competența sau autoritatea profesională \n 5. responsabilitatea",
+    "question": "Postul are ca elemente caracteristice:\n 1. obiectivele postului \n 2. competenta organizationala sau autoritatea formala \n 3. numarul de ore zilnice lucrate \n 4. competenta sau autoritatea profesionala \n 5. responsabilitatea",
     "answers": [
       {
         "key": "A",
@@ -7999,7 +7999,7 @@ window.QUESTIONS = [
     "id": "Management General-212",
     "nr": 212,
     "category": "Management General",
-    "question": "Precizați combinația corectă adevărat/fals în cazul următoarelor afirmații:\n 1. Punctele slabe ale firmei reprezintă slăbiciunile interne, vulnerabilitățile acesteia. \n 2. Amenințările sunt conjuncturi exterioare cu impact negativ asupra firmei. \n 3. Oportunitățile sunt conjuncturi interioare ale firmei, cu impact pozitiv asupra acesteia. \n 4. Amenințările identificate în analiza SWOT se constituie în riscuri pentru firmă",
+    "question": "Precizati combinatia corecta adevarat/fals in cazul urmatoarelor afirmatii:\n 1. Punctele slabe ale firmei reprezinta slabiciunile interne, vulnerabilitatile acesteia. \n 2. Amenintarile sunt conjuncturi exterioare cu impact negativ asupra firmei. \n 3. Oportunitatile sunt conjuncturi interioare ale firmei, cu impact pozitiv asupra acesteia. \n 4. Amenintarile identificate in analiza SWOT se constituie in riscuri pentru firma",
     "answers": [
       {
         "key": "A",
@@ -8029,7 +8029,7 @@ window.QUESTIONS = [
     "id": "Management General-213",
     "nr": 213,
     "category": "Management General",
-    "question": "Precizați combinația corectă adevărat/fals în cazul următoarelor afirmații:\n 1. Organizarea procesuală se referă la procesele de muncă fizică și intelectuală din firmă. \n 2. Organizarea structurală a firmei are ca elemente: postul, compartimentul, nivelul ierarhic, structura organizatorică. \n 3. Obiectivele specifice se identifică cu obiectivele generale ale firmei. \n 4. Elementele organizării structurale sunt: operația, sarcina, atribuția, activitatea și funcțiunea.",
+    "question": "Precizati combinatia corecta adevarat/fals in cazul urmatoarelor afirmatii:\n 1. Organizarea procesuala se refera la procesele de munca fizica si intelectuala din firma. \n 2. Organizarea structurala a firmei are ca elemente: postul, compartimentul, nivelul ierarhic, structura organizatorica. \n 3. Obiectivele specifice se identifica cu obiectivele generale ale firmei. \n 4. Elementele organizarii structurale sunt: operatia, sarcina, atributia, activitatea si functiunea.",
     "answers": [
       {
         "key": "A",
@@ -8059,79 +8059,79 @@ window.QUESTIONS = [
     "id": "Management General-214",
     "nr": 214,
     "category": "Management General",
-    "question": "Identificați varianta eronată cu privire la organizațiile formale:",
+    "question": "Identificati varianta eronata cu privire la organizatiile formale:",
     "answers": [
       {
         "key": "A",
-        "text": "spre deosebire de organizațiile informale sunt mai puțin stabile și sunt foarte flexibile"
+        "text": "spre deosebire de organizatiile informale sunt mai putin stabile si sunt foarte flexibile"
       },
       {
         "key": "B",
-        "text": "structura organizației formale statuează ierarhia obiectivelor, relațiile de autoritate, putere și responsabilitate"
+        "text": "structura organizatiei formale statueaza ierarhia obiectivelor, relatiile de autoritate, putere si responsabilitate"
       },
       {
         "key": "C",
-        "text": "se pot transforma în organizații informale"
+        "text": "se pot transforma in organizatii informale"
       },
       {
         "key": "D",
-        "text": "odată constituită, organizația formală poate crea în interiorul său grupuri informale"
+        "text": "odata constituita, organizatia formala poate crea in interiorul sau grupuri informale"
       },
       {
         "key": "E",
-        "text": "structura organizației formale stabilește relații de autoritate, putere și responsabilitate"
+        "text": "structura organizatiei formale stabileste relatii de autoritate, putere si responsabilitate"
       }
     ],
     "correct": "A",
-    "correctText": "spre deosebire de organizațiile informale sunt mai puțin stabile și sunt foarte flexibile"
+    "correctText": "spre deosebire de organizatiile informale sunt mai putin stabile si sunt foarte flexibile"
   },
   {
     "id": "Management General-215",
     "nr": 215,
     "category": "Management General",
-    "question": "Conform analizei SWOT, poate fi un punct forte pentru o firmă producătoare de încălțăminte:",
+    "question": "Conform analizei SWOT, poate fi un punct forte pentru o firma producatoare de incaltaminte:",
     "answers": [
       {
         "key": "A",
-        "text": "creșterea cotei de piață"
+        "text": "cresterea cotei de piata"
       },
       {
         "key": "B",
-        "text": "dezvoltarea comerțului internațional"
+        "text": "dezvoltarea comertului international"
       },
       {
         "key": "C",
-        "text": "creșterea numărului de cumpărători"
+        "text": "cresterea numarului de cumparatori"
       },
       {
         "key": "D",
-        "text": "profitabilitatea redusă"
+        "text": "profitabilitatea redusa"
       },
       {
         "key": "E",
-        "text": "gama diversificată de produse"
+        "text": "gama diversificata de produse"
       }
     ],
     "correct": "E",
-    "correctText": "gama diversificată de produse"
+    "correctText": "gama diversificata de produse"
   },
   {
     "id": "Management General-216",
     "nr": 216,
     "category": "Management General",
-    "question": "Nu este un principiu al alcătuirii structurii organizatorice:",
+    "question": "Nu este un principiu al alcatuirii structurii organizatorice:",
     "answers": [
       {
         "key": "A",
-        "text": "Principiul supremației obiectivelor"
+        "text": "Principiul suprematiei obiectivelor"
       },
       {
         "key": "B",
-        "text": "Principiul permanenței conducerii"
+        "text": "Principiul permanentei conducerii"
       },
       {
         "key": "C",
-        "text": "Principiul independenței totale"
+        "text": "Principiul independentei totale"
       },
       {
         "key": "D",
@@ -8139,11 +8139,11 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "Principiul flexibilității structurii"
+        "text": "Principiul flexibilitatii structurii"
       }
     ],
     "correct": "C",
-    "correctText": "Principiul independenței totale"
+    "correctText": "Principiul independentei totale"
   },
   {
     "id": "Management General-217",
@@ -8153,33 +8153,33 @@ window.QUESTIONS = [
     "answers": [
       {
         "key": "A",
-        "text": "existența resurselor nelimitate"
+        "text": "existenta resurselor nelimitate"
       },
       {
         "key": "B",
-        "text": "specializarea excesivă"
+        "text": "specializarea excesiva"
       },
       {
         "key": "C",
-        "text": "accesul la piețe mari de desfacere"
+        "text": "accesul la piete mari de desfacere"
       },
       {
         "key": "D",
-        "text": "rata de lichiditate redusă"
+        "text": "rata de lichiditate redusa"
       },
       {
         "key": "E",
-        "text": "marja de profit ridicată"
+        "text": "marja de profit ridicata"
       }
     ],
     "correct": "A",
-    "correctText": "existența resurselor nelimitate"
+    "correctText": "existenta resurselor nelimitate"
   },
   {
     "id": "Management General-218",
     "nr": 218,
     "category": "Management General",
-    "question": "Riscurile interne ale firmei pot fi:\n 1. riscuri politice \n 2. riscuri financiare \n 3. riscuri contractuale \n 4. riscuri tehnologice \n 5. riscuri informaționale",
+    "question": "Riscurile interne ale firmei pot fi:\n 1. riscuri politice \n 2. riscuri financiare \n 3. riscuri contractuale \n 4. riscuri tehnologice \n 5. riscuri informationale",
     "answers": [
       {
         "key": "A",
@@ -8269,15 +8269,15 @@ window.QUESTIONS = [
     "id": "Managementul R. U.-1",
     "nr": 1,
     "category": "Managementul R. U.",
-    "question": "Care dintre următorii factori influențează oferta de forță de muncă și nu cererea de muncă?",
+    "question": "Care dintre urmatorii factori influenteaza oferta de forta de munca si nu cererea de munca?",
     "answers": [
       {
         "key": "A",
-        "text": "nivelul natalității"
+        "text": "nivelul natalitatii"
       },
       {
         "key": "B",
-        "text": "ritmul de creștere economică"
+        "text": "ritmul de crestere economica"
       },
       {
         "key": "C",
@@ -8285,7 +8285,7 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "structura producției și activităților economico-sociale"
+        "text": "structura productiei si activitatilor economico-sociale"
       },
       {
         "key": "E",
@@ -8293,17 +8293,17 @@ window.QUESTIONS = [
       }
     ],
     "correct": "A",
-    "correctText": "nivelul natalității"
+    "correctText": "nivelul natalitatii"
   },
   {
     "id": "Managementul R. U.-2",
     "nr": 2,
     "category": "Managementul R. U.",
-    "question": "Conținutul managementului previzional al necesarului de personal:",
+    "question": "Continutul managementului previzional al necesarului de personal:",
     "answers": [
       {
         "key": "A",
-        "text": "constă într-un ansamblu de eforturi metodic efectuate și de studii bine gândite avându-se ca scop atingerea obiectivelor"
+        "text": "consta intr-un ansamblu de eforturi metodic efectuate si de studii bine gandite avandu-se ca scop atingerea obiectivelor"
       },
       {
         "key": "B",
@@ -8311,25 +8311,25 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "presupune pregătirea unor soluții concretizate într-un plan și programe de acțiune"
+        "text": "presupune pregatirea unor solutii concretizate intr-un plan si programe de actiune"
       },
       {
         "key": "D",
-        "text": "constă într-un ansamblu de eforturi metodic efectuate și studii bine gândite, în scopul de a detecta cu anticipație problemele, de a pregăti soluțiile concretizate apoi într-un plan și program de acțiune, de a corecta acțiunile pe măsura realizării lor"
+        "text": "consta intr-un ansamblu de eforturi metodic efectuate si studii bine gandite, in scopul de a detecta cu anticipatie problemele, de a pregati solutiile concretizate apoi intr-un plan si program de actiune, de a corecta actiunile pe masura realizarii lor"
       },
       {
         "key": "E",
-        "text": "presupune corectarea diferitelor acțiuni pe măsura realizării lor"
+        "text": "presupune corectarea diferitelor actiuni pe masura realizarii lor"
       }
     ],
     "correct": "D",
-    "correctText": "constă într-un ansamblu de eforturi metodic efectuate și studii bine gândite, în scopul de a detecta cu anticipație problemele, de a pregăti soluțiile concretizate apoi într-un plan și program de acțiune, de a corecta acțiunile pe măsura realizării lor"
+    "correctText": "consta intr-un ansamblu de eforturi metodic efectuate si studii bine gandite, in scopul de a detecta cu anticipatie problemele, de a pregati solutiile concretizate apoi intr-un plan si program de actiune, de a corecta actiunile pe masura realizarii lor"
   },
   {
     "id": "Managementul R. U.-3",
     "nr": 3,
     "category": "Managementul R. U.",
-    "question": "Estimarea evoluției viitoare a necesarului de personal al organizației, pe baza tendințelor privind diviziunea muncii, progresul tehnico-științific și evoluțiile economico-sociale, definește conceptul de:",
+    "question": "Estimarea evolutiei viitoare a necesarului de personal al organizatiei, pe baza tendintelor privind diviziunea muncii, progresul tehnico-stiintific si evolutiile economico-sociale, defineste conceptul de:",
     "answers": [
       {
         "key": "A",
@@ -8359,75 +8359,75 @@ window.QUESTIONS = [
     "id": "Managementul R. U.-4",
     "nr": 4,
     "category": "Managementul R. U.",
-    "question": "Strategia și politica de recrutare a personalului exprimă în principal:",
+    "question": "Strategia si politica de recrutare a personalului exprima in principal:",
     "answers": [
       {
         "key": "A",
-        "text": "intențiile și obiectivele conducerii/managerului general în domeniul recrutării"
+        "text": "intentiile si obiectivele conducerii/managerului general in domeniul recrutarii"
       },
       {
         "key": "B",
-        "text": "pașii spre dezvoltarea organizației"
+        "text": "pasii spre dezvoltarea organizatiei"
       },
       {
         "key": "C",
-        "text": "condițiile de lucru și de mediu"
+        "text": "conditiile de lucru si de mediu"
       },
       {
         "key": "D",
-        "text": "posibilitățile ulterioare de evaluare"
+        "text": "posibilitatile ulterioare de evaluare"
       },
       {
         "key": "E",
-        "text": "modalitățile de analizare a tuturor obiectivelor"
+        "text": "modalitatile de analizare a tuturor obiectivelor"
       }
     ],
     "correct": "A",
-    "correctText": "intențiile și obiectivele conducerii/managerului general în domeniul recrutării"
+    "correctText": "intentiile si obiectivele conducerii/managerului general in domeniul recrutarii"
   },
   {
     "id": "Managementul R. U.-5",
     "nr": 5,
     "category": "Managementul R. U.",
-    "question": "Metodele de selecție profesională au la bază:",
+    "question": "Metodele de selectie profesionala au la baza:",
     "answers": [
       {
         "key": "A",
-        "text": "profesiograma și toporeprograma"
+        "text": "profesiograma si toporeprograma"
       },
       {
         "key": "B",
-        "text": "compararea aptitudinilor și însușirilor oamenilor cu cerințele ocupației"
+        "text": "compararea aptitudinilor si insusirilor oamenilor cu cerintele ocupatiei"
       },
       {
         "key": "C",
-        "text": "cunoștințele profesionale"
+        "text": "cunostintele profesionale"
       },
       {
         "key": "D",
-        "text": "posibilitățile de promovare"
+        "text": "posibilitatile de promovare"
       },
       {
         "key": "E",
-        "text": "posibilitățile de evaluare și validarea testelor"
+        "text": "posibilitatile de evaluare si validarea testelor"
       }
     ],
     "correct": "B",
-    "correctText": "compararea aptitudinilor și însușirilor oamenilor cu cerințele ocupației"
+    "correctText": "compararea aptitudinilor si insusirilor oamenilor cu cerintele ocupatiei"
   },
   {
     "id": "Managementul R. U.-6",
     "nr": 6,
     "category": "Managementul R. U.",
-    "question": "Fenomenele de fluctuație și absenteism au ca factor principal:",
+    "question": "Fenomenele de fluctuatie si absenteism au ca factor principal:",
     "answers": [
       {
         "key": "A",
-        "text": "configurația organizației și retribuția mai bună în altă parte"
+        "text": "configuratia organizatiei si retributia mai buna in alta parte"
       },
       {
         "key": "B",
-        "text": "neconcordanța dintre aspirațiile lucrătorului modern și condițiile pe care i le oferă organizația"
+        "text": "neconcordanta dintre aspiratiile lucratorului modern si conditiile pe care i le ofera organizatia"
       },
       {
         "key": "C",
@@ -8435,59 +8435,59 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "neconcordanța dintre perioada de adaptare a noului angajat și aspirațiile organizației"
+        "text": "neconcordanta dintre perioada de adaptare a noului angajat si aspiratiile organizatiei"
       },
       {
         "key": "E",
-        "text": "desfășurarea lucrului sub tutelă și cursurile de inițiere"
+        "text": "desfasurarea lucrului sub tutela si cursurile de initiere"
       }
     ],
     "correct": "B",
-    "correctText": "neconcordanța dintre aspirațiile lucrătorului modern și condițiile pe care i le oferă organizația"
+    "correctText": "neconcordanta dintre aspiratiile lucratorului modern si conditiile pe care i le ofera organizatia"
   },
   {
     "id": "Managementul R. U.-7",
     "nr": 7,
     "category": "Managementul R. U.",
-    "question": "Pregătirea profesională este definită ca:",
+    "question": "Pregatirea profesionala este definita ca:",
     "answers": [
       {
         "key": "A",
-        "text": "activitatea desfășurată în scopul însușirii de cunoștințe teoretice și deprinderi practice"
+        "text": "activitatea desfasurata in scopul insusirii de cunostinte teoretice si deprinderi practice"
       },
       {
         "key": "B",
-        "text": "un loc de muncă definit ca o situație de muncă"
+        "text": "un loc de munca definit ca o situatie de munca"
       },
       {
         "key": "C",
-        "text": "activitatea desfășurată în scopul însușirii de cunoștințe teoretice și deprinderi practice, de un anumit gen și nivel, în măsură să asigure îndeplinirea calificată de către lucrători a sarcinilor ce le revin în exercitarea, în procesul muncii, a unei profesiuni sau meserii"
+        "text": "activitatea desfasurata in scopul insusirii de cunostinte teoretice si deprinderi practice, de un anumit gen si nivel, in masura sa asigure indeplinirea calificata de catre lucratori a sarcinilor ce le revin in exercitarea, in procesul muncii, a unei profesiuni sau meserii"
       },
       {
         "key": "D",
-        "text": "îndeplinirea calificată de către lucrători a sarcinilor ce le revin în exercitarea în procesul muncii, a unei profesiuni"
+        "text": "indeplinirea calificata de catre lucratori a sarcinilor ce le revin in exercitarea in procesul muncii, a unei profesiuni"
       },
       {
         "key": "E",
-        "text": "data de durată a pregătirii forței de muncă pe o perioadă nedeterminată"
+        "text": "data de durata a pregatirii fortei de munca pe o perioada nedeterminata"
       }
     ],
     "correct": "C",
-    "correctText": "activitatea desfășurată în scopul însușirii de cunoștințe teoretice și deprinderi practice, de un anumit gen și nivel, în măsură să asigure îndeplinirea calificată de către lucrători a sarcinilor ce le revin în exercitarea, în procesul muncii, a unei profesiuni sau meserii"
+    "correctText": "activitatea desfasurata in scopul insusirii de cunostinte teoretice si deprinderi practice, de un anumit gen si nivel, in masura sa asigure indeplinirea calificata de catre lucratori a sarcinilor ce le revin in exercitarea, in procesul muncii, a unei profesiuni sau meserii"
   },
   {
     "id": "Managementul R. U.-8",
     "nr": 8,
     "category": "Managementul R. U.",
-    "question": "Este un mijloc esențial pentru aplicarea individualizării în formarea profesională ce presupune etape și căi variate pentru dobândirea competențelor într-o anumită meserie sau activitate profesională:",
+    "question": "Este un mijloc esential pentru aplicarea individualizarii in formarea profesionala ce presupune etape si cai variate pentru dobandirea competentelor intr-o anumita meserie sau activitate profesionala:",
     "answers": [
       {
         "key": "A",
-        "text": "recalificării profesionale"
+        "text": "recalificarii profesionale"
       },
       {
         "key": "B",
-        "text": "policalificării"
+        "text": "policalificarii"
       },
       {
         "key": "C",
@@ -8495,97 +8495,97 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "modularizării"
+        "text": "modularizarii"
       },
       {
         "key": "E",
-        "text": "recalificării șomerilor"
+        "text": "recalificarii somerilor"
       }
     ],
     "correct": "D",
-    "correctText": "modularizării"
+    "correctText": "modularizarii"
   },
   {
     "id": "Managementul R. U.-9",
     "nr": 9,
     "category": "Managementul R. U.",
-    "question": "Evaluarea meritelor reprezintă:",
+    "question": "Evaluarea meritelor reprezinta:",
     "answers": [
       {
         "key": "A",
-        "text": "o activitate complexă, ca un ansamblu al proceselor prin intermediul cărora se emit judecăți de valoare asupra componenților unui sistem"
+        "text": "o activitate complexa, ca un ansamblu al proceselor prin intermediul carora se emit judecati de valoare asupra componentilor unui sistem"
       },
       {
         "key": "B",
-        "text": "o activitate complexă pentru manageri"
+        "text": "o activitate complexa pentru manageri"
       },
       {
         "key": "C",
-        "text": "un ansamblu al proceselor prin intermediul cărora se emit judecăți"
+        "text": "un ansamblu al proceselor prin intermediul carora se emit judecati"
       },
       {
         "key": "D",
-        "text": "o apreciere sistematică asupra trăsăturilor salariatului la locul de muncă și are ca scop să determine contribuția și valoarea sa pentru organizație, cu accent pe calitatea activității, capacitatea de a învăța, spiritul de colaborare, inițiativa etc."
+        "text": "o apreciere sistematica asupra trasaturilor salariatului la locul de munca si are ca scop sa determine contributia si valoarea sa pentru organizatie, cu accent pe calitatea activitatii, capacitatea de a invata, spiritul de colaborare, initiativa etc."
       },
       {
         "key": "E",
-        "text": "o activitate de realizare a obiectivelor și sarcinilor trasate, de stabilire a recompenselor sau sancțiunilor, de stabilire a modalităților de perfecționare a pregătirii, de conturare a perspectivelor de promovare a acestora"
+        "text": "o activitate de realizare a obiectivelor si sarcinilor trasate, de stabilire a recompenselor sau sanctiunilor, de stabilire a modalitatilor de perfectionare a pregatirii, de conturare a perspectivelor de promovare a acestora"
       }
     ],
     "correct": "D",
-    "correctText": "o apreciere sistematică asupra trăsăturilor salariatului la locul de muncă și are ca scop să determine contribuția și valoarea sa pentru organizație, cu accent pe calitatea activității, capacitatea de a învăța, spiritul de colaborare, inițiativa etc."
+    "correctText": "o apreciere sistematica asupra trasaturilor salariatului la locul de munca si are ca scop sa determine contributia si valoarea sa pentru organizatie, cu accent pe calitatea activitatii, capacitatea de a invata, spiritul de colaborare, initiativa etc."
   },
   {
     "id": "Managementul R. U.-10",
     "nr": 10,
     "category": "Managementul R. U.",
-    "question": "Din punctul de vedere al organizației, promovarea internă oferă numeroase avantaje:\nDeterminați care dintre variantele de mai jos nu constituie un avantaj al promovării interne din punctul de vedere al organizației?",
+    "question": "Din punctul de vedere al organizatiei, promovarea interna ofera numeroase avantaje:\nDeterminati care dintre variantele de mai jos nu constituie un avantaj al promovarii interne din punctul de vedere al organizatiei?",
     "answers": [
       {
         "key": "A",
-        "text": "promovarea internă încurajează lucrătorii în a se pregăti și a-și însuși cunoștințele pentru promovare"
+        "text": "promovarea interna incurajeaza lucratorii in a se pregati si a-si insusi cunostintele pentru promovare"
       },
       {
         "key": "B",
-        "text": "constituie un mijloc de utilizare mai bună a personalului organizației, punând pe fiecare salariat în postul în care el va fi mai util"
+        "text": "constituie un mijloc de utilizare mai buna a personalului organizatiei, punand pe fiecare salariat in postul in care el va fi mai util"
       },
       {
         "key": "C",
-        "text": "determină un interes mărit al salariatului pentru funcția sa"
+        "text": "determina un interes marit al salariatului pentru functia sa"
       },
       {
         "key": "D",
-        "text": "dispune de un sistem de apreciere științifică cu privire la valoarea salariaților"
+        "text": "dispune de un sistem de apreciere stiintifica cu privire la valoarea salariatilor"
       },
       {
         "key": "E",
-        "text": "este mai economic pentru organizație promovarea salariaților din unitate decât recrutarea altora din exterior"
+        "text": "este mai economic pentru organizatie promovarea salariatilor din unitate decat recrutarea altora din exterior"
       }
     ],
     "correct": "C",
-    "correctText": "determină un interes mărit al salariatului pentru funcția sa"
+    "correctText": "determina un interes marit al salariatului pentru functia sa"
   },
   {
     "id": "Managementul R. U.-11",
     "nr": 11,
     "category": "Managementul R. U.",
-    "question": "Funcția salariului ca factor de echilibru pe piața forței de muncă se exprimă prin:",
+    "question": "Functia salariului ca factor de echilibru pe piata fortei de munca se exprima prin:",
     "answers": [
       {
         "key": "A",
-        "text": "utilizarea salariului ca pârghie de stabilitate macroeconomică"
+        "text": "utilizarea salariului ca parghie de stabilitate macroeconomica"
       },
       {
         "key": "B",
-        "text": "ajustarea raportului cerere–ofertă de muncă prin nivelul salariului"
+        "text": "ajustarea raportului cerere–oferta de munca prin nivelul salariului"
       },
       {
         "key": "C",
-        "text": "influențarea sensului și amplorii schimbărilor din economie"
+        "text": "influentarea sensului si amplorii schimbarilor din economie"
       },
       {
         "key": "D",
-        "text": "stimularea performanței individuale prin recompense salariale"
+        "text": "stimularea performantei individuale prin recompense salariale"
       },
       {
         "key": "E",
@@ -8593,13 +8593,13 @@ window.QUESTIONS = [
       }
     ],
     "correct": "B",
-    "correctText": "ajustarea raportului cerere–ofertă de muncă prin nivelul salariului"
+    "correctText": "ajustarea raportului cerere–oferta de munca prin nivelul salariului"
   },
   {
     "id": "Managementul R. U.-12",
     "nr": 12,
     "category": "Managementul R. U.",
-    "question": "Contractul colectiv de muncă pledează pentru adoptarea și menținerea unui sistem de salarizare echilibrat, coerent și evolutiv. Determinați care dintre variantele prezentate mai jos constituie o condiție în menținerea unui sistem de salarizare echilibrat, coerent și evolutiv.\n 1. sistemul de salarizare trebuie să se sprijine pe un echilibru triplu: raționalitate, competitivitate, echitate \n 2. competitivitatea externă cere ca salariile din unitate să fie stabilite exclusiv după posibilitățile interne, fără raportare la piața forței de muncă \n 3. realizarea unei concordanțe între gradul de dificultate și de importanță a posturilor și nivelul salariilor \n 4. aprecierea performanței, prin luarea în considerare a rezultatelor obținute și a gradului de adaptare pe post \n 5. modalitățile de fixare și de plată a salariilor",
+    "question": "Contractul colectiv de munca pledeaza pentru adoptarea si mentinerea unui sistem de salarizare echilibrat, coerent si evolutiv. Determinati care dintre variantele prezentate mai jos constituie o conditie in mentinerea unui sistem de salarizare echilibrat, coerent si evolutiv.\n 1. sistemul de salarizare trebuie sa se sprijine pe un echilibru triplu: rationalitate, competitivitate, echitate \n 2. competitivitatea externa cere ca salariile din unitate sa fie stabilite exclusiv dupa posibilitatile interne, fara raportare la piata fortei de munca \n 3. realizarea unei concordante intre gradul de dificultate si de importanta a posturilor si nivelul salariilor \n 4. aprecierea performantei, prin luarea in considerare a rezultatelor obtinute si a gradului de adaptare pe post \n 5. modalitatile de fixare si de plata a salariilor",
     "answers": [
       {
         "key": "A",
@@ -8629,157 +8629,157 @@ window.QUESTIONS = [
     "id": "Managementul R. U.-13",
     "nr": 13,
     "category": "Managementul R. U.",
-    "question": "Conflictele de interese pot fi declanșate în următoarele situații:\nAlegeți varianta care nu reprezintă situația în care se declanșează conflictele de interese.",
+    "question": "Conflictele de interese pot fi declansate in urmatoarele situatii:\nAlegeti varianta care nu reprezinta situatia in care se declanseaza conflictele de interese.",
     "answers": [
       {
         "key": "A",
-        "text": "unitatea refuză să înceapă negocierea unui contract colectiv de muncă, în condițiile în care nu are încheiat un contract colectiv de muncă sau contractul colectiv de muncă anterior a încetat"
+        "text": "unitatea refuza sa inceapa negocierea unui contract colectiv de munca, in conditiile in care nu are incheiat un contract colectiv de munca sau contractul colectiv de munca anterior a incetat"
       },
       {
         "key": "B",
-        "text": "unitatea nu acceptă revendicările formulate de salariați"
+        "text": "unitatea nu accepta revendicarile formulate de salariati"
       },
       {
         "key": "C",
-        "text": "unitatea refuză nejustificat semnarea contractului colectiv de muncă, cu toate că negocierile au fost definitivate"
+        "text": "unitatea refuza nejustificat semnarea contractului colectiv de munca, cu toate ca negocierile au fost definitivate"
       },
       {
         "key": "D",
-        "text": "unitatea nu își îndeplinește obligațiile prevăzute de lege de a începe negocierile anuale obligatorii privind salariile, durata timpului de lucru, programul de lucru și condițiile de muncă"
+        "text": "unitatea nu isi indeplineste obligatiile prevazute de lege de a incepe negocierile anuale obligatorii privind salariile, durata timpului de lucru, programul de lucru si conditiile de munca"
       },
       {
         "key": "E",
-        "text": "în situația în care unitatea a răspuns în scris la toate revendicările formulate, iar sindicatul acceptă răspunsul"
+        "text": "in situatia in care unitatea a raspuns in scris la toate revendicarile formulate, iar sindicatul accepta raspunsul"
       }
     ],
     "correct": "E",
-    "correctText": "în situația în care unitatea a răspuns în scris la toate revendicările formulate, iar sindicatul acceptă răspunsul"
+    "correctText": "in situatia in care unitatea a raspuns in scris la toate revendicarile formulate, iar sindicatul accepta raspunsul"
   },
   {
     "id": "Managementul R. U.-14",
     "nr": 14,
     "category": "Managementul R. U.",
-    "question": "Principalele trăsături caracteristice ale raportului de muncă sunt:\nAlegeți varianta care nu reprezintă o trăsătură caracteristică a raportului de muncă",
+    "question": "Principalele trasaturi caracteristice ale raportului de munca sunt:\nAlegeti varianta care nu reprezinta o trasatura caracteristica a raportului de munca",
     "answers": [
       {
         "key": "A",
-        "text": "ia naștere prin încheierea unui contract individual de muncă"
+        "text": "ia nastere prin incheierea unui contract individual de munca"
       },
       {
         "key": "B",
-        "text": "are un caracter unilateral, iar persoana care prestează munca este întotdeauna o persoană fizică"
+        "text": "are un caracter unilateral, iar persoana care presteaza munca este intotdeauna o persoana fizica"
       },
       {
         "key": "C",
-        "text": "executarea muncii are loc într-un cadru organizatoric prestabilit, respectiv într-o anumită ierarhie funcțională"
+        "text": "executarea muncii are loc intr-un cadru organizatoric prestabilit, respectiv intr-o anumita ierarhie functionala"
       },
       {
         "key": "D",
-        "text": "munca trebuie să fie remunerată"
+        "text": "munca trebuie sa fie remunerata"
       },
       {
         "key": "E",
-        "text": "persoanelor care prestează munca li se asigură, prin prevederile legii și ale contractului încheiat, protecție în ce privește condițiile de desfășurare a procesului muncii, cât și în ce privește drepturile ce decurg din încheierea contractului individual de muncă"
+        "text": "persoanelor care presteaza munca li se asigura, prin prevederile legii si ale contractului incheiat, protectie in ce priveste conditiile de desfasurare a procesului muncii, cat si in ce priveste drepturile ce decurg din incheierea contractului individual de munca"
       }
     ],
     "correct": "B",
-    "correctText": "are un caracter unilateral, iar persoana care prestează munca este întotdeauna o persoană fizică"
+    "correctText": "are un caracter unilateral, iar persoana care presteaza munca este intotdeauna o persoana fizica"
   },
   {
     "id": "Managementul R. U.-15",
     "nr": 15,
     "category": "Managementul R. U.",
-    "question": "Dintre obligațiile generale ale salariatului amintim:\nAlegeți varianta care nu reprezintă obligație generală a salariatului.",
+    "question": "Dintre obligatiile generale ale salariatului amintim:\nAlegeti varianta care nu reprezinta obligatie generala a salariatului.",
     "answers": [
       {
         "key": "A",
-        "text": "obligația de a respecta deciziile șefului și planul de lucru dat și contractul colectiv de muncă"
+        "text": "obligatia de a respecta deciziile sefului si planul de lucru dat si contractul colectiv de munca"
       },
       {
         "key": "B",
-        "text": "obligația de a respecta disciplina muncii"
+        "text": "obligatia de a respecta disciplina muncii"
       },
       {
         "key": "C",
-        "text": "obligația de fidelitate față de angajator în executarea atribuțiilor de serviciu"
+        "text": "obligatia de fidelitate fata de angajator in executarea atributiilor de serviciu"
       },
       {
         "key": "D",
-        "text": "obligația de a respecta măsurile de securitate și sănătate a muncii în unitate"
+        "text": "obligatia de a respecta masurile de securitate si sanatate a muncii in unitate"
       },
       {
         "key": "E",
-        "text": "obligația de a respecta secretul de serviciu"
+        "text": "obligatia de a respecta secretul de serviciu"
       }
     ],
     "correct": "A",
-    "correctText": "obligația de a respecta deciziile șefului și planul de lucru dat și contractul colectiv de muncă"
+    "correctText": "obligatia de a respecta deciziile sefului si planul de lucru dat si contractul colectiv de munca"
   },
   {
     "id": "Managementul R. U.-16",
     "nr": 16,
     "category": "Managementul R. U.",
-    "question": "Șomajul reprezintă:\nCare dintre variantele de mai jos constituie definiția șomajului?",
+    "question": "Somajul reprezinta:\nCare dintre variantele de mai jos constituie definitia somajului?",
     "answers": [
       {
         "key": "A",
-        "text": "diminuarea sărăciei"
+        "text": "diminuarea saraciei"
       },
       {
         "key": "B",
-        "text": "excedent al ofertei de forță de muncă față de cererea de muncă"
+        "text": "excedent al ofertei de forta de munca fata de cererea de munca"
       },
       {
         "key": "C",
-        "text": "scăderea locurilor de muncă"
+        "text": "scaderea locurilor de munca"
       },
       {
         "key": "D",
-        "text": "evoluția ocupării forței de muncă"
+        "text": "evolutia ocuparii fortei de munca"
       },
       {
         "key": "E",
-        "text": "recalificarea și reconversia forței de muncă"
+        "text": "recalificarea si reconversia fortei de munca"
       }
     ],
     "correct": "B",
-    "correctText": "excedent al ofertei de forță de muncă față de cererea de muncă"
+    "correctText": "excedent al ofertei de forta de munca fata de cererea de munca"
   },
   {
     "id": "Managementul R. U.-17",
     "nr": 17,
     "category": "Managementul R. U.",
-    "question": "Conceptul de protecție socială:\nCare dintre variantele prezentate constituie definiția conceptului de protecție socială?",
+    "question": "Conceptul de protectie sociala:\nCare dintre variantele prezentate constituie definitia conceptului de protectie sociala?",
     "answers": [
       {
         "key": "A",
-        "text": "cuprinde măsuri care urmăresc actualizarea, contracararea efectelor inflației"
+        "text": "cuprinde masuri care urmaresc actualizarea, contracararea efectelor inflatiei"
       },
       {
         "key": "B",
-        "text": "cuprinde indexări ce pot apărea între anumite categorii de venituri"
+        "text": "cuprinde indexari ce pot aparea intre anumite categorii de venituri"
       },
       {
         "key": "C",
-        "text": "vizează un ansamblu de măsuri care conduc la apărarea indivizilor în fața riscurilor de natură economică, socială, comportamentală, iar în sens restrâns ea se circumscrie la complexul de măsuri și preocupări luate de instituțiile publice și orientate spre siguranța existenței"
+        "text": "vizeaza un ansamblu de masuri care conduc la apararea indivizilor in fata riscurilor de natura economica, sociala, comportamentala, iar in sens restrans ea se circumscrie la complexul de masuri si preocupari luate de institutiile publice si orientate spre siguranta existentei"
       },
       {
         "key": "D",
-        "text": "vizează măsuri de stimulare a mobilității forței de muncă"
+        "text": "vizeaza masuri de stimulare a mobilitatii fortei de munca"
       },
       {
         "key": "E",
-        "text": "vizează măsuri de stimulare a angajatorilor pentru încadrarea în muncă a șomerilor"
+        "text": "vizeaza masuri de stimulare a angajatorilor pentru incadrarea in munca a somerilor"
       }
     ],
     "correct": "C",
-    "correctText": "vizează un ansamblu de măsuri care conduc la apărarea indivizilor în fața riscurilor de natură economică, socială, comportamentală, iar în sens restrâns ea se circumscrie la complexul de măsuri și preocupări luate de instituțiile publice și orientate spre siguranța existenței"
+    "correctText": "vizeaza un ansamblu de masuri care conduc la apararea indivizilor in fata riscurilor de natura economica, sociala, comportamentala, iar in sens restrans ea se circumscrie la complexul de masuri si preocupari luate de institutiile publice si orientate spre siguranta existentei"
   },
   {
     "id": "Managementul R. U.-18",
     "nr": 18,
     "category": "Managementul R. U.",
-    "question": "Scopul de bază al activității de îngrijire a sănătății personalului și de protecție a muncii este:\nAlegeți varianta corectă care reprezintă scopul de bază al activității de îngrijire a sănătății personalului și de protecție a muncii.",
+    "question": "Scopul de baza al activitatii de ingrijire a sanatatii personalului si de protectie a muncii este:\nAlegeti varianta corecta care reprezinta scopul de baza al activitatii de ingrijire a sanatatii personalului si de protectie a muncii.",
     "answers": [
       {
         "key": "A",
@@ -8787,41 +8787,41 @@ window.QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "asigurarea cu materiale necesare desfășurării în bune condiții a activității de producție"
+        "text": "asigurarea cu materiale necesare desfasurarii in bune conditii a activitatii de productie"
       },
       {
         "key": "C",
-        "text": "asigurarea vieții și integrității anatomo–funcționale a salariaților în procesul muncii"
+        "text": "asigurarea vietii si integritatii anatomo–functionale a salariatilor in procesul muncii"
       },
       {
         "key": "D",
-        "text": "obligația de a respecta disciplina muncii"
+        "text": "obligatia de a respecta disciplina muncii"
       },
       {
         "key": "E",
-        "text": "obligația de a respecta măsurile de securitate și sănătate a muncii în unitate"
+        "text": "obligatia de a respecta masurile de securitate si sanatate a muncii in unitate"
       }
     ],
     "correct": "C",
-    "correctText": "asigurarea vieții și integrității anatomo–funcționale a salariaților în procesul muncii"
+    "correctText": "asigurarea vietii si integritatii anatomo–functionale a salariatilor in procesul muncii"
   },
   {
     "id": "Managementul R. U.-19",
     "nr": 19,
     "category": "Managementul R. U.",
-    "question": "Protecția muncii reprezintă:\nCare dintre variantele prezentate definește corect protecția muncii?",
+    "question": "Protectia muncii reprezinta:\nCare dintre variantele prezentate defineste corect protectia muncii?",
     "answers": [
       {
         "key": "A",
-        "text": "un element important al organizării muncii"
+        "text": "un element important al organizarii muncii"
       },
       {
         "key": "B",
-        "text": "un ansamblu de norme obligatorii, referitoare la organizarea, desfășurarea, îndrumarea și controlul procesului muncii și care are ca obiectiv crearea condițiilor optime pentru apărarea vieții și sănătății tuturor participanților la acest proces, prevenirea accidentelor și a îmbolnăvirilor profesionale"
+        "text": "un ansamblu de norme obligatorii, referitoare la organizarea, desfasurarea, indrumarea si controlul procesului muncii si care are ca obiectiv crearea conditiilor optime pentru apararea vietii si sanatatii tuturor participantilor la acest proces, prevenirea accidentelor si a imbolnavirilor profesionale"
       },
       {
         "key": "C",
-        "text": "un ansamblu de norme obligatorii, referitoare la organizarea, desfășurarea, îndrumarea și controlul procesului muncii"
+        "text": "un ansamblu de norme obligatorii, referitoare la organizarea, desfasurarea, indrumarea si controlul procesului muncii"
       },
       {
         "key": "D",
@@ -8829,47 +8829,47 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "obligațiile conducătorilor de a asigura salariaților condiții bune pentru desfășurarea muncii"
+        "text": "obligatiile conducatorilor de a asigura salariatilor conditii bune pentru desfasurarea muncii"
       }
     ],
     "correct": "B",
-    "correctText": "un ansamblu de norme obligatorii, referitoare la organizarea, desfășurarea, îndrumarea și controlul procesului muncii și care are ca obiectiv crearea condițiilor optime pentru apărarea vieții și sănătății tuturor participanților la acest proces, prevenirea accidentelor și a îmbolnăvirilor profesionale"
+    "correctText": "un ansamblu de norme obligatorii, referitoare la organizarea, desfasurarea, indrumarea si controlul procesului muncii si care are ca obiectiv crearea conditiilor optime pentru apararea vietii si sanatatii tuturor participantilor la acest proces, prevenirea accidentelor si a imbolnavirilor profesionale"
   },
   {
     "id": "Managementul R. U.-20",
     "nr": 20,
     "category": "Managementul R. U.",
-    "question": "Prin definiție, ergonomia reprezintă:\nAlegeți varianta care reprezintă definiția corectă și completă a ergonomiei.",
+    "question": "Prin definitie, ergonomia reprezinta:\nAlegeti varianta care reprezinta definitia corecta si completa a ergonomiei.",
     "answers": [
       {
         "key": "A",
-        "text": "o ramură independentă a științei"
+        "text": "o ramura independenta a stiintei"
       },
       {
         "key": "B",
-        "text": "un instrument de mare valoare pentru creșterea productivității muncii"
+        "text": "un instrument de mare valoare pentru cresterea productivitatii muncii"
       },
       {
         "key": "C",
-        "text": "activitatea științifică multidisciplinară, orientată spre adaptarea reciprocă a omului și a muncii în vederea creșterii productivității"
+        "text": "activitatea stiintifica multidisciplinara, orientata spre adaptarea reciproca a omului si a muncii in vederea cresterii productivitatii"
       },
       {
         "key": "D",
-        "text": "ansamblul integrat al științelor care permit obținerea cunoștințelor privitoare la muncă, necesare pentru a fundamenta în mod rațional și optim adaptarea muncii la om și a omului în meseria sa, în scopul creșterii continue a productivității muncii sociale, în condițiile economisirii efortului uman"
+        "text": "ansamblul integrat al stiintelor care permit obtinerea cunostintelor privitoare la munca, necesare pentru a fundamenta in mod rational si optim adaptarea muncii la om si a omului in meseria sa, in scopul cresterii continue a productivitatii muncii sociale, in conditiile economisirii efortului uman"
       },
       {
         "key": "E",
-        "text": "ansamblu integrat de științe susceptibile să ne furnizeze cunoștințe asupra muncii umane"
+        "text": "ansamblu integrat de stiinte susceptibile sa ne furnizeze cunostinte asupra muncii umane"
       }
     ],
     "correct": "D",
-    "correctText": "ansamblul integrat al științelor care permit obținerea cunoștințelor privitoare la muncă, necesare pentru a fundamenta în mod rațional și optim adaptarea muncii la om și a omului în meseria sa, în scopul creșterii continue a productivității muncii sociale, în condițiile economisirii efortului uman"
+    "correctText": "ansamblul integrat al stiintelor care permit obtinerea cunostintelor privitoare la munca, necesare pentru a fundamenta in mod rational si optim adaptarea muncii la om si a omului in meseria sa, in scopul cresterii continue a productivitatii muncii sociale, in conditiile economisirii efortului uman"
   },
   {
     "id": "Managementul R. U.-21",
     "nr": 21,
     "category": "Managementul R. U.",
-    "question": "Metoda științifică ce are ca scop să informeze subiectul asupra aptitudinilor sale și să-i indice o profesiune sau un grup de profesiuni, în care să-și valorifice cât mai bine aptitudinile, definește conceptul de:",
+    "question": "Metoda stiintifica ce are ca scop sa informeze subiectul asupra aptitudinilor sale si sa-i indice o profesiune sau un grup de profesiuni, in care sa-si valorifice cat mai bine aptitudinile, defineste conceptul de:",
     "answers": [
       {
         "key": "A",
@@ -8881,7 +8881,7 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "perfecționarea personalului"
+        "text": "perfectionarea personalului"
       },
       {
         "key": "D",
@@ -8889,21 +8889,21 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "orientarea profesională"
+        "text": "orientarea profesionala"
       }
     ],
     "correct": "E",
-    "correctText": "orientarea profesională"
+    "correctText": "orientarea profesionala"
   },
   {
     "id": "Managementul R. U.-22",
     "nr": 22,
     "category": "Managementul R. U.",
-    "question": "În desfășurarea unei acțiuni sistematice de orientare profesională se succed următoarele etape:\nAlegeți varianta care nu reprezintă etapa în desfășurarea unei acțiuni sistematice de orientare profesională.",
+    "question": "In desfasurarea unei actiuni sistematice de orientare profesionala se succed urmatoarele etape:\nAlegeti varianta care nu reprezinta etapa in desfasurarea unei actiuni sistematice de orientare profesionala.",
     "answers": [
       {
         "key": "A",
-        "text": "analiza muncii și elaborarea monografiilor profesionale"
+        "text": "analiza muncii si elaborarea monografiilor profesionale"
       },
       {
         "key": "B",
@@ -8911,71 +8911,71 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "stabilirea unei baterii de probe, în funcție de exigențele profesiunii și criteriile de succes profesional"
+        "text": "stabilirea unei baterii de probe, in functie de exigentele profesiunii si criteriile de succes profesional"
       },
       {
         "key": "D",
-        "text": "alegerea unui eșantion experimental pentru etalonarea probelor și prelucrarea rezultatelor și alegerea probelor care sunt cele mai productive"
+        "text": "alegerea unui esantion experimental pentru etalonarea probelor si prelucrarea rezultatelor si alegerea probelor care sunt cele mai productive"
       },
       {
         "key": "E",
-        "text": "cunoașterea cererii de muncă în diferite sectoare de activitate"
+        "text": "cunoasterea cererii de munca in diferite sectoare de activitate"
       }
     ],
     "correct": "E",
-    "correctText": "cunoașterea cererii de muncă în diferite sectoare de activitate"
+    "correctText": "cunoasterea cererii de munca in diferite sectoare de activitate"
   },
   {
     "id": "Managementul R. U.-23",
     "nr": 23,
     "category": "Managementul R. U.",
-    "question": "Desfășurarea după metode științifice a activității de selecție profesională prezintă o importanță deosebită, având ca principală consecință realizarea:\nIdentificați varianta corectă de răspuns.",
+    "question": "Desfasurarea dupa metode stiintifice a activitatii de selectie profesionala prezinta o importanta deosebita, avand ca principala consecinta realizarea:\nIdentificati varianta corecta de raspuns.",
     "answers": [
       {
         "key": "A",
-        "text": "unui câștig pentru organizație"
+        "text": "unui castig pentru organizatie"
       },
       {
         "key": "B",
-        "text": "reducerii numărului de teste"
+        "text": "reducerii numarului de teste"
       },
       {
         "key": "C",
-        "text": "unei concordanțe optime între individ și profesia pe care o va practica"
+        "text": "unei concordante optime intre individ si profesia pe care o va practica"
       },
       {
         "key": "D",
-        "text": "unei evaluări performante"
+        "text": "unei evaluari performante"
       },
       {
         "key": "E",
-        "text": "corelării situației cu motivația salariatului"
+        "text": "corelarii situatiei cu motivatia salariatului"
       }
     ],
     "correct": "C",
-    "correctText": "unei concordanțe optime între individ și profesia pe care o va practica"
+    "correctText": "unei concordante optime intre individ si profesia pe care o va practica"
   },
   {
     "id": "Managementul R. U.-24",
     "nr": 24,
     "category": "Managementul R. U.",
-    "question": "Integrarea profesională reprezintă:\nAlegeți varianta care reprezintă definiția a integrării profesionale.",
+    "question": "Integrarea profesionala reprezinta:\nAlegeti varianta care reprezinta definitia a integrarii profesionale.",
     "answers": [
       {
         "key": "A",
-        "text": "o treaptă în evoluția profesională a individului, când se realizează acordul și armonizarea comportamentului individului cu exigența postului și colectivității din care face parte"
+        "text": "o treapta in evolutia profesionala a individului, cand se realizeaza acordul si armonizarea comportamentului individului cu exigenta postului si colectivitatii din care face parte"
       },
       {
         "key": "B",
-        "text": "transformarea reciprocă a diferitelor culturi în vederea constituirii într-un tot echilibrat"
+        "text": "transformarea reciproca a diferitelor culturi in vederea constituirii intr-un tot echilibrat"
       },
       {
         "key": "C",
-        "text": "un proces de lungă durată în evoluția profesională a individului"
+        "text": "un proces de lunga durata in evolutia profesionala a individului"
       },
       {
         "key": "D",
-        "text": "cunoașterea organizației și cunoașterea locului de muncă (sector, secție, atelier)"
+        "text": "cunoasterea organizatiei si cunoasterea locului de munca (sector, sectie, atelier)"
       },
       {
         "key": "E",
@@ -8983,13 +8983,13 @@ window.QUESTIONS = [
       }
     ],
     "correct": "A",
-    "correctText": "o treaptă în evoluția profesională a individului, când se realizează acordul și armonizarea comportamentului individului cu exigența postului și colectivității din care face parte"
+    "correctText": "o treapta in evolutia profesionala a individului, cand se realizeaza acordul si armonizarea comportamentului individului cu exigenta postului si colectivitatii din care face parte"
   },
   {
     "id": "Managementul R. U.-25",
     "nr": 25,
     "category": "Managementul R. U.",
-    "question": "Principalele cauze ale fluctuației forței de muncă și a absenteismului sunt date de: \n 1. atribuirea de lucrări sub posibilitățile lucrătorilor \n 2. lipsa perspectivei de avansare \n 3. tratamentul neechitabil și adesea abuziv al cadrelor de conducere directe \n 4. retribuția mai bună în altă organizație \n 5. aprovizionarea locului de muncă cu materialele necesare, precum și funcționarea corespunzătoare a utilajelor",
+    "question": "Principalele cauze ale fluctuatiei fortei de munca si a absenteismului sunt date de: \n 1. atribuirea de lucrari sub posibilitatile lucratorilor \n 2. lipsa perspectivei de avansare \n 3. tratamentul neechitabil si adesea abuziv al cadrelor de conducere directe \n 4. retributia mai buna in alta organizatie \n 5. aprovizionarea locului de munca cu materialele necesare, precum si functionarea corespunzatoare a utilajelor",
     "answers": [
       {
         "key": "A",
@@ -9019,23 +9019,23 @@ window.QUESTIONS = [
     "id": "Managementul R. U.-26",
     "nr": 26,
     "category": "Managementul R. U.",
-    "question": "Rolul principal al evaluării performanțelor este:\nAlegeți varianta care definește corect rolul evaluării performanțelor.",
+    "question": "Rolul principal al evaluarii performantelor este:\nAlegeti varianta care defineste corect rolul evaluarii performantelor.",
     "answers": [
       {
         "key": "A",
-        "text": "de a asigura legătura productivitate – evaluare performanță – recompensă"
+        "text": "de a asigura legatura productivitate – evaluare performanta – recompensa"
       },
       {
         "key": "B",
-        "text": "de a oferi instrumentele necesare pentru investigarea repartizării salariaților"
+        "text": "de a oferi instrumentele necesare pentru investigarea repartizarii salariatilor"
       },
       {
         "key": "C",
-        "text": "a asigura orientarea spre eficiență"
+        "text": "a asigura orientarea spre eficienta"
       },
       {
         "key": "D",
-        "text": "de a deteriora relațiile în cadrul grupului"
+        "text": "de a deteriora relatiile in cadrul grupului"
       },
       {
         "key": "E",
@@ -9043,43 +9043,43 @@ window.QUESTIONS = [
       }
     ],
     "correct": "A",
-    "correctText": "de a asigura legătura productivitate – evaluare performanță – recompensă"
+    "correctText": "de a asigura legatura productivitate – evaluare performanta – recompensa"
   },
   {
     "id": "Managementul R. U.-27",
     "nr": 27,
     "category": "Managementul R. U.",
-    "question": "Politica de promovare:\nPrecizați care dintre variantele prezentate definește cel mai bine politica de promovare",
+    "question": "Politica de promovare:\nPrecizati care dintre variantele prezentate defineste cel mai bine politica de promovare",
     "answers": [
       {
         "key": "A",
-        "text": "generează insatisfacții și o stare permanentă de nemulțumire în rândul angajaților"
+        "text": "genereaza insatisfactii si o stare permanenta de nemultumire in randul angajatilor"
       },
       {
         "key": "B",
-        "text": "încurajează acordarea de avantaje materiale și morale salariatului promovat"
+        "text": "incurajeaza acordarea de avantaje materiale si morale salariatului promovat"
       },
       {
         "key": "C",
-        "text": "constituie o componentă majoră a managementului personalului organizației, menită să întărească spiritul de echipă între salariați"
+        "text": "constituie o componenta majora a managementului personalului organizatiei, menita sa intareasca spiritul de echipa intre salariati"
       },
       {
         "key": "D",
-        "text": "reprezintă una din cele mai importante probleme sociale"
+        "text": "reprezinta una din cele mai importante probleme sociale"
       },
       {
         "key": "E",
-        "text": "reprezintă creșterea responsabilității sau a nivelului de calificare"
+        "text": "reprezinta cresterea responsabilitatii sau a nivelului de calificare"
       }
     ],
     "correct": "C",
-    "correctText": "constituie o componentă majoră a managementului personalului organizației, menită să întărească spiritul de echipă între salariați"
+    "correctText": "constituie o componenta majora a managementului personalului organizatiei, menita sa intareasca spiritul de echipa intre salariati"
   },
   {
     "id": "Managementul R. U.-28",
     "nr": 28,
     "category": "Managementul R. U.",
-    "question": "Managementul ca gen specific al activității sociale se bazează pe resurse financiare, pe materii prime și alte resurse materiale și include trei sfere principale:\nStabiliți care dintre variantele de mai jos redau corect cele trei sfere principale ale managementului, ca gen specific al activității sociale.",
+    "question": "Managementul ca gen specific al activitatii sociale se bazeaza pe resurse financiare, pe materii prime si alte resurse materiale si include trei sfere principale:\nStabiliti care dintre variantele de mai jos redau corect cele trei sfere principale ale managementului, ca gen specific al activitatii sociale.",
     "answers": [
       {
         "key": "A",
@@ -9095,7 +9095,7 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "planificarea, organizarea, antrenarea și controlul"
+        "text": "planificarea, organizarea, antrenarea si controlul"
       },
       {
         "key": "E",
@@ -9109,41 +9109,41 @@ window.QUESTIONS = [
     "id": "Managementul R. U.-29",
     "nr": 29,
     "category": "Managementul R. U.",
-    "question": "Competența profesională semnifică:",
+    "question": "Competenta profesionala semnifica:",
     "answers": [
       {
         "key": "A",
-        "text": "pregătirea continuă a lucrătorilor"
+        "text": "pregatirea continua a lucratorilor"
       },
       {
         "key": "B",
-        "text": "relația dintre oameni în procesul de muncă, priceperea de a lucra în echipă"
+        "text": "relatia dintre oameni in procesul de munca, priceperea de a lucra in echipa"
       },
       {
         "key": "C",
-        "text": "pregătirea tehnică a lucrătorilor pentru îndeplinirea funcțiilor legate de anumite specializări"
+        "text": "pregatirea tehnica a lucratorilor pentru indeplinirea functiilor legate de anumite specializari"
       },
       {
         "key": "D",
-        "text": "esența managementului personalului organizației"
+        "text": "esenta managementului personalului organizatiei"
       },
       {
         "key": "E",
-        "text": "realizarea scopurilor organizaționale"
+        "text": "realizarea scopurilor organizationale"
       }
     ],
     "correct": "C",
-    "correctText": "pregătirea tehnică a lucrătorilor pentru îndeplinirea funcțiilor legate de anumite specializări"
+    "correctText": "pregatirea tehnica a lucratorilor pentru indeplinirea functiilor legate de anumite specializari"
   },
   {
     "id": "Managementul R. U.-30",
     "nr": 30,
     "category": "Managementul R. U.",
-    "question": "Pentru realizarea managementului previzional al personalului trebuie apelat la un sistem, respectiv la un ansamblu de metode și forme dintre care un rol esențial revine:\nIdentificați varianta corectă de răspuns.",
+    "question": "Pentru realizarea managementului previzional al personalului trebuie apelat la un sistem, respectiv la un ansamblu de metode si forme dintre care un rol esential revine:\nIdentificati varianta corecta de raspuns.",
     "answers": [
       {
         "key": "A",
-        "text": "planului și prognozelor"
+        "text": "planului si prognozelor"
       },
       {
         "key": "B",
@@ -9151,7 +9151,7 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "prognozelor și procesului planificării"
+        "text": "prognozelor si procesului planificarii"
       },
       {
         "key": "D",
@@ -9163,81 +9163,81 @@ window.QUESTIONS = [
       }
     ],
     "correct": "A",
-    "correctText": "planului și prognozelor"
+    "correctText": "planului si prognozelor"
   },
   {
     "id": "Managementul R. U.-31",
     "nr": 31,
     "category": "Managementul R. U.",
-    "question": "Orientarea profesională are rolul, în societatea modernă, să călăuzească:\nIdentificați varianta corectă de răspuns.",
+    "question": "Orientarea profesionala are rolul, in societatea moderna, sa calauzeasca:\nIdentificati varianta corecta de raspuns.",
     "answers": [
       {
         "key": "A",
-        "text": "pe fiecare individ spre utilizarea maximă a posibilităților sale"
+        "text": "pe fiecare individ spre utilizarea maxima a posibilitatilor sale"
       },
       {
         "key": "B",
-        "text": "nivelul gândirii managerului"
+        "text": "nivelul gandirii managerului"
       },
       {
         "key": "C",
-        "text": "pașii spre performanță"
+        "text": "pasii spre performanta"
       },
       {
         "key": "D",
-        "text": "drumul spre noi investiții"
+        "text": "drumul spre noi investitii"
       },
       {
         "key": "E",
-        "text": "procesul de producție și de distribuție"
+        "text": "procesul de productie si de distributie"
       }
     ],
     "correct": "A",
-    "correctText": "pe fiecare individ spre utilizarea maximă a posibilităților sale"
+    "correctText": "pe fiecare individ spre utilizarea maxima a posibilitatilor sale"
   },
   {
     "id": "Managementul R. U.-32",
     "nr": 32,
     "category": "Managementul R. U.",
-    "question": "Prin recrutare internă:\nIdentificați varianta corectă de răspuns.",
+    "question": "Prin recrutare interna:\nIdentificati varianta corecta de raspuns.",
     "answers": [
       {
         "key": "A",
-        "text": "se înțelege alegerea salariaților capabili"
+        "text": "se intelege alegerea salariatilor capabili"
       },
       {
         "key": "B",
-        "text": "se înțelege capacitatea managerului de a motiva salariații"
+        "text": "se intelege capacitatea managerului de a motiva salariatii"
       },
       {
         "key": "C",
-        "text": "se influențează negativ starea de spirit a salariaților"
+        "text": "se influenteaza negativ starea de spirit a salariatilor"
       },
       {
         "key": "D",
-        "text": "se înțelege un mod de a crea stabilitate în organizație"
+        "text": "se intelege un mod de a crea stabilitate in organizatie"
       },
       {
         "key": "E",
-        "text": "se influențează pozitiv starea de spirit a salariaților"
+        "text": "se influenteaza pozitiv starea de spirit a salariatilor"
       }
     ],
     "correct": "E",
-    "correctText": "se influențează pozitiv starea de spirit a salariaților"
+    "correctText": "se influenteaza pozitiv starea de spirit a salariatilor"
   },
   {
     "id": "Managementul R. U.-33",
     "nr": 33,
     "category": "Managementul R. U.",
-    "question": "Recrutarea reprezintă:\nAlegeți varianta care reprezintă definiția recrutării.",
+    "question": "Recrutarea reprezinta:\nAlegeti varianta care reprezinta definitia recrutarii.",
     "answers": [
       {
         "key": "A",
-        "text": "climatul favorabil care să ajute noul angajat să-și alunge teama și jena"
+        "text": "climatul favorabil care sa ajute noul angajat sa-si alunge teama si jena"
       },
       {
         "key": "B",
-        "text": "un sentiment de apartenență față de organizație"
+        "text": "un sentiment de apartenenta fata de organizatie"
       },
       {
         "key": "C",
@@ -9245,25 +9245,25 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "preluarea efectivă din rândul indivizilor selecționați pe aceia ale căror cunoștințe profesionale în domeniu, personalitate și aptitudini, corespund cel mai bine posturilor vacante scoase la concurs"
+        "text": "preluarea efectiva din randul indivizilor selectionati pe aceia ale caror cunostinte profesionale in domeniu, personalitate si aptitudini, corespund cel mai bine posturilor vacante scoase la concurs"
       },
       {
         "key": "E",
-        "text": "nevoile salariaților și ale familiilor lor"
+        "text": "nevoile salariatilor si ale familiilor lor"
       }
     ],
     "correct": "D",
-    "correctText": "preluarea efectivă din rândul indivizilor selecționați pe aceia ale căror cunoștințe profesionale în domeniu, personalitate și aptitudini, corespund cel mai bine posturilor vacante scoase la concurs"
+    "correctText": "preluarea efectiva din randul indivizilor selectionati pe aceia ale caror cunostinte profesionale in domeniu, personalitate si aptitudini, corespund cel mai bine posturilor vacante scoase la concurs"
   },
   {
     "id": "Managementul R. U.-34",
     "nr": 34,
     "category": "Managementul R. U.",
-    "question": "Selecția profesională are rolul să stabilească exact:\nAlegeți varianta corectă care reprezintă rolul selecției profesionale.",
+    "question": "Selectia profesionala are rolul sa stabileasca exact:\nAlegeti varianta corecta care reprezinta rolul selectiei profesionale.",
     "answers": [
       {
         "key": "A",
-        "text": "nivelul de pregătire al angajatului"
+        "text": "nivelul de pregatire al angajatului"
       },
       {
         "key": "B",
@@ -9275,21 +9275,21 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "treapta care i se cuvine și felul muncii care i se potrivește individului într-o treaptă sau alta"
+        "text": "treapta care i se cuvine si felul muncii care i se potriveste individului intr-o treapta sau alta"
       },
       {
         "key": "E",
-        "text": "nivelul de cunoștințe pe care-l posedă angajatul"
+        "text": "nivelul de cunostinte pe care-l poseda angajatul"
       }
     ],
     "correct": "D",
-    "correctText": "treapta care i se cuvine și felul muncii care i se potrivește individului într-o treaptă sau alta"
+    "correctText": "treapta care i se cuvine si felul muncii care i se potriveste individului intr-o treapta sau alta"
   },
   {
     "id": "Managementul R. U.-35",
     "nr": 35,
     "category": "Managementul R. U.",
-    "question": "Care din variantele de mai jos prezintă instrumentul de lucru al medicilor și psihologilor care efectuează orientarea, selecția și repartizarea profesională:",
+    "question": "Care din variantele de mai jos prezinta instrumentul de lucru al medicilor si psihologilor care efectueaza orientarea, selectia si repartizarea profesionala:",
     "answers": [
       {
         "key": "A",
@@ -9319,11 +9319,11 @@ window.QUESTIONS = [
     "id": "Managementul R. U.-36",
     "nr": 36,
     "category": "Managementul R. U.",
-    "question": "Concursul pentru selecția și testarea candidaților comportă o serie de etape:\nAlegeți varianta care nu reprezintă etapa specifică concursului pentru selecția și testarea candidaților.",
+    "question": "Concursul pentru selectia si testarea candidatilor comporta o serie de etape:\nAlegeti varianta care nu reprezinta etapa specifica concursului pentru selectia si testarea candidatilor.",
     "answers": [
       {
         "key": "A",
-        "text": "pregătirea concursului"
+        "text": "pregatirea concursului"
       },
       {
         "key": "B",
@@ -9331,7 +9331,7 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "desfășurarea concursului"
+        "text": "desfasurarea concursului"
       },
       {
         "key": "D",
@@ -9339,7 +9339,7 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "închiderea și finalizarea lucrărilor"
+        "text": "inchiderea si finalizarea lucrarilor"
       }
     ],
     "correct": "D",
@@ -9349,15 +9349,15 @@ window.QUESTIONS = [
     "id": "Managementul R. U.-37",
     "nr": 37,
     "category": "Managementul R. U.",
-    "question": "Acomodarea angajatului începe prin:",
+    "question": "Acomodarea angajatului incepe prin:",
     "answers": [
       {
         "key": "A",
-        "text": "dezvoltarea personalității angajatului"
+        "text": "dezvoltarea personalitatii angajatului"
       },
       {
         "key": "B",
-        "text": "creșterea nivelului de trai al populației"
+        "text": "cresterea nivelului de trai al populatiei"
       },
       {
         "key": "C",
@@ -9365,7 +9365,7 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "cunoașterea organizației și cunoașterea locului de muncă (sector, secție, atelier)"
+        "text": "cunoasterea organizatiei si cunoasterea locului de munca (sector, sectie, atelier)"
       },
       {
         "key": "E",
@@ -9373,77 +9373,77 @@ window.QUESTIONS = [
       }
     ],
     "correct": "D",
-    "correctText": "cunoașterea organizației și cunoașterea locului de muncă (sector, secție, atelier)"
+    "correctText": "cunoasterea organizatiei si cunoasterea locului de munca (sector, sectie, atelier)"
   },
   {
     "id": "Managementul R. U.-38",
     "nr": 38,
     "category": "Managementul R. U.",
-    "question": "Din punct de vedere al dreptului, disciplina muncii reprezintă:\nAlegeți varianta corectă care reprezintă caracteristica specifică disciplinei muncii din punct de vedere al dreptului.",
+    "question": "Din punct de vedere al dreptului, disciplina muncii reprezinta:\nAlegeti varianta corecta care reprezinta caracteristica specifica disciplinei muncii din punct de vedere al dreptului.",
     "answers": [
       {
         "key": "A",
-        "text": "o caracteristică a salariatului"
+        "text": "o caracteristica a salariatului"
       },
       {
         "key": "B",
-        "text": "expertizarea stării de sănătate și a capacității de muncă a muncitorilor bolnavi"
+        "text": "expertizarea starii de sanatate si a capacitatii de munca a muncitorilor bolnavi"
       },
       {
         "key": "C",
-        "text": "creșterea mobilității forței de muncă"
+        "text": "cresterea mobilitatii fortei de munca"
       },
       {
         "key": "D",
-        "text": "un principiu general al reglementării relațiilor de muncă"
+        "text": "un principiu general al reglementarii relatiilor de munca"
       },
       {
         "key": "E",
-        "text": "un principiu universal al reglementărilor relațiilor de muncă"
+        "text": "un principiu universal al reglementarilor relatiilor de munca"
       }
     ],
     "correct": "D",
-    "correctText": "un principiu general al reglementării relațiilor de muncă"
+    "correctText": "un principiu general al reglementarii relatiilor de munca"
   },
   {
     "id": "Managementul R. U.-39",
     "nr": 39,
     "category": "Managementul R. U.",
-    "question": "Salariații ale căror formare profesională a făcut obiectul unui contract de licenție la locul de muncă:\nAlegeți varianta de răspuns corectă.",
+    "question": "Salariatii ale caror formare profesionala a facut obiectul unui contract de licentie la locul de munca:\nAlegeti varianta de raspuns corecta.",
     "answers": [
       {
         "key": "A",
-        "text": "vor fi obligați la plata cursurilor de perfecționare"
+        "text": "vor fi obligati la plata cursurilor de perfectionare"
       },
       {
         "key": "B",
-        "text": "vor suporta 20% din cheltuielile de formare făcute de societate"
+        "text": "vor suporta 20% din cheltuielile de formare facute de societate"
       },
       {
         "key": "C",
-        "text": "nu vor putea fi obligați la suportarea cheltuielilor de formare făcute de angajator"
+        "text": "nu vor putea fi obligati la suportarea cheltuielilor de formare facute de angajator"
       },
       {
         "key": "D",
-        "text": "vor suporta cheltuielile de formare în proporție de 50%"
+        "text": "vor suporta cheltuielile de formare in proportie de 50%"
       },
       {
         "key": "E",
-        "text": "nu au dreptul la concediu de odihnă"
+        "text": "nu au dreptul la concediu de odihna"
       }
     ],
     "correct": "C",
-    "correctText": "nu vor putea fi obligați la suportarea cheltuielilor de formare făcute de angajator"
+    "correctText": "nu vor putea fi obligati la suportarea cheltuielilor de formare facute de angajator"
   },
   {
     "id": "Managementul R. U.-40",
     "nr": 40,
     "category": "Managementul R. U.",
-    "question": "Performanța umană trebuie apreciată și prin:",
+    "question": "Performanta umana trebuie apreciata si prin:",
     "answers": [
       {
         "key": "A",
-        "text": "sporirea cantității de produse obținute"
+        "text": "sporirea cantitatii de produse obtinute"
       },
       {
         "key": "B",
@@ -9451,63 +9451,63 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "coeficientul de creștere economică"
+        "text": "coeficientul de crestere economica"
       },
       {
         "key": "D",
-        "text": "prisma randamentului și profitului net"
+        "text": "prisma randamentului si profitului net"
       },
       {
         "key": "E",
-        "text": "prisma randamentului și productivității muncii"
+        "text": "prisma randamentului si productivitatii muncii"
       }
     ],
     "correct": "E",
-    "correctText": "prisma randamentului și productivității muncii"
+    "correctText": "prisma randamentului si productivitatii muncii"
   },
   {
     "id": "Managementul R. U.-41",
     "nr": 41,
     "category": "Managementul R. U.",
-    "question": "Noțiunea de evaluare ne apare ca:\nAlegeți varianta care definește corect noțiunea de evaluare.",
+    "question": "Notiunea de evaluare ne apare ca:\nAlegeti varianta care defineste corect notiunea de evaluare.",
     "answers": [
       {
         "key": "A",
-        "text": "o activitate complexă"
+        "text": "o activitate complexa"
       },
       {
         "key": "B",
-        "text": "un ansamblu al proceselor prin intermediul cărora se emit judecăți"
+        "text": "un ansamblu al proceselor prin intermediul carora se emit judecati"
       },
       {
         "key": "C",
-        "text": "o activitate care nu este complexă pentru manageri"
+        "text": "o activitate care nu este complexa pentru manageri"
       },
       {
         "key": "D",
-        "text": "o activitate ce nu necesită o pregătire specială a managerilor"
+        "text": "o activitate ce nu necesita o pregatire speciala a managerilor"
       },
       {
         "key": "E",
-        "text": "o activitate complexă, ca un ansamblu al proceselor prin intermediul cărora se emit judecăți de valoare asupra componenților unui sistem, considerați separat în calitatea lor de titulari ai anumitor posturi, în vederea relevării elementelor esențiale ale modului de realizare a obiectivelor și sarcinilor trasate, a acordării de recompense sau sancțiuni, a stabilirii modalităților de perfecționare a pregătirii, a conturării perspectivelor de promovare a acestora"
+        "text": "o activitate complexa, ca un ansamblu al proceselor prin intermediul carora se emit judecati de valoare asupra componentilor unui sistem, considerati separat in calitatea lor de titulari ai anumitor posturi, in vederea relevarii elementelor esentiale ale modului de realizare a obiectivelor si sarcinilor trasate, a acordarii de recompense sau sanctiuni, a stabilirii modalitatilor de perfectionare a pregatirii, a conturarii perspectivelor de promovare a acestora"
       }
     ],
     "correct": "E",
-    "correctText": "o activitate complexă, ca un ansamblu al proceselor prin intermediul cărora se emit judecăți de valoare asupra componenților unui sistem, considerați separat în calitatea lor de titulari ai anumitor posturi, în vederea relevării elementelor esențiale ale modului de realizare a obiectivelor și sarcinilor trasate, a acordării de recompense sau sancțiuni, a stabilirii modalităților de perfecționare a pregătirii, a conturării perspectivelor de promovare a acestora"
+    "correctText": "o activitate complexa, ca un ansamblu al proceselor prin intermediul carora se emit judecati de valoare asupra componentilor unui sistem, considerati separat in calitatea lor de titulari ai anumitor posturi, in vederea relevarii elementelor esentiale ale modului de realizare a obiectivelor si sarcinilor trasate, a acordarii de recompense sau sanctiuni, a stabilirii modalitatilor de perfectionare a pregatirii, a conturarii perspectivelor de promovare a acestora"
   },
   {
     "id": "Managementul R. U.-42",
     "nr": 42,
     "category": "Managementul R. U.",
-    "question": "Prin promovări profesionale se înțelege:",
+    "question": "Prin promovari profesionale se intelege:",
     "answers": [
       {
         "key": "A",
-        "text": "totalitatea proceselor prin care se atribuie salariaților din organizație posturi situate pe un nivel ierarhic superior, pe baza eficienței profesionale dovedite și a aptitudinilor cerute"
+        "text": "totalitatea proceselor prin care se atribuie salariatilor din organizatie posturi situate pe un nivel ierarhic superior, pe baza eficientei profesionale dovedite si a aptitudinilor cerute"
       },
       {
         "key": "B",
-        "text": "formularea unei aprecieri generale prin care se sintetizează principalele calități și se certifică rezultatele obținute prin muncă pe parcursul unui an"
+        "text": "formularea unei aprecieri generale prin care se sintetizeaza principalele calitati si se certifica rezultatele obtinute prin munca pe parcursul unui an"
       },
       {
         "key": "C",
@@ -9515,59 +9515,59 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "aprecierea ocupației sau funcției, oferind elementele necesare pentru determinarea diferențelor dintre ocupații"
+        "text": "aprecierea ocupatiei sau functiei, oferind elementele necesare pentru determinarea diferentelor dintre ocupatii"
       },
       {
         "key": "E",
-        "text": "o activitate complexă, ca un ansamblu al proceselor prin intermediul cărora se emit judecăți de valoare asupra componenților unui sistem"
+        "text": "o activitate complexa, ca un ansamblu al proceselor prin intermediul carora se emit judecati de valoare asupra componentilor unui sistem"
       }
     ],
     "correct": "A",
-    "correctText": "totalitatea proceselor prin care se atribuie salariaților din organizație posturi situate pe un nivel ierarhic superior, pe baza eficienței profesionale dovedite și a aptitudinilor cerute"
+    "correctText": "totalitatea proceselor prin care se atribuie salariatilor din organizatie posturi situate pe un nivel ierarhic superior, pe baza eficientei profesionale dovedite si a aptitudinilor cerute"
   },
   {
     "id": "Managementul R. U.-43",
     "nr": 43,
     "category": "Managementul R. U.",
-    "question": "Angajatorul are, în principal, următoarele drepturi:\nArătați care dintre variante nu reprezintă un drept al angajatorului.",
+    "question": "Angajatorul are, in principal, urmatoarele drepturi:\nAratati care dintre variante nu reprezinta un drept al angajatorului.",
     "answers": [
       {
         "key": "A",
-        "text": "să stabilească organizarea și funcționarea unității"
+        "text": "sa stabileasca organizarea si functionarea unitatii"
       },
       {
         "key": "B",
-        "text": "să stabilească atribuțiile corespunzătoare pentru fiecare salariat, în condițiile legii"
+        "text": "sa stabileasca atributiile corespunzatoare pentru fiecare salariat, in conditiile legii"
       },
       {
         "key": "C",
-        "text": "să dea dispoziții cu caracter obligatoriu pentru salariat, sub rezerva legalității lor"
+        "text": "sa dea dispozitii cu caracter obligatoriu pentru salariat, sub rezerva legalitatii lor"
       },
       {
         "key": "D",
-        "text": "să asigure permanent condițiile tehnice și organizatorice avute în vedere la elaborarea normelor de muncă și condiții corespunzătoare de muncă"
+        "text": "sa asigure permanent conditiile tehnice si organizatorice avute in vedere la elaborarea normelor de munca si conditii corespunzatoare de munca"
       },
       {
         "key": "E",
-        "text": "să constate săvârșirea abaterilor disciplinare și să aplice sancțiunile corespunzătoare, potrivit legii, contractului colectiv de muncă aplicabil și regulamentului intern"
+        "text": "sa constate savarsirea abaterilor disciplinare si sa aplice sanctiunile corespunzatoare, potrivit legii, contractului colectiv de munca aplicabil si regulamentului intern"
       }
     ],
     "correct": "D",
-    "correctText": "să asigure permanent condițiile tehnice și organizatorice avute în vedere la elaborarea normelor de muncă și condiții corespunzătoare de muncă"
+    "correctText": "sa asigure permanent conditiile tehnice si organizatorice avute in vedere la elaborarea normelor de munca si conditii corespunzatoare de munca"
   },
   {
     "id": "Managementul R. U.-44",
     "nr": 44,
     "category": "Managementul R. U.",
-    "question": "Nivelul actual al progresului științifico-tehnic răstoarnă postulatul fundamental al modelului managerial taylorist care susține că:\nIdentificați varianta corectă de răspuns.",
+    "question": "Nivelul actual al progresului stiintifico-tehnic rastoarna postulatul fundamental al modelului managerial taylorist care sustine ca:\nIdentificati varianta corecta de raspuns.",
     "answers": [
       {
         "key": "A",
-        "text": "progresul diminuează semnificația motivației în cultura organizațională"
+        "text": "progresul diminueaza semnificatia motivatiei in cultura organizationala"
       },
       {
         "key": "B",
-        "text": "profitul maxim se obține pe calea simplificării maximale a funcțiilor de muncă"
+        "text": "profitul maxim se obtine pe calea simplificarii maximale a functiilor de munca"
       },
       {
         "key": "C",
@@ -9575,119 +9575,119 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "profitul maxim se obține prin sporirea rolului cunoștințelor și deprinderilor în procesul de muncă"
+        "text": "profitul maxim se obtine prin sporirea rolului cunostintelor si deprinderilor in procesul de munca"
       },
       {
         "key": "E",
-        "text": "computerizarea crește rolul personalului în procesul de producție"
+        "text": "computerizarea creste rolul personalului in procesul de productie"
       }
     ],
     "correct": "B",
-    "correctText": "profitul maxim se obține pe calea simplificării maximale a funcțiilor de muncă"
+    "correctText": "profitul maxim se obtine pe calea simplificarii maximale a functiilor de munca"
   },
   {
     "id": "Managementul R. U.-45",
     "nr": 45,
     "category": "Managementul R. U.",
-    "question": "Procesul de management strategic include o serie de etape intercorelate:\nCare dintre variantele prezentate nu constituie etapă a procesului de management strategic?",
+    "question": "Procesul de management strategic include o serie de etape intercorelate:\nCare dintre variantele prezentate nu constituie etapa a procesului de management strategic?",
     "answers": [
       {
         "key": "A",
-        "text": "determinarea misiunii organizației, scopurilor strategice și a sarcinilor de îndeplinire a acestora"
+        "text": "determinarea misiunii organizatiei, scopurilor strategice si a sarcinilor de indeplinire a acestora"
       },
       {
         "key": "B",
-        "text": "formularea și alegerea strategiei pentru realizarea scopurilor și a rezultatelor activității"
+        "text": "formularea si alegerea strategiei pentru realizarea scopurilor si a rezultatelor activitatii"
       },
       {
         "key": "C",
-        "text": "realizarea efectivă a strategiei și îndeplinirea planului strategic conceput"
+        "text": "realizarea efectiva a strategiei si indeplinirea planului strategic conceput"
       },
       {
         "key": "D",
-        "text": "evaluarea și controlul asupra realizării strategiei și efectuarea corecțiilor necesare"
+        "text": "evaluarea si controlul asupra realizarii strategiei si efectuarea corectiilor necesare"
       },
       {
         "key": "E",
-        "text": "elaborarea și aplicarea concluziilor"
+        "text": "elaborarea si aplicarea concluziilor"
       }
     ],
     "correct": "E",
-    "correctText": "elaborarea și aplicarea concluziilor"
+    "correctText": "elaborarea si aplicarea concluziilor"
   },
   {
     "id": "Managementul R. U.-46",
     "nr": 46,
     "category": "Managementul R. U.",
-    "question": "Scopul managementului strategic al personalului constă în:",
+    "question": "Scopul managementului strategic al personalului consta in:",
     "answers": [
       {
         "key": "A",
-        "text": "asigurarea procesului de formare a potențialului uman al organizației pentru o perioadă lungă de timp"
+        "text": "asigurarea procesului de formare a potentialului uman al organizatiei pentru o perioada lunga de timp"
       },
       {
         "key": "B",
-        "text": "formarea mediului intern al organizației"
+        "text": "formarea mediului intern al organizatiei"
       },
       {
         "key": "C",
-        "text": "funcționarea eficientă a structurilor organizatorice a firmei"
+        "text": "functionarea eficienta a structurilor organizatorice a firmei"
       },
       {
         "key": "D",
-        "text": "asigurarea unei stări coordonate și adecvate a mediului extern și intern al procesului de formare a potențialului uman al organizației pentru o perioadă lungă de timp"
+        "text": "asigurarea unei stari coordonate si adecvate a mediului extern si intern al procesului de formare a potentialului uman al organizatiei pentru o perioada lunga de timp"
       },
       {
         "key": "E",
-        "text": "asigurarea organizației cu resurse umane"
+        "text": "asigurarea organizatiei cu resurse umane"
       }
     ],
     "correct": "D",
-    "correctText": "asigurarea unei stări coordonate și adecvate a mediului extern și intern al procesului de formare a potențialului uman al organizației pentru o perioadă lungă de timp"
+    "correctText": "asigurarea unei stari coordonate si adecvate a mediului extern si intern al procesului de formare a potentialului uman al organizatiei pentru o perioada lunga de timp"
   },
   {
     "id": "Managementul R. U.-47",
     "nr": 47,
     "category": "Managementul R. U.",
-    "question": "Concentrându-se asupra disponibilului de personal, analiza urmărește, îndeosebi, următoarele aspecte:\nIdentificați care dintre variantele prezentate mai sus nu constituie un aspect al analizei disponibilului de personal.",
+    "question": "Concentrandu-se asupra disponibilului de personal, analiza urmareste, indeosebi, urmatoarele aspecte:\nIdentificati care dintre variantele prezentate mai sus nu constituie un aspect al analizei disponibilului de personal.",
     "answers": [
       {
         "key": "A",
-        "text": "numărul și structura personalului dispuse după vârste, vechime, sex"
+        "text": "numarul si structura personalului dispuse dupa varste, vechime, sex"
       },
       {
         "key": "B",
-        "text": "nivelul de competență profesională tratat în concordanță cu criteriile de apreciere a salariaților"
+        "text": "nivelul de competenta profesionala tratat in concordanta cu criteriile de apreciere a salariatilor"
       },
       {
         "key": "C",
-        "text": "mobilitatea personalului oglindită prin situația absenteismului și a fluctuației"
+        "text": "mobilitatea personalului oglindita prin situatia absenteismului si a fluctuatiei"
       },
       {
         "key": "D",
-        "text": "gradul de realizare al producției"
+        "text": "gradul de realizare al productiei"
       },
       {
         "key": "E",
-        "text": "gradul de utilizare a personalului sub aspectul timpului de muncă utilizat și al eficienței utilizării"
+        "text": "gradul de utilizare a personalului sub aspectul timpului de munca utilizat si al eficientei utilizarii"
       }
     ],
     "correct": "D",
-    "correctText": "gradul de realizare al producției"
+    "correctText": "gradul de realizare al productiei"
   },
   {
     "id": "Managementul R. U.-48",
     "nr": 48,
     "category": "Managementul R. U.",
-    "question": "Pentru a se putea analiza calificarea personalului organizației se operează cu:\nAlegeți varianta corectă de răspuns.",
+    "question": "Pentru a se putea analiza calificarea personalului organizatiei se opereaza cu:\nAlegeti varianta corecta de raspuns.",
     "answers": [
       {
         "key": "A",
-        "text": "coeficientul calificării medii"
+        "text": "coeficientul calificarii medii"
       },
       {
         "key": "B",
-        "text": "fluctuația și absenteismul"
+        "text": "fluctuatia si absenteismul"
       },
       {
         "key": "C",
@@ -9695,21 +9695,21 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "rotația pe posturi a personalului"
+        "text": "rotatia pe posturi a personalului"
       },
       {
         "key": "E",
-        "text": "fluctuația"
+        "text": "fluctuatia"
       }
     ],
     "correct": "A",
-    "correctText": "coeficientul calificării medii"
+    "correctText": "coeficientul calificarii medii"
   },
   {
     "id": "Managementul R. U.-49",
     "nr": 49,
     "category": "Managementul R. U.",
-    "question": "În examinarea psihologică, principal instrument utilizat ca mijloc de măsurare ce urmărește să situeze nivelul de performanță al unui individ în raport cu nivelul grupului din care face parte, este:",
+    "question": "In examinarea psihologica, principal instrument utilizat ca mijloc de masurare ce urmareste sa situeze nivelul de performanta al unui individ in raport cu nivelul grupului din care face parte, este:",
     "answers": [
       {
         "key": "A",
@@ -9717,11 +9717,11 @@ window.QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "convorbirea liberă"
+        "text": "convorbirea libera"
       },
       {
         "key": "C",
-        "text": "observația"
+        "text": "observatia"
       },
       {
         "key": "D",
@@ -9739,61 +9739,61 @@ window.QUESTIONS = [
     "id": "Managementul R. U.-50",
     "nr": 50,
     "category": "Managementul R. U.",
-    "question": "În cadrul procesului de recrutare un loc aparte îl deține:\nIdentificați varianta corectă.",
+    "question": "In cadrul procesului de recrutare un loc aparte il detine:\nIdentificati varianta corecta.",
     "answers": [
       {
         "key": "A",
-        "text": "susținerea probelor și testelor de către candidați"
+        "text": "sustinerea probelor si testelor de catre candidati"
       },
       {
         "key": "B",
-        "text": "limita de vârstă"
+        "text": "limita de varsta"
       },
       {
         "key": "C",
-        "text": "susținerea interviurilor, probelor și testelor de către candidați"
+        "text": "sustinerea interviurilor, probelor si testelor de catre candidati"
       },
       {
         "key": "D",
-        "text": "cunoașterea unei limbi străine"
+        "text": "cunoasterea unei limbi straine"
       },
       {
         "key": "E",
-        "text": "specializările în domeniu"
+        "text": "specializarile in domeniu"
       }
     ],
     "correct": "C",
-    "correctText": "susținerea interviurilor, probelor și testelor de către candidați"
+    "correctText": "sustinerea interviurilor, probelor si testelor de catre candidati"
   },
   {
     "id": "Managementul R. U.-51",
     "nr": 51,
     "category": "Managementul R. U.",
-    "question": "Angajarea presupune câteva cerințe legale, care trebuie să se constituie în linii directoare:\nIdentificați varianta care nu constituie cerința legală la angajare.",
+    "question": "Angajarea presupune cateva cerinte legale, care trebuie sa se constituie in linii directoare:\nIdentificati varianta care nu constituie cerinta legala la angajare.",
     "answers": [
       {
         "key": "A",
-        "text": "înainte de începerea activității trebuie să se încheie un contract legal între patronat și salariat"
+        "text": "inainte de inceperea activitatii trebuie sa se incheie un contract legal intre patronat si salariat"
       },
       {
         "key": "B",
-        "text": "la angajare se notifică condițiile momentului respectiv, urmând ca la schimbarea uneia sau mai multora să se consemneze într-un act adițional"
+        "text": "la angajare se notifica conditiile momentului respectiv, urmand ca la schimbarea uneia sau mai multora sa se consemneze intr-un act aditional"
       },
       {
         "key": "C",
-        "text": "nivelul salariului nu este cel prevăzut în contractul colectiv de muncă"
+        "text": "nivelul salariului nu este cel prevazut in contractul colectiv de munca"
       },
       {
         "key": "D",
-        "text": "se analizează și se acționează în domeniul condițiilor de microclimat și al protecției sociale"
+        "text": "se analizeaza si se actioneaza in domeniul conditiilor de microclimat si al protectiei sociale"
       },
       {
         "key": "E",
-        "text": "prin respectarea regulilor și procedurilor stabilite prin contract se va asigura întărirea disciplinei și ordinii în organizație"
+        "text": "prin respectarea regulilor si procedurilor stabilite prin contract se va asigura intarirea disciplinei si ordinii in organizatie"
       }
     ],
     "correct": "C",
-    "correctText": "nivelul salariului nu este cel prevăzut în contractul colectiv de muncă"
+    "correctText": "nivelul salariului nu este cel prevazut in contractul colectiv de munca"
   },
   {
     "id": "Managementul R. U.-52",
@@ -9811,11 +9811,11 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "cheltuielile cu personalul organizației"
+        "text": "cheltuielile cu personalul organizatiei"
       },
       {
         "key": "D",
-        "text": "costurile cu pregătirea de bază"
+        "text": "costurile cu pregatirea de baza"
       },
       {
         "key": "E",
@@ -9823,13 +9823,13 @@ window.QUESTIONS = [
       }
     ],
     "correct": "C",
-    "correctText": "cheltuielile cu personalul organizației"
+    "correctText": "cheltuielile cu personalul organizatiei"
   },
   {
     "id": "Managementul R. U.-53",
     "nr": 53,
     "category": "Managementul R. U.",
-    "question": "Care din conceptele de mai jos definesc procesul de încorporare, asimilare a individului în unități și sisteme sociale (familie, grup, colectiv, societate) prin modelare conform datelor și cerințelor sociale?",
+    "question": "Care din conceptele de mai jos definesc procesul de incorporare, asimilare a individului in unitati si sisteme sociale (familie, grup, colectiv, societate) prin modelare conform datelor si cerintelor sociale?",
     "answers": [
       {
         "key": "A",
@@ -9841,11 +9841,11 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "interacțiunea reciprocă"
+        "text": "interactiunea reciproca"
       },
       {
         "key": "D",
-        "text": "integrarea socială"
+        "text": "integrarea sociala"
       },
       {
         "key": "E",
@@ -9853,29 +9853,29 @@ window.QUESTIONS = [
       }
     ],
     "correct": "D",
-    "correctText": "integrarea socială"
+    "correctText": "integrarea sociala"
   },
   {
     "id": "Managementul R. U.-54",
     "nr": 54,
     "category": "Managementul R. U.",
-    "question": "Gradul de integrare a personalului în organizație exercită o influență însemnată asupra:\nAlegeți varianta corectă.",
+    "question": "Gradul de integrare a personalului in organizatie exercita o influenta insemnata asupra:\nAlegeti varianta corecta.",
     "answers": [
       {
         "key": "A",
-        "text": "scăderii productivității muncii"
+        "text": "scaderii productivitatii muncii"
       },
       {
         "key": "B",
-        "text": "recalificării"
+        "text": "recalificarii"
       },
       {
         "key": "C",
-        "text": "modularizării"
+        "text": "modularizarii"
       },
       {
         "key": "D",
-        "text": "creșterii productivității muncii"
+        "text": "cresterii productivitatii muncii"
       },
       {
         "key": "E",
@@ -9883,73 +9883,73 @@ window.QUESTIONS = [
       }
     ],
     "correct": "D",
-    "correctText": "creșterii productivității muncii"
+    "correctText": "cresterii productivitatii muncii"
   },
   {
     "id": "Managementul R. U.-55",
     "nr": 55,
     "category": "Managementul R. U.",
-    "question": "Indiferent de formele de exercitare, de obiective și de ritmicitate, controlul integrării profesionale trebuie:\nCare dintre variantele prezentate mai jos subliniază rolul integrării profesionale?",
+    "question": "Indiferent de formele de exercitare, de obiective si de ritmicitate, controlul integrarii profesionale trebuie:\nCare dintre variantele prezentate mai jos subliniaza rolul integrarii profesionale?",
     "answers": [
       {
         "key": "A",
-        "text": "generează creșterea cheltuielilor societății"
+        "text": "genereaza cresterea cheltuielilor societatii"
       },
       {
         "key": "B",
-        "text": "sprijină noul salariat să se simtă normal în organizație, în grupul său de lucru, ceea ce poate să-i permită să-și aducă contribuția sa la realizarea obiectivelor"
+        "text": "sprijina noul salariat sa se simta normal in organizatie, in grupul sau de lucru, ceea ce poate sa-i permita sa-si aduca contributia sa la realizarea obiectivelor"
       },
       {
         "key": "C",
-        "text": "înlătură absenteismul prin măsuri disciplinare"
+        "text": "inlatura absenteismul prin masuri disciplinare"
       },
       {
         "key": "D",
-        "text": "să-i permită salariatului să-și aducă contribuția sa la realizarea obiectivelor"
+        "text": "sa-i permita salariatului sa-si aduca contributia sa la realizarea obiectivelor"
       },
       {
         "key": "E",
-        "text": "restructurează posturile de muncă"
+        "text": "restructureaza posturile de munca"
       }
     ],
     "correct": "B",
-    "correctText": "sprijină noul salariat să se simtă normal în organizație, în grupul său de lucru, ceea ce poate să-i permită să-și aducă contribuția sa la realizarea obiectivelor"
+    "correctText": "sprijina noul salariat sa se simta normal in organizatie, in grupul sau de lucru, ceea ce poate sa-i permita sa-si aduca contributia sa la realizarea obiectivelor"
   },
   {
     "id": "Managementul R. U.-56",
     "nr": 56,
     "category": "Managementul R. U.",
-    "question": "Competența pentru un loc de muncă sau meserie constituie:\nCare dintre variantele de mai jos definește competența pentru un loc de muncă sau meserie?",
+    "question": "Competenta pentru un loc de munca sau meserie constituie:\nCare dintre variantele de mai jos defineste competenta pentru un loc de munca sau meserie?",
     "answers": [
       {
         "key": "A",
-        "text": "creșterea productivității muncii"
+        "text": "cresterea productivitatii muncii"
       },
       {
         "key": "B",
-        "text": "realizarea unei concordanțe optime între individ și profesia pe care o va practica"
+        "text": "realizarea unei concordante optime intre individ si profesia pe care o va practica"
       },
       {
         "key": "C",
-        "text": "satisfacții generate de atingerea performanței profesionale"
+        "text": "satisfactii generate de atingerea performantei profesionale"
       },
       {
         "key": "D",
-        "text": "reducerea fluctuației de personal"
+        "text": "reducerea fluctuatiei de personal"
       },
       {
         "key": "E",
-        "text": "ansamblul cunoștințelor, deprinderilor practice și a atitudinilor necesare care permit atingerea rezultatului prevăzut într-o situație dată"
+        "text": "ansamblul cunostintelor, deprinderilor practice si a atitudinilor necesare care permit atingerea rezultatului prevazut intr-o situatie data"
       }
     ],
     "correct": "E",
-    "correctText": "ansamblul cunoștințelor, deprinderilor practice și a atitudinilor necesare care permit atingerea rezultatului prevăzut într-o situație dată"
+    "correctText": "ansamblul cunostintelor, deprinderilor practice si a atitudinilor necesare care permit atingerea rezultatului prevazut intr-o situatie data"
   },
   {
     "id": "Managementul R. U.-57",
     "nr": 57,
     "category": "Managementul R. U.",
-    "question": "Care dintre variantele prezentate mai jos constituie scopul fundamental de transmitere a unui ansamblu de cunoștințe profesionale, deprinderi, proceduri, de experiență tehnică, rețele informale, cunoștințe tehnice și comerciale ce asigură în final supraviețuirea unității:\nIdentificați varianta corectă de răspuns.",
+    "question": "Care dintre variantele prezentate mai jos constituie scopul fundamental de transmitere a unui ansamblu de cunostinte profesionale, deprinderi, proceduri, de experienta tehnica, retele informale, cunostinte tehnice si comerciale ce asigura in final supravietuirea unitatii:\nIdentificati varianta corecta de raspuns.",
     "answers": [
       {
         "key": "A",
@@ -9961,15 +9961,15 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "orientarea profesională"
+        "text": "orientarea profesionala"
       },
       {
         "key": "D",
-        "text": "selecția profesională"
+        "text": "selectia profesionala"
       },
       {
         "key": "E",
-        "text": "integrarea și asimilarea"
+        "text": "integrarea si asimilarea"
       }
     ],
     "correct": "A",
@@ -9979,75 +9979,75 @@ window.QUESTIONS = [
     "id": "Managementul R. U.-58",
     "nr": 58,
     "category": "Managementul R. U.",
-    "question": "Nivelul și calitatea procesului de formare și perfecționare profesională depind de transpunerea în viață a următorilor factori – condiționali:\nIdentificați varianta care nu constituie factor al asigurării nivelului și calității procesului de formare.",
+    "question": "Nivelul si calitatea procesului de formare si perfectionare profesionala depind de transpunerea in viata a urmatorilor factori – conditionali:\nIdentificati varianta care nu constituie factor al asigurarii nivelului si calitatii procesului de formare.",
     "answers": [
       {
         "key": "A",
-        "text": "simțul răspunderii la organizator"
+        "text": "simtul raspunderii la organizator"
       },
       {
         "key": "B",
-        "text": "Neimplicarea, conducerea să nu se implice"
+        "text": "Neimplicarea, conducerea sa nu se implice"
       },
       {
         "key": "C",
-        "text": "existența unei metode de pregătire profesională corectă din punct de vedere al planificării"
+        "text": "existenta unei metode de pregatire profesionala corecta din punct de vedere al planificarii"
       },
       {
         "key": "D",
-        "text": "determinarea corectă a cerințelor și obiectivelor nivelului profesional"
+        "text": "determinarea corecta a cerintelor si obiectivelor nivelului profesional"
       },
       {
         "key": "E",
-        "text": "elaborarea judicioasă a programului de pregătire profesională și evaluarea periodică a pregătirii profesionale"
+        "text": "elaborarea judicioasa a programului de pregatire profesionala si evaluarea periodica a pregatirii profesionale"
       }
     ],
     "correct": "B",
-    "correctText": "Neimplicarea, conducerea să nu se implice"
+    "correctText": "Neimplicarea, conducerea sa nu se implice"
   },
   {
     "id": "Managementul R. U.-59",
     "nr": 59,
     "category": "Managementul R. U.",
-    "question": "Policalificarea constă în:\nCare din variantele prezentate definește corect policalificarea?",
+    "question": "Policalificarea consta in:\nCare din variantele prezentate defineste corect policalificarea?",
     "answers": [
       {
         "key": "A",
-        "text": "obținerea unei calificări suplimentare pe lângă profesia de bază"
+        "text": "obtinerea unei calificari suplimentare pe langa profesia de baza"
       },
       {
         "key": "B",
-        "text": "schimbarea calificării"
+        "text": "schimbarea calificarii"
       },
       {
         "key": "C",
-        "text": "împrospătarea și îmbogățirea sistematică a cunoștințelor profesionale"
+        "text": "improspatarea si imbogatirea sistematica a cunostintelor profesionale"
       },
       {
         "key": "D",
-        "text": "aprofundarea unui anumit domeniu al specializării de bază"
+        "text": "aprofundarea unui anumit domeniu al specializarii de baza"
       },
       {
         "key": "E",
-        "text": "obținerea competențelor specifice unei ocupații sau profesii, diferită de cele dobândite anterior"
+        "text": "obtinerea competentelor specifice unei ocupatii sau profesii, diferita de cele dobandite anterior"
       }
     ],
     "correct": "A",
-    "correctText": "obținerea unei calificări suplimentare pe lângă profesia de bază"
+    "correctText": "obtinerea unei calificari suplimentare pe langa profesia de baza"
   },
   {
     "id": "Managementul R. U.-60",
     "nr": 60,
     "category": "Managementul R. U.",
-    "question": "Prin competențele profesionale dobândite pe cale formală se înțelege:\nCare dintre următoarele variante definește corect competențele profesionale dobândite pe cale formală?",
+    "question": "Prin competentele profesionale dobandite pe cale formala se intelege:\nCare dintre urmatoarele variante defineste corect competentele profesionale dobandite pe cale formala?",
     "answers": [
       {
         "key": "A",
-        "text": "practicarea unor activități specifice direct la locul de muncă sau autoinstruirea"
+        "text": "practicarea unor activitati specifice direct la locul de munca sau autoinstruirea"
       },
       {
         "key": "B",
-        "text": "modalitățile de formare profesională neinstituționalizate, nestructurate și neintenționate"
+        "text": "modalitatile de formare profesionala neinstitutionalizate, nestructurate si neintentionate"
       },
       {
         "key": "C",
@@ -10055,33 +10055,33 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "parcurgerea unui program organizat de un furnizor de formare profesională"
+        "text": "parcurgerea unui program organizat de un furnizor de formare profesionala"
       },
       {
         "key": "E",
-        "text": "capacitatea de a realiza activitățile cerute la locul de muncă"
+        "text": "capacitatea de a realiza activitatile cerute la locul de munca"
       }
     ],
     "correct": "D",
-    "correctText": "parcurgerea unui program organizat de un furnizor de formare profesională"
+    "correctText": "parcurgerea unui program organizat de un furnizor de formare profesionala"
   },
   {
     "id": "Managementul R. U.-61",
     "nr": 61,
     "category": "Managementul R. U.",
-    "question": "După adoptarea deciziei de investire în procesul de formare, etapa următoare constă în:\nCare dintre variantele de mai jos constituie etapa următoare adoptării deciziei de investire în procesul de formare?",
+    "question": "Dupa adoptarea deciziei de investire in procesul de formare, etapa urmatoare consta in:\nCare dintre variantele de mai jos constituie etapa urmatoare adoptarii deciziei de investire in procesul de formare?",
     "answers": [
       {
         "key": "A",
-        "text": "costul formării"
+        "text": "costul formarii"
       },
       {
         "key": "B",
-        "text": "transpunerea în practică a formării"
+        "text": "transpunerea in practica a formarii"
       },
       {
         "key": "C",
-        "text": "elaborarea programului de pregătire profesională"
+        "text": "elaborarea programului de pregatire profesionala"
       },
       {
         "key": "D",
@@ -10089,119 +10089,119 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "evaluarea programului de pregătire profesională"
+        "text": "evaluarea programului de pregatire profesionala"
       }
     ],
     "correct": "B",
-    "correctText": "transpunerea în practică a formării"
+    "correctText": "transpunerea in practica a formarii"
   },
   {
     "id": "Managementul R. U.-62",
     "nr": 62,
     "category": "Managementul R. U.",
-    "question": "Aprecierea anuală, ca metodă de evaluare a personalului, constă în:\nCare dintre următoarele variante definește corect aprecierea anuală ca metodă de evaluare a personalului?",
+    "question": "Aprecierea anuala, ca metoda de evaluare a personalului, consta in:\nCare dintre urmatoarele variante defineste corect aprecierea anuala ca metoda de evaluare a personalului?",
     "answers": [
       {
         "key": "A",
-        "text": "formularea unei aprecieri generale prin care se sintetizează principalele calități și se certifică rezultatele obținute în munca pe parcursul unui an, comparativ cu anii precedenți"
+        "text": "formularea unei aprecieri generale prin care se sintetizeaza principalele calitati si se certifica rezultatele obtinute in munca pe parcursul unui an, comparativ cu anii precedenti"
       },
       {
         "key": "B",
-        "text": "aprecierea anuală care se concretizează în calificative"
+        "text": "aprecierea anuala care se concretizeaza in calificative"
       },
       {
         "key": "C",
-        "text": "formularea unei aprecieri pe bază comparării calităților, cunoștințelor, aptitudinilor și deprinderilor unui angajat"
+        "text": "formularea unei aprecieri pe baza compararii calitatilor, cunostintelor, aptitudinilor si deprinderilor unui angajat"
       },
       {
         "key": "D",
-        "text": "aprecierea calităților, cunoștințelor și aptitudinilor necesare realizării în bune condiții a obiectivelor stabilite"
+        "text": "aprecierea calitatilor, cunostintelor si aptitudinilor necesare realizarii in bune conditii a obiectivelor stabilite"
       },
       {
         "key": "E",
-        "text": "aprecieri generale prin care se sintetizează principalele calități"
+        "text": "aprecieri generale prin care se sintetizeaza principalele calitati"
       }
     ],
     "correct": "A",
-    "correctText": "formularea unei aprecieri generale prin care se sintetizează principalele calități și se certifică rezultatele obținute în munca pe parcursul unui an, comparativ cu anii precedenți"
+    "correctText": "formularea unei aprecieri generale prin care se sintetizeaza principalele calitati si se certifica rezultatele obtinute in munca pe parcursul unui an, comparativ cu anii precedenti"
   },
   {
     "id": "Managementul R. U.-63",
     "nr": 63,
     "category": "Managementul R. U.",
-    "question": "Măsurarea performanțelor individuale în comparație cu atribuțiile specifice sau cu planurile de muncă se folosește pentru:\nIdentificați varianta corectă.",
+    "question": "Masurarea performantelor individuale in comparatie cu atributiile specifice sau cu planurile de munca se foloseste pentru:\nIdentificati varianta corecta.",
     "answers": [
       {
         "key": "A",
-        "text": "aprecierea specialiștilor"
+        "text": "aprecierea specialistilor"
       },
       {
         "key": "B",
-        "text": "aprecierea specialiștilor, personalului administrativ și de conducere"
+        "text": "aprecierea specialistilor, personalului administrativ si de conducere"
       },
       {
         "key": "C",
-        "text": "măsurarea performanțelor unui salariat în comparație cu ale celorlalți"
+        "text": "masurarea performantelor unui salariat in comparatie cu ale celorlalti"
       },
       {
         "key": "D",
-        "text": "ca evaluatorul să dea un calificativ salariatului"
+        "text": "ca evaluatorul sa dea un calificativ salariatului"
       },
       {
         "key": "E",
-        "text": "alegerea celor ce vor fi promovați"
+        "text": "alegerea celor ce vor fi promovati"
       }
     ],
     "correct": "B",
-    "correctText": "aprecierea specialiștilor, personalului administrativ și de conducere"
+    "correctText": "aprecierea specialistilor, personalului administrativ si de conducere"
   },
   {
     "id": "Managementul R. U.-64",
     "nr": 64,
     "category": "Managementul R. U.",
-    "question": "Privitor la conținutul planificării promovării, este necesar să se rețină următoarele:\nCare dintre variantele prezentate nu constituie o trăsătură a planificării promovării personalului?",
+    "question": "Privitor la continutul planificarii promovarii, este necesar sa se retina urmatoarele:\nCare dintre variantele prezentate nu constituie o trasatura a planificarii promovarii personalului?",
     "answers": [
       {
         "key": "A",
-        "text": "prin planificarea promovării se urmărește să se prevadă cum va evolua structura personalului"
+        "text": "prin planificarea promovarii se urmareste sa se prevada cum va evolua structura personalului"
       },
       {
         "key": "B",
-        "text": "planificarea promovării constituie o preocupare permanentă și sistematică"
+        "text": "planificarea promovarii constituie o preocupare permanenta si sistematica"
       },
       {
         "key": "C",
-        "text": "planificarea carierei nu se tratează ca un proces pe care organizația trebuie să îl dirijeze în mod sistematic"
+        "text": "planificarea carierei nu se trateaza ca un proces pe care organizatia trebuie sa il dirijeze in mod sistematic"
       },
       {
         "key": "D",
-        "text": "pentru fiecare categorie de personal se determină numărul angajaților de care organizația trebuie să dispună în anul viitor"
+        "text": "pentru fiecare categorie de personal se determina numarul angajatilor de care organizatia trebuie sa dispuna in anul viitor"
       },
       {
         "key": "E",
-        "text": "pe baza previziunilor se concep planurile de recrutare și formare, care reprezintă componente ale planificării promovării"
+        "text": "pe baza previziunilor se concep planurile de recrutare si formare, care reprezinta componente ale planificarii promovarii"
       }
     ],
     "correct": "C",
-    "correctText": "planificarea carierei nu se tratează ca un proces pe care organizația trebuie să îl dirijeze în mod sistematic"
+    "correctText": "planificarea carierei nu se trateaza ca un proces pe care organizatia trebuie sa il dirijeze in mod sistematic"
   },
   {
     "id": "Managementul R. U.-65",
     "nr": 65,
     "category": "Managementul R. U.",
-    "question": "Substanța salariului se concretizează în:\nAlegeți varianta corectă de răspuns.",
+    "question": "Substanta salariului se concretizeaza in:\nAlegeti varianta corecta de raspuns.",
     "answers": [
       {
         "key": "A",
-        "text": "salariul nominal și salariul real"
+        "text": "salariul nominal si salariul real"
       },
       {
         "key": "B",
-        "text": "cantitatea de bunuri și servicii achiziționată"
+        "text": "cantitatea de bunuri si servicii achizitionata"
       },
       {
         "key": "C",
-        "text": "situația economică"
+        "text": "situatia economica"
       },
       {
         "key": "D",
@@ -10209,33 +10209,33 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "serviciile ce pot fi cumpărate la un moment dat cu salariul nominal"
+        "text": "serviciile ce pot fi cumparate la un moment dat cu salariul nominal"
       }
     ],
     "correct": "A",
-    "correctText": "salariul nominal și salariul real"
+    "correctText": "salariul nominal si salariul real"
   },
   {
     "id": "Managementul R. U.-66",
     "nr": 66,
     "category": "Managementul R. U.",
-    "question": "Pentru protecția socială a salariaților, în condițiile creșterii prețurilor și tarifelor, este instituit un sistem de:\nIdentificați varianta corectă de răspuns.",
+    "question": "Pentru protectia sociala a salariatilor, in conditiile cresterii preturilor si tarifelor, este instituit un sistem de:\nIdentificati varianta corecta de raspuns.",
     "answers": [
       {
         "key": "A",
-        "text": "compensare-indexare a salariilor de bază, stabilit prin hotărârea guvernului, cu consultarea sindicatelor și a patronatului"
+        "text": "compensare-indexare a salariilor de baza, stabilit prin hotararea guvernului, cu consultarea sindicatelor si a patronatului"
       },
       {
         "key": "B",
-        "text": "verificare și influențarea cheltuielilor pentru salarizare"
+        "text": "verificare si influentarea cheltuielilor pentru salarizare"
       },
       {
         "key": "C",
-        "text": "indexare a salariilor de bază prin implicarea sindicatelor"
+        "text": "indexare a salariilor de baza prin implicarea sindicatelor"
       },
       {
         "key": "D",
-        "text": "implicare indirectă a statului"
+        "text": "implicare indirecta a statului"
       },
       {
         "key": "E",
@@ -10243,77 +10243,77 @@ window.QUESTIONS = [
       }
     ],
     "correct": "A",
-    "correctText": "compensare-indexare a salariilor de bază, stabilit prin hotărârea guvernului, cu consultarea sindicatelor și a patronatului"
+    "correctText": "compensare-indexare a salariilor de baza, stabilit prin hotararea guvernului, cu consultarea sindicatelor si a patronatului"
   },
   {
     "id": "Managementul R. U.-67",
     "nr": 67,
     "category": "Managementul R. U.",
-    "question": "Plata în natură a unei părți din salariu este posibilă numai dacă:\nIdentificați varianta corectă de răspuns.",
+    "question": "Plata in natura a unei parti din salariu este posibila numai daca:\nIdentificati varianta corecta de raspuns.",
     "answers": [
       {
         "key": "A",
-        "text": "este prevăzut expres în contractul colectiv de muncă"
+        "text": "este prevazut expres in contractul colectiv de munca"
       },
       {
         "key": "B",
-        "text": "este prevăzut expres în contractul colectiv de muncă aplicabil sau în contractul individual de muncă"
+        "text": "este prevazut expres in contractul colectiv de munca aplicabil sau in contractul individual de munca"
       },
       {
         "key": "C",
-        "text": "este prevăzut în contractul individual de muncă"
+        "text": "este prevazut in contractul individual de munca"
       },
       {
         "key": "D",
-        "text": "este prevăzut în contractul colectiv de muncă la nivel național"
+        "text": "este prevazut in contractul colectiv de munca la nivel national"
       },
       {
         "key": "E",
-        "text": "societatea nu are lichidități"
+        "text": "societatea nu are lichiditati"
       }
     ],
     "correct": "B",
-    "correctText": "este prevăzut expres în contractul colectiv de muncă aplicabil sau în contractul individual de muncă"
+    "correctText": "este prevazut expres in contractul colectiv de munca aplicabil sau in contractul individual de munca"
   },
   {
     "id": "Managementul R. U.-68",
     "nr": 68,
     "category": "Managementul R. U.",
-    "question": "La nivelul ministerelor și prefecturilor funcționează comisiile de dialog care au un caracter consultativ între:\nAlegeți varianta corectă de răspuns.",
+    "question": "La nivelul ministerelor si prefecturilor functioneaza comisiile de dialog care au un caracter consultativ intre:\nAlegeti varianta corecta de raspuns.",
     "answers": [
       {
         "key": "A",
-        "text": "societățile comerciale și sindicate"
+        "text": "societatile comerciale si sindicate"
       },
       {
         "key": "B",
-        "text": "sindicate și patronate"
+        "text": "sindicate si patronate"
       },
       {
         "key": "C",
-        "text": "administrația publică și societățile comerciale"
+        "text": "administratia publica si societatile comerciale"
       },
       {
         "key": "D",
-        "text": "administrația publică, sindicate și patronate"
+        "text": "administratia publica, sindicate si patronate"
       },
       {
         "key": "E",
-        "text": "administrația publică și patronate"
+        "text": "administratia publica si patronate"
       }
     ],
     "correct": "D",
-    "correctText": "administrația publică, sindicate și patronate"
+    "correctText": "administratia publica, sindicate si patronate"
   },
   {
     "id": "Managementul R. U.-69",
     "nr": 69,
     "category": "Managementul R. U.",
-    "question": "Unele drepturi generate de existența raporturilor de muncă au caracter negociabil.\nCare dintre variantele de mai jos nu constituie drepturi generate de existența raporturilor de muncă cu caracter negociabil?",
+    "question": "Unele drepturi generate de existenta raporturilor de munca au caracter negociabil.\nCare dintre variantele de mai jos nu constituie drepturi generate de existenta raporturilor de munca cu caracter negociabil?",
     "answers": [
       {
         "key": "A",
-        "text": "plata orelor suplimentare peste limita legală"
+        "text": "plata orelor suplimentare peste limita legala"
       },
       {
         "key": "B",
@@ -10321,11 +10321,11 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "concediul de odihnă"
+        "text": "concediul de odihna"
       },
       {
         "key": "D",
-        "text": "concediul fără plată"
+        "text": "concediul fara plata"
       },
       {
         "key": "E",
@@ -10333,25 +10333,25 @@ window.QUESTIONS = [
       }
     ],
     "correct": "A",
-    "correctText": "plata orelor suplimentare peste limita legală"
+    "correctText": "plata orelor suplimentare peste limita legala"
   },
   {
     "id": "Managementul R. U.-70",
     "nr": 70,
     "category": "Managementul R. U.",
-    "question": "Pe durata valabilității unui contract colectiv de muncă salariații:\nAlegeți varianta corectă de răspuns.",
+    "question": "Pe durata valabilitatii unui contract colectiv de munca salariatii:\nAlegeti varianta corecta de raspuns.",
     "answers": [
       {
         "key": "A",
-        "text": "pot declanșa conflicte de interese"
+        "text": "pot declansa conflicte de interese"
       },
       {
         "key": "B",
-        "text": "nu pot declanșa conflicte de interese"
+        "text": "nu pot declansa conflicte de interese"
       },
       {
         "key": "C",
-        "text": "nu sunt reprezentați de sindicate"
+        "text": "nu sunt reprezentati de sindicate"
       },
       {
         "key": "D",
@@ -10359,17 +10359,17 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "sunt reprezentați de alte persoane decât cele care i-au reprezentat la negocieri"
+        "text": "sunt reprezentati de alte persoane decat cele care i-au reprezentat la negocieri"
       }
     ],
     "correct": "B",
-    "correctText": "nu pot declanșa conflicte de interese"
+    "correctText": "nu pot declansa conflicte de interese"
   },
   {
     "id": "Managementul R. U.-71",
     "nr": 71,
     "category": "Managementul R. U.",
-    "question": "Negocierea contractului colectiv de muncă reprezintă principalul izvor de drept al muncii și se caracterizează printr-o trăsătură de bază:\nIdentificați varianta corectă de răspuns.",
+    "question": "Negocierea contractului colectiv de munca reprezinta principalul izvor de drept al muncii si se caracterizeaza printr-o trasatura de baza:\nIdentificati varianta corecta de raspuns.",
     "answers": [
       {
         "key": "A",
@@ -10377,135 +10377,135 @@ window.QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "asigurarea calității negocierilor"
+        "text": "asigurarea calitatii negocierilor"
       },
       {
         "key": "C",
-        "text": "comunicarea între părți"
+        "text": "comunicarea intre parti"
       },
       {
         "key": "D",
-        "text": "limitele și condițiile prevăzute de lege"
+        "text": "limitele si conditiile prevazute de lege"
       },
       {
         "key": "E",
-        "text": "definitivarea dispozițiilor reprezentanților sindicali"
+        "text": "definitivarea dispozitiilor reprezentantilor sindicali"
       }
     ],
     "correct": "C",
-    "correctText": "comunicarea între părți"
+    "correctText": "comunicarea intre parti"
   },
   {
     "id": "Managementul R. U.-72",
     "nr": 72,
     "category": "Managementul R. U.",
-    "question": "Asigurarea calității negocierilor este:\nCare dintre variantele de mai jos definește corect asigurarea calității negocierilor contractului colectiv de muncă?",
+    "question": "Asigurarea calitatii negocierilor este:\nCare dintre variantele de mai jos defineste corect asigurarea calitatii negocierilor contractului colectiv de munca?",
     "answers": [
       {
         "key": "A",
-        "text": "legată direct de calitatea negocierilor și apare ca necesară, deoarece negocierea trebuie să vizeze soluții și nu vinovați"
+        "text": "legata direct de calitatea negocierilor si apare ca necesara, deoarece negocierea trebuie sa vizeze solutii si nu vinovati"
       },
       {
         "key": "B",
-        "text": "una dintre cerințele esențiale, care implică eforturi pentru tratarea corectă și completă a problematicii negocierilor, evaluarea rezultatelor în raport cu obiectivele preconizate și posibilitatea restructurării operative a planurilor de dezbateri ale contractului colectiv de muncă"
+        "text": "una dintre cerintele esentiale, care implica eforturi pentru tratarea corecta si completa a problematicii negocierilor, evaluarea rezultatelor in raport cu obiectivele preconizate si posibilitatea restructurarii operative a planurilor de dezbateri ale contractului colectiv de munca"
       },
       {
         "key": "C",
-        "text": "trăsatura care impune participanților la dezbateri să manifeste abilitatea de a se acomoda și adapta la schimbările ce survin"
+        "text": "trasatura care impune participantilor la dezbateri sa manifeste abilitatea de a se acomoda si adapta la schimbarile ce survin"
       },
       {
         "key": "D",
-        "text": "moderată pentru a da tratativelor un conținut ferm"
+        "text": "moderata pentru a da tratativelor un continut ferm"
       },
       {
         "key": "E",
-        "text": "un echilibru între resursele și posibilitățile reale existente ale salariaților"
+        "text": "un echilibru intre resursele si posibilitatile reale existente ale salariatilor"
       }
     ],
     "correct": "B",
-    "correctText": "una dintre cerințele esențiale, care implică eforturi pentru tratarea corectă și completă a problematicii negocierilor, evaluarea rezultatelor în raport cu obiectivele preconizate și posibilitatea restructurării operative a planurilor de dezbateri ale contractului colectiv de muncă"
+    "correctText": "una dintre cerintele esentiale, care implica eforturi pentru tratarea corecta si completa a problematicii negocierilor, evaluarea rezultatelor in raport cu obiectivele preconizate si posibilitatea restructurarii operative a planurilor de dezbateri ale contractului colectiv de munca"
   },
   {
     "id": "Managementul R. U.-73",
     "nr": 73,
     "category": "Managementul R. U.",
-    "question": "Angajatorul poate modifica temporar locul și felul muncii:\nCare dintre variantele de mai jos prezintă corect situația în care angajatorul poate modifica temporar locul și felul muncii salariatului?",
+    "question": "Angajatorul poate modifica temporar locul si felul muncii:\nCare dintre variantele de mai jos prezinta corect situatia in care angajatorul poate modifica temporar locul si felul muncii salariatului?",
     "answers": [
       {
         "key": "A",
-        "text": "fără acordul salariatului în cazuri de forță majoră"
+        "text": "fara acordul salariatului in cazuri de forta majora"
       },
       {
         "key": "B",
-        "text": "numai cu acordul salariatului indiferent de condiții"
+        "text": "numai cu acordul salariatului indiferent de conditii"
       },
       {
         "key": "C",
-        "text": "fără consimțământul salariatului și în cazul unor situații de forță majoră, cu titlu de sancțiune disciplinară sau ca măsură de protecție a salariatului, în cazurile și în condițiile prevăzute de Codul Muncii"
+        "text": "fara consimtamantul salariatului si in cazul unor situatii de forta majora, cu titlu de sanctiune disciplinara sau ca masura de protectie a salariatului, in cazurile si in conditiile prevazute de Codul Muncii"
       },
       {
         "key": "D",
-        "text": "numai cu acordul salariatului, și în cazul unor situații de forță majoră, cu titlu de sancțiune disciplinară sau ca măsură de protecție a salariatului, în cazurile și în condițiile prevăzute de Codul Muncii"
+        "text": "numai cu acordul salariatului, si in cazul unor situatii de forta majora, cu titlu de sanctiune disciplinara sau ca masura de protectie a salariatului, in cazurile si in conditiile prevazute de Codul Muncii"
       },
       {
         "key": "E",
-        "text": "fără consimțământul salariatului, ca măsură de protecție a salariatului"
+        "text": "fara consimtamantul salariatului, ca masura de protectie a salariatului"
       }
     ],
     "correct": "C",
-    "correctText": "fără consimțământul salariatului și în cazul unor situații de forță majoră, cu titlu de sancțiune disciplinară sau ca măsură de protecție a salariatului, în cazurile și în condițiile prevăzute de Codul Muncii"
+    "correctText": "fara consimtamantul salariatului si in cazul unor situatii de forta majora, cu titlu de sanctiune disciplinara sau ca masura de protectie a salariatului, in cazurile si in conditiile prevazute de Codul Muncii"
   },
   {
     "id": "Managementul R. U.-74",
     "nr": 74,
     "category": "Managementul R. U.",
-    "question": "Concedierea, pentru motive care nu țin de persoana salariatului, poate fi:\nIdentificați varianta de răspuns corectă.",
+    "question": "Concedierea, pentru motive care nu tin de persoana salariatului, poate fi:\nIdentificati varianta de raspuns corecta.",
     "answers": [
       {
         "key": "A",
-        "text": "doar pe perioadă determinată"
+        "text": "doar pe perioada determinata"
       },
       {
         "key": "B",
-        "text": "doar pe perioada nedeterminată"
+        "text": "doar pe perioada nedeterminata"
       },
       {
         "key": "C",
-        "text": "exclusiv individuală"
+        "text": "exclusiv individuala"
       },
       {
         "key": "D",
-        "text": "exclusiv colectivă"
+        "text": "exclusiv colectiva"
       },
       {
         "key": "E",
-        "text": "individuală sau colectivă"
+        "text": "individuala sau colectiva"
       }
     ],
     "correct": "E",
-    "correctText": "individuală sau colectivă"
+    "correctText": "individuala sau colectiva"
   },
   {
     "id": "Managementul R. U.-75",
     "nr": 75,
     "category": "Managementul R. U.",
-    "question": "Sancțiunile speciale sunt:\nCare dintre variantele de mai jos definesc corect domeniul de aplicare al sancțiunilor speciale?",
+    "question": "Sanctiunile speciale sunt:\nCare dintre variantele de mai jos definesc corect domeniul de aplicare al sanctiunilor speciale?",
     "answers": [
       {
         "key": "A",
-        "text": "aplicabile tuturor salariaților"
+        "text": "aplicabile tuturor salariatilor"
       },
       {
         "key": "B",
-        "text": "aplicabile unor anumite sectoare de muncă sau profesii, prevăzute în statutele de personal sau în statutele disciplinare"
+        "text": "aplicabile unor anumite sectoare de munca sau profesii, prevazute in statutele de personal sau in statutele disciplinare"
       },
       {
         "key": "C",
-        "text": "aplicabile numai salariaților din sectorul productiv"
+        "text": "aplicabile numai salariatilor din sectorul productiv"
       },
       {
         "key": "D",
-        "text": "aplicabile numai salariaților din instituțiile bugetare"
+        "text": "aplicabile numai salariatilor din institutiile bugetare"
       },
       {
         "key": "E",
@@ -10513,133 +10513,133 @@ window.QUESTIONS = [
       }
     ],
     "correct": "B",
-    "correctText": "aplicabile unor anumite sectoare de muncă sau profesii, prevăzute în statutele de personal sau în statutele disciplinare"
+    "correctText": "aplicabile unor anumite sectoare de munca sau profesii, prevazute in statutele de personal sau in statutele disciplinare"
   },
   {
     "id": "Managementul R. U.-76",
     "nr": 76,
     "category": "Managementul R. U.",
-    "question": "Raportul dintre cererea și oferta forței de muncă reprezintă factorul fundamental în:\nCare dintre variantele prezentate mai jos constituie răspunsul corect?",
+    "question": "Raportul dintre cererea si oferta fortei de munca reprezinta factorul fundamental in:\nCare dintre variantele prezentate mai jos constituie raspunsul corect?",
     "answers": [
       {
         "key": "A",
-        "text": "asigurarea productivității muncii"
+        "text": "asigurarea productivitatii muncii"
       },
       {
         "key": "B",
-        "text": "asigurarea forței de muncă"
+        "text": "asigurarea fortei de munca"
       },
       {
         "key": "C",
-        "text": "realizarea profitabilității"
+        "text": "realizarea profitabilitatii"
       },
       {
         "key": "D",
-        "text": "creșterea randamentului muncii"
+        "text": "cresterea randamentului muncii"
       },
       {
         "key": "E",
-        "text": "asigurarea echilibrului pieței forței de muncă"
+        "text": "asigurarea echilibrului pietei fortei de munca"
       }
     ],
     "correct": "E",
-    "correctText": "asigurarea echilibrului pieței forței de muncă"
+    "correctText": "asigurarea echilibrului pietei fortei de munca"
   },
   {
     "id": "Managementul R. U.-77",
     "nr": 77,
     "category": "Managementul R. U.",
-    "question": "Șomajul sezonier:\nCare dintre variantele prezentate definește corect șomajul sezonier?",
+    "question": "Somajul sezonier:\nCare dintre variantele prezentate defineste corect somajul sezonier?",
     "answers": [
       {
         "key": "A",
-        "text": "este generat de practicarea contractelor de angajare pe durată scurtă, ca urmare a incertitudinii afacerilor"
+        "text": "este generat de practicarea contractelor de angajare pe durata scurta, ca urmare a incertitudinii afacerilor"
       },
       {
         "key": "B",
-        "text": "este specific femeilor și datorat activității din motive familiale și de maternitate"
+        "text": "este specific femeilor si datorat activitatii din motive familiale si de maternitate"
       },
       {
         "key": "C",
-        "text": "este determinat de înlocuirea vechilor tehnici și tehnologii cu altele noi"
+        "text": "este determinat de inlocuirea vechilor tehnici si tehnologii cu altele noi"
       },
       {
         "key": "D",
-        "text": "se manifestă în agricultură, construcții, lucrări publice și este cauzat de întreruperi ale activității ca urmare a influenței unor factori naturali"
+        "text": "se manifesta in agricultura, constructii, lucrari publice si este cauzat de intreruperi ale activitatii ca urmare a influentei unor factori naturali"
       },
       {
         "key": "E",
-        "text": "este cauzat de tendințele de restructurare economică, geografică, socială, ca urmare a crizei energetice și revoluției tehnico-științifice"
+        "text": "este cauzat de tendintele de restructurare economica, geografica, sociala, ca urmare a crizei energetice si revolutiei tehnico-stiintifice"
       }
     ],
     "correct": "D",
-    "correctText": "se manifestă în agricultură, construcții, lucrări publice și este cauzat de întreruperi ale activității ca urmare a influenței unor factori naturali"
+    "correctText": "se manifesta in agricultura, constructii, lucrari publice si este cauzat de intreruperi ale activitatii ca urmare a influentei unor factori naturali"
   },
   {
     "id": "Managementul R. U.-78",
     "nr": 78,
     "category": "Managementul R. U.",
-    "question": "Cu ajutorul sistemului de propuneri, organizațiile încearcă să-și determine angajații să manifeste:\nIdentificați varianta corectă de răspuns.",
+    "question": "Cu ajutorul sistemului de propuneri, organizatiile incearca sa-si determine angajatii sa manifeste:\nIdentificati varianta corecta de raspuns.",
     "answers": [
       {
         "key": "A",
-        "text": "interes față de sarcinile proprii de muncă"
+        "text": "interes fata de sarcinile proprii de munca"
       },
       {
         "key": "B",
-        "text": "interes față de problemele unității"
+        "text": "interes fata de problemele unitatii"
       },
       {
         "key": "C",
-        "text": "interes nu numai față de sarcinile proprii de muncă, ci și față de problemele unității, participând activ la rezolvarea lor"
+        "text": "interes nu numai fata de sarcinile proprii de munca, ci si fata de problemele unitatii, participand activ la rezolvarea lor"
       },
       {
         "key": "D",
-        "text": "dezacordul față de hotărârile conducerii unității"
+        "text": "dezacordul fata de hotararile conducerii unitatii"
       },
       {
         "key": "E",
-        "text": "interesul în dezvoltarea carierei profesionale"
+        "text": "interesul in dezvoltarea carierei profesionale"
       }
     ],
     "correct": "C",
-    "correctText": "interes nu numai față de sarcinile proprii de muncă, ci și față de problemele unității, participând activ la rezolvarea lor"
+    "correctText": "interes nu numai fata de sarcinile proprii de munca, ci si fata de problemele unitatii, participand activ la rezolvarea lor"
   },
   {
     "id": "Managementul R. U.-79",
     "nr": 79,
     "category": "Managementul R. U.",
-    "question": "Măsurarea muncii constă în:\nDeterminați varianta care definește cel mai bine măsurarea muncii.",
+    "question": "Masurarea muncii consta in:\nDeterminati varianta care defineste cel mai bine masurarea muncii.",
     "answers": [
       {
         "key": "A",
-        "text": "aplicarea unor metode și procedee de determinare a conținutului activității unui executant individual și colectiv"
+        "text": "aplicarea unor metode si procedee de determinare a continutului activitatii unui executant individual si colectiv"
       },
       {
         "key": "B",
-        "text": "aplicarea unor metode și procedee de determinare a conținutului activității unui executant individual și colectiv și de măsurare a timpului consumat pentru realizarea acestora"
+        "text": "aplicarea unor metode si procedee de determinare a continutului activitatii unui executant individual si colectiv si de masurare a timpului consumat pentru realizarea acestora"
       },
       {
         "key": "C",
-        "text": "cercetarea sistematică a totalității elementelor ce caracterizează modul de muncă"
+        "text": "cercetarea sistematica a totalitatii elementelor ce caracterizeaza modul de munca"
       },
       {
         "key": "D",
-        "text": "utilizarea procedeelor grafice analitice pentru examinarea modului în care se desfășoară activitatea"
+        "text": "utilizarea procedeelor grafice analitice pentru examinarea modului in care se desfasoara activitatea"
       },
       {
         "key": "E",
-        "text": "măsurarea timpului consumat pentru realizarea activității unui executant"
+        "text": "masurarea timpului consumat pentru realizarea activitatii unui executant"
       }
     ],
     "correct": "B",
-    "correctText": "aplicarea unor metode și procedee de determinare a conținutului activității unui executant individual și colectiv și de măsurare a timpului consumat pentru realizarea acestora"
+    "correctText": "aplicarea unor metode si procedee de determinare a continutului activitatii unui executant individual si colectiv si de masurare a timpului consumat pentru realizarea acestora"
   },
   {
     "id": "Managementul R. U.-80",
     "nr": 80,
     "category": "Managementul R. U.",
-    "question": "Eficacitatea cu care este cheltuită munca, reprezintă rațiunea însăși a organizării muncii, criteriul esențial de apreciere a acestei activități reprezintă:\nIdentificați varianta corectă.",
+    "question": "Eficacitatea cu care este cheltuita munca, reprezinta ratiunea insasi a organizarii muncii, criteriul esential de apreciere a acestei activitati reprezinta:\nIdentificati varianta corecta.",
     "answers": [
       {
         "key": "A",
@@ -10647,15 +10647,15 @@ window.QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "economia de muncă"
+        "text": "economia de munca"
       },
       {
         "key": "C",
-        "text": "sporirea eficienței"
+        "text": "sporirea eficientei"
       },
       {
         "key": "D",
-        "text": "condițiile de muncă"
+        "text": "conditiile de munca"
       },
       {
         "key": "E",
@@ -10663,25 +10663,25 @@ window.QUESTIONS = [
       }
     ],
     "correct": "B",
-    "correctText": "economia de muncă"
+    "correctText": "economia de munca"
   },
   {
     "id": "Managementul R. U.-81",
     "nr": 81,
     "category": "Managementul R. U.",
-    "question": "Instrumentul general de măsură a tuturor indicatorilor utilizați în calculul eficienței economice a organizării muncii îl reprezintă:",
+    "question": "Instrumentul general de masura a tuturor indicatorilor utilizati in calculul eficientei economice a organizarii muncii il reprezinta:",
     "answers": [
       {
         "key": "A",
-        "text": "economia de timp de muncă"
+        "text": "economia de timp de munca"
       },
       {
         "key": "B",
-        "text": "cheltuielile de muncă"
+        "text": "cheltuielile de munca"
       },
       {
         "key": "C",
-        "text": "timpul de muncă"
+        "text": "timpul de munca"
       },
       {
         "key": "D",
@@ -10689,71 +10689,71 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "indicele de ocupare a timpului de muncă"
+        "text": "indicele de ocupare a timpului de munca"
       }
     ],
     "correct": "C",
-    "correctText": "timpul de muncă"
+    "correctText": "timpul de munca"
   },
   {
     "id": "Managementul R. U.-82",
     "nr": 82,
     "category": "Managementul R. U.",
-    "question": "Abraham Maslow considera că, pe ultimul nivel al piramidei motivaționale se află:",
+    "question": "Abraham Maslow considera ca, pe ultimul nivel al piramidei motivationale se afla:",
     "answers": [
       {
         "key": "A",
-        "text": "nevoile de securitate și siguranță"
+        "text": "nevoile de securitate si siguranta"
       },
       {
         "key": "B",
-        "text": "trebuințele fiziologice"
+        "text": "trebuintele fiziologice"
       },
       {
         "key": "C",
-        "text": "nevoi de apartenență"
+        "text": "nevoi de apartenenta"
       },
       {
         "key": "D",
-        "text": "nevoi de stimă și recunoaștere"
+        "text": "nevoi de stima si recunoastere"
       },
       {
         "key": "E",
-        "text": "nevoia de autoîmplinire, realizarea tuturor potențialităților"
+        "text": "nevoia de autoimplinire, realizarea tuturor potentialitatilor"
       }
     ],
     "correct": "E",
-    "correctText": "nevoia de autoîmplinire, realizarea tuturor potențialităților"
+    "correctText": "nevoia de autoimplinire, realizarea tuturor potentialitatilor"
   },
   {
     "id": "Managementul R. U.-83",
     "nr": 83,
     "category": "Managementul R. U.",
-    "question": "Salariații organizației acționează cu mai mult simț al răspunderii când:",
+    "question": "Salariatii organizatiei actioneaza cu mai mult simt al raspunderii cand:",
     "answers": [
       {
         "key": "A",
-        "text": "se simt personal răspunzători de fixarea obiectivelor pe care le realizează"
+        "text": "se simt personal raspunzatori de fixarea obiectivelor pe care le realizeaza"
       },
       {
         "key": "B",
-        "text": "există între ei un interes comun, având aceeași calificare profesională"
+        "text": "exista intre ei un interes comun, avand aceeasi calificare profesionala"
       },
       {
         "key": "C",
-        "text": "munca pe care o dețin merită să fie desfășurată"
+        "text": "munca pe care o detin merita sa fie desfasurata"
       },
       {
         "key": "D",
-        "text": "munca le asigură o viață profesională demnă"
+        "text": "munca le asigura o viata profesionala demna"
       },
       {
         "key": "E",
-        "text": "pot obține mai mult, efectuând o muncă de bună calitate"
+        "text": "pot obtine mai mult, efectuand o munca de buna calitate"
       }
     ],
     "correct": "A",
-    "correctText": "se simt personal răspunzători de fixarea obiectivelor pe care le realizează"
+    "correctText": "se simt personal raspunzatori de fixarea obiectivelor pe care le realizeaza"
   },
   {
     "id": "Managementul R. U.-84",
@@ -10763,259 +10763,259 @@ window.QUESTIONS = [
     "answers": [
       {
         "key": "A",
-        "text": "asigurarea unei calificări și pregătiri profesionale corespunzătoare"
+        "text": "asigurarea unei calificari si pregatiri profesionale corespunzatoare"
       },
       {
         "key": "B",
-        "text": "achiziționarea de noi echipamente tehnice și tehnologice mai performante"
+        "text": "achizitionarea de noi echipamente tehnice si tehnologice mai performante"
       },
       {
         "key": "C",
-        "text": "transformarea mașinilor, instalațiilor, tehnologiilor, a locurilor și operațiilor de muncă, ori de câte ori este cu putință, începând chiar în faza de concepție și proiectare, la posibilitățile și cerințele fiziologice și psihologice ale celor care le folosesc"
+        "text": "transformarea masinilor, instalatiilor, tehnologiilor, a locurilor si operatiilor de munca, ori de cate ori este cu putinta, incepand chiar in faza de conceptie si proiectare, la posibilitatile si cerintele fiziologice si psihologice ale celor care le folosesc"
       },
       {
         "key": "D",
-        "text": "transformarea locurilor și operațiilor de muncă, ori de câte ori este cu putință"
+        "text": "transformarea locurilor si operatiilor de munca, ori de cate ori este cu putinta"
       },
       {
         "key": "E",
-        "text": "adaptarea chiar din faza de concepție și proiectare, la posibilitățile și cerințele fiziologice și psihologice ale celor care le folosesc"
+        "text": "adaptarea chiar din faza de conceptie si proiectare, la posibilitatile si cerintele fiziologice si psihologice ale celor care le folosesc"
       }
     ],
     "correct": "C",
-    "correctText": "transformarea mașinilor, instalațiilor, tehnologiilor, a locurilor și operațiilor de muncă, ori de câte ori este cu putință, începând chiar în faza de concepție și proiectare, la posibilitățile și cerințele fiziologice și psihologice ale celor care le folosesc"
+    "correctText": "transformarea masinilor, instalatiilor, tehnologiilor, a locurilor si operatiilor de munca, ori de cate ori este cu putinta, incepand chiar in faza de conceptie si proiectare, la posibilitatile si cerintele fiziologice si psihologice ale celor care le folosesc"
   },
   {
     "id": "Managementul R. U.-85",
     "nr": 85,
     "category": "Managementul R. U.",
-    "question": "Trăsăturile definitorii ale noțiunii de accident de muncă sunt următoarele:\nCare dintre variantele prezentate nu constituie trăsătura definitorie a accidentului de muncă.",
+    "question": "Trasaturile definitorii ale notiunii de accident de munca sunt urmatoarele:\nCare dintre variantele prezentate nu constituie trasatura definitorie a accidentului de munca.",
     "answers": [
       {
         "key": "A",
-        "text": "reprezintă un eveniment așteptat, care întrerupe desfășurarea normală a activității"
+        "text": "reprezinta un eveniment asteptat, care intrerupe desfasurarea normala a activitatii"
       },
       {
         "key": "B",
-        "text": "implică un proces de muncă și factorul uman ca executant"
+        "text": "implica un proces de munca si factorul uman ca executant"
       },
       {
         "key": "C",
-        "text": "sunt consecințe ale disfuncțiilor care apar în sistemul salariat – sarcina de muncă – mijloacele de muncă – mediul de muncă"
+        "text": "sunt consecinte ale disfunctiilor care apar in sistemul salariat – sarcina de munca – mijloacele de munca – mediul de munca"
       },
       {
         "key": "D",
-        "text": "are loc în timpul procesului de muncă și constă în lezarea violentă și bruscă a integrității componentei biologice a factorului uman"
+        "text": "are loc in timpul procesului de munca si consta in lezarea violenta si brusca a integritatii componentei biologice a factorului uman"
       },
       {
         "key": "E",
-        "text": "are ca urmare pierderea sau micșorarea capacității de muncă, provocând incapacitate temporară de muncă de cel puțin 3 zile, invaliditate sau deces"
+        "text": "are ca urmare pierderea sau micsorarea capacitatii de munca, provocand incapacitate temporara de munca de cel putin 3 zile, invaliditate sau deces"
       }
     ],
     "correct": "A",
-    "correctText": "reprezintă un eveniment așteptat, care întrerupe desfășurarea normală a activității"
+    "correctText": "reprezinta un eveniment asteptat, care intrerupe desfasurarea normala a activitatii"
   },
   {
     "id": "Managementul R. U.-86",
     "nr": 86,
     "category": "Managementul R. U.",
-    "question": "Prin studiul muncii se înțelege:\nCare dintre variantele de răspuns prezintă corect definiția studiului muncii.",
+    "question": "Prin studiul muncii se intelege:\nCare dintre variantele de raspuns prezinta corect definitia studiului muncii.",
     "answers": [
       {
         "key": "A",
-        "text": "latura studiului muncii care cuprinde cercetarea sistematică (critică și obiectivă) a totalității elementelor ce caracterizează modul de muncă și condițiile în care se desfășoară acestea"
+        "text": "latura studiului muncii care cuprinde cercetarea sistematica (critica si obiectiva) a totalitatii elementelor ce caracterizeaza modul de munca si conditiile in care se desfasoara acestea"
       },
       {
         "key": "B",
-        "text": "metode și procedee de determinare a conținutului activității unui executant individual și colectiv"
+        "text": "metode si procedee de determinare a continutului activitatii unui executant individual si colectiv"
       },
       {
         "key": "C",
-        "text": "ansamblul integrat al științelor care permit obținerea cunoștințelor privitoare la munca umană"
+        "text": "ansamblul integrat al stiintelor care permit obtinerea cunostintelor privitoare la munca umana"
       },
       {
         "key": "D",
-        "text": "ansamblul activității și procedeelor de cercetare sistematică și analitică a metodelor de muncă, studiu care se efectuează în scopul obținerii unei eficiențe economice sporite, fără sau cu un minimum de cheltuieli de investiții"
+        "text": "ansamblul activitatii si procedeelor de cercetare sistematica si analitica a metodelor de munca, studiu care se efectueaza in scopul obtinerii unei eficiente economice sporite, fara sau cu un minimum de cheltuieli de investitii"
       },
       {
         "key": "E",
-        "text": "activitatea științifică multidisciplinară, orientată spre adaptarea reciprocă a omului și a muncii în vederea creșterii productivității"
+        "text": "activitatea stiintifica multidisciplinara, orientata spre adaptarea reciproca a omului si a muncii in vederea cresterii productivitatii"
       }
     ],
     "correct": "D",
-    "correctText": "ansamblul activității și procedeelor de cercetare sistematică și analitică a metodelor de muncă, studiu care se efectuează în scopul obținerii unei eficiențe economice sporite, fără sau cu un minimum de cheltuieli de investiții"
+    "correctText": "ansamblul activitatii si procedeelor de cercetare sistematica si analitica a metodelor de munca, studiu care se efectueaza in scopul obtinerii unei eficiente economice sporite, fara sau cu un minimum de cheltuieli de investitii"
   },
   {
     "id": "Managementul R. U.-87",
     "nr": 87,
     "category": "Managementul R. U.",
-    "question": "Ca factori de influențare de natură psihosocială și momente de tratare reținem:\nCare dintre variantele prezentate nu constituie factor de influențare de natură psihosocială?",
+    "question": "Ca factori de influentare de natura psihosociala si momente de tratare retinem:\nCare dintre variantele prezentate nu constituie factor de influentare de natura psihosociala?",
     "answers": [
       {
         "key": "A",
-        "text": "pregătirea pentru lucru"
+        "text": "pregatirea pentru lucru"
       },
       {
         "key": "B",
-        "text": "indicele de calitate a producției"
+        "text": "indicele de calitate a productiei"
       },
       {
         "key": "C",
-        "text": "capacitatea de adaptare la oboseală și monotonie"
+        "text": "capacitatea de adaptare la oboseala si monotonie"
       },
       {
         "key": "D",
-        "text": "tipul de conducere și productivitatea muncii"
+        "text": "tipul de conducere si productivitatea muncii"
       },
       {
         "key": "E",
-        "text": "interrelația dintre mediul de lucru și productivitatea muncii"
+        "text": "interrelatia dintre mediul de lucru si productivitatea muncii"
       }
     ],
     "correct": "B",
-    "correctText": "indicele de calitate a producției"
+    "correctText": "indicele de calitate a productiei"
   },
   {
     "id": "Managementul R. U.-88",
     "nr": 88,
     "category": "Managementul R. U.",
-    "question": "Un alt domeniu al psihologiei aplicate în organizații îl reprezintă:",
+    "question": "Un alt domeniu al psihologiei aplicate in organizatii il reprezinta:",
     "answers": [
       {
         "key": "A",
-        "text": "asigurarea condițiilor psihosociale ale productivității muncii"
+        "text": "asigurarea conditiilor psihosociale ale productivitatii muncii"
       },
       {
         "key": "B",
-        "text": "înfăptuirea obiectivelor colective"
+        "text": "infaptuirea obiectivelor colective"
       },
       {
         "key": "C",
-        "text": "redresarea situațiilor conflictuale"
+        "text": "redresarea situatiilor conflictuale"
       },
       {
         "key": "D",
-        "text": "dezvoltarea sentimentului de apartenență organizațională"
+        "text": "dezvoltarea sentimentului de apartenenta organizationala"
       },
       {
         "key": "E",
-        "text": "motivarea personalului organizației"
+        "text": "motivarea personalului organizatiei"
       }
     ],
     "correct": "A",
-    "correctText": "asigurarea condițiilor psihosociale ale productivității muncii"
+    "correctText": "asigurarea conditiilor psihosociale ale productivitatii muncii"
   },
   {
     "id": "Managementul R. U.-89",
     "nr": 89,
     "category": "Managementul R. U.",
-    "question": "Printre factorii cu o influență majoră asupra evoluției funcției de personal se numără:",
+    "question": "Printre factorii cu o influenta majora asupra evolutiei functiei de personal se numara:",
     "answers": [
       {
         "key": "A",
-        "text": "factori tehnici, economici și sociologici"
+        "text": "factori tehnici, economici si sociologici"
       },
       {
         "key": "B",
-        "text": "factori tehnici, economici și culturali"
+        "text": "factori tehnici, economici si culturali"
       },
       {
         "key": "C",
-        "text": "factori culturali, politici și economici"
+        "text": "factori culturali, politici si economici"
       },
       {
         "key": "D",
-        "text": "factori sociologici, politici și economici"
+        "text": "factori sociologici, politici si economici"
       },
       {
         "key": "E",
-        "text": "factori sociologici, economici și demografici"
+        "text": "factori sociologici, economici si demografici"
       }
     ],
     "correct": "A",
-    "correctText": "factori tehnici, economici și sociologici"
+    "correctText": "factori tehnici, economici si sociologici"
   },
   {
     "id": "Managementul R. U.-90",
     "nr": 90,
     "category": "Managementul R. U.",
-    "question": "Funcția de management a resurselor umane:\nIdentificați varianta incorectă de răspuns.",
+    "question": "Functia de management a resurselor umane:\nIdentificati varianta incorecta de raspuns.",
     "answers": [
       {
         "key": "A",
-        "text": "coordonează aspecte diferite ale gestiunii RU"
+        "text": "coordoneaza aspecte diferite ale gestiunii RU"
       },
       {
         "key": "B",
-        "text": "are la bază politici integrate cu strategia organizațională"
+        "text": "are la baza politici integrate cu strategia organizationala"
       },
       {
         "key": "C",
-        "text": "este o funcție strategică"
+        "text": "este o functie strategica"
       },
       {
         "key": "D",
-        "text": "se concentrează pe identificarea de noi metode de producție"
+        "text": "se concentreaza pe identificarea de noi metode de productie"
       },
       {
         "key": "E",
-        "text": "are în vedere antrenarea și performanța angajaților"
+        "text": "are in vedere antrenarea si performanta angajatilor"
       }
     ],
     "correct": "D",
-    "correctText": "se concentrează pe identificarea de noi metode de producție"
+    "correctText": "se concentreaza pe identificarea de noi metode de productie"
   },
   {
     "id": "Managementul R. U.-91",
     "nr": 91,
     "category": "Managementul R. U.",
-    "question": "Printre particularitățile pieței forței de muncă se numără:\nIdentificați varianta de răspuns incorectă.",
+    "question": "Printre particularitatile pietei fortei de munca se numara:\nIdentificati varianta de raspuns incorecta.",
     "answers": [
       {
         "key": "A",
-        "text": "este o piață derivată"
+        "text": "este o piata derivata"
       },
       {
         "key": "B",
-        "text": "este cea mai reglementată piață"
+        "text": "este cea mai reglementata piata"
       },
       {
         "key": "C",
-        "text": "este o piață omogenă"
+        "text": "este o piata omogena"
       },
       {
         "key": "D",
-        "text": "presupune negocierea permanentă"
+        "text": "presupune negocierea permanenta"
       },
       {
         "key": "E",
-        "text": "este o piață eterogenă și segmentată"
+        "text": "este o piata eterogena si segmentata"
       }
     ],
     "correct": "C",
-    "correctText": "este o piață omogenă"
+    "correctText": "este o piata omogena"
   },
   {
     "id": "Managementul R. U.-92",
     "nr": 92,
     "category": "Managementul R. U.",
-    "question": "Comparativ cu MRU, managementul personalului se concentrează pe:",
+    "question": "Comparativ cu MRU, managementul personalului se concentreaza pe:",
     "answers": [
       {
         "key": "A",
-        "text": "activități strategice"
+        "text": "activitati strategice"
       },
       {
         "key": "B",
-        "text": "relația cu angajații și are la bază proceduri și decizii"
+        "text": "relatia cu angajatii si are la baza proceduri si decizii"
       },
       {
         "key": "C",
-        "text": "motivarea și încurajarea angajaților în obținerea performanței"
+        "text": "motivarea si incurajarea angajatilor in obtinerea performantei"
       },
       {
         "key": "D",
-        "text": "pe obiectivele organizației"
+        "text": "pe obiectivele organizatiei"
       },
       {
         "key": "E",
@@ -11023,43 +11023,43 @@ window.QUESTIONS = [
       }
     ],
     "correct": "B",
-    "correctText": "relația cu angajații și are la bază proceduri și decizii"
+    "correctText": "relatia cu angajatii si are la baza proceduri si decizii"
   },
   {
     "id": "Managementul R. U.-93",
     "nr": 93,
     "category": "Managementul R. U.",
-    "question": "Metodele social-psihologice de management a personalului includ:\nIdentificați varianta de răspuns incorectă.",
+    "question": "Metodele social-psihologice de management a personalului includ:\nIdentificati varianta de raspuns incorecta.",
     "answers": [
       {
         "key": "A",
-        "text": "analiza socială a colectivului de lucru"
+        "text": "analiza sociala a colectivului de lucru"
       },
       {
         "key": "B",
-        "text": "prevederi privind selecția personalului"
+        "text": "prevederi privind selectia personalului"
       },
       {
         "key": "C",
-        "text": "participarea personalului la managementul organizației"
+        "text": "participarea personalului la managementul organizatiei"
       },
       {
         "key": "D",
-        "text": "dezvoltarea socială"
+        "text": "dezvoltarea sociala"
       },
       {
         "key": "E",
-        "text": "influențarea psihologică a colectivului"
+        "text": "influentarea psihologica a colectivului"
       }
     ],
     "correct": "B",
-    "correctText": "prevederi privind selecția personalului"
+    "correctText": "prevederi privind selectia personalului"
   },
   {
     "id": "Managementul R. U.-94",
     "nr": 94,
     "category": "Managementul R. U.",
-    "question": "Printre competențele noi apărute în dezvoltarea resurselor umane se numără:\nIdentificați varianta de răspuns incorectă.",
+    "question": "Printre competentele noi aparute in dezvoltarea resurselor umane se numara:\nIdentificati varianta de raspuns incorecta.",
     "answers": [
       {
         "key": "A",
@@ -11067,7 +11067,7 @@ window.QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "prezența departamentelor de R&D în IMM-uri"
+        "text": "prezenta departamentelor de R&D in IMM-uri"
       },
       {
         "key": "C",
@@ -11079,7 +11079,7 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "prezența managerilor de dezvoltare digitală"
+        "text": "prezenta managerilor de dezvoltare digitala"
       }
     ],
     "correct": "A",
@@ -11089,7 +11089,7 @@ window.QUESTIONS = [
     "id": "Managementul R. U.-95",
     "nr": 95,
     "category": "Managementul R. U.",
-    "question": "Noțiunea care reflectă caracterul relației dintre salariați, mijloacele și cultura comunității lor și comunicarea interpersonală este:",
+    "question": "Notiunea care reflecta caracterul relatiei dintre salariati, mijloacele si cultura comunitatii lor si comunicarea interpersonala este:",
     "answers": [
       {
         "key": "A",
@@ -11119,19 +11119,19 @@ window.QUESTIONS = [
     "id": "Managementul R. U.-96",
     "nr": 96,
     "category": "Managementul R. U.",
-    "question": "Printre avantajele recrutării interne față de recrutarea externă se numără:\nIdentificați varianta de răspuns incorectă.",
+    "question": "Printre avantajele recrutarii interne fata de recrutarea externa se numara:\nIdentificati varianta de raspuns incorecta.",
     "answers": [
       {
         "key": "A",
-        "text": "scăderea probabilității angajaților competenți de a părăsi organizația"
+        "text": "scaderea probabilitatii angajatilor competenti de a parasi organizatia"
       },
       {
         "key": "B",
-        "text": "creșterea aportului de competențe și idei noi"
+        "text": "cresterea aportului de competente si idei noi"
       },
       {
         "key": "C",
-        "text": "recrutarea este mai rapidă"
+        "text": "recrutarea este mai rapida"
       },
       {
         "key": "D",
@@ -11143,17 +11143,17 @@ window.QUESTIONS = [
       }
     ],
     "correct": "B",
-    "correctText": "creșterea aportului de competențe și idei noi"
+    "correctText": "cresterea aportului de competente si idei noi"
   },
   {
     "id": "Managementul R. U.-97",
     "nr": 97,
     "category": "Managementul R. U.",
-    "question": "Printre avantajele recrutării externe comparativ cu recrutarea internă se numără:",
+    "question": "Printre avantajele recrutarii externe comparativ cu recrutarea interna se numara:",
     "answers": [
       {
         "key": "A",
-        "text": "recrutarea este mai rapidă"
+        "text": "recrutarea este mai rapida"
       },
       {
         "key": "B",
@@ -11161,127 +11161,127 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "competențele și abilitățile persoanei sunt bine cunoscute"
+        "text": "competentele si abilitatile persoanei sunt bine cunoscute"
       },
       {
         "key": "D",
-        "text": "se creează un efect de „propagare” de posturi libere în momentul promovării sau transferării unui angajat"
+        "text": "se creeaza un efect de „propagare” de posturi libere in momentul promovarii sau transferarii unui angajat"
       },
       {
         "key": "E",
-        "text": "încurajează un nou mod de gândire în cadrul organizației"
+        "text": "incurajeaza un nou mod de gandire in cadrul organizatiei"
       }
     ],
     "correct": "E",
-    "correctText": "încurajează un nou mod de gândire în cadrul organizației"
+    "correctText": "incurajeaza un nou mod de gandire in cadrul organizatiei"
   },
   {
     "id": "Managementul R. U.-98",
     "nr": 98,
     "category": "Managementul R. U.",
-    "question": "Orientarea profesională are rolul, în societatea modernă, să călăuzească:",
+    "question": "Orientarea profesionala are rolul, in societatea moderna, sa calauzeasca:",
     "answers": [
       {
         "key": "A",
-        "text": "pe fiecare individ spre utilizarea maximă a competențelor și aptitudinilor sale"
+        "text": "pe fiecare individ spre utilizarea maxima a competentelor si aptitudinilor sale"
       },
       {
         "key": "B",
-        "text": "angajatul în alegerea programului de pregătire"
+        "text": "angajatul in alegerea programului de pregatire"
       },
       {
         "key": "C",
-        "text": "pașii angajatului spre performanță"
+        "text": "pasii angajatului spre performanta"
       },
       {
         "key": "D",
-        "text": "pe drumul spre noi investiții"
+        "text": "pe drumul spre noi investitii"
       },
       {
         "key": "E",
-        "text": "angajatul la locul de muncă"
+        "text": "angajatul la locul de munca"
       }
     ],
     "correct": "A",
-    "correctText": "pe fiecare individ spre utilizarea maximă a competențelor și aptitudinilor sale"
+    "correctText": "pe fiecare individ spre utilizarea maxima a competentelor si aptitudinilor sale"
   },
   {
     "id": "Managementul R. U.-99",
     "nr": 99,
     "category": "Managementul R. U.",
-    "question": "Prin promovare profesională se înțelege:",
+    "question": "Prin promovare profesionala se intelege:",
     "answers": [
       {
         "key": "A",
-        "text": "totalitatea proceselor prin care se atribuie salariaților din organizație posturi situate pe un nivel ierarhic superior, pe baza eficienței profesionale dovedite și a aptitudinilor cerute"
+        "text": "totalitatea proceselor prin care se atribuie salariatilor din organizatie posturi situate pe un nivel ierarhic superior, pe baza eficientei profesionale dovedite si a aptitudinilor cerute"
       },
       {
         "key": "B",
-        "text": "formularea unei aprecieri generale prin care se sintetizează principalele calități și se certifică rezultatele obținute prin muncă, pe parcursul unui an"
+        "text": "formularea unei aprecieri generale prin care se sintetizeaza principalele calitati si se certifica rezultatele obtinute prin munca, pe parcursul unui an"
       },
       {
         "key": "C",
-        "text": "orientarea spre un loc de muncă situat pe același nivel ierarhic"
+        "text": "orientarea spre un loc de munca situat pe acelasi nivel ierarhic"
       },
       {
         "key": "D",
-        "text": "aprecierea ocupației sau funcției, oferind elementele necesare pentru determinarea diferențelor dintre ocupații"
+        "text": "aprecierea ocupatiei sau functiei, oferind elementele necesare pentru determinarea diferentelor dintre ocupatii"
       },
       {
         "key": "E",
-        "text": "metoda științifică prin care i se indică salariatului o profesiune sau un grup de profesiuni."
+        "text": "metoda stiintifica prin care i se indica salariatului o profesiune sau un grup de profesiuni."
       }
     ],
     "correct": "A",
-    "correctText": "totalitatea proceselor prin care se atribuie salariaților din organizație posturi situate pe un nivel ierarhic superior, pe baza eficienței profesionale dovedite și a aptitudinilor cerute"
+    "correctText": "totalitatea proceselor prin care se atribuie salariatilor din organizatie posturi situate pe un nivel ierarhic superior, pe baza eficientei profesionale dovedite si a aptitudinilor cerute"
   },
   {
     "id": "Managementul R. U.-100",
     "nr": 100,
     "category": "Managementul R. U.",
-    "question": "Printre trăsăturile unui post proiectat ergonomic se numără:",
+    "question": "Printre trasaturile unui post proiectat ergonomic se numara:",
     "answers": [
       {
         "key": "A",
-        "text": "nivel scăzut de autonomie"
+        "text": "nivel scazut de autonomie"
       },
       {
         "key": "B",
-        "text": "să asigure securitate, sănătate și confortul în muncă"
+        "text": "sa asigure securitate, sanatate si confortul in munca"
       },
       {
         "key": "C",
-        "text": "să permită mobilitatea profesională"
+        "text": "sa permita mobilitatea profesionala"
       },
       {
         "key": "D",
-        "text": "să înglobeze tehnologie nouă"
+        "text": "sa inglobeze tehnologie noua"
       },
       {
         "key": "E",
-        "text": "să permită inovarea"
+        "text": "sa permita inovarea"
       }
     ],
     "correct": "B",
-    "correctText": "să asigure securitate, sănătate și confortul în muncă"
+    "correctText": "sa asigure securitate, sanatate si confortul in munca"
   },
   {
     "id": "Managementul R. U.-101",
     "nr": 101,
     "category": "Managementul R. U.",
-    "question": "Bunăstarea este un obiectiv social al:",
+    "question": "Bunastarea este un obiectiv social al:",
     "answers": [
       {
         "key": "A",
-        "text": "recrutării personalului"
+        "text": "recrutarii personalului"
       },
       {
         "key": "B",
-        "text": "selecției personalului"
+        "text": "selectiei personalului"
       },
       {
         "key": "C",
-        "text": "evaluării personalului"
+        "text": "evaluarii personalului"
       },
       {
         "key": "D",
@@ -11289,7 +11289,7 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "dezvoltării personalului"
+        "text": "dezvoltarii personalului"
       }
     ],
     "correct": "D",
@@ -11299,169 +11299,169 @@ window.QUESTIONS = [
     "id": "Managementul R. U.-102",
     "nr": 102,
     "category": "Managementul R. U.",
-    "question": "Salariații organizației acționează cu mai mult simț al răspunderii când:\nAlegeți varianta corectă de răspuns.",
+    "question": "Salariatii organizatiei actioneaza cu mai mult simt al raspunderii cand:\nAlegeti varianta corecta de raspuns.",
     "answers": [
       {
         "key": "A",
-        "text": "înțeleg obiectivele organizaționale și când îndeplinirea acestora corespund cu aspirațiile personale"
+        "text": "inteleg obiectivele organizationale si cand indeplinirea acestora corespund cu aspiratiile personale"
       },
       {
         "key": "B",
-        "text": "există între ei un interes comun, între salariații cu aceeași calificare profesională"
+        "text": "exista intre ei un interes comun, intre salariatii cu aceeasi calificare profesionala"
       },
       {
         "key": "C",
-        "text": "munca pe care o dețin merită sa fie desfășurată"
+        "text": "munca pe care o detin merita sa fie desfasurata"
       },
       {
         "key": "D",
-        "text": "munca le asigură o viață profesională demnă"
+        "text": "munca le asigura o viata profesionala demna"
       },
       {
         "key": "E",
-        "text": "există un echilibru pe piața muncii"
+        "text": "exista un echilibru pe piata muncii"
       }
     ],
     "correct": "A",
-    "correctText": "înțeleg obiectivele organizaționale și când îndeplinirea acestora corespund cu aspirațiile personale"
+    "correctText": "inteleg obiectivele organizationale si cand indeplinirea acestora corespund cu aspiratiile personale"
   },
   {
     "id": "Managementul R. U.-103",
     "nr": 103,
     "category": "Managementul R. U.",
-    "question": "Studiul muncii constă în:\nIdentificați varianta de răspuns corectă care ilustrează exact din ce se compune studiul muncii",
+    "question": "Studiul muncii consta in:\nIdentificati varianta de raspuns corecta care ilustreaza exact din ce se compune studiul muncii",
     "answers": [
       {
         "key": "A",
-        "text": "studiul metodelor de muncă"
+        "text": "studiul metodelor de munca"
       },
       {
         "key": "B",
-        "text": "măsurarea muncii"
+        "text": "masurarea muncii"
       },
       {
         "key": "C",
-        "text": "studiul amplasării utilajului"
+        "text": "studiul amplasarii utilajului"
       },
       {
         "key": "D",
-        "text": "studiul metodelor și măsurarea muncii în scopul obținerii unei eficiențe sporite"
+        "text": "studiul metodelor si masurarea muncii in scopul obtinerii unei eficiente sporite"
       },
       {
         "key": "E",
-        "text": "studiul mișcării personalului"
+        "text": "studiul miscarii personalului"
       }
     ],
     "correct": "D",
-    "correctText": "studiul metodelor și măsurarea muncii în scopul obținerii unei eficiențe sporite"
+    "correctText": "studiul metodelor si masurarea muncii in scopul obtinerii unei eficiente sporite"
   },
   {
     "id": "Managementul R. U.-104",
     "nr": 104,
     "category": "Managementul R. U.",
-    "question": "Performanța socială este definită ca:",
+    "question": "Performanta sociala este definita ca:",
     "answers": [
       {
         "key": "A",
-        "text": "intensitatea cu care fiecare individ aderă și colaborează, prin propuneri și mijloace, la mai bună organizare și realizare a unui nivel superior de satisfacție, ca urmare a participării sale la viața organizației"
+        "text": "intensitatea cu care fiecare individ adera si colaboreaza, prin propuneri si mijloace, la mai buna organizare si realizare a unui nivel superior de satisfactie, ca urmare a participarii sale la viata organizatiei"
       },
       {
         "key": "B",
-        "text": "realizare a unui nivel superior de satisfacție ca urmare a participării sale la viața organizației"
+        "text": "realizare a unui nivel superior de satisfactie ca urmare a participarii sale la viata organizatiei"
       },
       {
         "key": "C",
-        "text": "intensitatea cu care fiecare angajat colaborează la locul de muncă"
+        "text": "intensitatea cu care fiecare angajat colaboreaza la locul de munca"
       },
       {
         "key": "D",
-        "text": "acțiunea prin care un angajat obține un record la locul de muncă"
+        "text": "actiunea prin care un angajat obtine un record la locul de munca"
       },
       {
         "key": "E",
-        "text": "rezultatul colectiv obținut la nivel organizațional"
+        "text": "rezultatul colectiv obtinut la nivel organizational"
       }
     ],
     "correct": "A",
-    "correctText": "intensitatea cu care fiecare individ aderă și colaborează, prin propuneri și mijloace, la mai bună organizare și realizare a unui nivel superior de satisfacție, ca urmare a participării sale la viața organizației"
+    "correctText": "intensitatea cu care fiecare individ adera si colaboreaza, prin propuneri si mijloace, la mai buna organizare si realizare a unui nivel superior de satisfactie, ca urmare a participarii sale la viata organizatiei"
   },
   {
     "id": "Managementul R. U.-105",
     "nr": 105,
     "category": "Managementul R. U.",
-    "question": "Performanța profesională reprezintă:\nCare dintre variantele de mai jos reprezintă definiția performanței profesionale?",
+    "question": "Performanta profesionala reprezinta:\nCare dintre variantele de mai jos reprezinta definitia performantei profesionale?",
     "answers": [
       {
         "key": "A",
-        "text": "Nivelul realizărilor unui salariat prin raportarea la pregătirea profesională"
+        "text": "Nivelul realizarilor unui salariat prin raportarea la pregatirea profesionala"
       },
       {
         "key": "B",
-        "text": "Nivelul realizărilor unui salariat prin raportarea la standardele de performanță"
+        "text": "Nivelul realizarilor unui salariat prin raportarea la standardele de performanta"
       },
       {
         "key": "C",
-        "text": "Nivelul realizărilor unui salariat prin raportarea la performanța salariaților din organizații concurente"
+        "text": "Nivelul realizarilor unui salariat prin raportarea la performanta salariatilor din organizatii concurente"
       },
       {
         "key": "D",
-        "text": "Nivelul realizărilor unui salariat prin raportarea la realizările celorlalți colegi"
+        "text": "Nivelul realizarilor unui salariat prin raportarea la realizarile celorlalti colegi"
       },
       {
         "key": "E",
-        "text": "Nivelul realizărilor unui salariat prin raportarea la performanța organizației"
+        "text": "Nivelul realizarilor unui salariat prin raportarea la performanta organizatiei"
       }
     ],
     "correct": "B",
-    "correctText": "Nivelul realizărilor unui salariat prin raportarea la standardele de performanță"
+    "correctText": "Nivelul realizarilor unui salariat prin raportarea la standardele de performanta"
   },
   {
     "id": "Managementul R. U.-106",
     "nr": 106,
     "category": "Managementul R. U.",
-    "question": "Sistemul de evaluare a personalului are ca obiectiv:\nCare dintre variantele de mai jos reprezintă obiectivul sistemului de evaluare a personalului?",
+    "question": "Sistemul de evaluare a personalului are ca obiectiv:\nCare dintre variantele de mai jos reprezinta obiectivul sistemului de evaluare a personalului?",
     "answers": [
       {
         "key": "A",
-        "text": "asigurarea unui climat de muncă cât mai favorabil desfășurării activității"
+        "text": "asigurarea unui climat de munca cat mai favorabil desfasurarii activitatii"
       },
       {
         "key": "B",
-        "text": "îmbunătățirea comunicării dintre salariați și conducerea organizației"
+        "text": "imbunatatirea comunicarii dintre salariati si conducerea organizatiei"
       },
       {
         "key": "C",
-        "text": "obținerea unor performanțe superioare"
+        "text": "obtinerea unor performante superioare"
       },
       {
         "key": "D",
-        "text": "îmbunătățirea comunicării dintre salariați și conducerea organizației și asigurarea unui climat de muncă cât mai favorabil desfășurării activității"
+        "text": "imbunatatirea comunicarii dintre salariati si conducerea organizatiei si asigurarea unui climat de munca cat mai favorabil desfasurarii activitatii"
       },
       {
         "key": "E",
-        "text": "motivarea angajaților"
+        "text": "motivarea angajatilor"
       }
     ],
     "correct": "D",
-    "correctText": "îmbunătățirea comunicării dintre salariați și conducerea organizației și asigurarea unui climat de muncă cât mai favorabil desfășurării activității"
+    "correctText": "imbunatatirea comunicarii dintre salariati si conducerea organizatiei si asigurarea unui climat de munca cat mai favorabil desfasurarii activitatii"
   },
   {
     "id": "Managementul R. U.-107",
     "nr": 107,
     "category": "Managementul R. U.",
-    "question": "Criteriile de evaluare sunt de calitatea dacă îndeplinesc următoarele condiții:\nIdentificați varianta de răspuns incorectă:",
+    "question": "Criteriile de evaluare sunt de calitatea daca indeplinesc urmatoarele conditii:\nIdentificati varianta de raspuns incorecta:",
     "answers": [
       {
         "key": "A",
-        "text": "Numărul lor este cât mai mare"
+        "text": "Numarul lor este cat mai mare"
       },
       {
         "key": "B",
-        "text": "Sunt formulate simplu, clar și concis"
+        "text": "Sunt formulate simplu, clar si concis"
       },
       {
         "key": "C",
-        "text": "Sunt înțelese atât de evaluatori cât și de persoanele evaluate"
+        "text": "Sunt intelese atat de evaluatori cat si de persoanele evaluate"
       },
       {
         "key": "D",
@@ -11469,77 +11469,77 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "Sunt aplicate tuturor subiecților care își desfășoară activitatea în condiții comparabile."
+        "text": "Sunt aplicate tuturor subiectilor care isi desfasoara activitatea in conditii comparabile."
       }
     ],
     "correct": "A",
-    "correctText": "Numărul lor este cât mai mare"
+    "correctText": "Numarul lor este cat mai mare"
   },
   {
     "id": "Managementul R. U.-108",
     "nr": 108,
     "category": "Managementul R. U.",
-    "question": "Factorul hotărâtor al creșterii eficienței economice îl reprezintă:",
+    "question": "Factorul hotarator al cresterii eficientei economice il reprezinta:",
     "answers": [
       {
         "key": "A",
-        "text": "creșterea mai accentuată a productivității sociale a muncii"
+        "text": "cresterea mai accentuata a productivitatii sociale a muncii"
       },
       {
         "key": "B",
-        "text": "dezvoltarea mediului intern al organizației"
+        "text": "dezvoltarea mediului intern al organizatiei"
       },
       {
         "key": "C",
-        "text": "asigurarea procesului de formare a potențialului uman pe termen scurt și lung"
+        "text": "asigurarea procesului de formare a potentialului uman pe termen scurt si lung"
       },
       {
         "key": "D",
-        "text": "organizarea procesului de recrutare intern și extern"
+        "text": "organizarea procesului de recrutare intern si extern"
       },
       {
         "key": "E",
-        "text": "dezvoltarea unor relații între salariați în strânsă legătură cu munca lor."
+        "text": "dezvoltarea unor relatii intre salariati in stransa legatura cu munca lor."
       }
     ],
     "correct": "A",
-    "correctText": "creșterea mai accentuată a productivității sociale a muncii"
+    "correctText": "cresterea mai accentuata a productivitatii sociale a muncii"
   },
   {
     "id": "Managementul R. U.-109",
     "nr": 109,
     "category": "Managementul R. U.",
-    "question": "Participarea personalului la creșterea eficienței economice presupune:",
+    "question": "Participarea personalului la cresterea eficientei economice presupune:",
     "answers": [
       {
         "key": "A",
-        "text": "o angajare economică, socială și psihologică, o preocupare permanentă pentru obținerea de rezultate mai bune și mai multe, cu eforturi materiale și umane mai puține;"
+        "text": "o angajare economica, sociala si psihologica, o preocupare permanenta pentru obtinerea de rezultate mai bune si mai multe, cu eforturi materiale si umane mai putine;"
       },
       {
         "key": "B",
-        "text": "un echilibru între programul de muncă și de viață personală"
+        "text": "un echilibru intre programul de munca si de viata personala"
       },
       {
         "key": "C",
-        "text": "preocupare pentru dezvoltarea propriei cariere potrivit aspirațiilor personale"
+        "text": "preocupare pentru dezvoltarea propriei cariere potrivit aspiratiilor personale"
       },
       {
         "key": "D",
-        "text": "o activitate de cercetare științifică, multidisciplinară, orientată pe elementele ce caracterizează modul de muncă și condițiile în care se desfășoară"
+        "text": "o activitate de cercetare stiintifica, multidisciplinara, orientata pe elementele ce caracterizeaza modul de munca si conditiile in care se desfasoara"
       },
       {
         "key": "E",
-        "text": "aplicarea unor metode de evaluare a performanțelor economice"
+        "text": "aplicarea unor metode de evaluare a performantelor economice"
       }
     ],
     "correct": "A",
-    "correctText": "o angajare economică, socială și psihologică, o preocupare permanentă pentru obținerea de rezultate mai bune și mai multe, cu eforturi materiale și umane mai puține;"
+    "correctText": "o angajare economica, sociala si psihologica, o preocupare permanenta pentru obtinerea de rezultate mai bune si mai multe, cu eforturi materiale si umane mai putine;"
   },
   {
     "id": "Managementul R. U.-110",
     "nr": 110,
     "category": "Managementul R. U.",
-    "question": "Procesul de încorporare, asimilare a individului în unități și sisteme sociale (familie, grup, colectiv, societate) prin modelare conform datelor și cerințelor sociale reprezintă:",
+    "question": "Procesul de incorporare, asimilare a individului in unitati si sisteme sociale (familie, grup, colectiv, societate) prin modelare conform datelor si cerintelor sociale reprezinta:",
     "answers": [
       {
         "key": "A",
@@ -11551,33 +11551,33 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "Integrarea socială"
+        "text": "Integrarea sociala"
       },
       {
         "key": "D",
-        "text": "Integrare profesională"
+        "text": "Integrare profesionala"
       },
       {
         "key": "E",
-        "text": "Încadrarea personalului"
+        "text": "Incadrarea personalului"
       }
     ],
     "correct": "C",
-    "correctText": "Integrarea socială"
+    "correctText": "Integrarea sociala"
   },
   {
     "id": "Managementul Afacerilor-1",
     "nr": 1,
     "category": "Managementul Afacerilor",
-    "question": "În ceea ce privește veniturile pe categorii de ocupații, pornind de la datele statistice, se poate spune că, în general (indicați varianta corectă):",
+    "question": "In ceea ce priveste veniturile pe categorii de ocupatii, pornind de la datele statistice, se poate spune ca, in general (indicati varianta corecta):",
     "answers": [
       {
         "key": "A",
-        "text": "nu există tendințe clare"
+        "text": "nu exista tendinte clare"
       },
       {
         "key": "B",
-        "text": "veniturile unui patron sunt semnificativ mai mici decât ale unui salariat"
+        "text": "veniturile unui patron sunt semnificativ mai mici decat ale unui salariat"
       },
       {
         "key": "C",
@@ -11585,51 +11585,51 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "veniturile unui patron sunt semnificativ mai mari decât ale unui salariat"
+        "text": "veniturile unui patron sunt semnificativ mai mari decat ale unui salariat"
       },
       {
         "key": "E",
-        "text": "nici una dintre afirmații nu este adevărată"
+        "text": "nici una dintre afirmatii nu este adevarata"
       }
     ],
     "correct": "D",
-    "correctText": "veniturile unui patron sunt semnificativ mai mari decât ale unui salariat"
+    "correctText": "veniturile unui patron sunt semnificativ mai mari decat ale unui salariat"
   },
   {
     "id": "Managementul Afacerilor-2",
     "nr": 2,
     "category": "Managementul Afacerilor",
-    "question": "Alegerea formei de organizare a unei afaceri are implicații în ceea ce privește (indicați varianta eronată):",
+    "question": "Alegerea formei de organizare a unei afaceri are implicatii in ceea ce priveste (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "formalitățile inițiale de îndeplinit"
+        "text": "formalitatile initiale de indeplinit"
       },
       {
         "key": "B",
-        "text": "condițiile pentru înregistrare"
+        "text": "conditiile pentru inregistrare"
       },
       {
         "key": "C",
-        "text": "reglementările privind funcționarea"
+        "text": "reglementarile privind functionarea"
       },
       {
         "key": "D",
-        "text": "cerințele privind capitalul social minim"
+        "text": "cerintele privind capitalul social minim"
       },
       {
         "key": "E",
-        "text": "nici una dintre afirmațiile de mai sus nu este eronată"
+        "text": "nici una dintre afirmatiile de mai sus nu este eronata"
       }
     ],
     "correct": "E",
-    "correctText": "nici una dintre afirmațiile de mai sus nu este eronată"
+    "correctText": "nici una dintre afirmatiile de mai sus nu este eronata"
   },
   {
     "id": "Managementul Afacerilor-3",
     "nr": 3,
     "category": "Managementul Afacerilor",
-    "question": "Alegerea formei de organizare a unei afaceri are implicații în ceea ce privește (indicați varianta eronată):",
+    "question": "Alegerea formei de organizare a unei afaceri are implicatii in ceea ce priveste (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
@@ -11637,11 +11637,11 @@ window.QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "posibilitățile de dezvoltare ale afacerii"
+        "text": "posibilitatile de dezvoltare ale afacerii"
       },
       {
         "key": "C",
-        "text": "cartierul în care locuiesc"
+        "text": "cartierul in care locuiesc"
       },
       {
         "key": "D",
@@ -11649,17 +11649,17 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "regulile de organizare a contabilității"
+        "text": "regulile de organizare a contabilitatii"
       }
     ],
     "correct": "C",
-    "correctText": "cartierul în care locuiesc"
+    "correctText": "cartierul in care locuiesc"
   },
   {
     "id": "Managementul Afacerilor-4",
     "nr": 4,
     "category": "Managementul Afacerilor",
-    "question": "Alegerea formei de organizare a unei afaceri are implicații în ceea ce privește (indicați varianta eronată):",
+    "question": "Alegerea formei de organizare a unei afaceri are implicatii in ceea ce priveste (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
@@ -11667,187 +11667,187 @@ window.QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "accesul la finanțare"
+        "text": "accesul la finantare"
       },
       {
         "key": "C",
-        "text": "raporturile juridice dintre întreprinzători în cadrul afacerii"
+        "text": "raporturile juridice dintre intreprinzatori in cadrul afacerii"
       },
       {
         "key": "D",
-        "text": "raporturile dintre patrimoniul întreprinzătorilor și patrimoniul afacerii"
+        "text": "raporturile dintre patrimoniul intreprinzatorilor si patrimoniul afacerii"
       },
       {
         "key": "E",
-        "text": "nici una dintre afirmațiile de mai sus"
+        "text": "nici una dintre afirmatiile de mai sus"
       }
     ],
     "correct": "E",
-    "correctText": "nici una dintre afirmațiile de mai sus"
+    "correctText": "nici una dintre afirmatiile de mai sus"
   },
   {
     "id": "Managementul Afacerilor-5",
     "nr": 5,
     "category": "Managementul Afacerilor",
-    "question": "În ceea ce privește modificarea formei de organizare, pe durata unei afaceri, sunt de reținut următoarele restricții:",
+    "question": "In ceea ce priveste modificarea formei de organizare, pe durata unei afaceri, sunt de retinut urmatoarele restrictii:",
     "answers": [
       {
         "key": "A",
-        "text": "transformarea formei de organizare a afacerii este posibilă numai dacă este stipulată expres de legislație"
+        "text": "transformarea formei de organizare a afacerii este posibila numai daca este stipulata expres de legislatie"
       },
       {
         "key": "B",
-        "text": "posibilitatea modificării în orice moment și în orice altă formă a afacerii existente indiferent de reglementările legale în vigoare"
+        "text": "posibilitatea modificarii in orice moment si in orice alta forma a afacerii existente indiferent de reglementarile legale in vigoare"
       },
       {
         "key": "C",
-        "text": "dacă legea permite transformarea formei de organizare a afacerii, aceasta se realizează numai în modalitățile stabilite prin actul normativ aplicabil"
+        "text": "daca legea permite transformarea formei de organizare a afacerii, aceasta se realizeaza numai in modalitatile stabilite prin actul normativ aplicabil"
       },
       {
         "key": "D",
-        "text": "dacă legea permite transformarea formei de organizare a afacerii, modificarea se face, în lipsa reglementărilor exprese contrare, cu unanimitatea întreprinzătorilor"
+        "text": "daca legea permite transformarea formei de organizare a afacerii, modificarea se face, in lipsa reglementarilor exprese contrare, cu unanimitatea intreprinzatorilor"
       },
       {
         "key": "E",
-        "text": "dacă întreprinzătorii doresc transformarea formei de organizare a afacerii într-o schemă pe care legea nu o permite, singura soluție este închiderea afacerii inițiale și deschiderea alteia noi"
+        "text": "daca intreprinzatorii doresc transformarea formei de organizare a afacerii intr-o schema pe care legea nu o permite, singura solutie este inchiderea afacerii initiale si deschiderea alteia noi"
       }
     ],
     "correct": "B",
-    "correctText": "posibilitatea modificării în orice moment și în orice altă formă a afacerii existente indiferent de reglementările legale în vigoare"
+    "correctText": "posibilitatea modificarii in orice moment si in orice alta forma a afacerii existente indiferent de reglementarile legale in vigoare"
   },
   {
     "id": "Managementul Afacerilor-6",
     "nr": 6,
     "category": "Managementul Afacerilor",
-    "question": "La alegerea formei de organizare a unei afaceri se ține cont ca aceasta să îndeplinească următoarele criterii (indicați varianta eronată):",
+    "question": "La alegerea formei de organizare a unei afaceri se tine cont ca aceasta sa indeplineasca urmatoarele criterii (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "să fie în corelație cu numărul întreprinzătorilor implicați"
+        "text": "sa fie in corelatie cu numarul intreprinzatorilor implicati"
       },
       {
         "key": "B",
-        "text": "să nu permită accesul investitorilor din exterior în afacere"
+        "text": "sa nu permita accesul investitorilor din exterior in afacere"
       },
       {
         "key": "C",
-        "text": "să permită accesul la finanțare pentru dezvoltare, dacă este avută în vedere de întreprinzători"
+        "text": "sa permita accesul la finantare pentru dezvoltare, daca este avuta in vedere de intreprinzatori"
       },
       {
         "key": "D",
-        "text": "să nu restricționeze dezvoltarea preconizată a afacerii"
+        "text": "sa nu restrictioneze dezvoltarea preconizata a afacerii"
       },
       {
         "key": "E",
-        "text": "să țină cont de exigențele sistemului informațional-decizional specific afacerii"
+        "text": "sa tina cont de exigentele sistemului informational-decizional specific afacerii"
       }
     ],
     "correct": "B",
-    "correctText": "să nu permită accesul investitorilor din exterior în afacere"
+    "correctText": "sa nu permita accesul investitorilor din exterior in afacere"
   },
   {
     "id": "Managementul Afacerilor-7",
     "nr": 7,
     "category": "Managementul Afacerilor",
-    "question": "Printre afacerile sub regimul legislației civile se numără (indicați varianta eronată):",
+    "question": "Printre afacerile sub regimul legislatiei civile se numara (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "cultivarea produselor agricole pe terenul proprietate personală"
+        "text": "cultivarea produselor agricole pe terenul proprietate personala"
       },
       {
         "key": "B",
-        "text": "cumpărarea, vânzarea, închirierea locuinței"
+        "text": "cumpararea, vanzarea, inchirierea locuintei"
       },
       {
         "key": "C",
-        "text": "societatea cu răspundere limitată având un singur asociat"
+        "text": "societatea cu raspundere limitata avand un singur asociat"
       },
       {
         "key": "D",
-        "text": "construirea cu forțe proprii (în regie proprie) a unei locuințe"
+        "text": "construirea cu forte proprii (in regie proprie) a unei locuinte"
       },
       {
         "key": "E",
-        "text": "cumpărarea unui teren pentru locuință"
+        "text": "cumpararea unui teren pentru locuinta"
       }
     ],
     "correct": "C",
-    "correctText": "societatea cu răspundere limitată având un singur asociat"
+    "correctText": "societatea cu raspundere limitata avand un singur asociat"
   },
   {
     "id": "Managementul Afacerilor-8",
     "nr": 8,
     "category": "Managementul Afacerilor",
-    "question": "Printre afacerile sub regimul legislației civile se numără (indicați varianta eronată):",
+    "question": "Printre afacerile sub regimul legislatiei civile se numara (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "participarea la forme de educație prin cursuri, completarea pregătirii de licență, master, doctorat, specializări sau perfecționări diverse"
+        "text": "participarea la forme de educatie prin cursuri, completarea pregatirii de licenta, master, doctorat, specializari sau perfectionari diverse"
       },
       {
         "key": "B",
-        "text": "cumpărarea și vânzarea unor bunuri de folosință îndelungată necesare în gospodărie"
+        "text": "cumpararea si vanzarea unor bunuri de folosinta indelungata necesare in gospodarie"
       },
       {
         "key": "C",
-        "text": "cumpărarea unui teren pentru locuință"
+        "text": "cumpararea unui teren pentru locuinta"
       },
       {
         "key": "D",
-        "text": "activitățile sub formă de persoană fizică autorizată, să facă acte și fapte de comerț"
+        "text": "activitatile sub forma de persoana fizica autorizata, sa faca acte si fapte de comert"
       },
       {
         "key": "E",
-        "text": "vânzarea surplusului de pe terenul agricol de mici dimensiuni proprietate personală"
+        "text": "vanzarea surplusului de pe terenul agricol de mici dimensiuni proprietate personala"
       }
     ],
     "correct": "D",
-    "correctText": "activitățile sub formă de persoană fizică autorizată, să facă acte și fapte de comerț"
+    "correctText": "activitatile sub forma de persoana fizica autorizata, sa faca acte si fapte de comert"
   },
   {
     "id": "Managementul Afacerilor-9",
     "nr": 9,
     "category": "Managementul Afacerilor",
-    "question": "Economia naturală este (indicați varianta eronată):",
+    "question": "Economia naturala este (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "o formă a inițiativei private"
+        "text": "o forma a initiativei private"
       },
       {
         "key": "B",
-        "text": "o variantă de satisfacere a unor nevoi suplimentare de consum direct"
+        "text": "o varianta de satisfacere a unor nevoi suplimentare de consum direct"
       },
       {
         "key": "C",
-        "text": "un tip de afacere reglementat de legislația civilă"
+        "text": "un tip de afacere reglementat de legislatia civila"
       },
       {
         "key": "D",
-        "text": "este un mod de valorificare economică a timpului liber al persoanelor apte de muncă"
+        "text": "este un mod de valorificare economica a timpului liber al persoanelor apte de munca"
       },
       {
         "key": "E",
-        "text": "o formă de întreprindere"
+        "text": "o forma de intreprindere"
       }
     ],
     "correct": "E",
-    "correctText": "o formă de întreprindere"
+    "correctText": "o forma de intreprindere"
   },
   {
     "id": "Managementul Afacerilor-10",
     "nr": 10,
     "category": "Managementul Afacerilor",
-    "question": "Economia naturală are următoarele particularități (indicați varianta eronată):",
+    "question": "Economia naturala are urmatoarele particularitati (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "dezvoltă relațiile pe orizontală ale companiilor mari"
+        "text": "dezvolta relatiile pe orizontala ale companiilor mari"
       },
       {
         "key": "B",
-        "text": "angajează investiții minime"
+        "text": "angajeaza investitii minime"
       },
       {
         "key": "C",
@@ -11855,33 +11855,33 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "elimină sau reduce la minim fluxurile de tip bani - marfă - bani"
+        "text": "elimina sau reduce la minim fluxurile de tip bani - marfa - bani"
       },
       {
         "key": "E",
-        "text": "valorifică în scopuri economice diferite resurse disponibile din gospodărie (teren, spațiu construit, inventar casnic etc)"
+        "text": "valorifica in scopuri economice diferite resurse disponibile din gospodarie (teren, spatiu construit, inventar casnic etc)"
       }
     ],
     "correct": "A",
-    "correctText": "dezvoltă relațiile pe orizontală ale companiilor mari"
+    "correctText": "dezvolta relatiile pe orizontala ale companiilor mari"
   },
   {
     "id": "Managementul Afacerilor-11",
     "nr": 11,
     "category": "Managementul Afacerilor",
-    "question": "Prin întreprindere se înțelege una din următoarele forme de organizare a afacerilor (indicați varianta eronată):",
+    "question": "Prin intreprindere se intelege una din urmatoarele forme de organizare a afacerilor (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "societăți reglementate de Legea societăților nr. 31/1990"
+        "text": "societati reglementate de Legea societatilor nr. 31/1990"
       },
       {
         "key": "B",
-        "text": "asociațiile care au înscrise activități economice în actele statutare"
+        "text": "asociatiile care au inscrise activitati economice in actele statutare"
       },
       {
         "key": "C",
-        "text": "societăți cooperative"
+        "text": "societati cooperative"
       },
       {
         "key": "D",
@@ -11889,21 +11889,21 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "întreprinzători titulari ai unei întreprinderi individuale"
+        "text": "intreprinzatori titulari ai unei intreprinderi individuale"
       }
     ],
     "correct": "B",
-    "correctText": "asociațiile care au înscrise activități economice în actele statutare"
+    "correctText": "asociatiile care au inscrise activitati economice in actele statutare"
   },
   {
     "id": "Managementul Afacerilor-12",
     "nr": 12,
     "category": "Managementul Afacerilor",
-    "question": "Prin întreprindere se înțelege una dintre următoarele forme de organizare a afacerilor (indicați varianta eronată):",
+    "question": "Prin intreprindere se intelege una dintre urmatoarele forme de organizare a afacerilor (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "întreprinderile familiale"
+        "text": "intreprinderile familiale"
       },
       {
         "key": "B",
@@ -11911,89 +11911,89 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "asociațiile patronale"
+        "text": "asociatiile patronale"
       },
       {
         "key": "D",
-        "text": "societăți agricole"
+        "text": "societati agricole"
       },
       {
         "key": "E",
-        "text": "societăți cooperative"
+        "text": "societati cooperative"
       }
     ],
     "correct": "C",
-    "correctText": "asociațiile patronale"
+    "correctText": "asociatiile patronale"
   },
   {
     "id": "Managementul Afacerilor-13",
     "nr": 13,
     "category": "Managementul Afacerilor",
-    "question": "Societățile pot fi organizate în una dintre următoarele forme (indicați varianta eronată):",
+    "question": "Societatile pot fi organizate in una dintre urmatoarele forme (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "societate în nume colectiv"
+        "text": "societate in nume colectiv"
       },
       {
         "key": "B",
-        "text": "societate în comandită simplă"
+        "text": "societate in comandita simpla"
       },
       {
         "key": "C",
-        "text": "societate pe acțiuni"
+        "text": "societate pe actiuni"
       },
       {
         "key": "D",
-        "text": "societate cu patrimoniu la purtător"
+        "text": "societate cu patrimoniu la purtator"
       },
       {
         "key": "E",
-        "text": "societate în comandită pe acțiuni"
+        "text": "societate in comandita pe actiuni"
       }
     ],
     "correct": "D",
-    "correctText": "societate cu patrimoniu la purtător"
+    "correctText": "societate cu patrimoniu la purtator"
   },
   {
     "id": "Managementul Afacerilor-14",
     "nr": 14,
     "category": "Managementul Afacerilor",
-    "question": "Societățile pot fi organizate în una din următoarele forme (indicați varianta eronată):",
+    "question": "Societatile pot fi organizate in una din urmatoarele forme (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "societate cu răspundere limitată"
+        "text": "societate cu raspundere limitata"
       },
       {
         "key": "B",
-        "text": "societate mixtă"
+        "text": "societate mixta"
       },
       {
         "key": "C",
-        "text": "societate pe acțiuni"
+        "text": "societate pe actiuni"
       },
       {
         "key": "D",
-        "text": "societate în comandită pe acțiuni"
+        "text": "societate in comandita pe actiuni"
       },
       {
         "key": "E",
-        "text": "societate în comandită simplă"
+        "text": "societate in comandita simpla"
       }
     ],
     "correct": "B",
-    "correctText": "societate mixtă"
+    "correctText": "societate mixta"
   },
   {
     "id": "Managementul Afacerilor-15",
     "nr": 15,
     "category": "Managementul Afacerilor",
-    "question": "Afacerile sub formă de societăți au următoarele particularități (indicați varianta eronată):",
+    "question": "Afacerile sub forma de societati au urmatoarele particularitati (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "se derulează pe baza Legii 31/1990 (Legea societăților) ca normă de bază"
+        "text": "se deruleaza pe baza Legii 31/1990 (Legea societatilor) ca norma de baza"
       },
       {
         "key": "B",
@@ -12001,33 +12001,33 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "presupun egalitatea drepturilor de vot ale întreprinzătorilor (în societățile agricole, fiecare asociat are un singur vot)"
+        "text": "presupun egalitatea drepturilor de vot ale intreprinzatorilor (in societatile agricole, fiecare asociat are un singur vot)"
       },
       {
         "key": "D",
-        "text": "impun închiderea afacerii în modalitățile legale și cu efectuarea operațiunilor de publicitate stabilite"
+        "text": "impun inchiderea afacerii in modalitatile legale si cu efectuarea operatiunilor de publicitate stabilite"
       },
       {
         "key": "E",
-        "text": "obligă la efectuarea tuturor înregistrărilor legale la Oficiul Registrului Comerțului"
+        "text": "obliga la efectuarea tuturor inregistrarilor legale la Oficiul Registrului Comertului"
       }
     ],
     "correct": "C",
-    "correctText": "presupun egalitatea drepturilor de vot ale întreprinzătorilor (în societățile agricole, fiecare asociat are un singur vot)"
+    "correctText": "presupun egalitatea drepturilor de vot ale intreprinzatorilor (in societatile agricole, fiecare asociat are un singur vot)"
   },
   {
     "id": "Managementul Afacerilor-16",
     "nr": 16,
     "category": "Managementul Afacerilor",
-    "question": "Tipul de societate are implicații asupra următoarelor elemente ale afacerii în etapa de constituire (indicați varianta eronată):",
+    "question": "Tipul de societate are implicatii asupra urmatoarelor elemente ale afacerii in etapa de constituire (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "procedura de înființare"
+        "text": "procedura de infiintare"
       },
       {
         "key": "B",
-        "text": "actele necesare la înființare"
+        "text": "actele necesare la infiintare"
       },
       {
         "key": "C",
@@ -12035,25 +12035,25 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "procedura de autorizare a activităților cu impact asupra mediului"
+        "text": "procedura de autorizare a activitatilor cu impact asupra mediului"
       },
       {
         "key": "E",
-        "text": "posibilitatea utilizării subscripției publice pentru obținerea capitalului social"
+        "text": "posibilitatea utilizarii subscriptiei publice pentru obtinerea capitalului social"
       }
     ],
     "correct": "D",
-    "correctText": "procedura de autorizare a activităților cu impact asupra mediului"
+    "correctText": "procedura de autorizare a activitatilor cu impact asupra mediului"
   },
   {
     "id": "Managementul Afacerilor-17",
     "nr": 17,
     "category": "Managementul Afacerilor",
-    "question": "Tipul de societate are implicații asupra următoarelor elemente ale afacerii în etapa de constituire (indicați varianta eronată):",
+    "question": "Tipul de societate are implicatii asupra urmatoarelor elemente ale afacerii in etapa de constituire (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "regimul aporturilor la înființare"
+        "text": "regimul aporturilor la infiintare"
       },
       {
         "key": "B",
@@ -12061,11 +12061,11 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "procedura de autorizare a activităților din punct de vedere al securității muncii"
+        "text": "procedura de autorizare a activitatilor din punct de vedere al securitatii muncii"
       },
       {
         "key": "D",
-        "text": "procedura de înființare"
+        "text": "procedura de infiintare"
       },
       {
         "key": "E",
@@ -12073,223 +12073,223 @@ window.QUESTIONS = [
       }
     ],
     "correct": "C",
-    "correctText": "procedura de autorizare a activităților din punct de vedere al securității muncii"
+    "correctText": "procedura de autorizare a activitatilor din punct de vedere al securitatii muncii"
   },
   {
     "id": "Managementul Afacerilor-18",
     "nr": 18,
     "category": "Managementul Afacerilor",
-    "question": "Tipul de societate are implicații asupra următoarelor elemente ale afacerii în etapa de funcționare (indicați varianta eronată):",
+    "question": "Tipul de societate are implicatii asupra urmatoarelor elemente ale afacerii in etapa de functionare (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "registrele care trebuie ținute"
+        "text": "registrele care trebuie tinute"
       },
       {
         "key": "B",
-        "text": "conducerea și organizarea contabilității"
+        "text": "conducerea si organizarea contabilitatii"
       },
       {
         "key": "C",
-        "text": "sistemele de administrare și management posibile"
+        "text": "sistemele de administrare si management posibile"
       },
       {
         "key": "D",
-        "text": "accesul la public pentru finanțarea afacerii"
+        "text": "accesul la public pentru finantarea afacerii"
       },
       {
         "key": "E",
-        "text": "tarifele aplicate la Registrul Comerțului"
+        "text": "tarifele aplicate la Registrul Comertului"
       }
     ],
     "correct": "E",
-    "correctText": "tarifele aplicate la Registrul Comerțului"
+    "correctText": "tarifele aplicate la Registrul Comertului"
   },
   {
     "id": "Managementul Afacerilor-19",
     "nr": 19,
     "category": "Managementul Afacerilor",
-    "question": "Tipul de societate are implicații asupra următoarelor elemente ale afacerii în etapa de funcționare (indicați varianta eronată):",
+    "question": "Tipul de societate are implicatii asupra urmatoarelor elemente ale afacerii in etapa de functionare (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "pragul pentru a deveni plătitor de TVA"
+        "text": "pragul pentru a deveni platitor de TVA"
       },
       {
         "key": "B",
-        "text": "relația dintre întreprinzători și afacere"
+        "text": "relatia dintre intreprinzatori si afacere"
       },
       {
         "key": "C",
-        "text": "relația dintre întreprinzători"
+        "text": "relatia dintre intreprinzatori"
       },
       {
         "key": "D",
-        "text": "registrele care trebuie ținute"
+        "text": "registrele care trebuie tinute"
       },
       {
         "key": "E",
-        "text": "conducerea și organizarea contabilității"
+        "text": "conducerea si organizarea contabilitatii"
       }
     ],
     "correct": "A",
-    "correctText": "pragul pentru a deveni plătitor de TVA"
+    "correctText": "pragul pentru a deveni platitor de TVA"
   },
   {
     "id": "Managementul Afacerilor-20",
     "nr": 20,
     "category": "Managementul Afacerilor",
-    "question": "Stabiliți afirmația exactă din următorul set de enunțuri:",
+    "question": "Stabiliti afirmatia exacta din urmatorul set de enunturi:",
     "answers": [
       {
         "key": "A",
-        "text": "activitățile economice pot fi desfășurate în toate domeniile, meseriile, ocupațiile sau profesiile pe care legea nu le interzice în mod expres pentru libera inițiativă"
+        "text": "activitatile economice pot fi desfasurate in toate domeniile, meseriile, ocupatiile sau profesiile pe care legea nu le interzice in mod expres pentru libera initiativa"
       },
       {
         "key": "B",
-        "text": "activitățile economice pot fi desfășurate în toate domeniile, meseriile, ocupațiile sau profesiile pe care legea le permite"
+        "text": "activitatile economice pot fi desfasurate in toate domeniile, meseriile, ocupatiile sau profesiile pe care legea le permite"
       },
       {
         "key": "C",
-        "text": "activitățile economice pot fi desfășurate în toate domeniile, meseriile, ocupațiile sau profesiile care pot face obiectul înregistrării în contabilitate"
+        "text": "activitatile economice pot fi desfasurate in toate domeniile, meseriile, ocupatiile sau profesiile care pot face obiectul inregistrarii in contabilitate"
       },
       {
         "key": "D",
-        "text": "activitățile economice pot fi desfășurate în toate domeniile, meseriile, ocupațiile sau profesiile pe care autoritățile publice le permit în mod expres"
+        "text": "activitatile economice pot fi desfasurate in toate domeniile, meseriile, ocupatiile sau profesiile pe care autoritatile publice le permit in mod expres"
       },
       {
         "key": "E",
-        "text": "activitățile economice pot fi desfășurate în toate domeniile, meseriile, ocupațiile sau profesiile care pot genera profit impozabil datorat bugetului de stat"
+        "text": "activitatile economice pot fi desfasurate in toate domeniile, meseriile, ocupatiile sau profesiile care pot genera profit impozabil datorat bugetului de stat"
       }
     ],
     "correct": "A",
-    "correctText": "activitățile economice pot fi desfășurate în toate domeniile, meseriile, ocupațiile sau profesiile pe care legea nu le interzice în mod expres pentru libera inițiativă"
+    "correctText": "activitatile economice pot fi desfasurate in toate domeniile, meseriile, ocupatiile sau profesiile pe care legea nu le interzice in mod expres pentru libera initiativa"
   },
   {
     "id": "Managementul Afacerilor-21",
     "nr": 21,
     "category": "Managementul Afacerilor",
-    "question": "Printre obligațiile afacerilor de tip persoană fizică autorizată, întreprinderi individuale și întreprinderi familiale se numără (indicați varianta eronată):",
+    "question": "Printre obligatiile afacerilor de tip persoana fizica autorizata, intreprinderi individuale si intreprinderi familiale se numara (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "deținerea unui sediu profesional pe teritoriul României"
+        "text": "detinerea unui sediu profesional pe teritoriul Romaniei"
       },
       {
         "key": "B",
-        "text": "păstrarea la sediul profesional a tuturor documentelor contabile (de sinteză și justificative)"
+        "text": "pastrarea la sediul profesional a tuturor documentelor contabile (de sinteza si justificative)"
       },
       {
         "key": "C",
-        "text": "să solicite înregistrarea în Registrul Comerțului înainte de începerea activității economice, dar nu mai târziu de 15 zile de la încheierea acordului de constituire"
+        "text": "sa solicite inregistrarea in Registrul Comertului inainte de inceperea activitatii economice, dar nu mai tarziu de 15 zile de la incheierea acordului de constituire"
       },
       {
         "key": "D",
-        "text": "să solicite autorizarea funcționării, înainte de începerea activității economice, dar nu mai târziu de 15 zile de la încheierea acordului de constituire"
+        "text": "sa solicite autorizarea functionarii, inainte de inceperea activitatii economice, dar nu mai tarziu de 15 zile de la incheierea acordului de constituire"
       },
       {
         "key": "E",
-        "text": "să solicite înregistrarea în Registrul Comerțului în termen de 30 de zile de la începerea activității economice, dar nu mai târziu de 15 zile de la încheierea acordului de constituire"
+        "text": "sa solicite inregistrarea in Registrul Comertului in termen de 30 de zile de la inceperea activitatii economice, dar nu mai tarziu de 15 zile de la incheierea acordului de constituire"
       }
     ],
     "correct": "E",
-    "correctText": "să solicite înregistrarea în Registrul Comerțului în termen de 30 de zile de la începerea activității economice, dar nu mai târziu de 15 zile de la încheierea acordului de constituire"
+    "correctText": "sa solicite inregistrarea in Registrul Comertului in termen de 30 de zile de la inceperea activitatii economice, dar nu mai tarziu de 15 zile de la incheierea acordului de constituire"
   },
   {
     "id": "Managementul Afacerilor-22",
     "nr": 22,
     "category": "Managementul Afacerilor",
-    "question": "Printre obligațiile afacerilor de tip persoană fizică autorizată, întreprinderi individuale și întreprinderi familiale se numără (indicați varianta eronată):",
+    "question": "Printre obligatiile afacerilor de tip persoana fizica autorizata, intreprinderi individuale si intreprinderi familiale se numara (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "deținerea unui sediu profesional pe teritoriul României"
+        "text": "detinerea unui sediu profesional pe teritoriul Romaniei"
       },
       {
         "key": "B",
-        "text": "păstrarea la sediul profesional a tuturor documentelor contabile (de sinteză și justificative)"
+        "text": "pastrarea la sediul profesional a tuturor documentelor contabile (de sinteza si justificative)"
       },
       {
         "key": "C",
-        "text": "să solicite autorizarea funcționării, în maxim 15 zile de la începerea activității economice"
+        "text": "sa solicite autorizarea functionarii, in maxim 15 zile de la inceperea activitatii economice"
       },
       {
         "key": "D",
-        "text": "să obțină, înainte de începerea activității, autorizațiile, avizele, licențele și altele asemenea, prevăzute în legi speciale, pentru desfășurarea anumitor activități economice"
+        "text": "sa obtina, inainte de inceperea activitatii, autorizatiile, avizele, licentele si altele asemenea, prevazute in legi speciale, pentru desfasurarea anumitor activitati economice"
       },
       {
         "key": "E",
-        "text": "să solicite autorizarea funcționării, înainte de începerea activității economice, dar nu mai târziu de 15 zile de la încheierea acordului de constituire"
+        "text": "sa solicite autorizarea functionarii, inainte de inceperea activitatii economice, dar nu mai tarziu de 15 zile de la incheierea acordului de constituire"
       }
     ],
     "correct": "C",
-    "correctText": "să solicite autorizarea funcționării, în maxim 15 zile de la începerea activității economice"
+    "correctText": "sa solicite autorizarea functionarii, in maxim 15 zile de la inceperea activitatii economice"
   },
   {
     "id": "Managementul Afacerilor-23",
     "nr": 23,
     "category": "Managementul Afacerilor",
-    "question": "Pot desfășura activități economice sub forma de persoană fizică autorizată, persoanele fizice care îndeplinesc următoarele condiții (indicați varianta eronată):",
+    "question": "Pot desfasura activitati economice sub forma de persoana fizica autorizata, persoanele fizice care indeplinesc urmatoarele conditii (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "numai dacă au studii universitare din domeniul profesiei pe care o exercită"
+        "text": "numai daca au studii universitare din domeniul profesiei pe care o exercita"
       },
       {
         "key": "B",
-        "text": "nu au săvârșit fapte sancționate de legile financiare, vamale și cele care privesc disciplina financiar-fiscală, de natura celor care se înscriu în cazierul fiscal"
+        "text": "nu au savarsit fapte sanctionate de legile financiare, vamale si cele care privesc disciplina financiar-fiscala, de natura celor care se inscriu in cazierul fiscal"
       },
       {
         "key": "C",
-        "text": "au un sediu profesional declarat în România"
+        "text": "au un sediu profesional declarat in Romania"
       },
       {
         "key": "D",
-        "text": "declară pe propria răspundere că îndeplinesc condițiile de funcționare prevăzute de legislația specifică în domeniul sanitar, sanitar-veterinar, protecției mediului și al protecției muncii"
+        "text": "declara pe propria raspundere ca indeplinesc conditiile de functionare prevazute de legislatia specifica in domeniul sanitar, sanitar-veterinar, protectiei mediului si al protectiei muncii"
       },
       {
         "key": "E",
-        "text": "să facă dovada îndeplinirii acelor condiții de pregătire profesională și/sau de atestare a pregătirii profesionale cerute, potrivit unor prevederi legale speciale, pentru anumite activități economice"
+        "text": "sa faca dovada indeplinirii acelor conditii de pregatire profesionala si/sau de atestare a pregatirii profesionale cerute, potrivit unor prevederi legale speciale, pentru anumite activitati economice"
       }
     ],
     "correct": "A",
-    "correctText": "numai dacă au studii universitare din domeniul profesiei pe care o exercită"
+    "correctText": "numai daca au studii universitare din domeniul profesiei pe care o exercita"
   },
   {
     "id": "Managementul Afacerilor-24",
     "nr": 24,
     "category": "Managementul Afacerilor",
-    "question": "Pot desfășura activități economice sub forma de persoană fizică autorizată, persoanele fizice care (indicați varianta eronată)",
+    "question": "Pot desfasura activitati economice sub forma de persoana fizica autorizata, persoanele fizice care (indicati varianta eronata)",
     "answers": [
       {
         "key": "A",
-        "text": "au împlinit vârsta de 18 ani"
+        "text": "au implinit varsta de 18 ani"
       },
       {
         "key": "B",
-        "text": "nu au săvârșit nici un fel de abateri contravenționale sau penale grave"
+        "text": "nu au savarsit nici un fel de abateri contraventionale sau penale grave"
       },
       {
         "key": "C",
-        "text": "nu au săvârșit fapte sancționate de legile financiare, vamale și cele care privesc disciplina financiar-fiscală, de natura celor care se înscriu în cazierul fiscal"
+        "text": "nu au savarsit fapte sanctionate de legile financiare, vamale si cele care privesc disciplina financiar-fiscala, de natura celor care se inscriu in cazierul fiscal"
       },
       {
         "key": "D",
-        "text": "au un sediu profesional declarat în România"
+        "text": "au un sediu profesional declarat in Romania"
       },
       {
         "key": "E",
-        "text": "declară pe propria răspundere că îndeplinesc condițiile de funcționare prevăzute de legislația specifică în domeniul sanitar, sanitar-veterinar, protecției mediului și al protecției muncii"
+        "text": "declara pe propria raspundere ca indeplinesc conditiile de functionare prevazute de legislatia specifica in domeniul sanitar, sanitar-veterinar, protectiei mediului si al protectiei muncii"
       }
     ],
     "correct": "B",
-    "correctText": "nu au săvârșit nici un fel de abateri contravenționale sau penale grave"
+    "correctText": "nu au savarsit nici un fel de abateri contraventionale sau penale grave"
   },
   {
     "id": "Managementul Afacerilor-25",
     "nr": 25,
     "category": "Managementul Afacerilor",
-    "question": "Fac obiectul înregistrării la Registrul Comerțului (ale) următoare(lor) modificări ale statutului unei persoane fizice autorizate (indicați varianta corectă):",
+    "question": "Fac obiectul inregistrarii la Registrul Comertului (ale) urmatoare(lor) modificari ale statutului unei persoane fizice autorizate (indicati varianta corecta):",
     "answers": [
       {
         "key": "A",
@@ -12305,11 +12305,11 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "trecerea la plata TVA (firma devine plătitor de TVA)"
+        "text": "trecerea la plata TVA (firma devine platitor de TVA)"
       },
       {
         "key": "E",
-        "text": "înființarea unor noi funcții de conducere managerială a afacerii"
+        "text": "infiintarea unor noi functii de conducere manageriala a afacerii"
       }
     ],
     "correct": "A",
@@ -12319,165 +12319,165 @@ window.QUESTIONS = [
     "id": "Managementul Afacerilor-26",
     "nr": 26,
     "category": "Managementul Afacerilor",
-    "question": "O persoană fizică autorizată are următoarele drepturi pe durata funcționării (indicați varianta eronată):",
+    "question": "O persoana fizica autorizata are urmatoarele drepturi pe durata functionarii (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "poate colabora cu alte persoane fizice autorizate ca PFA, întreprinzători, persoane fizice, titulari ai unor întreprinderi individuale sau reprezentanți ai unor întreprinderi familiale ori cu alte persoane fizice sau juridice, pentru efectuarea unei activități economice"
+        "text": "poate colabora cu alte persoane fizice autorizate ca PFA, intreprinzatori, persoane fizice, titulari ai unor intreprinderi individuale sau reprezentanti ai unor intreprinderi familiale ori cu alte persoane fizice sau juridice, pentru efectuarea unei activitati economice"
       },
       {
         "key": "B",
-        "text": "poate transforma activitatea de PFA în societate cu răspundere limitată"
+        "text": "poate transforma activitatea de PFA in societate cu raspundere limitata"
       },
       {
         "key": "C",
-        "text": "poate angaja, în calitate de angajator, terțe persoane cu contract individual de muncă, încheiat în condițiile legii"
+        "text": "poate angaja, in calitate de angajator, terte persoane cu contract individual de munca, incheiat in conditiile legii"
       },
       {
         "key": "D",
-        "text": "persoana fizică autorizată este asigurată în sistemul public de pensii și alte drepturi de asigurări sociale în condițiile prevăzute de lege"
+        "text": "persoana fizica autorizata este asigurata in sistemul public de pensii si alte drepturi de asigurari sociale in conditiile prevazute de lege"
       },
       {
         "key": "E",
-        "text": "are dreptul de a fi asigurată în sistemul asigurărilor sociale de sănătate și al asigurărilor pentru șomaj, în condițiile prevăzute de lege"
+        "text": "are dreptul de a fi asigurata in sistemul asigurarilor sociale de sanatate si al asigurarilor pentru somaj, in conditiile prevazute de lege"
       }
     ],
     "correct": "B",
-    "correctText": "poate transforma activitatea de PFA în societate cu răspundere limitată"
+    "correctText": "poate transforma activitatea de PFA in societate cu raspundere limitata"
   },
   {
     "id": "Managementul Afacerilor-27",
     "nr": 27,
     "category": "Managementul Afacerilor",
-    "question": "O persoană fizică autorizată are următoarele drepturi și obligații pe durata funcționării (indicați varianta eronată):",
+    "question": "O persoana fizica autorizata are urmatoarele drepturi si obligatii pe durata functionarii (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "Persoana fizică autorizată își desfășoară activitatea folosind în principal forța de muncă și aptitudinile sale profesionale"
+        "text": "Persoana fizica autorizata isi desfasoara activitatea folosind in principal forta de munca si aptitudinile sale profesionale"
       },
       {
         "key": "B",
-        "text": "Poate cere ulterior schimbarea statutului juridic dobândit și autorizarea ca întreprinzător persoană fizică titular al unei întreprinderi individuale, cu respectarea dispozițiilor legale"
+        "text": "Poate cere ulterior schimbarea statutului juridic dobandit si autorizarea ca intreprinzator persoana fizica titular al unei intreprinderi individuale, cu respectarea dispozitiilor legale"
       },
       {
         "key": "C",
-        "text": "Poate opta pentru plata impozitului pe profit la începutul oricărui exercițiu financiar"
+        "text": "Poate opta pentru plata impozitului pe profit la inceputul oricarui exercitiu financiar"
       },
       {
         "key": "D",
-        "text": "Răspunde pentru obligațiile sale cu patrimoniul de afectațiuni, dacă acesta a fost constituit și, în completare cu intreg patrimoniul"
+        "text": "Raspunde pentru obligatiile sale cu patrimoniul de afectatiuni, daca acesta a fost constituit si, in completare cu intreg patrimoniul"
       },
       {
         "key": "E",
-        "text": "Poate cumula calitatea de persoană fizică autorizată cu cea de salariat al unei terțe persoane care funcționează atât în același domeniu, cât și într-un alt domeniu de activitate economică decât cel pentru care PFA este autorizată"
+        "text": "Poate cumula calitatea de persoana fizica autorizata cu cea de salariat al unei terte persoane care functioneaza atat in acelasi domeniu, cat si intr-un alt domeniu de activitate economica decat cel pentru care PFA este autorizata"
       }
     ],
     "correct": "C",
-    "correctText": "Poate opta pentru plata impozitului pe profit la începutul oricărui exercițiu financiar"
+    "correctText": "Poate opta pentru plata impozitului pe profit la inceputul oricarui exercitiu financiar"
   },
   {
     "id": "Managementul Afacerilor-28",
     "nr": 28,
     "category": "Managementul Afacerilor",
-    "question": "O persoană fizică autorizată (PFA) are următoarele restricții pe durata funcționării (indicați varianta corectă):",
+    "question": "O persoana fizica autorizata (PFA) are urmatoarele restrictii pe durata functionarii (indicati varianta corecta):",
     "answers": [
       {
         "key": "A",
-        "text": "nu poate primi pensie pentru limita de vârstă concomitent cu venituri în calitate de PFA"
+        "text": "nu poate primi pensie pentru limita de varsta concomitent cu venituri in calitate de PFA"
       },
       {
         "key": "B",
-        "text": "nu poate primi subvenții din bugetul public"
+        "text": "nu poate primi subventii din bugetul public"
       },
       {
         "key": "C",
-        "text": "nu poate urma cursurile la zi ale unei universități"
+        "text": "nu poate urma cursurile la zi ale unei universitati"
       },
       {
         "key": "D",
-        "text": "nu poate cumula și calitatea de întreprinzător persoană fizică titular al unei întreprinderi individuale"
+        "text": "nu poate cumula si calitatea de intreprinzator persoana fizica titular al unei intreprinderi individuale"
       },
       {
         "key": "E",
-        "text": "nu se poate asocia în organizații profesionale"
+        "text": "nu se poate asocia in organizatii profesionale"
       }
     ],
     "correct": "D",
-    "correctText": "nu poate cumula și calitatea de întreprinzător persoană fizică titular al unei întreprinderi individuale"
+    "correctText": "nu poate cumula si calitatea de intreprinzator persoana fizica titular al unei intreprinderi individuale"
   },
   {
     "id": "Managementul Afacerilor-29",
     "nr": 29,
     "category": "Managementul Afacerilor",
-    "question": "Pentru a putea ajunge la stadiul de a opera ca liber profesionist, un tânăr trebuie să parcurgă următoarele etape (indicați varianta eronată):",
+    "question": "Pentru a putea ajunge la stadiul de a opera ca liber profesionist, un tanar trebuie sa parcurga urmatoarele etape (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "să urmeze cursurile universitare care au ca finalitate, printre alte opțiuni, varianta de liber profesionist"
+        "text": "sa urmeze cursurile universitare care au ca finalitate, printre alte optiuni, varianta de liber profesionist"
       },
       {
         "key": "B",
-        "text": "să susțină examenele de acces la stagiu pentru profesie"
+        "text": "sa sustina examenele de acces la stagiu pentru profesie"
       },
       {
         "key": "C",
-        "text": "să parcurgă etapa de stagiu în profesie"
+        "text": "sa parcurga etapa de stagiu in profesie"
       },
       {
         "key": "D",
-        "text": "să promoveze examenul de intrare în profesie"
+        "text": "sa promoveze examenul de intrare in profesie"
       },
       {
         "key": "E",
-        "text": "să obțină recomandare de la doi liber profesioniști în funcție"
+        "text": "sa obtina recomandare de la doi liber profesionisti in functie"
       }
     ],
     "correct": "E",
-    "correctText": "să obțină recomandare de la doi liber profesioniști în funcție"
+    "correctText": "sa obtina recomandare de la doi liber profesionisti in functie"
   },
   {
     "id": "Managementul Afacerilor-30",
     "nr": 30,
     "category": "Managementul Afacerilor",
-    "question": "Pentru a putea ajunge la stadiul de a opera ca liber profesionist, un tânăr trebuie să parcurgă următoarele etape (indicați varianta eronată):",
+    "question": "Pentru a putea ajunge la stadiul de a opera ca liber profesionist, un tanar trebuie sa parcurga urmatoarele etape (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "să câștige concursul pentru un loc într-una din organizațiile teritoriale ale profesiei"
+        "text": "sa castige concursul pentru un loc intr-una din organizatiile teritoriale ale profesiei"
       },
       {
         "key": "B",
-        "text": "să dispună de resursele financiare necesare realizării investițiilor specifice cerute de standardele profesionale pentru desfășurarea activității"
+        "text": "sa dispuna de resursele financiare necesare realizarii investitiilor specifice cerute de standardele profesionale pentru desfasurarea activitatii"
       },
       {
         "key": "C",
-        "text": "să susțină examenele de acces la stagiu pentru profesie"
+        "text": "sa sustina examenele de acces la stagiu pentru profesie"
       },
       {
         "key": "D",
-        "text": "să renunțe la oricare alt tip de venit"
+        "text": "sa renunte la oricare alt tip de venit"
       },
       {
         "key": "E",
-        "text": "să promoveze examenul de intrare în profesie"
+        "text": "sa promoveze examenul de intrare in profesie"
       }
     ],
     "correct": "D",
-    "correctText": "să renunțe la oricare alt tip de venit"
+    "correctText": "sa renunte la oricare alt tip de venit"
   },
   {
     "id": "Managementul Afacerilor-31",
     "nr": 31,
     "category": "Managementul Afacerilor",
-    "question": "Printre elementele specifice ale activității ca liber profesionist se numără (indicați varianta eronată):",
+    "question": "Printre elementele specifice ale activitatii ca liber profesionist se numara (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "statutul social conferit în relațiile personale"
+        "text": "statutul social conferit in relatiile personale"
       },
       {
         "key": "B",
-        "text": "dreptul de a alege o formă de societate conform căreia să-și deruleze activitatea"
+        "text": "dreptul de a alege o forma de societate conform careia sa-si deruleze activitatea"
       },
       {
         "key": "C",
@@ -12485,25 +12485,25 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "obligația parcurgerii tuturor etapele necesare, rezultatele intermediare neaducând nici un beneficiu"
+        "text": "obligatia parcurgerii tuturor etapele necesare, rezultatele intermediare neaducand nici un beneficiu"
       },
       {
         "key": "E",
-        "text": "normele profesionale și cele deontologice care impun restricții în desfășurarea activității anumitor profesii"
+        "text": "normele profesionale si cele deontologice care impun restrictii in desfasurarea activitatii anumitor profesii"
       }
     ],
     "correct": "B",
-    "correctText": "dreptul de a alege o formă de societate conform căreia să-și deruleze activitatea"
+    "correctText": "dreptul de a alege o forma de societate conform careia sa-si deruleze activitatea"
   },
   {
     "id": "Managementul Afacerilor-32",
     "nr": 32,
     "category": "Managementul Afacerilor",
-    "question": "Societatea agricolă are următoarele caracteristici (indicați varianta eronată):",
+    "question": "Societatea agricola are urmatoarele caracteristici (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "interzice cumulul cu poziția de salariat la o societate"
+        "text": "interzice cumulul cu pozitia de salariat la o societate"
       },
       {
         "key": "B",
@@ -12511,11 +12511,11 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "are un număr nelimitat și variabil de asociați"
+        "text": "are un numar nelimitat si variabil de asociati"
       },
       {
         "key": "D",
-        "text": "obiectul de activitate este exploatarea agricolă a pământului, uneltelor, animalelor și altor mijloace aduse în societate, precum și realizarea de investiții de interes agricol"
+        "text": "obiectul de activitate este exploatarea agricola a pamantului, uneltelor, animalelor si altor mijloace aduse in societate, precum si realizarea de investitii de interes agricol"
       },
       {
         "key": "E",
@@ -12523,13 +12523,13 @@ window.QUESTIONS = [
       }
     ],
     "correct": "A",
-    "correctText": "interzice cumulul cu poziția de salariat la o societate"
+    "correctText": "interzice cumulul cu pozitia de salariat la o societate"
   },
   {
     "id": "Managementul Afacerilor-33",
     "nr": 33,
     "category": "Managementul Afacerilor",
-    "question": "Societatea agricolă are următoarele caracteristici (indicați varianta eronată):",
+    "question": "Societatea agricola are urmatoarele caracteristici (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
@@ -12537,7 +12537,7 @@ window.QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "nu permite ca aport decât bunuri nou cumpărate"
+        "text": "nu permite ca aport decat bunuri nou cumparate"
       },
       {
         "key": "C",
@@ -12545,29 +12545,29 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "fiecare asociat are un singur vot, oricare ar fi valoarea părților sociale pe care le deține"
+        "text": "fiecare asociat are un singur vot, oricare ar fi valoarea partilor sociale pe care le detine"
       },
       {
         "key": "E",
-        "text": "pot fi incluse creanțe în aporturile membrilor"
+        "text": "pot fi incluse creante in aporturile membrilor"
       }
     ],
     "correct": "B",
-    "correctText": "nu permite ca aport decât bunuri nou cumpărate"
+    "correctText": "nu permite ca aport decat bunuri nou cumparate"
   },
   {
     "id": "Managementul Afacerilor-34",
     "nr": 34,
     "category": "Managementul Afacerilor",
-    "question": "Societatea agricolă are următoarele caracteristici (indicați varianta eronată):",
+    "question": "Societatea agricola are urmatoarele caracteristici (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "membrii asociați pot aduce aporturi în proprietate sau în folosința societății agricole"
+        "text": "membrii asociati pot aduce aporturi in proprietate sau in folosinta societatii agricole"
       },
       {
         "key": "B",
-        "text": "are un număr nelimitat și variabil de asociați"
+        "text": "are un numar nelimitat si variabil de asociati"
       },
       {
         "key": "C",
@@ -12589,37 +12589,37 @@ window.QUESTIONS = [
     "id": "Managementul Afacerilor-35",
     "nr": 35,
     "category": "Managementul Afacerilor",
-    "question": "Terenurile agricole se aduc ca aport la societatea agricolă (indicați varianta corectă)",
+    "question": "Terenurile agricole se aduc ca aport la societatea agricola (indicati varianta corecta)",
     "answers": [
       {
         "key": "A",
-        "text": "în folosința și proprietatea societății"
+        "text": "in folosinta si proprietatea societatii"
       },
       {
         "key": "B",
-        "text": "în folosința societății"
+        "text": "in folosinta societatii"
       },
       {
         "key": "C",
-        "text": "în proprietatea societății"
+        "text": "in proprietatea societatii"
       },
       {
         "key": "D",
-        "text": "în funcție de Statutul societății agricole"
+        "text": "in functie de Statutul societatii agricole"
       },
       {
         "key": "E",
-        "text": "conform aprobării Adunării Generale a societății agricole"
+        "text": "conform aprobarii Adunarii Generale a societatii agricole"
       }
     ],
     "correct": "B",
-    "correctText": "în folosința societății"
+    "correctText": "in folosinta societatii"
   },
   {
     "id": "Managementul Afacerilor-36",
     "nr": 36,
     "category": "Managementul Afacerilor",
-    "question": "Calitatea de asociat în societatea agricolă încetează prin (indicați varianta eronată):",
+    "question": "Calitatea de asociat in societatea agricola inceteaza prin (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
@@ -12631,7 +12631,7 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "înstrăinare sub orice formă legală a terenului adus în folosință"
+        "text": "instrainare sub orice forma legala a terenului adus in folosinta"
       },
       {
         "key": "D",
@@ -12649,67 +12649,67 @@ window.QUESTIONS = [
     "id": "Managementul Afacerilor-37",
     "nr": 37,
     "category": "Managementul Afacerilor",
-    "question": "La ieșirea din societatea agricolă se aplică următoarele reguli (indicați varianta eronată):",
+    "question": "La iesirea din societatea agricola se aplica urmatoarele reguli (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "societatea este obligată să restituie părțile sociale ale asociaților ieșiți în orice mod"
+        "text": "societatea este obligata sa restituie partile sociale ale asociatilor iesiti in orice mod"
       },
       {
         "key": "B",
-        "text": "părțile sociale de restituit se corectează cu partea cuvenită din profitul sau pierderea societății, potrivit bilanțului aprobat de adunarea generală pentru finele anului în care a încetat calitatea de asociat"
+        "text": "partile sociale de restituit se corecteaza cu partea cuvenita din profitul sau pierderea societatii, potrivit bilantului aprobat de adunarea generala pentru finele anului in care a incetat calitatea de asociat"
       },
       {
         "key": "C",
-        "text": "societatea este în drept să rețină din partea ce se cuvine fostului asociat sumele datorate de acesta, oricare ar fi scadențele datoriilor"
+        "text": "societatea este in drept sa retina din partea ce se cuvine fostului asociat sumele datorate de acesta, oricare ar fi scadentele datoriilor"
       },
       {
         "key": "D",
-        "text": "părțile sociale, înainte de a fi restituite, sunt supuse reținerilor de natura impozitelor și taxelor locale datorate autorității fiscale pe a cărei rază este sediul societății agricole"
+        "text": "partile sociale, inainte de a fi restituite, sunt supuse retinerilor de natura impozitelor si taxelor locale datorate autoritatii fiscale pe a carei raza este sediul societatii agricole"
       },
       {
         "key": "E",
-        "text": "dreptul de reținere a sumelor datorate de asociatul care a ieșit din asociația agricolă constituie un privilegiu al societății și el conferă acesteia un drept de preferință față de orice creditor, urmăritor sau cesionar, indiferent de data creanței acestora"
+        "text": "dreptul de retinere a sumelor datorate de asociatul care a iesit din asociatia agricola constituie un privilegiu al societatii si el confera acesteia un drept de preferinta fata de orice creditor, urmaritor sau cesionar, indiferent de data creantei acestora"
       }
     ],
     "correct": "D",
-    "correctText": "părțile sociale, înainte de a fi restituite, sunt supuse reținerilor de natura impozitelor și taxelor locale datorate autorității fiscale pe a cărei rază este sediul societății agricole"
+    "correctText": "partile sociale, inainte de a fi restituite, sunt supuse retinerilor de natura impozitelor si taxelor locale datorate autoritatii fiscale pe a carei raza este sediul societatii agricole"
   },
   {
     "id": "Managementul Afacerilor-38",
     "nr": 38,
     "category": "Managementul Afacerilor",
-    "question": "Una din caracteristicile societății de tip cooperativă este (indicați varianta eronată):",
+    "question": "Una din caracteristicile societatii de tip cooperativa este (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "este constituită pe baza consimțământului liber exprimat de persoanele care au fondat-o"
+        "text": "este constituita pe baza consimtamantului liber exprimat de persoanele care au fondat-o"
       },
       {
         "key": "B",
-        "text": "are scopul promovării intereselor economice, sociale și culturale ale membrilor cooperatori"
+        "text": "are scopul promovarii intereselor economice, sociale si culturale ale membrilor cooperatori"
       },
       {
         "key": "C",
-        "text": "este deținută în comun de către membrii săi"
+        "text": "este detinuta in comun de catre membrii sai"
       },
       {
         "key": "D",
-        "text": "funcționează în conformitate cu principiile cooperatiste"
+        "text": "functioneaza in conformitate cu principiile cooperatiste"
       },
       {
         "key": "E",
-        "text": "are garantată stabilitatea regimului fiscal pe durata funcționării"
+        "text": "are garantata stabilitatea regimului fiscal pe durata functionarii"
       }
     ],
     "correct": "E",
-    "correctText": "are garantată stabilitatea regimului fiscal pe durata funcționării"
+    "correctText": "are garantata stabilitatea regimului fiscal pe durata functionarii"
   },
   {
     "id": "Managementul Afacerilor-39",
     "nr": 39,
     "category": "Managementul Afacerilor",
-    "question": "Una din caracteristicile societății de tip cooperativă este (indicați varianta eronată):",
+    "question": "Una din caracteristicile societatii de tip cooperativa este (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
@@ -12717,33 +12717,33 @@ window.QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "are scopul promovării intereselor economice, sociale și culturale ale membrilor cooperatori"
+        "text": "are scopul promovarii intereselor economice, sociale si culturale ale membrilor cooperatori"
       },
       {
         "key": "C",
-        "text": "este controlată democratic de către membrii săi"
+        "text": "este controlata democratic de catre membrii sai"
       },
       {
         "key": "D",
-        "text": "nu are obligația autorizării pentru nici un fel de activitate desfășurată"
+        "text": "nu are obligatia autorizarii pentru nici un fel de activitate desfasurata"
       },
       {
         "key": "E",
-        "text": "este constituită pe baza consimțământului liber exprimat de persoanele care au fondat-o"
+        "text": "este constituita pe baza consimtamantului liber exprimat de persoanele care au fondat-o"
       }
     ],
     "correct": "D",
-    "correctText": "nu are obligația autorizării pentru nici un fel de activitate desfășurată"
+    "correctText": "nu are obligatia autorizarii pentru nici un fel de activitate desfasurata"
   },
   {
     "id": "Managementul Afacerilor-40",
     "nr": 40,
     "category": "Managementul Afacerilor",
-    "question": "Principiile cooperatiste aplicate de societățile cooperatiste sunt (indicați varianta eronată):",
+    "question": "Principiile cooperatiste aplicate de societatile cooperatiste sunt (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "principiul asocierii voluntare și deschise"
+        "text": "principiul asocierii voluntare si deschise"
       },
       {
         "key": "B",
@@ -12755,11 +12755,11 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "principiul autonomiei și independenței societăților cooperative"
+        "text": "principiul autonomiei si independentei societatilor cooperative"
       },
       {
         "key": "E",
-        "text": "principiul educării, instruirii și informării membrilor cooperatori"
+        "text": "principiul educarii, instruirii si informarii membrilor cooperatori"
       }
     ],
     "correct": "C",
@@ -12769,165 +12769,165 @@ window.QUESTIONS = [
     "id": "Managementul Afacerilor-41",
     "nr": 41,
     "category": "Managementul Afacerilor",
-    "question": "Una din caracteristicile societății de tip cooperativă este (indicați varianta eronată):",
+    "question": "Una din caracteristicile societatii de tip cooperativa este (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "membrii cooperatori participă la stabilirea politicilor"
+        "text": "membrii cooperatori participa la stabilirea politicilor"
       },
       {
         "key": "B",
-        "text": "membrii cooperatori participă la adoptarea deciziilor"
+        "text": "membrii cooperatori participa la adoptarea deciziilor"
       },
       {
         "key": "C",
-        "text": "în societățile cooperative de gradul 1, votul este în funcție de părțile sociale deținute de fiecare membru"
+        "text": "in societatile cooperative de gradul 1, votul este in functie de partile sociale detinute de fiecare membru"
       },
       {
         "key": "D",
-        "text": "în societățile cooperative de gradul 1 membrii au drepturi egale de vot"
+        "text": "in societatile cooperative de gradul 1 membrii au drepturi egale de vot"
       },
       {
         "key": "E",
-        "text": "membrii cooperatori primesc compensația din profit proporțional cu cota de participare la capitalul social"
+        "text": "membrii cooperatori primesc compensatia din profit proportional cu cota de participare la capitalul social"
       }
     ],
     "correct": "C",
-    "correctText": "în societățile cooperative de gradul 1, votul este în funcție de părțile sociale deținute de fiecare membru"
+    "correctText": "in societatile cooperative de gradul 1, votul este in functie de partile sociale detinute de fiecare membru"
   },
   {
     "id": "Managementul Afacerilor-42",
     "nr": 42,
     "category": "Managementul Afacerilor",
-    "question": "Societățile cooperative de gradul 1 se pot constitui în una dintre următoarele forme (indicați varianta eronată):",
+    "question": "Societatile cooperative de gradul 1 se pot constitui in una dintre urmatoarele forme (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "societăți cooperative meșteșugărești"
+        "text": "societati cooperative mestesugaresti"
       },
       {
         "key": "B",
-        "text": "societăți cooperative de consum"
+        "text": "societati cooperative de consum"
       },
       {
         "key": "C",
-        "text": "societăți cooperative de valorificare"
+        "text": "societati cooperative de valorificare"
       },
       {
         "key": "D",
-        "text": "societăți cooperative bancare"
+        "text": "societati cooperative bancare"
       },
       {
         "key": "E",
-        "text": "societăți cooperative agricole"
+        "text": "societati cooperative agricole"
       }
     ],
     "correct": "D",
-    "correctText": "societăți cooperative bancare"
+    "correctText": "societati cooperative bancare"
   },
   {
     "id": "Managementul Afacerilor-43",
     "nr": 43,
     "category": "Managementul Afacerilor",
-    "question": "Derularea unei afaceri de către o asociație sau o fundație presupune (indicați varianta eronată):",
+    "question": "Derularea unei afaceri de catre o asociatie sau o fundatie presupune (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "separarea contabilă a veniturilor și cheltuielilor efectuate pentru scop nepatrimonial (scopul de baza al asociației sau fundației) de veniturile și cheltuielile obținute din activitatea economică"
+        "text": "separarea contabila a veniturilor si cheltuielilor efectuate pentru scop nepatrimonial (scopul de baza al asociatiei sau fundatiei) de veniturile si cheltuielile obtinute din activitatea economica"
       },
       {
         "key": "B",
-        "text": "obținerea autorizării, dacă este cazul, pentru activitatea economică desfășurată"
+        "text": "obtinerea autorizarii, daca este cazul, pentru activitatea economica desfasurata"
       },
       {
         "key": "C",
-        "text": "utilizarea a minim 3 salariați cu norma întreagă"
+        "text": "utilizarea a minim 3 salariati cu norma intreaga"
       },
       {
         "key": "D",
-        "text": "plata impozitului pe profit, a taxei pe valoarea adăugată, a altor impozite specifice operațiunilor economice derulate"
+        "text": "plata impozitului pe profit, a taxei pe valoarea adaugata, a altor impozite specifice operatiunilor economice derulate"
       },
       {
         "key": "E",
-        "text": "utilizarea profitului net integral pentru finanțarea activităților nepatrimoniale ale organizației"
+        "text": "utilizarea profitului net integral pentru finantarea activitatilor nepatrimoniale ale organizatiei"
       }
     ],
     "correct": "C",
-    "correctText": "utilizarea a minim 3 salariați cu norma întreagă"
+    "correctText": "utilizarea a minim 3 salariati cu norma intreaga"
   },
   {
     "id": "Managementul Afacerilor-44",
     "nr": 44,
     "category": "Managementul Afacerilor",
-    "question": "Derularea unei afaceri de către o asociație sau o fundație presupune (indicați varianta eronată):",
+    "question": "Derularea unei afaceri de catre o asociatie sau o fundatie presupune (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "utilizarea profitului net integral pentru finanțarea activităților nepatrimoniale ale organizației"
+        "text": "utilizarea profitului net integral pentru finantarea activitatilor nepatrimoniale ale organizatiei"
       },
       {
         "key": "B",
-        "text": "existența unor sedii secundare destinate special activităților economice"
+        "text": "existenta unor sedii secundare destinate special activitatilor economice"
       },
       {
         "key": "C",
-        "text": "înregistrarea fiscală a operațiunilor economice efectuate, conform normelor specifice acestora"
+        "text": "inregistrarea fiscala a operatiunilor economice efectuate, conform normelor specifice acestora"
       },
       {
         "key": "D",
-        "text": "obținerea autorizării, dacă este cazul, pentru activitatea economică desfășurată"
+        "text": "obtinerea autorizarii, daca este cazul, pentru activitatea economica desfasurata"
       },
       {
         "key": "E",
-        "text": "separarea contabilă a veniturilor și cheltuielilor efectuate pentru scop nepatrimonial (scopul de bază al asociației sau fundației) de veniturile și cheltuielile obținute din activitatea economică"
+        "text": "separarea contabila a veniturilor si cheltuielilor efectuate pentru scop nepatrimonial (scopul de baza al asociatiei sau fundatiei) de veniturile si cheltuielile obtinute din activitatea economica"
       }
     ],
     "correct": "B",
-    "correctText": "existența unor sedii secundare destinate special activităților economice"
+    "correctText": "existenta unor sedii secundare destinate special activitatilor economice"
   },
   {
     "id": "Managementul Afacerilor-45",
     "nr": 45,
     "category": "Managementul Afacerilor",
-    "question": "Implicarea organizațiilor de tip ONG (asociații și fundații în principal) în afaceri are următoarele componente (indicați varianta eronată):",
+    "question": "Implicarea organizatiilor de tip ONG (asociatii si fundatii in principal) in afaceri are urmatoarele componente (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "dreptul de a desfășura direct activități"
+        "text": "dreptul de a desfasura direct activitati"
       },
       {
         "key": "B",
-        "text": "dreptul de a înființa societăți"
+        "text": "dreptul de a infiinta societati"
       },
       {
         "key": "C",
-        "text": "dreptul de a beneficia de veniturile din activitățile economice directe"
+        "text": "dreptul de a beneficia de veniturile din activitatile economice directe"
       },
       {
         "key": "D",
-        "text": "dreptul de a încasa dividende de la societățile înființate"
+        "text": "dreptul de a incasa dividende de la societatile infiintate"
       },
       {
         "key": "E",
-        "text": "dreptul de a alege impozitele și taxele de plată aferente activității economice"
+        "text": "dreptul de a alege impozitele si taxele de plata aferente activitatii economice"
       }
     ],
     "correct": "E",
-    "correctText": "dreptul de a alege impozitele și taxele de plată aferente activității economice"
+    "correctText": "dreptul de a alege impozitele si taxele de plata aferente activitatii economice"
   },
   {
     "id": "Managementul Afacerilor-46",
     "nr": 46,
     "category": "Managementul Afacerilor",
-    "question": "Implicarea organizațiilor de tip ONG (asociații și fundații în principal) în afaceri are următoarele componente (indicați varianta eronată):",
+    "question": "Implicarea organizatiilor de tip ONG (asociatii si fundatii in principal) in afaceri are urmatoarele componente (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "dreptul de a dispune de creșterea de valoare a societăților înființate dintre momentul vărsării capitalului social și cel al vânzării titlurilor deținute la acea societate"
+        "text": "dreptul de a dispune de cresterea de valoare a societatilor infiintate dintre momentul varsarii capitalului social si cel al vanzarii titlurilor detinute la acea societate"
       },
       {
         "key": "B",
-        "text": "dreptul de a valorifica economic disponibilitățile financiare de orice tip și de a obține pe baza lor venituri din dobânzi"
+        "text": "dreptul de a valorifica economic disponibilitatile financiare de orice tip si de a obtine pe baza lor venituri din dobanzi"
       },
       {
         "key": "C",
@@ -12935,59 +12935,59 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "dreptul de a alege destinația profitului net din afacere"
+        "text": "dreptul de a alege destinatia profitului net din afacere"
       },
       {
         "key": "E",
-        "text": "dreptul de a obține orice venituri prevăzute de lege"
+        "text": "dreptul de a obtine orice venituri prevazute de lege"
       }
     ],
     "correct": "D",
-    "correctText": "dreptul de a alege destinația profitului net din afacere"
+    "correctText": "dreptul de a alege destinatia profitului net din afacere"
   },
   {
     "id": "Managementul Afacerilor-47",
     "nr": 47,
     "category": "Managementul Afacerilor",
-    "question": "Sursele de proveniență a veniturilor asociațiilor și fundațiilor sunt (indicați varianta eronată):",
+    "question": "Sursele de provenienta a veniturilor asociatiilor si fundatiilor sunt (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "impozite sau contribuții locale plătite direct asociațiilor pe baza Hotărârii Consiliului Local"
+        "text": "impozite sau contributii locale platite direct asociatiilor pe baza Hotararii Consiliului Local"
       },
       {
         "key": "B",
-        "text": "dobânzile și dividendele rezultate din plasarea sumelor disponibile, în condiții legale"
+        "text": "dobanzile si dividendele rezultate din plasarea sumelor disponibile, in conditii legale"
       },
       {
         "key": "C",
-        "text": "dividendele societăților comerciale înființate de asociații sau de federații"
+        "text": "dividendele societatilor comerciale infiintate de asociatii sau de federatii"
       },
       {
         "key": "D",
-        "text": "venituri realizate din activități economice directe"
+        "text": "venituri realizate din activitati economice directe"
       },
       {
         "key": "E",
-        "text": "donații, sponsorizări sau legate"
+        "text": "donatii, sponsorizari sau legate"
       }
     ],
     "correct": "A",
-    "correctText": "impozite sau contribuții locale plătite direct asociațiilor pe baza Hotărârii Consiliului Local"
+    "correctText": "impozite sau contributii locale platite direct asociatiilor pe baza Hotararii Consiliului Local"
   },
   {
     "id": "Managementul Afacerilor-48",
     "nr": 48,
     "category": "Managementul Afacerilor",
-    "question": "Sursele de proveniență a veniturilor asociațiilor și fundațiilor sunt (indicați varianta eronată):",
+    "question": "Sursele de provenienta a veniturilor asociatiilor si fundatiilor sunt (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "cotizațiile membrilor"
+        "text": "cotizatiile membrilor"
       },
       {
         "key": "B",
-        "text": "accize transferate de la bugetul central în cazul asociațiilor de interes public"
+        "text": "accize transferate de la bugetul central in cazul asociatiilor de interes public"
       },
       {
         "key": "C",
@@ -12995,7 +12995,7 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "sponsorizări"
+        "text": "sponsorizari"
       },
       {
         "key": "E",
@@ -13003,77 +13003,77 @@ window.QUESTIONS = [
       }
     ],
     "correct": "B",
-    "correctText": "accize transferate de la bugetul central în cazul asociațiilor de interes public"
+    "correctText": "accize transferate de la bugetul central in cazul asociatiilor de interes public"
   },
   {
     "id": "Managementul Afacerilor-49",
     "nr": 49,
     "category": "Managementul Afacerilor",
-    "question": "Există următoarele restricții în activitatea de afaceri a unui ONG (indicați varianta eronată):",
+    "question": "Exista urmatoarele restrictii in activitatea de afaceri a unui ONG (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "activitățile economice au caracter accesoriu"
+        "text": "activitatile economice au caracter accesoriu"
       },
       {
         "key": "B",
-        "text": "activitățile economice sunt în strânsă legătură cu obiectul principal"
+        "text": "activitatile economice sunt in stransa legatura cu obiectul principal"
       },
       {
         "key": "C",
-        "text": "activitățile economice sunt înscrise în actele statutare ale ONG-ului"
+        "text": "activitatile economice sunt inscrise in actele statutare ale ONG-ului"
       },
       {
         "key": "D",
-        "text": "veniturile și cheltuielile activității economice sunt contabilizate separat"
+        "text": "veniturile si cheltuielile activitatii economice sunt contabilizate separat"
       },
       {
         "key": "E",
-        "text": "nu sunt în funcțiune întreprinderi economice cu același obiect de activitate"
+        "text": "nu sunt in functiune intreprinderi economice cu acelasi obiect de activitate"
       }
     ],
     "correct": "E",
-    "correctText": "nu sunt în funcțiune întreprinderi economice cu același obiect de activitate"
+    "correctText": "nu sunt in functiune intreprinderi economice cu acelasi obiect de activitate"
   },
   {
     "id": "Managementul Afacerilor-50",
     "nr": 50,
     "category": "Managementul Afacerilor",
-    "question": "Riscurile pe care și le asumă asociația și fundația atunci când desfășoară activități economice sunt (indicați varianta eronată):",
+    "question": "Riscurile pe care si le asuma asociatia si fundatia atunci cand desfasoara activitati economice sunt (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "riscul de a pierde parțial sau total sumele angajate, conform oricărui tip de afacere"
+        "text": "riscul de a pierde partial sau total sumele angajate, conform oricarui tip de afacere"
       },
       {
         "key": "B",
-        "text": "riscul ca participarea la activitatea economică să-i genereze insolvabilitatea, ceea ce reprezintă motiv de dizolvare a asociației sau fundației"
+        "text": "riscul ca participarea la activitatea economica sa-i genereze insolvabilitatea, ceea ce reprezinta motiv de dizolvare a asociatiei sau fundatiei"
       },
       {
         "key": "C",
-        "text": "riscul ca activitatea economică să devină preponderentă, ceea ce poate fi interpretat că asociația sau fundația urmărește alt scop decât pentru care s-a constituit, o astfel de concluzie este motiv de dizolvare a asociației sau fundației"
+        "text": "riscul ca activitatea economica sa devina preponderenta, ceea ce poate fi interpretat ca asociatia sau fundatia urmareste alt scop decat pentru care s-a constituit, o astfel de concluzie este motiv de dizolvare a asociatiei sau fundatiei"
       },
       {
         "key": "D",
-        "text": "impozite mai mari decât cele plătite pentru aceleași activități de întreprinderile economice"
+        "text": "impozite mai mari decat cele platite pentru aceleasi activitati de intreprinderile economice"
       },
       {
         "key": "E",
-        "text": "motivația limitată pentru a desfășura afaceri prin intermediul asociațiilor sau fundațiilor; indiferent de modul de formare a patrimoniului asociației sau fundației, în cazul dizolvării acesteia, bunurile rămase în urma lichidării nu se pot transmite către persoane fizice"
+        "text": "motivatia limitata pentru a desfasura afaceri prin intermediul asociatiilor sau fundatiilor; indiferent de modul de formare a patrimoniului asociatiei sau fundatiei, in cazul dizolvarii acesteia, bunurile ramase in urma lichidarii nu se pot transmite catre persoane fizice"
       }
     ],
     "correct": "D",
-    "correctText": "impozite mai mari decât cele plătite pentru aceleași activități de întreprinderile economice"
+    "correctText": "impozite mai mari decat cele platite pentru aceleasi activitati de intreprinderile economice"
   },
   {
     "id": "Managementul Afacerilor-51",
     "nr": 51,
     "category": "Managementul Afacerilor",
-    "question": "O companie străină are următoarele opțiuni de intrare pe piața din România (indicați varianta eronată):",
+    "question": "O companie straina are urmatoarele optiuni de intrare pe piata din Romania (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "reprezentanță"
+        "text": "reprezentanta"
       },
       {
         "key": "B",
@@ -13081,55 +13081,55 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "listă de parteneri agreați"
+        "text": "lista de parteneri agreati"
       },
       {
         "key": "D",
-        "text": "aprobarea comisarului UE privind concurența"
+        "text": "aprobarea comisarului UE privind concurenta"
       },
       {
         "key": "E",
-        "text": "filială proprie"
+        "text": "filiala proprie"
       }
     ],
     "correct": "D",
-    "correctText": "aprobarea comisarului UE privind concurența"
+    "correctText": "aprobarea comisarului UE privind concurenta"
   },
   {
     "id": "Managementul Afacerilor-52",
     "nr": 52,
     "category": "Managementul Afacerilor",
-    "question": "Stadiul de reprezentanță este cel în care compania străină dorește (indicați varianta corectă)",
+    "question": "Stadiul de reprezentanta este cel in care compania straina doreste (indicati varianta corecta)",
     "answers": [
       {
         "key": "A",
-        "text": "să testeze compatibilitatea dintre oferta ei și capacitatea de absorbție a pieței din România pentru obiective de vânzare"
+        "text": "sa testeze compatibilitatea dintre oferta ei si capacitatea de absorbtie a pietei din Romania pentru obiective de vanzare"
       },
       {
         "key": "B",
-        "text": "să dispună de o filială proprie în România"
+        "text": "sa dispuna de o filiala proprie in Romania"
       },
       {
         "key": "C",
-        "text": "să poată participa la competiția de fonduri europene alocate României"
+        "text": "sa poata participa la competitia de fonduri europene alocate Romaniei"
       },
       {
         "key": "D",
-        "text": "să dispună de o rețea proprie de magazine în România"
+        "text": "sa dispuna de o retea proprie de magazine in Romania"
       },
       {
         "key": "E",
-        "text": "să livreze bunuri la firme din România"
+        "text": "sa livreze bunuri la firme din Romania"
       }
     ],
     "correct": "A",
-    "correctText": "să testeze compatibilitatea dintre oferta ei și capacitatea de absorbție a pieței din România pentru obiective de vânzare"
+    "correctText": "sa testeze compatibilitatea dintre oferta ei si capacitatea de absorbtie a pietei din Romania pentru obiective de vanzare"
   },
   {
     "id": "Managementul Afacerilor-53",
     "nr": 53,
     "category": "Managementul Afacerilor",
-    "question": "În cererea de autorizare, societatea sau organizația economică străină care solicită eliberarea unei autorizații de reprezentanță va menționa următoarele (indicați varianta eronată):",
+    "question": "In cererea de autorizare, societatea sau organizatia economica straina care solicita eliberarea unei autorizatii de reprezentanta va mentiona urmatoarele (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
@@ -13137,93 +13137,93 @@ window.QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "obiectivul activității reprezentanței, în concordanță cu obiectul de activitate al societății sau organizației economice solicitante"
+        "text": "obiectivul activitatii reprezentantei, in concordanta cu obiectul de activitate al societatii sau organizatiei economice solicitante"
       },
       {
         "key": "C",
-        "text": "durata de funcționare a reprezentanței"
+        "text": "durata de functionare a reprezentantei"
       },
       {
         "key": "D",
-        "text": "lista partenerilor din România care vor fi avuți în vedere de reprezentanță"
+        "text": "lista partenerilor din Romania care vor fi avuti in vedere de reprezentanta"
       },
       {
         "key": "E",
-        "text": "numărul și funcțiile persoanelor propuse a se încadra la reprezentanță, iar dacă sunt străini, numele, prenumele și domiciliul lor în străinătate, cu menționarea funcțiilor pe care le au la societatea comercială sau la organizația economică și la reprezentanță"
+        "text": "numarul si functiile persoanelor propuse a se incadra la reprezentanta, iar daca sunt straini, numele, prenumele si domiciliul lor in strainatate, cu mentionarea functiilor pe care le au la societatea comerciala sau la organizatia economica si la reprezentanta"
       }
     ],
     "correct": "D",
-    "correctText": "lista partenerilor din România care vor fi avuți în vedere de reprezentanță"
+    "correctText": "lista partenerilor din Romania care vor fi avuti in vedere de reprezentanta"
   },
   {
     "id": "Managementul Afacerilor-54",
     "nr": 54,
     "category": "Managementul Afacerilor",
-    "question": "Afacerile constau în (indicați varianta corectă):",
+    "question": "Afacerile constau in (indicati varianta corecta):",
     "answers": [
       {
         "key": "A",
-        "text": "încheierea și derularea de tranzacții cu scopul obținerii de către bugetul de stat a veniturilor necesare"
+        "text": "incheierea si derularea de tranzactii cu scopul obtinerii de catre bugetul de stat a veniturilor necesare"
       },
       {
         "key": "B",
-        "text": "încheierea și derularea de tranzacții cu scopul obținerii de către participanții la acestea a anumitor avantaje"
+        "text": "incheierea si derularea de tranzactii cu scopul obtinerii de catre participantii la acestea a anumitor avantaje"
       },
       {
         "key": "C",
-        "text": "încheierea și derularea de tranzacții cu scopul obținerii de către toți cetățenii țării a unor avantaje economice sau sociale"
+        "text": "incheierea si derularea de tranzactii cu scopul obtinerii de catre toti cetatenii tarii a unor avantaje economice sau sociale"
       },
       {
         "key": "D",
-        "text": "încheierea și derularea de tranzacții cu scopul obținerii falimentului concurenței"
+        "text": "incheierea si derularea de tranzactii cu scopul obtinerii falimentului concurentei"
       },
       {
         "key": "E",
-        "text": "încheierea și derularea de tranzacții cu scopul ocupării depline a forței de muncă disponibile"
+        "text": "incheierea si derularea de tranzactii cu scopul ocuparii depline a fortei de munca disponibile"
       }
     ],
     "correct": "B",
-    "correctText": "încheierea și derularea de tranzacții cu scopul obținerii de către participanții la acestea a anumitor avantaje"
+    "correctText": "incheierea si derularea de tranzactii cu scopul obtinerii de catre participantii la acestea a anumitor avantaje"
   },
   {
     "id": "Managementul Afacerilor-55",
     "nr": 55,
     "category": "Managementul Afacerilor",
-    "question": "Se pot identifica următoarele domenii de conexiune între managementul militar și managementul afacerilor (indicați varianta eronată):",
+    "question": "Se pot identifica urmatoarele domenii de conexiune intre managementul militar si managementul afacerilor (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "dreptul de a dispune de resurse la orice moment și în orice cantitate"
+        "text": "dreptul de a dispune de resurse la orice moment si in orice cantitate"
       },
       {
         "key": "B",
-        "text": "problema corelației dintre resursele disponibile și obiectivele de realizat"
+        "text": "problema corelatiei dintre resursele disponibile si obiectivele de realizat"
       },
       {
         "key": "C",
-        "text": "atenția acordată resursei umane"
+        "text": "atentia acordata resursei umane"
       },
       {
         "key": "D",
-        "text": "rolul liderului în reușita unei acțiuni"
+        "text": "rolul liderului in reusita unei actiuni"
       },
       {
         "key": "E",
-        "text": "calitățile necesare liderului"
+        "text": "calitatile necesare liderului"
       }
     ],
     "correct": "A",
-    "correctText": "dreptul de a dispune de resurse la orice moment și în orice cantitate"
+    "correctText": "dreptul de a dispune de resurse la orice moment si in orice cantitate"
   },
   {
     "id": "Managementul Afacerilor-56",
     "nr": 56,
     "category": "Managementul Afacerilor",
-    "question": "Se pot identifica următoarele domenii de conexiune între managementul militar și managementul afacerilor (indicați varianta eronată):",
+    "question": "Se pot identifica urmatoarele domenii de conexiune intre managementul militar si managementul afacerilor (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "competiția pe piață dintre firme are multe caracteristici ale confruntărilor militare"
+        "text": "competitia pe piata dintre firme are multe caracteristici ale confruntarilor militare"
       },
       {
         "key": "B",
@@ -13231,55 +13231,55 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "concentrarea atenției pe profitul întreprinzătorului"
+        "text": "concentrarea atentiei pe profitul intreprinzatorului"
       },
       {
         "key": "D",
-        "text": "importanța priorităților în derularea activităților"
+        "text": "importanta prioritatilor in derularea activitatilor"
       },
       {
         "key": "E",
-        "text": "rolul pregătirii prealabile"
+        "text": "rolul pregatirii prealabile"
       }
     ],
     "correct": "C",
-    "correctText": "concentrarea atenției pe profitul întreprinzătorului"
+    "correctText": "concentrarea atentiei pe profitul intreprinzatorului"
   },
   {
     "id": "Managementul Afacerilor-57",
     "nr": 57,
     "category": "Managementul Afacerilor",
-    "question": "Interferențele dintre managementul afacerilor și managementul public pot consta în (indicați varianta eronată):",
+    "question": "Interferentele dintre managementul afacerilor si managementul public pot consta in (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "regulile de conducere ale unor comunități foarte mari cum sunt statele sunt similare cu cele ale companiilor multinaționale din zilele noastre"
+        "text": "regulile de conducere ale unor comunitati foarte mari cum sunt statele sunt similare cu cele ale companiilor multinationale din zilele noastre"
       },
       {
         "key": "B",
-        "text": "calitățile liderului din managementul public sunt similare cu cele ale liderului din managementul afacerilor"
+        "text": "calitatile liderului din managementul public sunt similare cu cele ale liderului din managementul afacerilor"
       },
       {
         "key": "C",
-        "text": "capacitatea de a dispune nelimitat de resurse în procesul decizional"
+        "text": "capacitatea de a dispune nelimitat de resurse in procesul decizional"
       },
       {
         "key": "D",
-        "text": "importanța selecției adecvate a liderului"
+        "text": "importanta selectiei adecvate a liderului"
       },
       {
         "key": "E",
-        "text": "relația dintre lider și colectivitate"
+        "text": "relatia dintre lider si colectivitate"
       }
     ],
     "correct": "C",
-    "correctText": "capacitatea de a dispune nelimitat de resurse în procesul decizional"
+    "correctText": "capacitatea de a dispune nelimitat de resurse in procesul decizional"
   },
   {
     "id": "Managementul Afacerilor-58",
     "nr": 58,
     "category": "Managementul Afacerilor",
-    "question": "Managementul este definit ca un proces prin care activitățile unei organizații sunt (indicați varianta eronată):",
+    "question": "Managementul este definit ca un proces prin care activitatile unei organizatii sunt (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
@@ -13295,7 +13295,7 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "raportate autorităților competente"
+        "text": "raportate autoritatilor competente"
       },
       {
         "key": "E",
@@ -13303,25 +13303,25 @@ window.QUESTIONS = [
       }
     ],
     "correct": "D",
-    "correctText": "raportate autorităților competente"
+    "correctText": "raportate autoritatilor competente"
   },
   {
     "id": "Managementul Afacerilor-59",
     "nr": 59,
     "category": "Managementul Afacerilor",
-    "question": "Randamentul managementului poate fi măsurat prin unul din următorii indicatori (indicați varianta eronată):",
+    "question": "Randamentul managementului poate fi masurat prin unul din urmatorii indicatori (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "reputația comercială"
+        "text": "reputatia comerciala"
       },
       {
         "key": "B",
-        "text": "inovațiile"
+        "text": "inovatiile"
       },
       {
         "key": "C",
-        "text": "ingineriile financiare în relația cu organele fiscale"
+        "text": "ingineriile financiare in relatia cu organele fiscale"
       },
       {
         "key": "D",
@@ -13329,115 +13329,115 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "calitatea recunoscută de client"
+        "text": "calitatea recunoscuta de client"
       }
     ],
     "correct": "C",
-    "correctText": "ingineriile financiare în relația cu organele fiscale"
+    "correctText": "ingineriile financiare in relatia cu organele fiscale"
   },
   {
     "id": "Managementul Afacerilor-60",
     "nr": 60,
     "category": "Managementul Afacerilor",
-    "question": "Managementul are sarcina să facă operaționale obiectivele afacerii prin (indicați varianta eronată):",
+    "question": "Managementul are sarcina sa faca operationale obiectivele afacerii prin (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "consumarea integrală a resurselor alocate"
+        "text": "consumarea integrala a resurselor alocate"
       },
       {
         "key": "B",
-        "text": "stabilirea misiunii organizației respective"
+        "text": "stabilirea misiunii organizatiei respective"
       },
       {
         "key": "C",
-        "text": "asigurarea productivității muncii personalului implicat"
+        "text": "asigurarea productivitatii muncii personalului implicat"
       },
       {
         "key": "D",
-        "text": "urmărirea eficienței utilizării resurselor"
+        "text": "urmarirea eficientei utilizarii resurselor"
       },
       {
         "key": "E",
-        "text": "stabilirea de obiective măsurabile"
+        "text": "stabilirea de obiective masurabile"
       }
     ],
     "correct": "A",
-    "correctText": "consumarea integrală a resurselor alocate"
+    "correctText": "consumarea integrala a resurselor alocate"
   },
   {
     "id": "Managementul Afacerilor-61",
     "nr": 61,
     "category": "Managementul Afacerilor",
-    "question": "Pe lângă elementele incluse în conceptul de responsabilitate socială corporativă, dimensiunile sociale ale afacerii sunt date de (indicați varianta eronată):",
+    "question": "Pe langa elementele incluse in conceptul de responsabilitate sociala corporativa, dimensiunile sociale ale afacerii sunt date de (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "capacitatea afacerii de a acoperi o nevoie reală"
+        "text": "capacitatea afacerii de a acoperi o nevoie reala"
       },
       {
         "key": "B",
-        "text": "gradul de satisfacție a clienților"
+        "text": "gradul de satisfactie a clientilor"
       },
       {
         "key": "C",
-        "text": "acoperirea tuturor costurilor afacerii din veniturile obținute astfel încât restul comunității să nu fie obligată să facă plăți în contul acesteia"
+        "text": "acoperirea tuturor costurilor afacerii din veniturile obtinute astfel incat restul comunitatii sa nu fie obligata sa faca plati in contul acesteia"
       },
       {
         "key": "D",
-        "text": "eliminarea efectelor afacerii asupra mediului extern (societate, natură) care nu sunt contabilizate și neutralizate din beneficiile obținute"
+        "text": "eliminarea efectelor afacerii asupra mediului extern (societate, natura) care nu sunt contabilizate si neutralizate din beneficiile obtinute"
       },
       {
         "key": "E",
-        "text": "nici una dintre variantele prezentate nu este adevărată"
+        "text": "nici una dintre variantele prezentate nu este adevarata"
       }
     ],
     "correct": "E",
-    "correctText": "nici una dintre variantele prezentate nu este adevărată"
+    "correctText": "nici una dintre variantele prezentate nu este adevarata"
   },
   {
     "id": "Managementul Afacerilor-62",
     "nr": 62,
     "category": "Managementul Afacerilor",
-    "question": "Întreprinzător este (indicați varianta corectă):",
+    "question": "Intreprinzator este (indicati varianta corecta):",
     "answers": [
       {
         "key": "A",
-        "text": "orice persoană care are bunuri proprietate privată"
+        "text": "orice persoana care are bunuri proprietate privata"
       },
       {
         "key": "B",
-        "text": "acea persoană care încasează drepturi din investiții anterioare"
+        "text": "acea persoana care incaseaza drepturi din investitii anterioare"
       },
       {
         "key": "C",
-        "text": "persoana care organizează o întreprindere economică"
+        "text": "persoana care organizeaza o intreprindere economica"
       },
       {
         "key": "D",
-        "text": "persoana care organizează o întreprindere economică devenită profitabilă"
+        "text": "persoana care organizeaza o intreprindere economica devenita profitabila"
       },
       {
         "key": "E",
-        "text": "persoana care organizează o întreprindere economică plătitoare de impozit pe profit"
+        "text": "persoana care organizeaza o intreprindere economica platitoare de impozit pe profit"
       }
     ],
     "correct": "C",
-    "correctText": "persoana care organizează o întreprindere economică"
+    "correctText": "persoana care organizeaza o intreprindere economica"
   },
   {
     "id": "Managementul Afacerilor-63",
     "nr": 63,
     "category": "Managementul Afacerilor",
-    "question": "De la teoria economică (macroeconomie și microeconomie) sunt utile în „Managementul afacerilor” (indicați varianta eronată):",
+    "question": "De la teoria economica (macroeconomie si microeconomie) sunt utile in „Managementul afacerilor” (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "problemele privind concurența perfectă și concurență imperfectă, monopolul și monopsonul"
+        "text": "problemele privind concurenta perfecta si concurenta imperfecta, monopolul si monopsonul"
       },
       {
         "key": "B",
-        "text": "tipurile și stilurile de management"
+        "text": "tipurile si stilurile de management"
       },
       {
         "key": "C",
@@ -13445,21 +13445,21 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "problemele de evaluare a eficienței pe baza tuturor consumurilor și a tuturor rezultatelor"
+        "text": "problemele de evaluare a eficientei pe baza tuturor consumurilor si a tuturor rezultatelor"
       },
       {
         "key": "E",
-        "text": "clasificarea costurilor totale în costuri explicite și costuri implicite"
+        "text": "clasificarea costurilor totale in costuri explicite si costuri implicite"
       }
     ],
     "correct": "B",
-    "correctText": "tipurile și stilurile de management"
+    "correctText": "tipurile si stilurile de management"
   },
   {
     "id": "Managementul Afacerilor-64",
     "nr": 64,
     "category": "Managementul Afacerilor",
-    "question": "Managementul general furnizează disciplinei „Managementul afacerilor” (indicați varianta eronată):",
+    "question": "Managementul general furnizeaza disciplinei „Managementul afacerilor” (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
@@ -13467,11 +13467,11 @@ window.QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "tipurile și stilurile de management"
+        "text": "tipurile si stilurile de management"
       },
       {
         "key": "C",
-        "text": "concluziile privind avantajele și dezavantajele descentralizării deciziei"
+        "text": "concluziile privind avantajele si dezavantajele descentralizarii deciziei"
       },
       {
         "key": "D",
@@ -13479,25 +13479,25 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "clasificarea costurilor totale în costuri explicite și costuri implicite"
+        "text": "clasificarea costurilor totale in costuri explicite si costuri implicite"
       }
     ],
     "correct": "E",
-    "correctText": "clasificarea costurilor totale în costuri explicite și costuri implicite"
+    "correctText": "clasificarea costurilor totale in costuri explicite si costuri implicite"
   },
   {
     "id": "Managementul Afacerilor-65",
     "nr": 65,
     "category": "Managementul Afacerilor",
-    "question": "Contabilitatea impune disciplinei „Managementul afacerilor” (indicați varianta eronată):",
+    "question": "Contabilitatea impune disciplinei „Managementul afacerilor” (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "obligațiile privind organizarea și conducerea contabilității"
+        "text": "obligatiile privind organizarea si conducerea contabilitatii"
       },
       {
         "key": "B",
-        "text": "nevoia de informații contabile pentru luarea deciziilor"
+        "text": "nevoia de informatii contabile pentru luarea deciziilor"
       },
       {
         "key": "C",
@@ -13505,11 +13505,11 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "utilizarea procedeelor de înregistrare cronologică și sistematică a datelor"
+        "text": "utilizarea procedeelor de inregistrare cronologica si sistematica a datelor"
       },
       {
         "key": "E",
-        "text": "utilizarea metodei inventarierii pentru cunoașterea realității faptice a activelor"
+        "text": "utilizarea metodei inventarierii pentru cunoasterea realitatii faptice a activelor"
       }
     ],
     "correct": "C",
@@ -13519,11 +13519,11 @@ window.QUESTIONS = [
     "id": "Managementul Afacerilor-66",
     "nr": 66,
     "category": "Managementul Afacerilor",
-    "question": "Marketingul aduce în „Managementul afacerilor” (indicați varianta eronată):",
+    "question": "Marketingul aduce in „Managementul afacerilor” (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "stadiul cercetărilor privind criteriile de selecție a produsului sau serviciului dorit"
+        "text": "stadiul cercetarilor privind criteriile de selectie a produsului sau serviciului dorit"
       },
       {
         "key": "B",
@@ -13531,11 +13531,11 @@ window.QUESTIONS = [
       },
       {
         "key": "C",
-        "text": "mecanismul de formare a preferințelor pe categorii de bunuri"
+        "text": "mecanismul de formare a preferintelor pe categorii de bunuri"
       },
       {
         "key": "D",
-        "text": "corelarea dintre campaniile de promovare și infrastructura de vânzare"
+        "text": "corelarea dintre campaniile de promovare si infrastructura de vanzare"
       },
       {
         "key": "E",
@@ -13549,41 +13549,41 @@ window.QUESTIONS = [
     "id": "Managementul Afacerilor-67",
     "nr": 67,
     "category": "Managementul Afacerilor",
-    "question": "Statistica sprijină disciplina „Managementul afacerilor” prin (indicați varianta eronată):",
+    "question": "Statistica sprijina disciplina „Managementul afacerilor” prin (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "metodele de prezentare a datelor (cu ocazia oricărui tip de analiză)"
+        "text": "metodele de prezentare a datelor (cu ocazia oricarui tip de analiza)"
       },
       {
         "key": "B",
-        "text": "tehnicile de analiză a evoluției în dinamică (orice tip de indicator)"
+        "text": "tehnicile de analiza a evolutiei in dinamica (orice tip de indicator)"
       },
       {
         "key": "C",
-        "text": "corelarea dintre campaniile de promovare și infrastructura de vânzare"
+        "text": "corelarea dintre campaniile de promovare si infrastructura de vanzare"
       },
       {
         "key": "D",
-        "text": "valorificarea conceptului de medie statistică în analiza de business"
+        "text": "valorificarea conceptului de medie statistica in analiza de business"
       },
       {
         "key": "E",
-        "text": "structura consumului pe tipuri de produse și servicii pe baza datelor statistice înregistrate"
+        "text": "structura consumului pe tipuri de produse si servicii pe baza datelor statistice inregistrate"
       }
     ],
     "correct": "C",
-    "correctText": "corelarea dintre campaniile de promovare și infrastructura de vânzare"
+    "correctText": "corelarea dintre campaniile de promovare si infrastructura de vanzare"
   },
   {
     "id": "Managementul Afacerilor-68",
     "nr": 68,
     "category": "Managementul Afacerilor",
-    "question": "Finanțele contribuie la înțelegerea problemelor cu care se confruntă „Managementul afacerilor” prin (indicați varianta eronată):",
+    "question": "Finantele contribuie la intelegerea problemelor cu care se confrunta „Managementul afacerilor” prin (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "importanța încasării tuturor creanțelor dintr-o afacere"
+        "text": "importanta incasarii tuturor creantelor dintr-o afacere"
       },
       {
         "key": "B",
@@ -13595,25 +13595,25 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "soluțiile de prelucrare automată a datelor fără intervenția factorului uman"
+        "text": "solutiile de prelucrare automata a datelor fara interventia factorului uman"
       },
       {
         "key": "E",
-        "text": "calcularea nevoilor reale de finanțare a unei afaceri"
+        "text": "calcularea nevoilor reale de finantare a unei afaceri"
       }
     ],
     "correct": "D",
-    "correctText": "soluțiile de prelucrare automată a datelor fără intervenția factorului uman"
+    "correctText": "solutiile de prelucrare automata a datelor fara interventia factorului uman"
   },
   {
     "id": "Managementul Afacerilor-69",
     "nr": 69,
     "category": "Managementul Afacerilor",
-    "question": "Finanțele contribuie la înțelegerea problemelor cu care se confruntă „Managementul afacerilor” prin (indicați varianta eronată):",
+    "question": "Finantele contribuie la intelegerea problemelor cu care se confrunta „Managementul afacerilor” prin (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "semnificația elementelor sonore în campaniile de promovare"
+        "text": "semnificatia elementelor sonore in campaniile de promovare"
       },
       {
         "key": "B",
@@ -13625,33 +13625,33 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "stabilirea valorii unei firme pe baza fluxului de trezorerie pe care îl generează"
+        "text": "stabilirea valorii unei firme pe baza fluxului de trezorerie pe care il genereaza"
       },
       {
         "key": "E",
-        "text": "corelarea termenelor de plată cu cele de încasare"
+        "text": "corelarea termenelor de plata cu cele de incasare"
       }
     ],
     "correct": "A",
-    "correctText": "semnificația elementelor sonore în campaniile de promovare"
+    "correctText": "semnificatia elementelor sonore in campaniile de promovare"
   },
   {
     "id": "Managementul Afacerilor-70",
     "nr": 70,
     "category": "Managementul Afacerilor",
-    "question": "Informatica de gestiune are impact în „Managementul afacerilor” prin (indicați varianta eronată):",
+    "question": "Informatica de gestiune are impact in „Managementul afacerilor” prin (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "soluțiile de prelucrare automată a datelor fără intervenția factorului uman"
+        "text": "solutiile de prelucrare automata a datelor fara interventia factorului uman"
       },
       {
         "key": "B",
-        "text": "variantele de organizare a sistemului informațional pentru a sprijini efectiv actul decizional"
+        "text": "variantele de organizare a sistemului informational pentru a sprijini efectiv actul decizional"
       },
       {
         "key": "C",
-        "text": "creșterea vitezei de prelucrare a datelor"
+        "text": "cresterea vitezei de prelucrare a datelor"
       },
       {
         "key": "D",
@@ -13659,89 +13659,89 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "calcularea nevoilor reale de finanțare a unei afaceri"
+        "text": "calcularea nevoilor reale de finantare a unei afaceri"
       }
     ],
     "correct": "E",
-    "correctText": "calcularea nevoilor reale de finanțare a unei afaceri"
+    "correctText": "calcularea nevoilor reale de finantare a unei afaceri"
   },
   {
     "id": "Managementul Afacerilor-71",
     "nr": 71,
     "category": "Managementul Afacerilor",
-    "question": "Întreprinzătorul care nu este și manager, urmând a angaja un manager profesionist pentru afacerea sa, va avea nevoie să dispună de abilități pentru (indicați varianta eronată):",
+    "question": "Intreprinzatorul care nu este si manager, urmand a angaja un manager profesionist pentru afacerea sa, va avea nevoie sa dispuna de abilitati pentru (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "cunoașterea oamenilor în procesul de selecție a managerului"
+        "text": "cunoasterea oamenilor in procesul de selectie a managerului"
       },
       {
         "key": "B",
-        "text": "intuiție în descifrarea informațiilor adevărate și false primite"
+        "text": "intuitie in descifrarea informatiilor adevarate si false primite"
       },
       {
         "key": "C",
-        "text": "capacitate de înțelegere și interpretare a informațiilor primite de manager privind afacerea"
+        "text": "capacitate de intelegere si interpretare a informatiilor primite de manager privind afacerea"
       },
       {
         "key": "D",
-        "text": "abilitatea de a controla discret în momentele de inflexiune a afacerii"
+        "text": "abilitatea de a controla discret in momentele de inflexiune a afacerii"
       },
       {
         "key": "E",
-        "text": "a îndeplini sarcinile de servici trasate de șefii ierarhici"
+        "text": "a indeplini sarcinile de servici trasate de sefii ierarhici"
       }
     ],
     "correct": "E",
-    "correctText": "a îndeplini sarcinile de servici trasate de șefii ierarhici"
+    "correctText": "a indeplini sarcinile de servici trasate de sefii ierarhici"
   },
   {
     "id": "Managementul Afacerilor-72",
     "nr": 72,
     "category": "Managementul Afacerilor",
-    "question": "Ipotezele inițierii unei afaceri sunt (indicați varianta eronată):",
+    "question": "Ipotezele initierii unei afaceri sunt (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "să existe libertatea realizării afacerii"
+        "text": "sa existe libertatea realizarii afacerii"
       },
       {
         "key": "B",
-        "text": "să existe un interes/o motivație în inițierea afacerii de către antreprenor prin atingerea scopului stabilit"
+        "text": "sa existe un interes/o motivatie in initierea afacerii de catre antreprenor prin atingerea scopului stabilit"
       },
       {
         "key": "C",
-        "text": "pe baza informațiilor disponibile, să poată fi atins scopul avut în vedere la inițierea afacerii"
+        "text": "pe baza informatiilor disponibile, sa poata fi atins scopul avut in vedere la initierea afacerii"
       },
       {
         "key": "D",
-        "text": "informațiile necesare inițierii și derulării afacerii să fie disponibile în permanență nealterate"
+        "text": "informatiile necesare initierii si derularii afacerii sa fie disponibile in permanenta nealterate"
       },
       {
         "key": "E",
-        "text": "să petreci mai mult timp cu familia și prietenii"
+        "text": "sa petreci mai mult timp cu familia si prietenii"
       }
     ],
     "correct": "E",
-    "correctText": "să petreci mai mult timp cu familia și prietenii"
+    "correctText": "sa petreci mai mult timp cu familia si prietenii"
   },
   {
     "id": "Managementul Afacerilor-73",
     "nr": 73,
     "category": "Managementul Afacerilor",
-    "question": "Opțiunile operaționale pentru inițierea și derularea unei afaceri sunt (indicați varianta eronată):",
+    "question": "Optiunile operationale pentru initierea si derularea unei afaceri sunt (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "a da de lucru membrilor de familie fără ocupație"
+        "text": "a da de lucru membrilor de familie fara ocupatie"
       },
       {
         "key": "B",
-        "text": "dezvoltare și vânzare"
+        "text": "dezvoltare si vanzare"
       },
       {
         "key": "C",
-        "text": "obținerea unei cote de piață în scopul valorificării bunurilor sau rezultatelor din altă afacere"
+        "text": "obtinerea unei cote de piata in scopul valorificarii bunurilor sau rezultatelor din alta afacere"
       },
       {
         "key": "D",
@@ -13753,21 +13753,21 @@ window.QUESTIONS = [
       }
     ],
     "correct": "A",
-    "correctText": "a da de lucru membrilor de familie fără ocupație"
+    "correctText": "a da de lucru membrilor de familie fara ocupatie"
   },
   {
     "id": "Managementul Afacerilor-74",
     "nr": 74,
     "category": "Managementul Afacerilor",
-    "question": "Din punct de vedere juridic modul de a începe o afacere are următoarele variante (indicați varianta eronată):",
+    "question": "Din punct de vedere juridic modul de a incepe o afacere are urmatoarele variante (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "o afacere nouă"
+        "text": "o afacere noua"
       },
       {
         "key": "B",
-        "text": "o afacere existentă care își schimbă în totalitate întreprinzătorul"
+        "text": "o afacere existenta care isi schimba in totalitate intreprinzatorul"
       },
       {
         "key": "C",
@@ -13775,11 +13775,11 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "o afacere existentă care își schimbă parțial patronatul prin includerea noastră (direct sau indirect)"
+        "text": "o afacere existenta care isi schimba partial patronatul prin includerea noastra (direct sau indirect)"
       },
       {
         "key": "E",
-        "text": "o afacere captivă într-o locație nouă, care dezvoltă o linie sau o idee de afaceri testată pe piață (afacerile în franciză, sistemul cooperatist etc.)"
+        "text": "o afacere captiva intr-o locatie noua, care dezvolta o linie sau o idee de afaceri testata pe piata (afacerile in franciza, sistemul cooperatist etc.)"
       }
     ],
     "correct": "C",
@@ -13789,15 +13789,15 @@ window.QUESTIONS = [
     "id": "Managementul Afacerilor-75",
     "nr": 75,
     "category": "Managementul Afacerilor",
-    "question": "Din punct de vedere al esenței unei afaceri întâlnim (indicați varianta eronată):",
+    "question": "Din punct de vedere al esentei unei afaceri intalnim (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "afaceri concentrate pe muncă (generează în principal locuri de muncă)"
+        "text": "afaceri concentrate pe munca (genereaza in principal locuri de munca)"
       },
       {
         "key": "B",
-        "text": "afaceri concentrate pe capitalul tehnic (presupun tehnologii avansate cu echipamente și investiții de valori mari)"
+        "text": "afaceri concentrate pe capitalul tehnic (presupun tehnologii avansate cu echipamente si investitii de valori mari)"
       },
       {
         "key": "C",
@@ -13805,7 +13805,7 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "afaceri concentrate pe capitalul bănesc (în principal în domeniul financiar sau al comerțului internațional)"
+        "text": "afaceri concentrate pe capitalul banesc (in principal in domeniul financiar sau al comertului international)"
       },
       {
         "key": "E",
@@ -13819,19 +13819,19 @@ window.QUESTIONS = [
     "id": "Managementul Afacerilor-76",
     "nr": 76,
     "category": "Managementul Afacerilor",
-    "question": "Factorii externi ai ciclului de viață a unei afaceri sunt (indicați varianta eronată):",
+    "question": "Factorii externi ai ciclului de viata a unei afaceri sunt (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "decizia întreprinzătorului"
+        "text": "decizia intreprinzatorului"
       },
       {
         "key": "B",
-        "text": "ciclurile macro-economice ale țării în care se derulează afacerea"
+        "text": "ciclurile macro-economice ale tarii in care se deruleaza afacerea"
       },
       {
         "key": "C",
-        "text": "ciclurile macro-economice ale țării în care se află clienții afacerii"
+        "text": "ciclurile macro-economice ale tarii in care se afla clientii afacerii"
       },
       {
         "key": "D",
@@ -13839,25 +13839,25 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "ciclul de viață al bunurilor care fac obiectul afacerii"
+        "text": "ciclul de viata al bunurilor care fac obiectul afacerii"
       }
     ],
     "correct": "A",
-    "correctText": "decizia întreprinzătorului"
+    "correctText": "decizia intreprinzatorului"
   },
   {
     "id": "Managementul Afacerilor-77",
     "nr": 77,
     "category": "Managementul Afacerilor",
-    "question": "Factorii interni ai ciclului de viață a unei afaceri sunt (indicați varianta eronată):",
+    "question": "Factorii interni ai ciclului de viata a unei afaceri sunt (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "ciclul de viață al resurselor care susțin afacerea"
+        "text": "ciclul de viata al resurselor care sustin afacerea"
       },
       {
         "key": "B",
-        "text": "ciclurile macro-economice ale țării în care se derulează afacerea"
+        "text": "ciclurile macro-economice ale tarii in care se deruleaza afacerea"
       },
       {
         "key": "C",
@@ -13869,25 +13869,25 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "cantitatea și calitatea resurselor alocate afacerii"
+        "text": "cantitatea si calitatea resurselor alocate afacerii"
       }
     ],
     "correct": "B",
-    "correctText": "ciclurile macro-economice ale țării în care se derulează afacerea"
+    "correctText": "ciclurile macro-economice ale tarii in care se deruleaza afacerea"
   },
   {
     "id": "Managementul Afacerilor-78",
     "nr": 78,
     "category": "Managementul Afacerilor",
-    "question": "În cadrul factorilor legați de legislație care intervin asupra unei afaceri identificăm (indicați varianta eronată):",
+    "question": "In cadrul factorilor legati de legislatie care intervin asupra unei afaceri identificam (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "legislația de autorizare"
+        "text": "legislatia de autorizare"
       },
       {
         "key": "B",
-        "text": "legislația privind regimul contractelor comerciale dintre două afaceri"
+        "text": "legislatia privind regimul contractelor comerciale dintre doua afaceri"
       },
       {
         "key": "C",
@@ -13895,11 +13895,11 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "legislația care reglementează relațiile cu alte organizații"
+        "text": "legislatia care reglementeaza relatiile cu alte organizatii"
       },
       {
         "key": "E",
-        "text": "legislația muncii (relația dintre afacere și personal)"
+        "text": "legislatia muncii (relatia dintre afacere si personal)"
       }
     ],
     "correct": "C",
@@ -13909,19 +13909,19 @@ window.QUESTIONS = [
     "id": "Managementul Afacerilor-79",
     "nr": 79,
     "category": "Managementul Afacerilor",
-    "question": "Factorii de natură demografică asupra ciclului unei afaceri se referă la (indicați varianta eronată):",
+    "question": "Factorii de natura demografica asupra ciclului unei afaceri se refera la (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "numărul și densitatea populației"
+        "text": "numarul si densitatea populatiei"
       },
       {
         "key": "B",
-        "text": "indicatori de structura a populației pe categorii de vârstă, sex etc."
+        "text": "indicatori de structura a populatiei pe categorii de varsta, sex etc."
       },
       {
         "key": "C",
-        "text": "fluxurile migratorii ale populației"
+        "text": "fluxurile migratorii ale populatiei"
       },
       {
         "key": "D",
@@ -13929,7 +13929,7 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "mobilitatea teritorială a populației"
+        "text": "mobilitatea teritoriala a populatiei"
       }
     ],
     "correct": "D",
@@ -13939,165 +13939,165 @@ window.QUESTIONS = [
     "id": "Managementul Afacerilor-80",
     "nr": 80,
     "category": "Managementul Afacerilor",
-    "question": "Comportamentul efectiv al autorităților față de afaceri cuprinde (indicați varianta eronată):",
+    "question": "Comportamentul efectiv al autoritatilor fata de afaceri cuprinde (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "cantitatea și calitatea resurselor alocate afacerii"
+        "text": "cantitatea si calitatea resurselor alocate afacerii"
       },
       {
         "key": "B",
-        "text": "capacitatea oamenilor de afaceri de a impune legalitatea în actele administrative"
+        "text": "capacitatea oamenilor de afaceri de a impune legalitatea in actele administrative"
       },
       {
         "key": "C",
-        "text": "funcționarea justiției din punct de vedere al respectării legii"
+        "text": "functionarea justitiei din punct de vedere al respectarii legii"
       },
       {
         "key": "D",
-        "text": "funcționarea justiției din punct de vedere al termenelor de soluționare a cauzelor"
+        "text": "functionarea justitiei din punct de vedere al termenelor de solutionare a cauzelor"
       },
       {
         "key": "E",
-        "text": "posibilitatea implicării personalului din administrație și justiție în afaceri"
+        "text": "posibilitatea implicarii personalului din administratie si justitie in afaceri"
       }
     ],
     "correct": "A",
-    "correctText": "cantitatea și calitatea resurselor alocate afacerii"
+    "correctText": "cantitatea si calitatea resurselor alocate afacerii"
   },
   {
     "id": "Managementul Afacerilor-81",
     "nr": 81,
     "category": "Managementul Afacerilor",
-    "question": "În etapa de proiectare a unei afaceri contează (indicați varianta eronată):",
+    "question": "In etapa de proiectare a unei afaceri conteaza (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "disponibilitatea informațiilor statistice despre diferite tipuri de afaceri"
+        "text": "disponibilitatea informatiilor statistice despre diferite tipuri de afaceri"
       },
       {
         "key": "B",
-        "text": "posibilitatea implicării personalului din administrație și justiție în afaceri"
+        "text": "posibilitatea implicarii personalului din administratie si justitie in afaceri"
       },
       {
         "key": "C",
-        "text": "existența firmelor de consultanță specializate pe anumite domenii"
+        "text": "existenta firmelor de consultanta specializate pe anumite domenii"
       },
       {
         "key": "D",
-        "text": "existența unui cadru organizatoric de informare-documentare pentru diferite tipuri de afaceri"
+        "text": "existenta unui cadru organizatoric de informare-documentare pentru diferite tipuri de afaceri"
       },
       {
         "key": "E",
-        "text": "accesul adecvat la legislație"
+        "text": "accesul adecvat la legislatie"
       }
     ],
     "correct": "B",
-    "correctText": "posibilitatea implicării personalului din administrație și justiție în afaceri"
+    "correctText": "posibilitatea implicarii personalului din administratie si justitie in afaceri"
   },
   {
     "id": "Managementul Afacerilor-82",
     "nr": 82,
     "category": "Managementul Afacerilor",
-    "question": "Pe piață o afacere poate avea una din următoarele poziții (indicați varianta eronată):",
+    "question": "Pe piata o afacere poate avea una din urmatoarele pozitii (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "furnizor/prestator pe o piață cu acces elitist"
+        "text": "furnizor/prestator pe o piata cu acces elitist"
       },
       {
         "key": "B",
-        "text": "parteneriat cu membrii disponibili din gospodărie"
+        "text": "parteneriat cu membrii disponibili din gospodarie"
       },
       {
         "key": "C",
-        "text": "cumpărător unic pe piață (monopson)"
+        "text": "cumparator unic pe piata (monopson)"
       },
       {
         "key": "D",
-        "text": "partener captiv în alta afacere"
+        "text": "partener captiv in alta afacere"
       },
       {
         "key": "E",
-        "text": "furnizor/prestator către instituții publice specializate"
+        "text": "furnizor/prestator catre institutii publice specializate"
       }
     ],
     "correct": "B",
-    "correctText": "parteneriat cu membrii disponibili din gospodărie"
+    "correctText": "parteneriat cu membrii disponibili din gospodarie"
   },
   {
     "id": "Managementul Afacerilor-83",
     "nr": 83,
     "category": "Managementul Afacerilor",
-    "question": "În funcție de clientul-țintă identificăm următoarele categorii de afaceri (indicați varianta eronată):",
+    "question": "In functie de clientul-tinta identificam urmatoarele categorii de afaceri (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "afaceri destinate publicului în cvasi-totalitatea lui"
+        "text": "afaceri destinate publicului in cvasi-totalitatea lui"
       },
       {
         "key": "B",
-        "text": "afaceri având drept clienți categorii largi dar bine determinate de populație"
+        "text": "afaceri avand drept clienti categorii largi dar bine determinate de populatie"
       },
       {
         "key": "C",
-        "text": "afaceri destinate unui singur client persoană fizică sau juridică (afaceri captive)"
+        "text": "afaceri destinate unui singur client persoana fizica sau juridica (afaceri captive)"
       },
       {
         "key": "D",
-        "text": "afaceri destinate membrilor de familie foarte bogați"
+        "text": "afaceri destinate membrilor de familie foarte bogati"
       },
       {
         "key": "E",
-        "text": "afaceri având drept clienți anumite categorii de firme (cu număr limitat strict)"
+        "text": "afaceri avand drept clienti anumite categorii de firme (cu numar limitat strict)"
       }
     ],
     "correct": "D",
-    "correctText": "afaceri destinate membrilor de familie foarte bogați"
+    "correctText": "afaceri destinate membrilor de familie foarte bogati"
   },
   {
     "id": "Managementul Afacerilor-84",
     "nr": 84,
     "category": "Managementul Afacerilor",
-    "question": "Micro-afacerile prezintă următoarele caracteristici (indicați varianta eronată):",
+    "question": "Micro-afacerile prezinta urmatoarele caracteristici (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "implică valori mici ale investițiilor inițiale"
+        "text": "implica valori mici ale investitiilor initiale"
       },
       {
         "key": "B",
-        "text": "pot fi controlate direct de către întreprinzător"
+        "text": "pot fi controlate direct de catre intreprinzator"
       },
       {
         "key": "C",
-        "text": "complexitate mică a problemelor manageriale"
+        "text": "complexitate mica a problemelor manageriale"
       },
       {
         "key": "D",
-        "text": "în cvasi-totalitatea cazurilor întreprinzătorul este și manager"
+        "text": "in cvasi-totalitatea cazurilor intreprinzatorul este si manager"
       },
       {
         "key": "E",
-        "text": "implică valori mari ale investițiilor inițiale"
+        "text": "implica valori mari ale investitiilor initiale"
       }
     ],
     "correct": "E",
-    "correctText": "implică valori mari ale investițiilor inițiale"
+    "correctText": "implica valori mari ale investitiilor initiale"
   },
   {
     "id": "Managementul Afacerilor-85",
     "nr": 85,
     "category": "Managementul Afacerilor",
-    "question": "Micro-afacerile prezintă următoarele caracteristici (indicați varianta corectă):",
+    "question": "Micro-afacerile prezinta urmatoarele caracteristici (indicati varianta corecta):",
     "answers": [
       {
         "key": "A",
-        "text": "se pot baza și pe munca în familie sau în gospodărie"
+        "text": "se pot baza si pe munca in familie sau in gospodarie"
       },
       {
         "key": "B",
-        "text": "nu pot fi controlate direct de către întreprinzător (întreprinzători)"
+        "text": "nu pot fi controlate direct de catre intreprinzator (intreprinzatori)"
       },
       {
         "key": "C",
@@ -14105,59 +14105,59 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "în majoritatea cazurilor sunt utilizați manageri profesioniști pentru diferitele funcții ale întreprinderii"
+        "text": "in majoritatea cazurilor sunt utilizati manageri profesionisti pentru diferitele functii ale intreprinderii"
       },
       {
         "key": "E",
-        "text": "implică valori mari ale investițiilor inițiale"
+        "text": "implica valori mari ale investitiilor initiale"
       }
     ],
     "correct": "A",
-    "correctText": "se pot baza și pe munca în familie sau în gospodărie"
+    "correctText": "se pot baza si pe munca in familie sau in gospodarie"
   },
   {
     "id": "Managementul Afacerilor-86",
     "nr": 86,
     "category": "Managementul Afacerilor",
-    "question": "Activele totale pentru stabilirea pragului pentru întreprinderile mici și mijlocii sunt formate din (indicați varianta corectă):",
+    "question": "Activele totale pentru stabilirea pragului pentru intreprinderile mici si mijlocii sunt formate din (indicati varianta corecta):",
     "answers": [
       {
         "key": "A",
-        "text": "active imobilizate și salariul total brut"
+        "text": "active imobilizate si salariul total brut"
       },
       {
         "key": "B",
-        "text": "active circulante și număr total de personal"
+        "text": "active circulante si numar total de personal"
       },
       {
         "key": "C",
-        "text": "active imobilizate, active circulante, cheltuieli în avans"
+        "text": "active imobilizate, active circulante, cheltuieli in avans"
       },
       {
         "key": "D",
-        "text": "cheltuieli în avans și investiții neterminate"
+        "text": "cheltuieli in avans si investitii neterminate"
       },
       {
         "key": "E",
-        "text": "dotări cu tehnică de calcul și programe de utilizare"
+        "text": "dotari cu tehnica de calcul si programe de utilizare"
       }
     ],
     "correct": "C",
-    "correctText": "active imobilizate, active circulante, cheltuieli în avans"
+    "correctText": "active imobilizate, active circulante, cheltuieli in avans"
   },
   {
     "id": "Managementul Afacerilor-87",
     "nr": 87,
     "category": "Managementul Afacerilor",
-    "question": "Afacerile de dimensiuni mari au următoarele caracteristici (indicați varianta eronată):",
+    "question": "Afacerile de dimensiuni mari au urmatoarele caracteristici (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "implică valori mari ale investițiilor inițiale"
+        "text": "implica valori mari ale investitiilor initiale"
       },
       {
         "key": "B",
-        "text": "nu pot fi controlate direct de către întreprinzător (întreprinzători)"
+        "text": "nu pot fi controlate direct de catre intreprinzator (intreprinzatori)"
       },
       {
         "key": "C",
@@ -14165,291 +14165,291 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "complexitate mică a problemelor manageriale"
+        "text": "complexitate mica a problemelor manageriale"
       },
       {
         "key": "E",
-        "text": "poziție puternică pe piață"
+        "text": "pozitie puternica pe piata"
       }
     ],
     "correct": "D",
-    "correctText": "complexitate mică a problemelor manageriale"
+    "correctText": "complexitate mica a problemelor manageriale"
   },
   {
     "id": "Managementul Afacerilor-88",
     "nr": 88,
     "category": "Managementul Afacerilor",
-    "question": "În cadrul grupurilor de firme există (indicați varianta eronată):",
+    "question": "In cadrul grupurilor de firme exista (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "o firmă mamă care deține participații la restul organizațiilor din grup"
+        "text": "o firma mama care detine participatii la restul organizatiilor din grup"
       },
       {
         "key": "B",
-        "text": "firme fiice care au printre asociați sau acționari firma mamă comună sau alte firme fiice ale firmei mamă"
+        "text": "firme fiice care au printre asociati sau actionari firma mama comuna sau alte firme fiice ale firmei mama"
       },
       {
         "key": "C",
-        "text": "compartimente funcționale comune ale tuturor sau majorității firmelor din grup"
+        "text": "compartimente functionale comune ale tuturor sau majoritatii firmelor din grup"
       },
       {
         "key": "D",
-        "text": "resurse utilizate în comun de către toate sau majoritatea firmelor din grup"
+        "text": "resurse utilizate in comun de catre toate sau majoritatea firmelor din grup"
       },
       {
         "key": "E",
-        "text": "complexitate mică a problemelor manageriale"
+        "text": "complexitate mica a problemelor manageriale"
       }
     ],
     "correct": "E",
-    "correctText": "complexitate mică a problemelor manageriale"
+    "correctText": "complexitate mica a problemelor manageriale"
   },
   {
     "id": "Managementul Afacerilor-89",
     "nr": 89,
     "category": "Managementul Afacerilor",
-    "question": "Printre restricțiile la care trebuie să facă față un grup multinațional se numără (indicați varianta eronată):",
+    "question": "Printre restrictiile la care trebuie sa faca fata un grup multinational se numara (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "repatrierea sau transferul internațional al profitului obținut"
+        "text": "repatrierea sau transferul international al profitului obtinut"
       },
       {
         "key": "B",
-        "text": "dimensiunea prea mică a afacerii pentru piață locală"
+        "text": "dimensiunea prea mica a afacerii pentru piata locala"
       },
       {
         "key": "C",
-        "text": "întocmirea dosarului prețurilor de transfer"
+        "text": "intocmirea dosarului preturilor de transfer"
       },
       {
         "key": "D",
-        "text": "impozitarea dobânzilor la împrumuturile intra-grup"
+        "text": "impozitarea dobanzilor la imprumuturile intra-grup"
       },
       {
         "key": "E",
-        "text": "limitarea deductibilității pentru calculul impozitului pe profit a cheltuielilor cu diferențele de curs valutar"
+        "text": "limitarea deductibilitatii pentru calculul impozitului pe profit a cheltuielilor cu diferentele de curs valutar"
       }
     ],
     "correct": "B",
-    "correctText": "dimensiunea prea mică a afacerii pentru piață locală"
+    "correctText": "dimensiunea prea mica a afacerii pentru piata locala"
   },
   {
     "id": "Managementul Afacerilor-90",
     "nr": 90,
     "category": "Managementul Afacerilor",
-    "question": "Printre restricțiile la care trebuie să facă față un grup multinațional se numără (indicați varianta eronată):",
+    "question": "Printre restrictiile la care trebuie sa faca fata un grup multinational se numara (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "convertibilitatea monedelor locale în care operează filialele sale"
+        "text": "convertibilitatea monedelor locale in care opereaza filialele sale"
       },
       {
         "key": "B",
-        "text": "limitarea deductibilității pentru calculul impozitului pe profit a cheltuielilor cu prestațiile intra-grup"
+        "text": "limitarea deductibilitatii pentru calculul impozitului pe profit a cheltuielilor cu prestatiile intra-grup"
       },
       {
         "key": "C",
-        "text": "dimensiunea prea mică a afacerii pentru piața locală"
+        "text": "dimensiunea prea mica a afacerii pentru piata locala"
       },
       {
         "key": "D",
-        "text": "mecanismele naționale sau regionale privind colectarea, deducerea și impunerea impozitelor indirecte (TVA, accize etc)"
+        "text": "mecanismele nationale sau regionale privind colectarea, deducerea si impunerea impozitelor indirecte (TVA, accize etc)"
       },
       {
         "key": "E",
-        "text": "costul cu impozitul pe veniturile nerezidenților la prestările de servicii intra-grup între întreprinderi din țări diferite"
+        "text": "costul cu impozitul pe veniturile nerezidentilor la prestarile de servicii intra-grup intre intreprinderi din tari diferite"
       }
     ],
     "correct": "C",
-    "correctText": "dimensiunea prea mică a afacerii pentru piața locală"
+    "correctText": "dimensiunea prea mica a afacerii pentru piata locala"
   },
   {
     "id": "Managementul Afacerilor-91",
     "nr": 91,
     "category": "Managementul Afacerilor",
-    "question": "Printre oportunitățile grupurilor multinaționale se numără (indicați varianta eronată):",
+    "question": "Printre oportunitatile grupurilor multinationale se numara (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "forța dată de dimensiunea afacerii"
+        "text": "forta data de dimensiunea afacerii"
       },
       {
         "key": "B",
-        "text": "valorificarea avantajelor fiscale din fiecare țară prin calcule de optimizare"
+        "text": "valorificarea avantajelor fiscale din fiecare tara prin calcule de optimizare"
       },
       {
         "key": "C",
-        "text": "valorificarea diferenței de cost a resurselor între țări"
+        "text": "valorificarea diferentei de cost a resurselor intre tari"
       },
       {
         "key": "D",
-        "text": "flexibilitatea dată de dimensiunea mică a afacerii"
+        "text": "flexibilitatea data de dimensiunea mica a afacerii"
       },
       {
         "key": "E",
-        "text": "exploatarea eficientă a infrastructurii create prin volum mare de tranzacții"
+        "text": "exploatarea eficienta a infrastructurii create prin volum mare de tranzactii"
       }
     ],
     "correct": "D",
-    "correctText": "flexibilitatea dată de dimensiunea mică a afacerii"
+    "correctText": "flexibilitatea data de dimensiunea mica a afacerii"
   },
   {
     "id": "Managementul Afacerilor-92",
     "nr": 92,
     "category": "Managementul Afacerilor",
-    "question": "Nu fac parte dintr-un grup multinațional (indicați varianta eronată):",
+    "question": "Nu fac parte dintr-un grup multinational (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "firmele care au primit sau au acordat împrumuturi ce nu pot fi convertite în titluri de proprietate"
+        "text": "firmele care au primit sau au acordat imprumuturi ce nu pot fi convertite in titluri de proprietate"
       },
       {
         "key": "B",
-        "text": "firmele partenere în relații comerciale, indiferent cât de lungă sau intensă a fost colaborarea"
+        "text": "firmele partenere in relatii comerciale, indiferent cat de lunga sau intensa a fost colaborarea"
       },
       {
         "key": "C",
-        "text": "firmele care utilizează în comun resurse diverse pe baza unor înțelegeri contractuale"
+        "text": "firmele care utilizeaza in comun resurse diverse pe baza unor intelegeri contractuale"
       },
       {
         "key": "D",
-        "text": "firmele care au semnat contracte de asociere în afaceri de orice tip conform legislației naționale locale"
+        "text": "firmele care au semnat contracte de asociere in afaceri de orice tip conform legislatiei nationale locale"
       },
       {
         "key": "E",
-        "text": "firmele care au același asociat dacă acesta este persoană fizică nerezidentă"
+        "text": "firmele care au acelasi asociat daca acesta este persoana fizica nerezidenta"
       }
     ],
     "correct": "E",
-    "correctText": "firmele care au același asociat dacă acesta este persoană fizică nerezidentă"
+    "correctText": "firmele care au acelasi asociat daca acesta este persoana fizica nerezidenta"
   },
   {
     "id": "Managementul Afacerilor-93",
     "nr": 93,
     "category": "Managementul Afacerilor",
-    "question": "Pentru a fi funcțională, o asociere în participațiune trebuie să dețină (indicați varianta eronată):",
+    "question": "Pentru a fi functionala, o asociere in participatiune trebuie sa detina (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "un contract de asociere semnat de toate părțile"
+        "text": "un contract de asociere semnat de toate partile"
       },
       {
         "key": "B",
-        "text": "aporturi vărsate efectiv de fiecare membru al asocierii"
+        "text": "aporturi varsate efectiv de fiecare membru al asocierii"
       },
       {
         "key": "C",
-        "text": "obiectiv al asocierii realizabil care să nu contravină legislației"
+        "text": "obiectiv al asocierii realizabil care sa nu contravina legislatiei"
       },
       {
         "key": "D",
-        "text": "aprobarea și asumarea asocierii de organele statutare competente ale fiecărui participant"
+        "text": "aprobarea si asumarea asocierii de organele statutare competente ale fiecarui participant"
       },
       {
         "key": "E",
-        "text": "autorizația de funcționare de la Registrul Comerțului"
+        "text": "autorizatia de functionare de la Registrul Comertului"
       }
     ],
     "correct": "E",
-    "correctText": "autorizația de funcționare de la Registrul Comerțului"
+    "correctText": "autorizatia de functionare de la Registrul Comertului"
   },
   {
     "id": "Managementul Afacerilor-94",
     "nr": 94,
     "category": "Managementul Afacerilor",
-    "question": "Caracteristicile asocierii în participațiune sunt (indicați varianta eronată):",
+    "question": "Caracteristicile asocierii in participatiune sunt (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "obține personalitatea juridică la data eliberării certificatului fiscal"
+        "text": "obtine personalitatea juridica la data eliberarii certificatului fiscal"
       },
       {
         "key": "B",
-        "text": "nu constituie față de terți o persoană distinctă de persoana asociaților"
+        "text": "nu constituie fata de terti o persoana distincta de persoana asociatilor"
       },
       {
         "key": "C",
-        "text": "terții nu au nici un drept față de asociere"
+        "text": "tertii nu au nici un drept fata de asociere"
       },
       {
         "key": "D",
-        "text": "terții nu se obligă decât față de asociatul cu care a contractat"
+        "text": "tertii nu se obliga decat fata de asociatul cu care a contractat"
       },
       {
         "key": "E",
-        "text": "nu poate dobândi personalitate juridică"
+        "text": "nu poate dobandi personalitate juridica"
       }
     ],
     "correct": "A",
-    "correctText": "obține personalitatea juridică la data eliberării certificatului fiscal"
+    "correctText": "obtine personalitatea juridica la data eliberarii certificatului fiscal"
   },
   {
     "id": "Managementul Afacerilor-95",
     "nr": 95,
     "category": "Managementul Afacerilor",
-    "question": "Practica aplicării contractelor de asociere în participațiune a determinat următoarele concluzii (indicați varianta eronată):",
+    "question": "Practica aplicarii contractelor de asociere in participatiune a determinat urmatoarele concluzii (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "bunurile aduse de asociați în asocierea în participațiune nu formează un capital social, aceștia având astfel dreptul ca la încetarea asocierii să le fie restituite bunurile pentru care nu și-au pierdut dreptul de proprietate"
+        "text": "bunurile aduse de asociati in asocierea in participatiune nu formeaza un capital social, acestia avand astfel dreptul ca la incetarea asocierii sa le fie restituite bunurile pentru care nu si-au pierdut dreptul de proprietate"
       },
       {
         "key": "B",
-        "text": "personalitatea juridică ține până la raportul final de lichidare judiciară"
+        "text": "personalitatea juridica tine pana la raportul final de lichidare judiciara"
       },
       {
         "key": "C",
-        "text": "nu poate avea denumire proprie sau emblemă, capital, sediu"
+        "text": "nu poate avea denumire proprie sau emblema, capital, sediu"
       },
       {
         "key": "D",
-        "text": "lipsa patrimoniului propriu a asociației în participațiune generează, în raporturile juridice cu terții, lipsa răspunderii asociației față de terți"
+        "text": "lipsa patrimoniului propriu a asociatiei in participatiune genereaza, in raporturile juridice cu tertii, lipsa raspunderii asociatiei fata de terti"
       },
       {
         "key": "E",
-        "text": "obligația de aport la asocierea în participațiune este o condiție de validitate a contractului"
+        "text": "obligatia de aport la asocierea in participatiune este o conditie de validitate a contractului"
       }
     ],
     "correct": "B",
-    "correctText": "personalitatea juridică ține până la raportul final de lichidare judiciară"
+    "correctText": "personalitatea juridica tine pana la raportul final de lichidare judiciara"
   },
   {
     "id": "Managementul Afacerilor-96",
     "nr": 96,
     "category": "Managementul Afacerilor",
-    "question": "Regimul aporturilor la asocierea în participațiune se caracterizează prin următoarele (indicați varianta eronată):",
+    "question": "Regimul aporturilor la asocierea in participatiune se caracterizeaza prin urmatoarele (indicati varianta eronata):",
     "answers": [
       {
         "key": "A",
-        "text": "asociații rămân proprietarii bunurilor puse la dispoziția asociației"
+        "text": "asociatii raman proprietarii bunurilor puse la dispozitia asociatiei"
       },
       {
         "key": "B",
-        "text": "asociații pot conveni ca bunurile aduse în asociere, precum și cele obținute în urma folosirii acestora să devină proprietate comună"
+        "text": "asociatii pot conveni ca bunurile aduse in asociere, precum si cele obtinute in urma folosirii acestora sa devina proprietate comuna"
       },
       {
         "key": "C",
-        "text": "asocierea va avea în proprietate numai acele bunuri menționate expres în Actul constitutiv predate efectiv de asociați"
+        "text": "asocierea va avea in proprietate numai acele bunuri mentionate expres in Actul constitutiv predate efectiv de asociati"
       },
       {
         "key": "D",
-        "text": "asociații pot stipula ca la încetarea asocierii să redobândească în natură bunurile al căror proprietar au fost și pe care le-au pus la dispoziția asocierii prin transfer de proprietate"
+        "text": "asociatii pot stipula ca la incetarea asocierii sa redobandeasca in natura bunurile al caror proprietar au fost si pe care le-au pus la dispozitia asocierii prin transfer de proprietate"
       },
       {
         "key": "E",
-        "text": "bunurile puse la dispoziția asocierii pot trece, în tot sau în parte, în proprietatea unuia dintre asociați pentru realizarea obiectului asocierii, în condițiile convenite prin contract și cu respectarea formalităților de publicitate prevăzute de lege"
+        "text": "bunurile puse la dispozitia asocierii pot trece, in tot sau in parte, in proprietatea unuia dintre asociati pentru realizarea obiectului asocierii, in conditiile convenite prin contract si cu respectarea formalitatilor de publicitate prevazute de lege"
       }
     ],
     "correct": "C",
-    "correctText": "asocierea va avea în proprietate numai acele bunuri menționate expres în Actul constitutiv predate efectiv de asociați"
+    "correctText": "asocierea va avea in proprietate numai acele bunuri mentionate expres in Actul constitutiv predate efectiv de asociati"
   },
   {
     "id": "Managementul Afacerilor-97",
     "nr": 97,
     "category": "Managementul Afacerilor",
-    "question": "Precizați combinația corectă adevărat/fals (A/F) în cazul următoarelor afirmații:\n 1. O companie străină care intră pe piața din România prin filială sau reprezentanță se poate asocia cu un partener local. \n 2. Compania străină care intră pe piața românească dorește să testeze compatibilitatea dintre oferta ei și capacitatea de absorbție a pieței din România. \n3. În cererea de autorizare, societatea sau organizația economică străină care solicită eliberarea unei autorizații de reprezentanță va menționa dacă are filiale și în alte țări. \n 4. Afacerile constau în dezvoltarea de activități non profitabile. ",
+    "question": "Precizati combinatia corecta adevarat/fals (A/F) in cazul urmatoarelor afirmatii:\n 1. O companie straina care intra pe piata din Romania prin filiala sau reprezentanta se poate asocia cu un partener local. \n 2. Compania straina care intra pe piata romaneasca doreste sa testeze compatibilitatea dintre oferta ei si capacitatea de absorbtie a pietei din Romania. \n3. In cererea de autorizare, societatea sau organizatia economica straina care solicita eliberarea unei autorizatii de reprezentanta va mentiona daca are filiale si in alte tari. \n 4. Afacerile constau in dezvoltarea de activitati non profitabile. ",
     "answers": [
       {
         "key": "A",
@@ -14479,7 +14479,7 @@ window.QUESTIONS = [
     "id": "Managementul Afacerilor-98",
     "nr": 98,
     "category": "Managementul Afacerilor",
-    "question": "Precizați combinația corectă adevărat/fals (A/F) în cazul următoarelor afirmații:\n 1. Există elemente de conexiune între managementul militar și managementul afacerilor. \n 2. Există interferențe între managementul afacerilor și managementul public. \n 3. Managementul este definit ca un proces prin care activitățile unei organizații sunt urmărite statistic. \n 4. Randamentul managementului poate fi măsurat prin activități non profit.",
+    "question": "Precizati combinatia corecta adevarat/fals (A/F) in cazul urmatoarelor afirmatii:\n 1. Exista elemente de conexiune intre managementul militar si managementul afacerilor. \n 2. Exista interferente intre managementul afacerilor si managementul public. \n 3. Managementul este definit ca un proces prin care activitatile unei organizatii sunt urmarite statistic. \n 4. Randamentul managementului poate fi masurat prin activitati non profit.",
     "answers": [
       {
         "key": "A",
@@ -14509,7 +14509,7 @@ window.QUESTIONS = [
     "id": "Managementul Afacerilor-99",
     "nr": 99,
     "category": "Managementul Afacerilor",
-    "question": "Precizați combinația corectă adevărat/fals (A/F) în cazul următoarelor afirmații:\n 1. Întreprinzător este o persoană care nu-și asumă riscuri. \n 2. Alegerea formei de organizare a unei afaceri are implicații în ceea ce privește buna ei desfășurare. \n 3. Dacă întreprinzătorii doresc transformarea formei de organizare a afacerii într-o schemă pe care legea nu o permite, singura soluție este închiderea afacerii inițiale și deschiderea alteia noi. \n 4. La alegerea formei juridice de organizare a afacerii întreprinzătorul trebuie să respecte exclusiv legislația din alte țări.",
+    "question": "Precizati combinatia corecta adevarat/fals (A/F) in cazul urmatoarelor afirmatii:\n 1. Intreprinzator este o persoana care nu-si asuma riscuri. \n 2. Alegerea formei de organizare a unei afaceri are implicatii in ceea ce priveste buna ei desfasurare. \n 3. Daca intreprinzatorii doresc transformarea formei de organizare a afacerii intr-o schema pe care legea nu o permite, singura solutie este inchiderea afacerii initiale si deschiderea alteia noi. \n 4. La alegerea formei juridice de organizare a afacerii intreprinzatorul trebuie sa respecte exclusiv legislatia din alte tari.",
     "answers": [
       {
         "key": "A",
@@ -14539,7 +14539,7 @@ window.QUESTIONS = [
     "id": "Managementul Afacerilor-100",
     "nr": 100,
     "category": "Managementul Afacerilor",
-    "question": "Precizați combinația corectă adevărat/fals (A/F) în cazul următoarelor afirmații:\n 1. La alegerea formei de organizare a unei afaceri se ține cont ca aceasta să restricționeze plata. \n 2. Prin întreprindere se înțelege o formă de organizare a afacerilor în care nu este necesar managementul lor. \n 3. Prin întreprindere se înțelege o organizație neguvernamentală. \n 4. Societățile pot fi organizate cu răspundere limitată.",
+    "question": "Precizati combinatia corecta adevarat/fals (A/F) in cazul urmatoarelor afirmatii:\n 1. La alegerea formei de organizare a unei afaceri se tine cont ca aceasta sa restrictioneze plata. \n 2. Prin intreprindere se intelege o forma de organizare a afacerilor in care nu este necesar managementul lor. \n 3. Prin intreprindere se intelege o organizatie neguvernamentala. \n 4. Societatile pot fi organizate cu raspundere limitata.",
     "answers": [
       {
         "key": "A",
@@ -14573,63 +14573,63 @@ window.QUESTIONS = [
     "answers": [
       {
         "key": "A",
-        "text": "implică valori reduse ale investițiilor inițiale"
+        "text": "implica valori reduse ale investitiilor initiale"
       },
       {
         "key": "B",
-        "text": "au o complexitate mică a problemelor manageriale"
+        "text": "au o complexitate mica a problemelor manageriale"
       },
       {
         "key": "C",
-        "text": "au o poziție vulnerabilă pe piață"
+        "text": "au o pozitie vulnerabila pe piata"
       },
       {
         "key": "D",
-        "text": "pot utiliza manageri profesioniști pentru diferitele funcții ale firmei"
+        "text": "pot utiliza manageri profesionisti pentru diferitele functii ale firmei"
       },
       {
         "key": "E",
-        "text": "se pot baza pe munca în familie sau gospodărie"
+        "text": "se pot baza pe munca in familie sau gospodarie"
       }
     ],
     "correct": "D",
-    "correctText": "pot utiliza manageri profesioniști pentru diferitele funcții ale firmei"
+    "correctText": "pot utiliza manageri profesionisti pentru diferitele functii ale firmei"
   },
   {
     "id": "Managementul Afacerilor-102",
     "nr": 102,
     "category": "Managementul Afacerilor",
-    "question": "Din punct de vedere al formei de negociere în derularea afacerilor nu există:",
+    "question": "Din punct de vedere al formei de negociere in derularea afacerilor nu exista:",
     "answers": [
       {
         "key": "A",
-        "text": "negociere clasică direct între doi parteneri potențiali"
+        "text": "negociere clasica direct intre doi parteneri potentiali"
       },
       {
         "key": "B",
-        "text": "negociere colectivă (grupuri de parteneri)"
+        "text": "negociere colectiva (grupuri de parteneri)"
       },
       {
         "key": "C",
-        "text": "negociere cu autorități ale statului"
+        "text": "negociere cu autoritati ale statului"
       },
       {
         "key": "D",
-        "text": "negociere mijlocită de instrumente IT"
+        "text": "negociere mijlocita de instrumente IT"
       },
       {
         "key": "E",
-        "text": "negociere ierarhică"
+        "text": "negociere ierarhica"
       }
     ],
     "correct": "E",
-    "correctText": "negociere ierarhică"
+    "correctText": "negociere ierarhica"
   },
   {
     "id": "Managementul Afacerilor-103",
     "nr": 103,
     "category": "Managementul Afacerilor",
-    "question": "În funcție de obiectul negocierii, negocierile pot fi:",
+    "question": "In functie de obiectul negocierii, negocierile pot fi:",
     "answers": [
       {
         "key": "A",
@@ -14637,7 +14637,7 @@ window.QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "parțiale"
+        "text": "partiale"
       },
       {
         "key": "C",
@@ -14645,29 +14645,29 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "desfășurate pe teren neutru"
+        "text": "desfasurate pe teren neutru"
       },
       {
         "key": "E",
-        "text": "de vânzare-cumpărare"
+        "text": "de vanzare-cumparare"
       }
     ],
     "correct": "E",
-    "correctText": "de vânzare-cumpărare"
+    "correctText": "de vanzare-cumparare"
   },
   {
     "id": "Managementul Afacerilor-104",
     "nr": 104,
     "category": "Managementul Afacerilor",
-    "question": "Una dintre variantele de mai jos nu reprezintă o componentă a pregătirii procesului de negociere.",
+    "question": "Una dintre variantele de mai jos nu reprezinta o componenta a pregatirii procesului de negociere.",
     "answers": [
       {
         "key": "A",
-        "text": "întocmirea unor studii macro și microeconomice în vederea culegerii de informații"
+        "text": "intocmirea unor studii macro si microeconomice in vederea culegerii de informatii"
       },
       {
         "key": "B",
-        "text": "amânarea soluționării negocierii"
+        "text": "amanarea solutionarii negocierii"
       },
       {
         "key": "C",
@@ -14675,7 +14675,7 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "definirea și delimitarea obiectivelor proprii"
+        "text": "definirea si delimitarea obiectivelor proprii"
       },
       {
         "key": "E",
@@ -14683,37 +14683,37 @@ window.QUESTIONS = [
       }
     ],
     "correct": "B",
-    "correctText": "amânarea soluționării negocierii"
+    "correctText": "amanarea solutionarii negocierii"
   },
   {
     "id": "Managementul Afacerilor-105",
     "nr": 105,
     "category": "Managementul Afacerilor",
-    "question": "Obligațiile de natură etică a managerilor se manifestă astfel:",
+    "question": "Obligatiile de natura etica a managerilor se manifesta astfel:",
     "answers": [
       {
         "key": "A",
-        "text": "numai față de acționari"
+        "text": "numai fata de actionari"
       },
       {
         "key": "B",
-        "text": "față de angajați și acționari"
+        "text": "fata de angajati si actionari"
       },
       {
         "key": "C",
-        "text": "față de clienții firmei"
+        "text": "fata de clientii firmei"
       },
       {
         "key": "D",
-        "text": "față de clienți, angajați și acționari"
+        "text": "fata de clienti, angajati si actionari"
       },
       {
         "key": "E",
-        "text": "față de acționari, angajați, clienți și comunitatea locală"
+        "text": "fata de actionari, angajati, clienti si comunitatea locala"
       }
     ],
     "correct": "E",
-    "correctText": "față de acționari, angajați, clienți și comunitatea locală"
+    "correctText": "fata de actionari, angajati, clienti si comunitatea locala"
   },
   {
     "id": "Managementul Afacerilor-106",
@@ -14727,41 +14727,41 @@ window.QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "au ca funcție principală profitul"
+        "text": "au ca functie principala profitul"
       },
       {
         "key": "C",
-        "text": "încasează venituri din cotizațiile membrilor"
+        "text": "incaseaza venituri din cotizatiile membrilor"
       },
       {
         "key": "D",
-        "text": "aplică legislația privind achizițiile publice"
+        "text": "aplica legislatia privind achizitiile publice"
       },
       {
         "key": "E",
-        "text": "au un număr nelimitat de asociați"
+        "text": "au un numar nelimitat de asociati"
       }
     ],
     "correct": "D",
-    "correctText": "aplică legislația privind achizițiile publice"
+    "correctText": "aplica legislatia privind achizitiile publice"
   },
   {
     "id": "Managementul Afacerilor-107",
     "nr": 107,
     "category": "Managementul Afacerilor",
-    "question": "Poate fi un motiv pentru vânzarea unei afaceri:",
+    "question": "Poate fi un motiv pentru vanzarea unei afaceri:",
     "answers": [
       {
         "key": "A",
-        "text": "creșterea rentabilității"
+        "text": "cresterea rentabilitatii"
       },
       {
         "key": "B",
-        "text": "reducerea costurilor de producție"
+        "text": "reducerea costurilor de productie"
       },
       {
         "key": "C",
-        "text": "creșterea cererii pe piață"
+        "text": "cresterea cererii pe piata"
       },
       {
         "key": "D",
@@ -14769,21 +14769,21 @@ window.QUESTIONS = [
       },
       {
         "key": "E",
-        "text": "concurența agresivă"
+        "text": "concurenta agresiva"
       }
     ],
     "correct": "E",
-    "correctText": "concurența agresivă"
+    "correctText": "concurenta agresiva"
   },
   {
     "id": "Managementul Afacerilor-108",
     "nr": 108,
     "category": "Managementul Afacerilor",
-    "question": "„Managementul afacerilor” reprezintă:",
+    "question": "„Managementul afacerilor” reprezinta:",
     "answers": [
       {
         "key": "A",
-        "text": "un ansamblu de funcții manageriale"
+        "text": "un ansamblu de functii manageriale"
       },
       {
         "key": "B",
@@ -14795,51 +14795,51 @@ window.QUESTIONS = [
       },
       {
         "key": "D",
-        "text": "un ansamblu de metode care înglobează sarcinile gestiunii firmei"
+        "text": "un ansamblu de metode care inglobeaza sarcinile gestiunii firmei"
       },
       {
         "key": "E",
-        "text": "ansamblul activităților, disciplinelor, metodelor și tehnicilor care înglobează sarcinile conducerii, gestiunii, administrării și organizării firmelor"
+        "text": "ansamblul activitatilor, disciplinelor, metodelor si tehnicilor care inglobeaza sarcinile conducerii, gestiunii, administrarii si organizarii firmelor"
       }
     ],
     "correct": "E",
-    "correctText": "ansamblul activităților, disciplinelor, metodelor și tehnicilor care înglobează sarcinile conducerii, gestiunii, administrării și organizării firmelor"
+    "correctText": "ansamblul activitatilor, disciplinelor, metodelor si tehnicilor care inglobeaza sarcinile conducerii, gestiunii, administrarii si organizarii firmelor"
   },
   {
     "id": "Managementul Afacerilor-109",
     "nr": 109,
     "category": "Managementul Afacerilor",
-    "question": "Care dintre factorii de influență asupra activității IMM-urilor este de natură internă?",
+    "question": "Care dintre factorii de influenta asupra activitatii IMM-urilor este de natura interna?",
     "answers": [
       {
         "key": "A",
-        "text": "rata de referință a dobânzii"
+        "text": "rata de referinta a dobanzii"
       },
       {
         "key": "B",
-        "text": "competența întreprinzătorului"
+        "text": "competenta intreprinzatorului"
       },
       {
         "key": "C",
-        "text": "evoluția generală a economiei"
+        "text": "evolutia generala a economiei"
       },
       {
         "key": "D",
-        "text": "șomajul"
+        "text": "somajul"
       },
       {
         "key": "E",
-        "text": "reglementările legislative"
+        "text": "reglementarile legislative"
       }
     ],
     "correct": "B",
-    "correctText": "competența întreprinzătorului"
+    "correctText": "competenta intreprinzatorului"
   },
   {
     "id": "Managementul Afacerilor-110",
     "nr": 110,
     "category": "Managementul Afacerilor",
-    "question": "La cumpărarea unei afaceri existente, cel mai dificil este să se evalueze:",
+    "question": "La cumpararea unei afaceri existente, cel mai dificil este sa se evalueze:",
     "answers": [
       {
         "key": "A",
@@ -14847,7 +14847,7 @@ window.QUESTIONS = [
       },
       {
         "key": "B",
-        "text": "creanțele"
+        "text": "creantele"
       },
       {
         "key": "C",

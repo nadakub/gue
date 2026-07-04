@@ -24,8 +24,8 @@
   }
 
   function buildSearchText(q){
-    const answerText = Array.isArray(q.answers) ? q.answers.map(a => `${a.key} ${a.text}`).join(" ") : "";
-    return normalize(`${q.id || ""} ${q.nr || ""} ${q.category || ""} ${q.question || ""} ${q.correct || ""} ${q.correctText || ""} ${answerText}`);
+    // Cautarea se face doar in textul intrebarii, nu in raspunsuri, categorie sau barem.
+    return normalize(q.question || "");
   }
 
   function prepareData(){
@@ -45,7 +45,7 @@
     const seen = new Set();
     const opts = [];
     for(const q of QUESTIONS){
-      const base = `${q.nr}. ${q.question}`.slice(0, 140);
+      const base = `${q.question}`.slice(0, 160);
       const key = normalize(base);
       if(!seen.has(key)){
         seen.add(key);
@@ -121,8 +121,9 @@
   function refreshDynamicSuggestions(){
     const term = normalize(input.value);
     if(term.length < 2){ buildSuggestions(); return; }
-    const matches = QUESTIONS.filter(q => q._search.includes(term)).slice(0, 40);
-    suggestionsEl.innerHTML = matches.map(q => `<option value="${escapeHtml(`${q.nr}. ${q.question}`.slice(0,160))}"></option>`).join("");
+    const words = term.split(/\s+/).filter(Boolean);
+    const matches = QUESTIONS.filter(q => words.every(w => q._search.includes(w))).slice(0, 40);
+    suggestionsEl.innerHTML = matches.map(q => `<option value="${escapeHtml(`${q.question}`.slice(0,160))}"></option>`).join("");
   }
 
   input.addEventListener("input", () => { refreshDynamicSuggestions(); search(); });

@@ -1,21 +1,11 @@
-# Cautare intrebari licenta
+# Questions Search App
 
-Aplicatie statica pentru GitHub Pages.
+Aplicatie statica pentru cautarea intrebarilor.
 
-## Fisiere necesare
+Modificari in aceasta versiune:
+- textele sunt fara diacritice;
+- cautarea se face doar in textul intrebarii;
+- raspunsurile si categoria nu sunt folosite la cautare;
+- functioneaza pe GitHub Pages fara server.
 
-- `index.html`
-- `style.css`
-- `app.js`
-- `data.js`
-- `README.md`
-
-## Publicare
-
-Incarca toate fisierele in root-ul repository-ului si activeaza GitHub Pages:
-
-Settings -> Pages -> Deploy from branch -> main -> /(root)
-
-## Cautare
-
-Cautarea ignora diacriticele si cauta in intrebare, categorie, numar, variante de raspuns si raspunsul corect.
+Publicare: incarca fisierele in root-ul repository-ului si activeaza GitHub Pages din Settings > Pages.
